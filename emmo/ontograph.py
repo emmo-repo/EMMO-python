@@ -290,9 +290,19 @@ class OntoGraph:
             elif isinstance(e, owlready2.Restriction):
                 #rname = e.property.label.first()
                 rname = getlabel(e.property)
+                if rname is None:
+                    print('*** warning: %s has no label' % e.property.name)
+                    rname = '<unlabeled>'
                 rtype = owlready2.class_construct._restriction_type_2_label[
                     e.type]
 
+                print()
+                print('')
+                print('targets:', targets)
+                print('e:', e)
+                print('rname:', rname)
+                print('rtype:', rtype)
+                print('relations:', relations)
                 if relations is True or rname in relations:
                     if hasattr(e.value, 'label'):
                         vname = e.value.label.first()
@@ -381,7 +391,9 @@ class OntoGraph:
         label = root.label.first() if len(root.label) == 1 else root.name
         nodes = graph.get_node(label)
         if nodes:
-            node, = nodes
+            if len(nodes) != 1:
+                print('*** warning, expecting one node, got', len(nodes))
+            node = nodes[0]
         else:
             if self.is_individual(label):
                 node = pydot.Node(label, **style.get('individual', {}))

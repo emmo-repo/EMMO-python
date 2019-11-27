@@ -191,6 +191,11 @@ class OntoVocab:
 
                 # Add annotations
                 annotations = self.get_annotations(item)
+                if None in annotations.keys():
+                    print('*** annotations has None key:',
+                          annotations[None])
+                    #annotations['None'] = annotations[None]
+                    del annotations[None]
                 for key in sorted(annotations.keys(), key=sorter):
                     for value in annotations[key]:
                         for reg, sub in template.get('substitutions', []):
