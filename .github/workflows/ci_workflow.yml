@@ -97,14 +97,6 @@ jobs:
         cp -r examples/emmodoc/figs public/latest/.
         cp -r examples/emmodoc/genfigs public/latest/.
 
-#    - name: Deploy to github pages
-#      # See https://github.com/marketplace/actions/deploy-to-github-pages
-#      uses: JamesIves/github-pages-deploy-action@releases/v3
-#      with:
-#        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-#        BRANCH: gh-pages    # The branch the action should deploy to
-#        FOLDER: public      # The folder the action should deploy
-
     - name: Deploy to github pages
       # See https://github.com/marketplace/actions/github-pages
         if: success()
@@ -157,3 +149,12 @@ jobs:
 #          - Second change
 #        draft: false
 #        prerelease: true
+
+
+#    - name: Deploy to github pages
+#      # See https://github.com/marketplace/actions/deploy-to-github-pages
+#      uses: JamesIves/github-pages-deploy-action@releases/v3
+#      with:
+#        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+#        BRANCH: gh-pages    # The branch the action should deploy to
+#        FOLDER: public      # The folder the action should deploy
