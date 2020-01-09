@@ -98,8 +98,8 @@ jobs:
         cp -r examples/emmodoc/genfigs public/latest/.
 
     - name: Deploy to github pages
-      # See https://github.com/marketplace/actions/github-pages
-        if: success()
+        # See https://github.com/marketplace/actions/github-pages
+        #if: success()
         uses: crazy-max/ghaction-github-pages@v1.2.5
         with:
           target_branch: gh-pages
