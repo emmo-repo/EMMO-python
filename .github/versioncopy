@@ -31,7 +31,7 @@ set -x
 
 for tag in $(git tag); do
     # If 'regex' is provided, only publish tags matching 'regex'
-    if [ -n "$regex" ] && [[ ! $tag =~ $regex ]] && continue
+    [ -n "$regex" ] && [[ ! $tag =~ $regex ]] && continue
 
     if [ "$tag" == "$(git describe --tag)" ] && [ ! -d $tag ]; then
         mv $pubdir/$docdir tmp.$tag
