@@ -34,11 +34,10 @@ for tag in $(git tag); do
     [ -n "$regex" ] && [[ ! $tag =~ $regex ]] && continue
 
     if [ ! -e $pubdir/$tag ]; then
-        [ -e $path ] && mv $path tmp.$tag
-        if git checkout $tag -- $path; then
-            git reset HEAD .  # unstage everything in docdir
-            mv $path $pubdir/$tag
+        if [ $tag == $(git describe --tag) ]; then
+            cp -p $path $pubdir/$tag
+        else
+            echo "Missing documentation for tag: $tag" >&2
         fi
-        [ -e tmp.$tag ] && mv tmp.$tag $path
     fi
 done
