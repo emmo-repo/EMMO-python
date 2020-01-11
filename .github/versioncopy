@@ -37,7 +37,7 @@ for tag in $(git tag); do
 
     if [ ! -e $pubdir/$tag ]; then
         if [ $tag == $(git describe --tag) ]; then
-            cp -p $path $pubdir/$tag
+            cp -rp $path $pubdir/$tag
         else
             echo "Missing documentation for tag: $tag" >&2
         fi
