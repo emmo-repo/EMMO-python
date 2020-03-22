@@ -37,7 +37,7 @@
 </g>
 </g>
 <!-- overcrosses&#45;&gt;hasOverlapWith -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>overcrosses&#45;&gt;hasOverlapWith</title>
 <path fill="none" stroke="#000000" d="M133,-36.0265C133,-47.8082 133,-63.4393 133,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="129.5001,-76.9966 133,-86.9966 136.5001,-76.9967 129.5001,-76.9966"/>
@@ -62,21 +62,21 @@
 </g>
 </g>
 <!-- hasPart&#45;&gt;encloses -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>hasPart&#45;&gt;encloses</title>
 <path fill="none" stroke="#000000" d="M40.5136,-36.0265C38.8885,-47.8082 36.7325,-63.4393 34.8839,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="31.3825,-76.6122 33.4832,-86.9966 38.3169,-77.5687 31.3825,-76.6122"/>
 <text text-anchor="middle" x="47.5" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- hasPart&#45;&gt;hasOverlapWith -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>hasPart&#45;&gt;hasOverlapWith</title>
 <path fill="none" stroke="#000000" d="M61.6481,-36.0265C74.8015,-48.7414 92.5928,-65.9397 107.119,-79.9817"/>
 <polygon fill="none" stroke="#000000" points="104.7533,-82.5629 114.3758,-86.9966 109.6185,-77.5299 104.7533,-82.5629"/>
 <text text-anchor="middle" x="103.5" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- encloses&#45;&gt;connected -->
-<g id="edge3" class="edge">
+<g id="edge6" class="edge">
 <title>encloses&#45;&gt;connected</title>
 <path fill="none" stroke="#000000" d="M52.1345,-123.0265C67.1784,-135.8581 87.5756,-153.2557 104.1204,-167.3674"/>
 <polygon fill="none" stroke="#000000" points="102.0129,-170.1701 111.8926,-173.9966 106.5556,-164.8442 102.0129,-170.1701"/>
@@ -92,7 +92,7 @@
 </g>
 </g>
 <!-- hasContactWith&#45;&gt;connected -->
-<g id="edge2" class="edge">
+<g id="edge5" class="edge">
 <title>hasContactWith&#45;&gt;connected</title>
 <path fill="none" stroke="#000000" d="M230.5143,-123.0265C212.0432,-136.0914 186.8799,-153.8898 166.7418,-168.1338"/>
 <polygon fill="none" stroke="#000000" points="164.5961,-165.3645 158.453,-173.9966 168.6383,-171.0794 164.5961,-165.3645"/>

@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- OrdinalQuantity&#45;&gt;Quantity -->
-<g id="edge1" class="edge">
+<g id="edge5" class="edge">
 <title>OrdinalQuantity&#45;&gt;Quantity</title>
 <path fill="none" stroke="#000000" d="M99.6569,-121.364C126.1602,-135.9577 164.9847,-157.3357 192.9735,-172.7472"/>
 <polygon fill="none" stroke="#000000" points="191.5684,-175.969 202.0164,-177.7266 194.9448,-169.8371 191.5684,-175.969"/>
@@ -53,7 +53,7 @@
 </g>
 </g>
 <!-- ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge5" class="edge">
+<g id="edge6" class="edge">
 <title>ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M183.6775,-34.6715C230.0918,-49.6272 298.0484,-71.5244 345.7721,-86.902"/>
 <polygon fill="none" stroke="#000000" points="344.7424,-90.2474 355.3339,-89.983 346.8893,-83.5847 344.7424,-90.2474"/>
@@ -69,7 +69,7 @@
 </g>
 </g>
 <!-- MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge4" class="edge">
+<g id="edge1" class="edge">
 <title>MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M401.9383,-36.0265C401.9383,-47.8082 401.9383,-63.4393 401.9383,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="398.4384,-76.9966 401.9383,-86.9966 405.4384,-76.9967 398.4384,-76.9966"/>
@@ -85,7 +85,7 @@
 </g>
 </g>
 <!-- ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge6" class="edge">
+<g id="edge3" class="edge">
 <title>ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M609.4857,-34.4663C566.0008,-49.2444 502.2226,-70.919 456.8596,-86.3353"/>
 <polygon fill="none" stroke="#000000" points="455.5287,-83.091 447.1867,-89.6226 457.7811,-89.7187 455.5287,-83.091"/>
@@ -101,7 +101,7 @@
 </g>
 </g>
 <!-- PhysicalQuantity&#45;&gt;Quantity -->
-<g id="edge3" class="edge">
+<g id="edge4" class="edge">
 <title>PhysicalQuantity&#45;&gt;Quantity</title>
 <path fill="none" stroke="#000000" d="M227.9383,-123.0265C227.9383,-134.8082 227.9383,-150.4393 227.9383,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="224.4384,-163.9966 227.9383,-173.9966 231.4384,-163.9967 224.4384,-163.9966"/>

@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Fluid&#45;&gt;Continuum -->
-<g id="edge9" class="edge">
+<g id="edge4" class="edge">
 <title>Fluid&#45;&gt;Continuum</title>
 <path fill="none" stroke="#000000" d="M35.4634,-123.0265C39.5663,-134.9249 45.023,-150.7492 49.6748,-164.2394"/>
 <polygon fill="none" stroke="#000000" points="46.4706,-165.6839 53.0393,-173.9966 53.0882,-163.4019 46.4706,-165.6839"/>
@@ -53,7 +53,7 @@
 </g>
 </g>
 <!-- Subatomic&#45;&gt;MaterialState -->
-<g id="edge6" class="edge">
+<g id="edge1" class="edge">
 <title>Subatomic&#45;&gt;MaterialState</title>
 <path fill="none" stroke="#000000" d="M186.4002,-210.0265C193.233,-222.1582 202.3646,-238.3713 210.0575,-252.0302"/>
 <polygon fill="none" stroke="#000000" points="207.1506,-254.0011 215.1076,-260.9966 213.2497,-250.5659 207.1506,-254.0011"/>
@@ -78,14 +78,14 @@
 </g>
 </g>
 <!-- IonAtom&#45;&gt;StandaloneAtom -->
-<g id="edge3" class="edge">
+<g id="edge6" class="edge">
 <title>IonAtom&#45;&gt;StandaloneAtom</title>
 <path fill="none" stroke="#000000" d="M343.3893,-35.6057C351.9531,-48.0233 363.5695,-64.8671 373.2131,-78.8502"/>
 <polygon fill="none" stroke="#000000" points="370.359,-80.8768 378.9176,-87.1218 376.1215,-76.9026 370.359,-80.8768"/>
 <text text-anchor="middle" x="373.7474" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Continuum&#45;&gt;MaterialState -->
-<g id="edge1" class="edge">
+<g id="edge7" class="edge">
 <title>Continuum&#45;&gt;MaterialState</title>
 <path fill="none" stroke="#000000" d="M87.7838,-206.9558C115.0025,-221.2211 156.2121,-242.8188 186.4134,-258.6473"/>
 <polygon fill="none" stroke="#000000" points="184.9232,-261.8177 195.4052,-263.3598 188.1727,-255.6176 184.9232,-261.8177"/>
@@ -101,7 +101,7 @@
 </g>
 </g>
 <!-- NeutralAtom&#45;&gt;StandaloneAtom -->
-<g id="edge10" class="edge">
+<g id="edge3" class="edge">
 <title>NeutralAtom&#45;&gt;StandaloneAtom</title>
 <path fill="none" stroke="#000000" d="M438.0226,-36.0265C429.7162,-48.2748 418.5885,-64.6835 409.2706,-78.4234"/>
 <polygon fill="none" stroke="#000000" points="406.1726,-76.7558 403.4566,-86.9966 411.966,-80.6847 406.1726,-76.7558"/>
@@ -133,14 +133,14 @@
 <text text-anchor="middle" x="269.7474" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- StandaloneAtom&#45;&gt;Atom -->
-<g id="edge7" class="edge">
+<g id="edge10" class="edge">
 <title>StandaloneAtom&#45;&gt;Atom</title>
 <path fill="none" stroke="#000000" d="M368.132,-122.1884C349.0188,-136.4008 321.8335,-156.6154 301.6314,-171.6376"/>
 <polygon fill="none" stroke="#000000" points="299.3809,-168.9494 293.4447,-177.7251 303.5579,-174.5666 299.3809,-168.9494"/>
 <text text-anchor="middle" x="348.7474" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Atom&#45;&gt;MaterialState -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>Atom&#45;&gt;MaterialState</title>
 <path fill="none" stroke="#000000" d="M264.5666,-209.1884C257.6113,-221.5376 248.1037,-238.4184 240.18,-252.487"/>
 <polygon fill="none" stroke="#000000" points="237.1024,-250.8193 235.2445,-261.25 243.2015,-254.2545 237.1024,-250.8193"/>
@@ -172,7 +172,7 @@
 </g>
 </g>
 <!-- Molecule&#45;&gt;MaterialState -->
-<g id="edge2" class="edge">
+<g id="edge9" class="edge">
 <title>Molecule&#45;&gt;MaterialState</title>
 <path fill="none" stroke="#000000" d="M342.5129,-207.1542C319.7672,-221.09 285.801,-241.9003 260.2702,-257.5424"/>
 <polygon fill="none" stroke="#000000" points="258.3221,-254.6312 251.6237,-262.8399 261.9791,-260.6 258.3221,-254.6312"/>

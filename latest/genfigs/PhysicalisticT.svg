@@ -19,7 +19,7 @@
 </g>
 </g>
 <!-- Matter&#45;&gt;Matter -->
-<g id="edge7" class="edge">
+<g id="edge2" class="edge">
 <title>Matter&#45;&gt;Matter</title>
 <path fill="none" stroke="#ff00ff" d="M467.1754,-184.1423C478.8135,-183.8847 488.3933,-186.5039 488.3933,-192 488.3933,-195.7786 483.8653,-198.1974 477.2536,-199.2564"/>
 <polygon fill="#ff00ff" stroke="#ff00ff" points="476.9492,-195.7682 467.1754,-199.8577 477.3662,-202.7558 476.9492,-195.7682"/>
@@ -35,7 +35,7 @@
 </g>
 </g>
 <!-- Matter&#45;&gt;Physicalistic -->
-<g id="edge6" class="edge">
+<g id="edge1" class="edge">
 <title>Matter&#45;&gt;Physicalistic</title>
 <path fill="none" stroke="#000000" d="M414.6074,-206.1717C393.8155,-219.98 361.9111,-241.1684 337.866,-257.1373"/>
 <polygon fill="none" stroke="#000000" points="335.792,-254.3132 329.398,-262.7611 339.6646,-260.1444 335.792,-254.3132"/>
@@ -51,14 +51,14 @@
 </g>
 </g>
 <!-- Field&#45;&gt;Field -->
-<g id="edge3" class="edge">
+<g id="edge7" class="edge">
 <title>Field&#45;&gt;Field</title>
 <path fill="none" stroke="#ff00ff" d="M66.8223,-184.2192C77.9858,-183.5822 87.5438,-186.1758 87.5438,-192 87.5438,-195.9131 83.2292,-198.3679 77.0119,-199.3644"/>
 <polygon fill="#ff00ff" stroke="#ff00ff" points="76.6711,-195.8753 66.8223,-199.7808 76.957,-202.8695 76.6711,-195.8753"/>
 <text text-anchor="middle" x="148.0438" y="-188.3" font-family="Times,serif" font-size="14.00" fill="#000000">hasTemporalPart only</text>
 </g>
 <!-- Field&#45;&gt;Physicalistic -->
-<g id="edge2" class="edge">
+<g id="edge6" class="edge">
 <title>Field&#45;&gt;Physicalistic</title>
 <path fill="none" stroke="#000000" d="M66.7405,-200.5003C110.5582,-214.9403 200.2116,-244.4851 256.1683,-262.9254"/>
 <polygon fill="none" stroke="#000000" points="255.2727,-266.3154 265.8658,-266.1212 257.4637,-259.6671 255.2727,-266.3154"/>
@@ -99,14 +99,14 @@
 </g>
 </g>
 <!-- Vacuum&#45;&gt;Field -->
-<g id="edge1" class="edge">
+<g id="edge5" class="edge">
 <title>Vacuum&#45;&gt;Field</title>
 <path fill="none" stroke="#000000" d="M40.9464,-123.0265C40.9464,-134.8082 40.9464,-150.4393 40.9464,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="37.4465,-163.9966 40.9464,-173.9966 44.4465,-163.9967 37.4465,-163.9966"/>
 <text text-anchor="middle" x="50.4464" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Material&#45;&gt;Matter -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>Material&#45;&gt;Matter</title>
 <path fill="none" stroke="#000000" d="M435.9464,-123.0265C435.9464,-134.8082 435.9464,-150.4393 435.9464,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="432.4465,-163.9966 435.9464,-173.9966 439.4465,-163.9967 432.4465,-163.9966"/>

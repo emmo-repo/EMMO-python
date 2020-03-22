@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- ObjectiveProperty&#45;&gt;Property -->
-<g id="edge3" class="edge">
+<g id="edge6" class="edge">
 <title>ObjectiveProperty&#45;&gt;Property</title>
 <path fill="none" stroke="#000000" d="M250.0168,-208.7745C225.0381,-223.2621 188.9262,-244.207 162.6439,-259.4507"/>
 <polygon fill="none" stroke="#000000" points="160.6862,-256.5401 153.7919,-264.5849 164.1982,-262.5953 160.6862,-256.5401"/>
@@ -69,7 +69,7 @@
 </g>
 </g>
 <!-- ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge5" class="edge">
+<g id="edge2" class="edge">
 <title>ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M399.9383,-36.0265C399.9383,-47.8082 399.9383,-63.4393 399.9383,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="396.4384,-76.9966 399.9383,-86.9966 403.4384,-76.9967 396.4384,-76.9966"/>
@@ -101,7 +101,7 @@
 </g>
 </g>
 <!-- SubjectiveProperty&#45;&gt;Property -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>SubjectiveProperty&#45;&gt;Property</title>
 <path fill="none" stroke="#000000" d="M112.2895,-210.0265C115.1615,-221.9249 118.9812,-237.7492 122.2374,-251.2394"/>
 <polygon fill="none" stroke="#000000" points="118.8439,-252.0971 124.5927,-260.9966 125.6485,-250.4545 118.8439,-252.0971"/>
@@ -117,14 +117,14 @@
 </g>
 </g>
 <!-- MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge7" class="edge">
+<g id="edge5" class="edge">
 <title>MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M607.4857,-34.4663C564.0008,-49.2444 500.2226,-70.919 454.8596,-86.3353"/>
 <polygon fill="none" stroke="#000000" points="453.5287,-83.091 445.1867,-89.6226 455.7811,-89.7187 453.5287,-83.091"/>
 <text text-anchor="middle" x="553.4383" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- QuantitativeProperty&#45;&gt;ObjectiveProperty -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>QuantitativeProperty&#45;&gt;ObjectiveProperty</title>
 <path fill="none" stroke="#000000" d="M375.743,-122.3967C357.2772,-135.6737 331.651,-154.0992 311.4034,-168.6573"/>
 <polygon fill="none" stroke="#000000" points="309.1677,-165.954 303.0917,-174.6335 313.2541,-171.6374 309.1677,-165.954"/>

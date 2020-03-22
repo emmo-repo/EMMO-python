@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- SIUnitSymbol&#45;&gt;Semiotic -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>SIUnitSymbol&#45;&gt;Semiotic</title>
 <path fill="none" stroke="#000000" d="M92.8522,-33.5539C122.6174,-48.4365 167.5193,-70.8874 199.0255,-86.6405"/>
 <polygon fill="none" stroke="#000000" points="197.8321,-89.9569 208.3416,-91.2986 200.9626,-83.6959 197.8321,-89.9569"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Interpreter&#45;&gt;Semiotic -->
-<g id="edge4" class="edge">
+<g id="edge1" class="edge">
 <title>Interpreter&#45;&gt;Semiotic</title>
 <path fill="none" stroke="#000000" d="M199.2758,-36.0265C205.733,-48.2391 214.3771,-64.5877 221.6289,-78.303"/>
 <polygon fill="none" stroke="#000000" points="218.6145,-80.0899 226.3829,-87.2943 224.8028,-76.818 218.6145,-80.0899"/>
@@ -60,7 +60,7 @@
 </g>
 </g>
 <!-- Sign&#45;&gt;Semiotic -->
-<g id="edge3" class="edge">
+<g id="edge4" class="edge">
 <title>Sign&#45;&gt;Semiotic</title>
 <path fill="none" stroke="#000000" d="M273.4588,-35.1884C266.851,-47.4199 257.8414,-64.0973 250.2852,-78.0842"/>
 <polygon fill="none" stroke="#000000" points="247.0073,-76.7882 245.3336,-87.25 253.1661,-80.1154 247.0073,-76.7882"/>
@@ -76,7 +76,7 @@
 </g>
 </g>
 <!-- Object&#45;&gt;Semiotic -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Object&#45;&gt;Semiotic</title>
 <path fill="none" stroke="#000000" d="M340.9382,-32.3663C320.7329,-46.3176 289.8112,-67.6682 266.7146,-83.6159"/>
 <polygon fill="none" stroke="#000000" points="264.5247,-80.8746 258.2844,-89.4367 268.5021,-86.6349 264.5247,-80.8746"/>

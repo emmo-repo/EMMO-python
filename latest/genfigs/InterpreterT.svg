@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- MeasurementInstrument&#45;&gt;Observer -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>MeasurementInstrument&#45;&gt;Observer</title>
 <path fill="none" stroke="#000000" d="M98.1413,-36.0265C98.1413,-47.8082 98.1413,-63.4393 98.1413,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="94.6414,-76.9966 98.1413,-86.9966 101.6414,-76.9967 94.6414,-76.9966"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Observer&#45;&gt;Interpreter -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Observer&#45;&gt;Interpreter</title>
 <path fill="none" stroke="#000000" d="M98.1413,-123.0265C98.1413,-134.8082 98.1413,-150.4393 98.1413,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="94.6414,-163.9966 98.1413,-173.9966 101.6414,-163.9967 94.6414,-163.9966"/>

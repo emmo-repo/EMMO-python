@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Reductionistic&#45;&gt;Perspective -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>Reductionistic&#45;&gt;Perspective</title>
 <path fill="none" stroke="#000000" d="M95.7109,-33.1542C129.0667,-48.0361 179.9943,-70.7576 215.6218,-86.653"/>
 <polygon fill="none" stroke="#000000" points="214.2246,-89.8621 224.783,-90.7403 217.0768,-83.4695 214.2246,-89.8621"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Physicalistic&#45;&gt;Perspective -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>Physicalistic&#45;&gt;Perspective</title>
 <path fill="none" stroke="#000000" d="M208.8864,-35.6057C217.507,-48.1056 229.2207,-65.0904 238.9015,-79.1276"/>
 <polygon fill="none" stroke="#000000" points="236.0621,-81.1754 244.6207,-87.4204 241.8246,-77.2012 236.0621,-81.1754"/>
@@ -76,7 +76,7 @@
 </g>
 </g>
 <!-- Holistic&#45;&gt;Perspective -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>Holistic&#45;&gt;Perspective</title>
 <path fill="none" stroke="#000000" d="M395.9633,-31.5938C368.7749,-45.9294 325.6576,-68.664 294.6086,-85.0353"/>
 <polygon fill="none" stroke="#000000" points="292.6043,-82.1353 285.3911,-89.8954 295.8692,-88.3273 292.6043,-82.1353"/>

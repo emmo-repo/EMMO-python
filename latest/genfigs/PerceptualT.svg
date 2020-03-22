@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Music&#45;&gt;Acoustical -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>Music&#45;&gt;Acoustical</title>
 <path fill="none" stroke="#000000" d="M49.2876,-33.9571C62.4707,-46.9904 81.3221,-65.6276 96.409,-80.5431"/>
 <polygon fill="none" stroke="#000000" points="94.3333,-83.4127 103.9054,-87.9543 99.2547,-78.4347 94.3333,-83.4127"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Speech&#45;&gt;Acoustical -->
-<g id="edge4" class="edge">
+<g id="edge5" class="edge">
 <title>Speech&#45;&gt;Acoustical</title>
 <path fill="none" stroke="#000000" d="M121.1471,-36.0265C121.1471,-47.8082 121.1471,-63.4393 121.1471,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="117.6472,-76.9966 121.1471,-86.9966 124.6472,-76.9967 117.6472,-76.9966"/>
@@ -69,7 +69,7 @@
 </g>
 </g>
 <!-- Graphical&#45;&gt;Perceptual -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Graphical&#45;&gt;Perceptual</title>
 <path fill="none" stroke="#000000" d="M233.1471,-123.0265C233.1471,-134.8082 233.1471,-150.4393 233.1471,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="229.6472,-163.9966 233.1471,-173.9966 236.6472,-163.9967 229.6472,-163.9966"/>
@@ -92,7 +92,7 @@
 </g>
 </g>
 <!-- Property&#45;&gt;Perceptual -->
-<g id="edge5" class="edge">
+<g id="edge1" class="edge">
 <title>Property&#45;&gt;Perceptual</title>
 <path fill="none" stroke="#000000" d="M318.0719,-120.9571C302.0025,-134.3997 278.807,-153.8037 260.7166,-168.937"/>
 <polygon fill="none" stroke="#000000" points="258.2324,-166.452 252.808,-175.5529 262.7238,-171.8211 258.2324,-166.452"/>
@@ -108,7 +108,7 @@
 </g>
 </g>
 <!-- Noise&#45;&gt;Acoustical -->
-<g id="edge3" class="edge">
+<g id="edge4" class="edge">
 <title>Noise&#45;&gt;Acoustical</title>
 <path fill="none" stroke="#000000" d="M191.3733,-33.9571C178.4898,-46.9904 160.0669,-65.6276 145.3229,-80.5431"/>
 <polygon fill="none" stroke="#000000" points="142.5378,-78.3819 137.9969,-87.9543 147.5161,-83.303 142.5378,-78.3819"/>

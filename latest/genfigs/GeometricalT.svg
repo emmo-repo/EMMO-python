@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- 0&#45;manifold&#45;&gt;Geometrical -->
-<g id="edge12" class="edge">
+<g id="edge1" class="edge">
 <title>0&#45;manifold&#45;&gt;Geometrical</title>
 <path fill="none" stroke="#000000" d="M600.3167,-118.2134C560.534,-133.3274 495.262,-158.1251 451.5004,-174.7506"/>
 <polygon fill="none" stroke="#000000" points="450.0658,-171.5515 441.9607,-178.3749 452.5519,-178.0952 450.0658,-171.5515"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- 2&#45;manifold&#45;&gt;Geometrical -->
-<g id="edge6" class="edge">
+<g id="edge3" class="edge">
 <title>2&#45;manifold&#45;&gt;Geometrical</title>
 <path fill="none" stroke="#000000" d="M207.1291,-118.0248C247.8709,-133.1724 315.2613,-158.2278 360.1658,-174.9231"/>
 <polygon fill="none" stroke="#000000" points="359.075,-178.2515 369.6679,-178.4559 361.5145,-171.6903 359.075,-178.2515"/>
@@ -69,7 +69,7 @@
 </g>
 </g>
 <!-- EuclideanSpace&#45;&gt;3&#45;manifold -->
-<g id="edge10" class="edge">
+<g id="edge2" class="edge">
 <title>EuclideanSpace&#45;&gt;3&#45;manifold</title>
 <path fill="none" stroke="#000000" d="M317.9977,-36.0265C319.8936,-47.8082 322.409,-63.4393 324.5657,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="321.1554,-77.6797 326.1998,-86.9966 328.0665,-76.5676 321.1554,-77.6797"/>
@@ -94,7 +94,7 @@
 </g>
 </g>
 <!-- Curve&#45;&gt;1&#45;manifold -->
-<g id="edge9" class="edge">
+<g id="edge6" class="edge">
 <title>Curve&#45;&gt;1&#45;manifold</title>
 <path fill="none" stroke="#000000" d="M439.9891,-35.6057C445.3981,-47.6719 452.6805,-63.9172 458.8393,-77.6562"/>
 <polygon fill="none" stroke="#000000" points="455.7981,-79.4284 463.0825,-87.1218 462.1857,-76.565 455.7981,-79.4284"/>
@@ -117,7 +117,7 @@
 </g>
 </g>
 <!-- Sphere&#45;&gt;2&#45;manifold -->
-<g id="edge7" class="edge">
+<g id="edge12" class="edge">
 <title>Sphere&#45;&gt;2&#45;manifold</title>
 <path fill="none" stroke="#000000" d="M57.4132,-32.1717C79.3884,-46.1267 113.2333,-67.6195 138.4682,-83.6445"/>
 <polygon fill="none" stroke="#000000" points="136.6834,-86.6572 147.0014,-89.0634 140.4359,-80.748 136.6834,-86.6572"/>
@@ -133,7 +133,7 @@
 </g>
 </g>
 <!-- Line&#45;&gt;1&#45;manifold -->
-<g id="edge1" class="edge">
+<g id="edge4" class="edge">
 <title>Line&#45;&gt;1&#45;manifold</title>
 <path fill="none" stroke="#000000" d="M501.407,-35.6057C496.1368,-47.6719 489.0411,-63.9172 483.0401,-77.6562"/>
 <polygon fill="none" stroke="#000000" points="479.7011,-76.5569 478.9057,-87.1218 486.1159,-79.3588 479.7011,-76.5569"/>
@@ -149,7 +149,7 @@
 </g>
 </g>
 <!-- Circle&#45;&gt;1&#45;manifold -->
-<g id="edge2" class="edge">
+<g id="edge8" class="edge">
 <title>Circle&#45;&gt;1&#45;manifold</title>
 <path fill="none" stroke="#000000" d="M566.8485,-32.5618C548.8651,-46.1666 521.746,-66.6829 500.9544,-82.4122"/>
 <polygon fill="none" stroke="#000000" points="498.6246,-79.7859 492.7613,-88.6104 502.8479,-85.3684 498.6246,-79.7859"/>
@@ -165,14 +165,14 @@
 </g>
 </g>
 <!-- Point&#45;&gt;0&#45;manifold -->
-<g id="edge5" class="edge">
+<g id="edge9" class="edge">
 <title>Point&#45;&gt;0&#45;manifold</title>
 <path fill="none" stroke="#000000" d="M659.8236,-35.6057C655.5241,-47.6719 649.7356,-63.9172 644.8401,-77.6562"/>
 <polygon fill="none" stroke="#000000" points="641.5269,-76.5272 641.4673,-87.1218 648.1208,-78.8768 641.5269,-76.5272"/>
 <text text-anchor="middle" x="662.5969" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- 1&#45;manifold&#45;&gt;Geometrical -->
-<g id="edge3" class="edge">
+<g id="edge10" class="edge">
 <title>1&#45;manifold&#45;&gt;Geometrical</title>
 <path fill="none" stroke="#000000" d="M457.9432,-122.6057C448.6042,-135.1056 435.9144,-152.0904 425.4268,-166.1276"/>
 <polygon fill="none" stroke="#000000" points="422.4125,-164.3145 419.231,-174.4204 428.0202,-168.5042 422.4125,-164.3145"/>
@@ -188,7 +188,7 @@
 </g>
 </g>
 <!-- Plane&#45;&gt;2&#45;manifold -->
-<g id="edge4" class="edge">
+<g id="edge7" class="edge">
 <title>Plane&#45;&gt;2&#45;manifold</title>
 <path fill="none" stroke="#000000" d="M129.568,-35.1884C137.091,-47.5376 147.3748,-64.4184 155.9453,-78.487"/>
 <polygon fill="none" stroke="#000000" points="153.092,-80.5308 161.2837,-87.25 159.0701,-76.889 153.092,-80.5308"/>
@@ -204,7 +204,7 @@
 </g>
 </g>
 <!-- Torus&#45;&gt;2&#45;manifold -->
-<g id="edge8" class="edge">
+<g id="edge5" class="edge">
 <title>Torus&#45;&gt;2&#45;manifold</title>
 <path fill="none" stroke="#000000" d="M193.5025,-36.0265C189.8099,-47.9249 184.8988,-63.7492 180.7123,-77.2394"/>
 <polygon fill="none" stroke="#000000" points="177.3055,-76.4086 177.6841,-86.9966 183.9909,-78.4834 177.3055,-76.4086"/>

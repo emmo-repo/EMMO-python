@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Interpretant&#45;&gt;Sign -->
-<g id="edge3" class="edge">
+<g id="edge4" class="edge">
 <title>Interpretant&#45;&gt;Sign</title>
 <path fill="none" stroke="#000000" d="M84.574,-119.1717C121.9658,-135.4371 182.8985,-161.9429 220.0305,-178.0953"/>
 <polygon fill="none" stroke="#000000" points="218.8149,-181.3833 229.381,-182.1628 221.6072,-174.9643 218.8149,-181.3833"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Icon&#45;&gt;Sign -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Icon&#45;&gt;Sign</title>
 <path fill="none" stroke="#000000" d="M166.0037,-119.3663C182.7025,-133.471 208.3551,-155.1388 227.2992,-171.1402"/>
 <polygon fill="none" stroke="#000000" points="225.0638,-173.8334 234.9618,-177.6124 229.5807,-168.4857 225.0638,-173.8334"/>
@@ -69,7 +69,7 @@
 </g>
 </g>
 <!-- SISpecialUnit&#45;&gt;SpecialUnit -->
-<g id="edge6" class="edge">
+<g id="edge5" class="edge">
 <title>SISpecialUnit&#45;&gt;SpecialUnit</title>
 <path fill="none" stroke="#000000" d="M458.9954,-36.0265C458.9954,-47.8082 458.9954,-63.4393 458.9954,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="455.4955,-76.9966 458.9954,-86.9966 462.4955,-76.9967 455.4955,-76.9966"/>
@@ -85,7 +85,7 @@
 </g>
 </g>
 <!-- Conventional&#45;&gt;Sign -->
-<g id="edge2" class="edge">
+<g id="edge6" class="edge">
 <title>Conventional&#45;&gt;Sign</title>
 <path fill="none" stroke="#000000" d="M251.9954,-123.0265C251.9954,-134.8082 251.9954,-150.4393 251.9954,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="248.4955,-163.9966 251.9954,-173.9966 255.4955,-163.9967 248.4955,-163.9966"/>
@@ -101,14 +101,14 @@
 </g>
 </g>
 <!-- Index&#45;&gt;Sign -->
-<g id="edge4" class="edge">
+<g id="edge3" class="edge">
 <title>Index&#45;&gt;Sign</title>
 <path fill="none" stroke="#000000" d="M340.0139,-119.7584C322.7516,-133.9265 296.5184,-155.4576 277.1797,-171.3299"/>
 <polygon fill="none" stroke="#000000" points="274.8694,-168.6981 269.3601,-177.7479 279.3104,-174.109 274.8694,-168.6981"/>
 <text text-anchor="middle" x="320.4954" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- SpecialUnit&#45;&gt;Sign -->
-<g id="edge5" class="edge">
+<g id="edge1" class="edge">
 <title>SpecialUnit&#45;&gt;Sign</title>
 <path fill="none" stroke="#000000" d="M425.7373,-118.9781C386.9204,-135.2924 323.1457,-162.0962 284.6081,-178.2932"/>
 <polygon fill="none" stroke="#000000" points="282.7799,-175.265 274.9171,-182.3662 285.4921,-181.7182 282.7799,-175.265"/>

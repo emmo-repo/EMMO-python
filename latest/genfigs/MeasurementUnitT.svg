@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- SIUnit&#45;&gt;MeasurementUnit -->
-<g id="edge19" class="edge">
+<g id="edge18" class="edge">
 <title>SIUnit&#45;&gt;MeasurementUnit</title>
 <path fill="none" stroke="#000000" d="M223.8117,-293.3663C243.5527,-306.8896 273.4425,-327.3653 296.4603,-343.1334"/>
 <polygon fill="none" stroke="#000000" points="294.6822,-346.1578 304.9101,-348.9219 298.6383,-340.3829 294.6822,-346.1578"/>
@@ -53,7 +53,7 @@
 </g>
 </g>
 <!-- BaseUnit&#45;&gt;UnitSymbol -->
-<g id="edge2" class="edge">
+<g id="edge19" class="edge">
 <title>BaseUnit&#45;&gt;UnitSymbol</title>
 <path fill="none" stroke="#000000" d="M732.9309,-120.9571C715.2702,-134.435 689.7572,-153.9055 669.9048,-169.056"/>
 <polygon fill="none" stroke="#000000" points="667.6088,-166.4054 661.7826,-175.2545 671.8555,-171.9701 667.6088,-166.4054"/>
@@ -69,7 +69,7 @@
 </g>
 </g>
 <!-- KindOfUnit&#45;&gt;MeasurementUnit -->
-<g id="edge18" class="edge">
+<g id="edge11" class="edge">
 <title>KindOfUnit&#45;&gt;MeasurementUnit</title>
 <path fill="none" stroke="#000000" d="M313.1915,-297.0265C316.0635,-308.9249 319.8832,-324.7492 323.1394,-338.2394"/>
 <polygon fill="none" stroke="#000000" points="319.7458,-339.0971 325.4946,-347.9966 326.5504,-337.4545 319.7458,-339.0971"/>
@@ -94,7 +94,7 @@
 </g>
 </g>
 <!-- SINonCoherentDerivedUnit&#45;&gt;SINonCoherentUnit -->
-<g id="edge13" class="edge">
+<g id="edge6" class="edge">
 <title>SINonCoherentDerivedUnit&#45;&gt;SINonCoherentUnit</title>
 <path fill="none" stroke="#000000" d="M115.8491,-123.0265C119.8152,-134.9249 125.09,-150.7492 129.5867,-164.2394"/>
 <polygon fill="none" stroke="#000000" points="126.3564,-165.6166 132.8391,-173.9966 132.9972,-163.403 126.3564,-165.6166"/>
@@ -110,14 +110,14 @@
 </g>
 </g>
 <!-- PrefixedUnit&#45;&gt;MeasurementUnit -->
-<g id="edge11" class="edge">
+<g id="edge16" class="edge">
 <title>PrefixedUnit&#45;&gt;MeasurementUnit</title>
 <path fill="none" stroke="#000000" d="M415.4024,-295.7745C399.3338,-308.9628 376.7455,-327.5023 358.8126,-342.2208"/>
 <polygon fill="none" stroke="#000000" points="356.4502,-339.6318 350.9409,-348.6815 360.8913,-345.0427 356.4502,-339.6318"/>
 <text text-anchor="middle" x="399.3403" y="-318.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- PrefixedUnit&#45;&gt;UnitSymbol -->
-<g id="edge12" class="edge">
+<g id="edge17" class="edge">
 <title>PrefixedUnit&#45;&gt;UnitSymbol</title>
 <path fill="none" stroke="#006400" d="M399.3067,-265.1046C379.3404,-255.5024 361.0425,-241.9827 373.8403,-228 389.1286,-211.2961 554.5758,-214.129 576.8403,-210 581.3018,-209.1726 585.9026,-208.166 590.491,-207.0561"/>
 <polygon fill="#006400" stroke="#006400" points="591.645,-210.3733 600.4569,-204.491 589.9,-203.5942 591.645,-210.3733"/>
@@ -142,14 +142,14 @@
 </g>
 </g>
 <!-- SICoherentDerivedUnit&#45;&gt;SICoherentUnit -->
-<g id="edge17" class="edge">
+<g id="edge12" class="edge">
 <title>SICoherentDerivedUnit&#45;&gt;SICoherentUnit</title>
 <path fill="none" stroke="#000000" d="M332.8403,-123.0265C332.8403,-134.8082 332.8403,-150.4393 332.8403,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="329.3404,-163.9966 332.8403,-173.9966 336.3404,-163.9967 329.3404,-163.9966"/>
 <text text-anchor="middle" x="342.3403" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- SINonCoherentUnit&#45;&gt;SIUnit -->
-<g id="edge9" class="edge">
+<g id="edge15" class="edge">
 <title>SINonCoherentUnit&#45;&gt;SIUnit</title>
 <path fill="none" stroke="#000000" d="M152.1011,-210.0265C161.4398,-222.7212 174.066,-239.885 184.3867,-253.9147"/>
 <polygon fill="none" stroke="#000000" points="181.7198,-256.196 190.4649,-262.1772 187.3585,-252.048 181.7198,-256.196"/>
@@ -174,7 +174,7 @@
 </g>
 </g>
 <!-- DerivedUnit&#45;&gt;NonPrefixedUnit -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>DerivedUnit&#45;&gt;NonPrefixedUnit</title>
 <path fill="none" stroke="#000000" d="M526.6011,-209.6057C536.3068,-222.0233 549.472,-238.8671 560.4013,-252.8502"/>
 <polygon fill="none" stroke="#000000" points="557.9507,-255.3983 566.8665,-261.1218 563.4659,-251.0876 557.9507,-255.3983"/>
@@ -190,7 +190,7 @@
 </g>
 </g>
 <!-- UnitOne&#45;&gt;BaseUnit -->
-<g id="edge3" class="edge">
+<g id="edge13" class="edge">
 <title>UnitOne&#45;&gt;BaseUnit</title>
 <path fill="none" stroke="#000000" d="M753.8403,-36.0265C753.8403,-47.8082 753.8403,-63.4393 753.8403,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="750.3404,-76.9966 753.8403,-86.9966 757.3404,-76.9967 750.3404,-76.9966"/>
@@ -215,7 +215,7 @@
 </g>
 </g>
 <!-- SISpecialUnit&#45;&gt;SpecialUnit -->
-<g id="edge15" class="edge">
+<g id="edge5" class="edge">
 <title>SISpecialUnit&#45;&gt;SpecialUnit</title>
 <path fill="none" stroke="#000000" d="M620.8131,-36.0265C624.0954,-47.9249 628.4607,-63.7492 632.1821,-77.2394"/>
 <polygon fill="none" stroke="#000000" points="628.8405,-78.2875 634.8738,-86.9966 635.5884,-76.4259 628.8405,-78.2875"/>
@@ -231,56 +231,56 @@
 </g>
 </g>
 <!-- SISpecialUnit&#45;&gt;SIUnitSymbol -->
-<g id="edge14" class="edge">
+<g id="edge4" class="edge">
 <title>SISpecialUnit&#45;&gt;SIUnitSymbol</title>
 <path fill="none" stroke="#000000" d="M594.7604,-34.981C578.2579,-48.2747 555.1225,-66.9115 536.8689,-81.6158"/>
 <polygon fill="none" stroke="#000000" points="534.4589,-79.0628 528.867,-88.0618 538.8502,-84.5141 534.4589,-79.0628"/>
 <text text-anchor="middle" x="578.3403" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- SpecialUnit&#45;&gt;DerivedUnit -->
-<g id="edge7" class="edge">
+<g id="edge8" class="edge">
 <title>SpecialUnit&#45;&gt;DerivedUnit</title>
 <path fill="none" stroke="#ffa500" d="M679.4775,-116.8544C699.2693,-123.6572 720.1909,-132.5108 725.8403,-141 729.5337,-146.5501 730.2626,-151.0113 725.8403,-156 703.7163,-180.9575 609.5457,-167.4657 576.8403,-174 572.2032,-174.9264 567.4112,-176.0174 562.6327,-177.1964"/>
 <polygon fill="#ffa500" stroke="#ffa500" points="552.02,-176.3273 562.5779,-177.2105 553.7737,-183.1041 552.02,-176.3273"/>
 <text text-anchor="middle" x="791.3403" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">Inverse(hasSign) some</text>
 </g>
 <!-- SpecialUnit&#45;&gt;UnitSymbol -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>SpecialUnit&#45;&gt;UnitSymbol</title>
 <path fill="none" stroke="#000000" d="M639.8403,-123.0265C639.8403,-134.8082 639.8403,-150.4393 639.8403,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="636.3404,-163.9966 639.8403,-173.9966 643.3404,-163.9967 636.3404,-163.9966"/>
 <text text-anchor="middle" x="649.3403" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- SIUnitSymbol&#45;&gt;UnitSymbol -->
-<g id="edge5" class="edge">
+<g id="edge2" class="edge">
 <title>SIUnitSymbol&#45;&gt;UnitSymbol</title>
 <path fill="none" stroke="#000000" d="M532.9791,-121.5688C553.9389,-135.3832 583.9629,-155.1717 606.8523,-170.2579"/>
 <polygon fill="none" stroke="#000000" points="604.9661,-173.2066 615.2418,-175.7874 608.8183,-167.3618 604.9661,-173.2066"/>
 <text text-anchor="middle" x="591.3403" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- SIUnitSymbol&#45;&gt;SICoherentUnit -->
-<g id="edge4" class="edge">
+<g id="edge1" class="edge">
 <title>SIUnitSymbol&#45;&gt;SICoherentUnit</title>
 <path fill="none" stroke="#000000" d="M476.5538,-120.5539C447.9539,-134.7721 405.4594,-155.8979 374.0921,-171.4919"/>
 <polygon fill="none" stroke="#000000" points="372.1388,-168.5543 364.7424,-176.1401 375.255,-174.8224 372.1388,-168.5543"/>
 <text text-anchor="middle" x="440.3403" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- UnitSymbol&#45;&gt;NonPrefixedUnit -->
-<g id="edge16" class="edge">
+<g id="edge9" class="edge">
 <title>UnitSymbol&#45;&gt;NonPrefixedUnit</title>
 <path fill="none" stroke="#000000" d="M627.9007,-209.6057C619.5591,-221.9062 608.2721,-238.5497 598.8429,-252.4537"/>
 <polygon fill="none" stroke="#000000" points="595.6805,-250.881 592.9645,-261.1218 601.474,-254.8099 595.6805,-250.881"/>
 <text text-anchor="middle" x="623.3403" y="-231.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- NonPrefixedUnit&#45;&gt;MeasurementUnit -->
-<g id="edge8" class="edge">
+<g id="edge10" class="edge">
 <title>NonPrefixedUnit&#45;&gt;MeasurementUnit</title>
 <path fill="none" stroke="#000000" d="M538.5454,-293.66C495.5017,-308.5795 428.6916,-331.7368 382.3022,-347.816"/>
 <polygon fill="none" stroke="#000000" points="381.0313,-344.5521 372.7291,-351.1341 383.3239,-351.1661 381.0313,-344.5521"/>
 <text text-anchor="middle" x="480.3403" y="-318.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- SICoherentUnit&#45;&gt;SIUnit -->
-<g id="edge10" class="edge">
+<g id="edge14" class="edge">
 <title>SICoherentUnit&#45;&gt;SIUnit</title>
 <path fill="none" stroke="#000000" d="M307.7749,-208.7745C286.4104,-223.0723 255.6481,-243.6594 232.9514,-258.8487"/>
 <polygon fill="none" stroke="#000000" points="230.7441,-256.1144 224.38,-264.5849 234.6373,-261.9319 230.7441,-256.1144"/>

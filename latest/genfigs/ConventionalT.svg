@@ -19,41 +19,25 @@
 </g>
 </g>
 <!-- Conventional -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>Conventional</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_35d2e130_6e01_41ed_94f7_00b333d46cf9" xlink:title="Conventional">
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_35d2e130_6e01_41ed_94f7_00b333d46cf9" xlink:title="Conventional">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="223.545" cy="-279" rx="57.6901" ry="18"/>
 <text text-anchor="middle" x="223.545" y="-275.3" font-family="Times,serif" font-size="14.00" fill="#000000">Conventional</text>
 </a>
 </g>
 </g>
 <!-- Variable&#45;&gt;Conventional -->
-<g id="edge3" class="edge">
+<g id="edge10" class="edge">
 <title>Variable&#45;&gt;Conventional</title>
 <path fill="none" stroke="#000000" d="M325.6617,-207.3536C306.2658,-220.962 277.6903,-241.011 255.6965,-256.4421"/>
 <polygon fill="none" stroke="#000000" points="253.4986,-253.7085 247.3227,-262.3172 257.5191,-259.4388 253.4986,-253.7085"/>
 <text text-anchor="middle" x="303.045" y="-231.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
-<!-- Unknown -->
-<g id="node2" class="node">
-<title>Unknown</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_fe7e56ce_118b_4243_9aad_20eb9f4f31f6" xlink:title="Unknown">
-<ellipse fill="#ffffcc" stroke="#000000" cx="256.545" cy="-105" rx="45.4919" ry="18"/>
-<text text-anchor="middle" x="256.545" y="-101.3" font-family="Times,serif" font-size="14.00" fill="#000000">Unknown</text>
-</a>
-</g>
-</g>
-<!-- Unknown&#45;&gt;Variable -->
-<g id="edge10" class="edge">
-<title>Unknown&#45;&gt;Variable</title>
-<path fill="none" stroke="#000000" d="M274.0907,-121.7745C287.9008,-134.9775 307.3204,-153.5435 322.7238,-168.2699"/>
-<polygon fill="none" stroke="#000000" points="320.7149,-171.1915 330.3617,-175.5721 325.5522,-166.1318 320.7149,-171.1915"/>
-<text text-anchor="middle" x="317.045" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
 <!-- MaterialLaw -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>MaterialLaw</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_f19ff3b4_6bfe_4c41_a2b2_9affd39c140b" xlink:title="MaterialLaw">
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_f19ff3b4_6bfe_4c41_a2b2_9affd39c140b" xlink:title="MaterialLaw">
 <ellipse fill="#ffffcc" stroke="#000000" cx="56.545" cy="-18" rx="56.59" ry="18"/>
 <text text-anchor="middle" x="56.545" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MaterialLaw</text>
 </a>
@@ -69,11 +53,27 @@
 </g>
 </g>
 <!-- MaterialLaw&#45;&gt;NaturalLaw -->
-<g id="edge5" class="edge">
+<g id="edge8" class="edge">
 <title>MaterialLaw&#45;&gt;NaturalLaw</title>
 <path fill="none" stroke="#000000" d="M73.5436,-35.6057C85.921,-48.4252 102.8531,-65.962 116.5988,-80.1986"/>
 <polygon fill="none" stroke="#000000" points="114.3944,-82.9544 123.8583,-87.7173 119.4302,-78.0922 114.3944,-82.9544"/>
 <text text-anchor="middle" x="114.045" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- Unknown -->
+<g id="node4" class="node">
+<title>Unknown</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_fe7e56ce_118b_4243_9aad_20eb9f4f31f6" xlink:title="Unknown">
+<ellipse fill="#ffffcc" stroke="#000000" cx="256.545" cy="-105" rx="45.4919" ry="18"/>
+<text text-anchor="middle" x="256.545" y="-101.3" font-family="Times,serif" font-size="14.00" fill="#000000">Unknown</text>
+</a>
+</g>
+</g>
+<!-- Unknown&#45;&gt;Variable -->
+<g id="edge1" class="edge">
+<title>Unknown&#45;&gt;Variable</title>
+<path fill="none" stroke="#000000" d="M274.0907,-121.7745C287.9008,-134.9775 307.3204,-153.5435 322.7238,-168.2699"/>
+<polygon fill="none" stroke="#000000" points="320.7149,-171.1915 330.3617,-175.5721 325.5522,-166.1318 320.7149,-171.1915"/>
+<text text-anchor="middle" x="317.045" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- PhysicalLaw -->
 <g id="node5" class="node">
@@ -85,7 +85,7 @@
 </g>
 </g>
 <!-- PhysicalLaw&#45;&gt;NaturalLaw -->
-<g id="edge7" class="edge">
+<g id="edge3" class="edge">
 <title>PhysicalLaw&#45;&gt;NaturalLaw</title>
 <path fill="none" stroke="#000000" d="M177.0138,-36.0265C170.5993,-48.1582 162.0268,-64.3713 154.8049,-78.0302"/>
 <polygon fill="none" stroke="#000000" points="151.6441,-76.5203 150.064,-86.9966 157.8324,-79.7923 151.6441,-76.5203"/>
@@ -110,7 +110,7 @@
 </g>
 </g>
 <!-- MetricPrefix&#45;&gt;Constant -->
-<g id="edge4" class="edge">
+<g id="edge7" class="edge">
 <title>MetricPrefix&#45;&gt;Constant</title>
 <path fill="none" stroke="#000000" d="M362.545,-36.0265C362.545,-47.8082 362.545,-63.4393 362.545,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="359.0451,-76.9966 362.545,-86.9966 366.0451,-76.9967 359.0451,-76.9966"/>
@@ -126,7 +126,7 @@
 </g>
 </g>
 <!-- Property&#45;&gt;Conventional -->
-<g id="edge8" class="edge">
+<g id="edge5" class="edge">
 <title>Property&#45;&gt;Conventional</title>
 <path fill="none" stroke="#000000" d="M146.4138,-208.364C160.7327,-221.4771 181.0329,-240.0679 197.2134,-254.8858"/>
 <polygon fill="none" stroke="#000000" points="195.0428,-257.6439 204.7814,-261.8165 199.7704,-252.4815 195.0428,-257.6439"/>
@@ -142,14 +142,14 @@
 </g>
 </g>
 <!-- NaturalLaw&#45;&gt;Theory -->
-<g id="edge9" class="edge">
+<g id="edge2" class="edge">
 <title>NaturalLaw&#45;&gt;Theory</title>
 <path fill="none" stroke="#000000" d="M156.9431,-122.1884C169.38,-135.2247 186.6347,-153.3109 200.4651,-167.8079"/>
 <polygon fill="none" stroke="#000000" points="198.3088,-170.6181 207.7441,-175.4376 203.3737,-165.7861 198.3088,-170.6181"/>
 <text text-anchor="middle" x="197.045" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Constant&#45;&gt;Variable -->
-<g id="edge1" class="edge">
+<g id="edge9" class="edge">
 <title>Constant&#45;&gt;Variable</title>
 <path fill="none" stroke="#000000" d="M359.437,-123.0265C357.4056,-134.8082 354.7106,-150.4393 352.3998,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="348.899,-163.5473 350.649,-173.9966 355.7973,-164.7367 348.899,-163.5473"/>
@@ -165,14 +165,14 @@
 </g>
 </g>
 <!-- Parameter&#45;&gt;Variable -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>Parameter&#45;&gt;Variable</title>
 <path fill="none" stroke="#000000" d="M447.1683,-120.9571C427.6137,-134.9018 399.0635,-155.2614 377.5343,-170.6142"/>
 <polygon fill="none" stroke="#000000" points="375.4791,-167.781 369.3693,-176.4367 379.5433,-173.4803 375.4791,-167.781"/>
 <text text-anchor="middle" x="426.045" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Theory&#45;&gt;Conventional -->
-<g id="edge2" class="edge">
+<g id="edge6" class="edge">
 <title>Theory&#45;&gt;Conventional</title>
 <path fill="none" stroke="#000000" d="M223.545,-210.0265C223.545,-221.8082 223.545,-237.4393 223.545,-250.8419"/>
 <polygon fill="none" stroke="#000000" points="220.0451,-250.9966 223.545,-260.9966 227.0451,-250.9967 220.0451,-250.9966"/>

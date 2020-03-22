@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- MultipleUnit&#45;&gt;PrefixedUnit -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>MultipleUnit&#45;&gt;PrefixedUnit</title>
 <path fill="none" stroke="#000000" d="M216.8437,-36.0265C216.8437,-47.8082 216.8437,-63.4393 216.8437,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="213.3438,-76.9966 216.8437,-86.9966 220.3438,-76.9967 213.3438,-76.9966"/>
@@ -60,7 +60,7 @@
 </g>
 </g>
 <!-- SIPrefixedUnit&#45;&gt;PrefixedUnit -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>SIPrefixedUnit&#45;&gt;PrefixedUnit</title>
 <path fill="none" stroke="#000000" d="M329.3717,-34.5688C307.2032,-48.444 275.4056,-68.3462 251.2629,-83.457"/>
 <polygon fill="none" stroke="#000000" points="249.3663,-80.5151 242.7466,-88.7874 253.0801,-86.4487 249.3663,-80.5151"/>

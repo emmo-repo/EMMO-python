@@ -53,7 +53,7 @@
 </g>
 </g>
 <!-- PhysicalPhenomenon&#45;&gt;Process -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>PhysicalPhenomenon&#45;&gt;Process</title>
 <path fill="none" stroke="#000000" d="M329.895,-210.0265C329.895,-221.8082 329.895,-237.4393 329.895,-250.8419"/>
 <polygon fill="none" stroke="#000000" points="326.3951,-250.9966 329.895,-260.9966 333.3951,-250.9967 326.3951,-250.9966"/>
@@ -69,14 +69,14 @@
 </g>
 </g>
 <!-- Experiment&#45;&gt;PhysicalPhenomenon -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>Experiment&#45;&gt;PhysicalPhenomenon</title>
 <path fill="none" stroke="#ff0000" d="M174.8361,-36.2438C172.0107,-46.8294 170.8694,-59.8378 177.895,-69 196.6573,-93.4682 219.0426,-70.1962 244.895,-87 275.4097,-106.8342 300.1622,-141.2027 314.9262,-165.1979"/>
 <polygon fill="#ff0000" stroke="#ff0000" points="311.9529,-167.0455 320.0868,-173.8345 317.9619,-163.4549 311.9529,-167.0455"/>
 <text text-anchor="middle" x="338.895" y="-101.3" font-family="Times,serif" font-size="14.00" fill="#000000">hasParticipant some</text>
 </g>
 <!-- Experiment&#45;&gt;Observation -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>Experiment&#45;&gt;Observation</title>
 <path fill="none" stroke="#000000" d="M181.895,-36.0265C181.895,-47.8082 181.895,-63.4393 181.895,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="178.3951,-76.9966 181.895,-86.9966 185.3951,-76.9967 178.3951,-76.9966"/>
@@ -92,7 +92,7 @@
 </g>
 </g>
 <!-- Measurement&#45;&gt;Observation -->
-<g id="edge7" class="edge">
+<g id="edge5" class="edge">
 <title>Measurement&#45;&gt;Observation</title>
 <path fill="none" stroke="#000000" d="M287.137,-34.5688C266.5858,-48.3223 237.1862,-67.9975 214.6815,-83.0583"/>
 <polygon fill="none" stroke="#000000" points="212.4848,-80.3169 206.1208,-88.7874 216.3781,-86.1343 212.4848,-80.3169"/>
@@ -108,14 +108,14 @@
 </g>
 </g>
 <!-- Observation&#45;&gt;Semiosis -->
-<g id="edge5" class="edge">
+<g id="edge4" class="edge">
 <title>Observation&#45;&gt;Semiosis</title>
 <path fill="none" stroke="#000000" d="M181.895,-123.0265C181.895,-134.8082 181.895,-150.4393 181.895,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="178.3951,-163.9966 181.895,-173.9966 185.3951,-163.9967 178.3951,-163.9966"/>
 <text text-anchor="middle" x="191.395" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Semiosis&#45;&gt;Process -->
-<g id="edge2" class="edge">
+<g id="edge6" class="edge">
 <title>Semiosis&#45;&gt;Process</title>
 <path fill="none" stroke="#000000" d="M207.0012,-206.7584C231.7489,-221.306 269.7021,-243.6163 296.8806,-259.5929"/>
 <polygon fill="none" stroke="#000000" points="295.2555,-262.6975 305.65,-264.7479 298.8029,-256.6629 295.2555,-262.6975"/>
@@ -131,7 +131,7 @@
 </g>
 </g>
 <!-- Manufacturing&#45;&gt;Process -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>Manufacturing&#45;&gt;Process</title>
 <path fill="none" stroke="#000000" d="M467.8978,-207.9571C438.7091,-222.9833 395.0513,-245.458 364.6844,-261.0907"/>
 <polygon fill="none" stroke="#000000" points="363.0068,-258.0177 355.7177,-265.7067 366.2107,-264.2415 363.0068,-258.0177"/>

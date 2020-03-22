@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Polynomial&#45;&gt;AlgebricExpression -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>Polynomial&#45;&gt;AlgebricExpression</title>
 <path fill="none" stroke="#000000" d="M230.7843,-35.1884C219.2503,-47.8904 203.3628,-65.3867 190.3786,-79.6858"/>
 <polygon fill="none" stroke="#000000" points="187.6413,-77.4939 183.51,-87.25 192.8236,-82.1996 187.6413,-77.4939"/>
@@ -60,7 +60,7 @@
 </g>
 </g>
 <!-- AlgebricExpression&#45;&gt;Expression -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>AlgebricExpression&#45;&gt;Expression</title>
 <path fill="none" stroke="#000000" d="M167.3922,-123.0265C167.3922,-134.8082 167.3922,-150.4393 167.3922,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="163.8923,-163.9966 167.3922,-173.9966 170.8923,-163.9967 163.8923,-163.9966"/>

@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Symbolic&#45;&gt;Graphical -->
-<g id="edge4" class="edge">
+<g id="edge3" class="edge">
 <title>Symbolic&#45;&gt;Graphical</title>
 <path fill="none" stroke="#000000" d="M285.9731,-208.364C270.1051,-221.7671 247.4621,-240.8927 229.7385,-255.8631"/>
 <polygon fill="none" stroke="#000000" points="227.3645,-253.2869 221.9834,-262.4135 231.8814,-258.6346 227.3645,-253.2869"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Symbol&#45;&gt;Symbolic -->
-<g id="edge2" class="edge">
+<g id="edge9" class="edge">
 <title>Symbol&#45;&gt;Symbolic</title>
 <path fill="none" stroke="#000000" d="M70.1303,-115.2034C111.7826,-128.5962 187.0917,-152.8838 251.3466,-174 254.4916,-175.0336 257.7383,-176.1049 261.006,-177.1863"/>
 <polygon fill="none" stroke="#000000" points="260.1989,-180.6061 270.7923,-180.4336 262.4035,-173.9623 260.1989,-180.6061"/>
@@ -60,7 +60,7 @@
 </g>
 </g>
 <!-- Geometrical&#45;&gt;Graphical -->
-<g id="edge3" class="edge">
+<g id="edge8" class="edge">
 <title>Geometrical&#45;&gt;Graphical</title>
 <path fill="none" stroke="#000000" d="M110.867,-208.5688C128.5727,-222.2006 153.8342,-241.6497 173.3269,-256.6574"/>
 <polygon fill="none" stroke="#000000" points="171.23,-259.4601 181.2888,-262.7874 175.5004,-253.9136 171.23,-259.4601"/>
@@ -76,14 +76,14 @@
 </g>
 </g>
 <!-- SymbolicComposition&#45;&gt;Symbolic -->
-<g id="edge7" class="edge">
+<g id="edge6" class="edge">
 <title>SymbolicComposition&#45;&gt;Symbolic</title>
 <path fill="none" stroke="#000000" d="M377.9434,-121.8715C368.2514,-127.3486 358.0003,-133.8717 349.3466,-141 340.3178,-148.4374 331.6269,-157.8493 324.3883,-166.5572"/>
 <polygon fill="none" stroke="#000000" points="321.4604,-164.6135 317.9297,-174.6028 326.9191,-168.9956 321.4604,-164.6135"/>
 <text text-anchor="middle" x="358.8466" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- SymbolicComposition&#45;&gt;Symbolic -->
-<g id="edge8" class="edge">
+<g id="edge7" class="edge">
 <title>SymbolicComposition&#45;&gt;Symbolic</title>
 <path fill="none" stroke="#006400" d="M399.3897,-122.878C391.2435,-133.3339 380.0804,-146.3344 368.3466,-156 360.6971,-162.3011 351.7995,-168.1293 343.1432,-173.1801"/>
 <polygon fill="#006400" stroke="#006400" points="341.2861,-170.2086 334.2722,-178.1494 344.7072,-176.3157 341.2861,-170.2086"/>
@@ -99,7 +99,7 @@
 </g>
 </g>
 <!-- Pictorial&#45;&gt;Graphical -->
-<g id="edge9" class="edge">
+<g id="edge2" class="edge">
 <title>Pictorial&#45;&gt;Graphical</title>
 <path fill="none" stroke="#000000" d="M202.3466,-210.0265C202.3466,-221.8082 202.3466,-237.4393 202.3466,-250.8419"/>
 <polygon fill="none" stroke="#000000" points="198.8467,-250.9966 202.3466,-260.9966 205.8467,-250.9967 198.8467,-250.9966"/>
@@ -124,7 +124,7 @@
 </g>
 </g>
 <!-- Metrological&#45;&gt;Language -->
-<g id="edge5" class="edge">
+<g id="edge1" class="edge">
 <title>Metrological&#45;&gt;Language</title>
 <path fill="none" stroke="#000000" d="M512.905,-35.6057C522.5947,-48.1878 535.7839,-65.3141 546.635,-79.4043"/>
 <polygon fill="none" stroke="#000000" points="544.1624,-81.93 553.037,-87.7173 549.7084,-77.6589 544.1624,-81.93"/>
@@ -140,14 +140,14 @@
 </g>
 </g>
 <!-- Mathematical&#45;&gt;Language -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>Mathematical&#45;&gt;Language</title>
 <path fill="none" stroke="#000000" d="M619.7881,-35.6057C610.0985,-48.1878 596.9093,-65.3141 586.0582,-79.4043"/>
 <polygon fill="none" stroke="#000000" points="582.9848,-77.6589 579.6562,-87.7173 588.5308,-81.93 582.9848,-77.6589"/>
 <text text-anchor="middle" x="612.8466" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Language&#45;&gt;Symbolic -->
-<g id="edge1" class="edge">
+<g id="edge5" class="edge">
 <title>Language&#45;&gt;Symbolic</title>
 <path fill="none" stroke="#000000" d="M558.9697,-122.9642C553.3647,-134.2844 544.5305,-148.1898 532.3466,-156 504.5384,-173.8256 417.7571,-183.6517 359.9112,-188.3697"/>
 <polygon fill="none" stroke="#000000" points="359.5176,-184.8898 349.8236,-189.1649 360.0678,-191.8681 359.5176,-184.8898"/>

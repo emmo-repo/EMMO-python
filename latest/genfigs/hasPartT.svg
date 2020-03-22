@@ -53,7 +53,7 @@
 </g>
 </g>
 <!-- hasProperParticipant&#45;&gt;hasParticipant -->
-<g id="edge1" class="edge">
+<g id="edge9" class="edge">
 <title>hasProperParticipant&#45;&gt;hasParticipant</title>
 <path fill="none" stroke="#000000" d="M83.7697,-210.0265C97.3615,-222.7414 115.7459,-239.9397 130.7563,-253.9817"/>
 <polygon fill="none" stroke="#000000" points="128.5612,-256.721 138.255,-260.9966 133.3433,-251.6091 128.5612,-256.721"/>
@@ -69,7 +69,7 @@
 </g>
 </g>
 <!-- hasProperParticipant&#45;&gt;hasProperPart -->
-<g id="edge2" class="edge">
+<g id="edge10" class="edge">
 <title>hasProperParticipant&#45;&gt;hasProperPart</title>
 <path fill="none" stroke="#000000" d="M112.3633,-210.0265C149.3987,-223.9748 200.7594,-243.3185 239.6671,-257.972"/>
 <polygon fill="none" stroke="#000000" points="238.6824,-261.3411 249.2743,-261.5903 241.1496,-254.7903 238.6824,-261.3411"/>
@@ -85,7 +85,7 @@
 </g>
 </g>
 <!-- hasSpatioTemporalPart&#45;&gt;hasProperPart -->
-<g id="edge3" class="edge">
+<g id="edge4" class="edge">
 <title>hasSpatioTemporalPart&#45;&gt;hasProperPart</title>
 <path fill="none" stroke="#000000" d="M235.2472,-210.0265C246.1508,-222.5081 260.8284,-239.3101 272.967,-253.2056"/>
 <polygon fill="none" stroke="#000000" points="270.5581,-255.7681 279.7729,-260.9966 275.8299,-251.1629 270.5581,-255.7681"/>
@@ -101,7 +101,7 @@
 </g>
 </g>
 <!-- hasSpatialPart&#45;&gt;hasProperPart -->
-<g id="edge7" class="edge">
+<g id="edge1" class="edge">
 <title>hasSpatialPart&#45;&gt;hasProperPart</title>
 <path fill="none" stroke="#000000" d="M343.8608,-210.0265C335.2728,-222.2748 323.7679,-238.6835 314.1341,-252.4234"/>
 <polygon fill="none" stroke="#000000" points="310.9983,-250.7994 308.123,-260.9966 316.7298,-254.8181 310.9983,-250.7994"/>
@@ -117,7 +117,7 @@
 </g>
 </g>
 <!-- hasSpatioTemporalDirectPart&#45;&gt;hasSpatioTemporalPart -->
-<g id="edge4" class="edge">
+<g id="edge5" class="edge">
 <title>hasSpatioTemporalDirectPart&#45;&gt;hasSpatioTemporalPart</title>
 <path fill="none" stroke="#000000" d="M213.1576,-123.0265C214.241,-134.8082 215.6783,-150.4393 216.9108,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="213.4435,-164.3592 217.8445,-173.9966 220.414,-163.7181 213.4435,-164.3592"/>
@@ -133,14 +133,14 @@
 </g>
 </g>
 <!-- hasParticipant&#45;&gt;hasPart -->
-<g id="edge5" class="edge">
+<g id="edge7" class="edge">
 <title>hasParticipant&#45;&gt;hasPart</title>
 <path fill="none" stroke="#000000" d="M168.896,-297.0265C176.6393,-309.2748 187.0126,-325.6835 195.6987,-339.4234"/>
 <polygon fill="none" stroke="#000000" points="192.8165,-341.4143 201.1186,-347.9966 198.7333,-337.6738 192.8165,-341.4143"/>
 <text text-anchor="middle" x="198" y="-318.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- hasProperPart&#45;&gt;hasPart -->
-<g id="edge9" class="edge">
+<g id="edge2" class="edge">
 <title>hasProperPart&#45;&gt;hasPart</title>
 <path fill="none" stroke="#000000" d="M278.3023,-297.0265C266.2833,-309.6248 250.0651,-326.6245 236.7375,-340.5945"/>
 <polygon fill="none" stroke="#000000" points="234.046,-338.3452 229.6756,-347.9966 239.1108,-343.1772 234.046,-338.3452"/>
@@ -165,7 +165,7 @@
 </g>
 </g>
 <!-- hasReferenceUnit&#45;&gt;hasSpatialDirectPart -->
-<g id="edge13" class="edge">
+<g id="edge12" class="edge">
 <title>hasReferenceUnit&#45;&gt;hasSpatialDirectPart</title>
 <path fill="none" stroke="#000000" d="M330.1752,-36.0265C339.5556,-48.3915 352.1525,-64.9964 362.6357,-78.8153"/>
 <polygon fill="none" stroke="#000000" points="360.0099,-81.1451 368.8423,-86.9966 365.5868,-76.9143 360.0099,-81.1451"/>
@@ -188,7 +188,7 @@
 <text text-anchor="middle" x="428" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- hasTemporalPart&#45;&gt;hasProperPart -->
-<g id="edge10" class="edge">
+<g id="edge13" class="edge">
 <title>hasTemporalPart&#45;&gt;hasProperPart</title>
 <path fill="none" stroke="#000000" d="M521.472,-209.1575C489.6411,-219.0709 448.819,-231.7653 412.5,-243 392.526,-249.1786 370.6251,-255.9249 351.228,-261.8902"/>
 <polygon fill="none" stroke="#000000" points="350.1623,-258.5561 341.6324,-264.8403 352.2194,-265.247 350.1623,-258.5561"/>
@@ -204,14 +204,14 @@
 </g>
 </g>
 <!-- hasMember&#45;&gt;hasProperPart -->
-<g id="edge12" class="edge">
+<g id="edge6" class="edge">
 <title>hasMember&#45;&gt;hasProperPart</title>
 <path fill="none" stroke="#000000" d="M427.8975,-210.0265C402.1471,-223.4413 366.8173,-241.8467 339.1299,-256.2706"/>
 <polygon fill="none" stroke="#000000" points="337.3098,-253.2723 330.0582,-260.9966 340.544,-259.4804 337.3098,-253.2723"/>
 <text text-anchor="middle" x="399" y="-231.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- hasSpatialDirectPart&#45;&gt;hasSpatialPart -->
-<g id="edge6" class="edge">
+<g id="edge3" class="edge">
 <title>hasSpatialDirectPart&#45;&gt;hasSpatialPart</title>
 <path fill="none" stroke="#000000" d="M377.1128,-123.0265C373.5569,-134.9249 368.8278,-150.7492 364.7963,-164.2394"/>
 <polygon fill="none" stroke="#000000" points="361.3903,-163.4131 361.8803,-173.9966 368.0972,-165.4175 361.3903,-163.4131"/>

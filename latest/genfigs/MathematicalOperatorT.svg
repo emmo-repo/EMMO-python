@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- AlgebricOperator&#45;&gt;MathematicalOperator -->
-<g id="edge6" class="edge">
+<g id="edge10" class="edge">
 <title>AlgebricOperator&#45;&gt;MathematicalOperator</title>
 <path fill="none" stroke="#000000" d="M298.8902,-209.6057C286.1212,-222.3748 268.6719,-239.8241 254.4656,-254.0304"/>
 <polygon fill="none" stroke="#000000" points="251.9703,-251.5758 247.3741,-261.1218 256.9201,-256.5256 251.9703,-251.5758"/>
@@ -44,16 +44,16 @@
 </g>
 </g>
 <!-- DifferentialOperator -->
-<g id="node7" class="node">
+<g id="node5" class="node">
 <title>DifferentialOperator</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_f8a2fe9f_458b_4771_9aba_a50e76afc52d" xlink:title="DifferentialOperator">
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_f8a2fe9f_458b_4771_9aba_a50e76afc52d" xlink:title="DifferentialOperator">
 <ellipse fill="#ffffcc" stroke="#000000" cx="142.496" cy="-192" rx="83.3857" ry="18"/>
 <text text-anchor="middle" x="142.496" y="-188.3" font-family="Times,serif" font-size="14.00" fill="#000000">DifferentialOperator</text>
 </a>
 </g>
 </g>
 <!-- Laplacian&#45;&gt;DifferentialOperator -->
-<g id="edge7" class="edge">
+<g id="edge2" class="edge">
 <title>Laplacian&#45;&gt;DifferentialOperator</title>
 <path fill="none" stroke="#000000" d="M64.1985,-121.7745C78.6757,-134.7592 98.9362,-152.9309 115.2202,-167.5362"/>
 <polygon fill="none" stroke="#000000" points="113.0706,-170.3097 122.852,-174.3812 117.7445,-165.0987 113.0706,-170.3097"/>
@@ -69,9 +69,9 @@
 </g>
 </g>
 <!-- ArithmeticOperator -->
-<g id="node5" class="node">
+<g id="node8" class="node">
 <title>ArithmeticOperator</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_707f0cd1_941c_4b57_9f20_d0ba30cd6ff3" xlink:title="ArithmeticOperator">
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_707f0cd1_941c_4b57_9f20_d0ba30cd6ff3" xlink:title="ArithmeticOperator">
 <ellipse fill="#ffffcc" stroke="#000000" cx="307.496" cy="-105" rx="80.6858" ry="18"/>
 <text text-anchor="middle" x="307.496" y="-101.3" font-family="Times,serif" font-size="14.00" fill="#000000">ArithmeticOperator</text>
 </a>
@@ -84,12 +84,12 @@
 <polygon fill="none" stroke="#000000" points="272.2388,-84.909 282.4565,-87.7108 276.2162,-79.1487 272.2388,-84.909"/>
 <text text-anchor="middle" x="261.996" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
-<!-- ArithmeticOperator&#45;&gt;AlgebricOperator -->
-<g id="edge2" class="edge">
-<title>ArithmeticOperator&#45;&gt;AlgebricOperator</title>
-<path fill="none" stroke="#000000" d="M309.3608,-123.0265C310.5796,-134.8082 312.1966,-150.4393 313.5831,-163.8419"/>
-<polygon fill="none" stroke="#000000" points="310.123,-164.4099 314.6335,-173.9966 317.0859,-163.6895 310.123,-164.4099"/>
-<text text-anchor="middle" x="322.996" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<!-- DifferentialOperator&#45;&gt;MathematicalOperator -->
+<g id="edge4" class="edge">
+<title>DifferentialOperator&#45;&gt;MathematicalOperator</title>
+<path fill="none" stroke="#000000" d="M160.1017,-209.6057C172.8707,-222.3748 190.32,-239.8241 204.5264,-254.0304"/>
+<polygon fill="none" stroke="#000000" points="202.0718,-256.5256 211.6178,-261.1218 207.0216,-251.5758 202.0718,-256.5256"/>
+<text text-anchor="middle" x="200.996" y="-231.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Plus -->
 <g id="node6" class="node">
@@ -101,34 +101,34 @@
 </g>
 </g>
 <!-- Plus&#45;&gt;ArithmeticOperator -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>Plus&#45;&gt;ArithmeticOperator</title>
 <path fill="none" stroke="#000000" d="M275.5906,-35.6057C281.1015,-47.592 288.5085,-63.7022 294.7985,-77.383"/>
 <polygon fill="none" stroke="#000000" points="291.7807,-79.1979 299.1381,-86.8215 298.1407,-76.2738 291.7807,-79.1979"/>
 <text text-anchor="middle" x="299.996" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
-<!-- DifferentialOperator&#45;&gt;MathematicalOperator -->
-<g id="edge4" class="edge">
-<title>DifferentialOperator&#45;&gt;MathematicalOperator</title>
-<path fill="none" stroke="#000000" d="M160.1017,-209.6057C172.8707,-222.3748 190.32,-239.8241 204.5264,-254.0304"/>
-<polygon fill="none" stroke="#000000" points="202.0718,-256.5256 211.6178,-261.1218 207.0216,-251.5758 202.0718,-256.5256"/>
-<text text-anchor="middle" x="200.996" y="-231.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
 <!-- Minus -->
-<g id="node8" class="node">
+<g id="node7" class="node">
 <title>Minus</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_46d5643b_9706_4b67_8bea_ed77d6026539" xlink:title="Minus">
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_46d5643b_9706_4b67_8bea_ed77d6026539" xlink:title="Minus">
 <ellipse fill="#ffffcc" stroke="#000000" cx="346.496" cy="-18" rx="33.5952" ry="18"/>
 <text text-anchor="middle" x="346.496" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Minus</text>
 </a>
 </g>
 </g>
 <!-- Minus&#45;&gt;ArithmeticOperator -->
-<g id="edge8" class="edge">
+<g id="edge3" class="edge">
 <title>Minus&#45;&gt;ArithmeticOperator</title>
 <path fill="none" stroke="#000000" d="M338.6037,-35.6057C333.2306,-47.592 326.0088,-63.7022 319.876,-77.383"/>
 <polygon fill="none" stroke="#000000" points="316.5418,-76.2647 315.6449,-86.8215 322.9293,-79.1282 316.5418,-76.2647"/>
 <text text-anchor="middle" x="338.996" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- ArithmeticOperator&#45;&gt;AlgebricOperator -->
+<g id="edge7" class="edge">
+<title>ArithmeticOperator&#45;&gt;AlgebricOperator</title>
+<path fill="none" stroke="#000000" d="M309.3608,-123.0265C310.5796,-134.8082 312.1966,-150.4393 313.5831,-163.8419"/>
+<polygon fill="none" stroke="#000000" points="310.123,-164.4099 314.6335,-173.9966 317.0859,-163.6895 310.123,-164.4099"/>
+<text text-anchor="middle" x="322.996" y="-144.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Multiplication -->
 <g id="node9" class="node">
@@ -156,7 +156,7 @@
 </g>
 </g>
 <!-- Exponent&#45;&gt;AlgebricOperator -->
-<g id="edge1" class="edge">
+<g id="edge6" class="edge">
 <title>Exponent&#45;&gt;AlgebricOperator</title>
 <path fill="none" stroke="#000000" d="M426.8479,-120.3536C405.8361,-133.9956 374.8556,-154.1098 351.0648,-169.5561"/>
 <polygon fill="none" stroke="#000000" points="349.1382,-166.6339 342.6568,-175.015 352.9501,-172.505 349.1382,-166.6339"/>
@@ -172,7 +172,7 @@
 </g>
 </g>
 <!-- Gradient&#45;&gt;DifferentialOperator -->
-<g id="edge10" class="edge">
+<g id="edge8" class="edge">
 <title>Gradient&#45;&gt;DifferentialOperator</title>
 <path fill="none" stroke="#000000" d="M148.8384,-123.0265C147.755,-134.8082 146.3176,-150.4393 145.0852,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="141.5819,-163.7181 144.1514,-173.9966 148.5525,-164.3592 141.5819,-163.7181"/>

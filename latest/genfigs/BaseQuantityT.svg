@@ -37,7 +37,7 @@
 </g>
 </g>
 <!-- Time&#45;&gt;ISQBaseQuantity -->
-<g id="edge7" class="edge">
+<g id="edge3" class="edge">
 <title>Time&#45;&gt;ISQBaseQuantity</title>
 <path fill="none" stroke="#000000" d="M53.1156,-29.5702C58.2403,-31.8823 63.6942,-34.1618 68.8973,-36 160.5882,-68.3922 271.3908,-86.9405 343.8735,-96.4815"/>
 <polygon fill="none" stroke="#000000" points="343.4749,-99.959 353.8409,-97.7685 344.3714,-93.0166 343.4749,-99.959"/>
@@ -53,7 +53,7 @@
 </g>
 </g>
 <!-- Length&#45;&gt;ISQBaseQuantity -->
-<g id="edge3" class="edge">
+<g id="edge8" class="edge">
 <title>Length&#45;&gt;ISQBaseQuantity</title>
 <path fill="none" stroke="#000000" d="M141.3054,-29.5847C147.0683,-31.8449 153.1447,-34.1 158.8973,-36 225.5083,-58.0009 303.4279,-77.7855 356.873,-90.4692"/>
 <polygon fill="none" stroke="#000000" points="356.3555,-93.9431 366.8919,-92.8318 357.9622,-87.13 356.3555,-93.9431"/>
@@ -69,7 +69,7 @@
 </g>
 </g>
 <!-- AmountOfSubstance&#45;&gt;ISQBaseQuantity -->
-<g id="edge8" class="edge">
+<g id="edge1" class="edge">
 <title>AmountOfSubstance&#45;&gt;ISQBaseQuantity</title>
 <path fill="none" stroke="#000000" d="M285.2894,-34.7745C312.3914,-48.8094 351.1955,-68.9044 380.3562,-84.0055"/>
 <polygon fill="none" stroke="#000000" points="378.9685,-87.2283 389.458,-88.7189 382.1875,-81.0123 378.9685,-87.2283"/>
@@ -85,7 +85,7 @@
 </g>
 </g>
 <!-- ElectricCurrent&#45;&gt;ISQBaseQuantity -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>ElectricCurrent&#45;&gt;ISQBaseQuantity</title>
 <path fill="none" stroke="#000000" d="M420.8973,-36.0265C420.8973,-47.8082 420.8973,-63.4393 420.8973,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="417.3974,-76.9966 420.8973,-86.9966 424.3974,-76.9967 417.3974,-76.9966"/>
@@ -117,14 +117,14 @@
 </g>
 </g>
 <!-- LuminousIntensity&#45;&gt;ISQBaseQuantity -->
-<g id="edge2" class="edge">
+<g id="edge6" class="edge">
 <title>LuminousIntensity&#45;&gt;ISQBaseQuantity</title>
 <path fill="none" stroke="#000000" d="M771.7371,-30.1886C696.5491,-46.2213 564.7478,-74.326 485.8621,-91.1472"/>
 <polygon fill="none" stroke="#000000" points="485.0895,-87.7332 476.0393,-93.2418 486.5493,-94.5793 485.0895,-87.7332"/>
 <text text-anchor="middle" x="659.3973" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- ISQBaseQuantity&#45;&gt;BaseQuantity -->
-<g id="edge5" class="edge">
+<g id="edge7" class="edge">
 <title>ISQBaseQuantity&#45;&gt;BaseQuantity</title>
 <path fill="none" stroke="#000000" d="M420.8973,-123.0265C420.8973,-134.8082 420.8973,-150.4393 420.8973,-163.8419"/>
 <polygon fill="none" stroke="#000000" points="417.3974,-163.9966 420.8973,-173.9966 424.3974,-163.9967 417.3974,-163.9966"/>
@@ -140,7 +140,7 @@
 </g>
 </g>
 <!-- Mass&#45;&gt;ISQBaseQuantity -->
-<g id="edge6" class="edge">
+<g id="edge5" class="edge">
 <title>Mass&#45;&gt;ISQBaseQuantity</title>
 <path fill="none" stroke="#000000" d="M931.2335,-29.8145C925.9817,-32.1682 920.3353,-34.4033 914.8973,-36 773.6593,-77.4703 602.1822,-94.2899 502.8952,-100.9108"/>
 <polygon fill="none" stroke="#000000" points="502.3825,-97.4366 492.6299,-101.576 502.8353,-104.4219 502.3825,-97.4366"/>

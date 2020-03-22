@@ -85,7 +85,7 @@
 </g>
 </g>
 <!-- Semiotic&#45;&gt;Participant -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>Semiotic&#45;&gt;Participant</title>
 <path fill="none" stroke="#000000" d="M204.8653,-122.6057C197.0377,-134.9876 186.4279,-151.7703 177.6031,-165.7296"/>
 <polygon fill="none" stroke="#000000" points="174.4941,-164.0976 172.1089,-174.4204 180.4109,-167.8381 174.4941,-164.0976"/>
@@ -122,7 +122,7 @@
 <text text-anchor="middle" x="144.4954" y="-57.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Engineered&#45;&gt;Participant -->
-<g id="edge2" class="edge">
+<g id="edge4" class="edge">
 <title>Engineered&#45;&gt;Participant</title>
 <path fill="none" stroke="#000000" d="M116.3278,-122.6057C124.2978,-134.9876 135.1004,-151.7703 144.0857,-165.7296"/>
 <polygon fill="none" stroke="#000000" points="141.3243,-167.9062 149.6798,-174.4204 147.2103,-164.1174 141.3243,-167.9062"/>

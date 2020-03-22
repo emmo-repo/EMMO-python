@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Real&#45;&gt;Number -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>Real&#45;&gt;Number</title>
 <path fill="none" stroke="#000000" d="M41.8059,-33.1542C54.6052,-46.2547 73.3401,-65.4305 88.2359,-80.6768"/>
 <polygon fill="none" stroke="#000000" points="86.1318,-83.5315 95.6237,-88.2384 91.1388,-78.6396 86.1318,-83.5315"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Boolean&#45;&gt;Number -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>Boolean&#45;&gt;Number</title>
 <path fill="none" stroke="#000000" d="M112,-36.0265C112,-47.8082 112,-63.4393 112,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="108.5001,-76.9966 112,-86.9966 115.5001,-76.9967 108.5001,-76.9966"/>
@@ -60,7 +60,7 @@
 </g>
 </g>
 <!-- Integer&#45;&gt;Number -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>Integer&#45;&gt;Number</title>
 <path fill="none" stroke="#000000" d="M188.759,-33.9571C174.3656,-47.2786 153.6468,-66.4545 137.3617,-81.527"/>
 <polygon fill="none" stroke="#000000" points="134.7321,-79.1916 129.7705,-88.5529 139.4869,-84.329 134.7321,-79.1916"/>

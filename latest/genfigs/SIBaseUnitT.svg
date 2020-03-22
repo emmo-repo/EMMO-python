@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Kelvin&#45;&gt;SIBaseUnit -->
-<g id="edge4" class="edge">
+<g id="edge6" class="edge">
 <title>Kelvin&#45;&gt;SIBaseUnit</title>
 <path fill="none" stroke="#000000" d="M61.2924,-29.4257C66.9239,-31.6974 72.8521,-33.9974 78.4469,-36 140.9202,-58.3621 214.5373,-79.0074 262.7317,-91.7761"/>
 <polygon fill="none" stroke="#000000" points="262.0552,-95.2172 272.6169,-94.379 263.8378,-88.448 262.0552,-95.2172"/>
@@ -44,7 +44,7 @@
 </g>
 </g>
 <!-- Second&#45;&gt;SIBaseUnit -->
-<g id="edge7" class="edge">
+<g id="edge2" class="edge">
 <title>Second&#45;&gt;SIBaseUnit</title>
 <path fill="none" stroke="#000000" d="M150.4075,-30.2805C182.4075,-44.8564 236.1073,-69.3165 273.3075,-86.2611"/>
 <polygon fill="none" stroke="#000000" points="272.3066,-89.6511 282.8578,-90.6112 275.2082,-83.2808 272.3066,-89.6511"/>
@@ -60,7 +60,7 @@
 </g>
 </g>
 <!-- Candela&#45;&gt;SIBaseUnit -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>Candela&#45;&gt;SIBaseUnit</title>
 <path fill="none" stroke="#000000" d="M235.6919,-34.364C250.4066,-47.5617 271.3076,-66.308 287.8803,-81.1722"/>
 <polygon fill="none" stroke="#000000" points="285.8408,-84.0445 295.6222,-88.1159 290.5147,-78.8334 285.8408,-84.0445"/>
@@ -76,7 +76,7 @@
 </g>
 </g>
 <!-- Ampere&#45;&gt;SIBaseUnit -->
-<g id="edge2" class="edge">
+<g id="edge4" class="edge">
 <title>Ampere&#45;&gt;SIBaseUnit</title>
 <path fill="none" stroke="#000000" d="M314.4469,-36.0265C314.4469,-47.8082 314.4469,-63.4393 314.4469,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="310.947,-76.9966 314.4469,-86.9966 317.947,-76.9967 310.947,-76.9966"/>
@@ -92,7 +92,7 @@
 </g>
 </g>
 <!-- Mole&#45;&gt;SIBaseUnit -->
-<g id="edge5" class="edge">
+<g id="edge1" class="edge">
 <title>Mole&#45;&gt;SIBaseUnit</title>
 <path fill="none" stroke="#000000" d="M386.7143,-33.5539C373.4589,-46.6586 354.268,-65.6315 338.9933,-80.7326"/>
 <polygon fill="none" stroke="#000000" points="336.5033,-78.2726 331.8526,-87.7921 341.4247,-83.2505 336.5033,-78.2726"/>
@@ -108,7 +108,7 @@
 </g>
 </g>
 <!-- Kilogram&#45;&gt;SIBaseUnit -->
-<g id="edge6" class="edge">
+<g id="edge5" class="edge">
 <title>Kilogram&#45;&gt;SIBaseUnit</title>
 <path fill="none" stroke="#000000" d="M466.3662,-31.9781C435.949,-46.5985 388.0053,-69.6432 354.1242,-85.9286"/>
 <polygon fill="none" stroke="#000000" points="352.4638,-82.8433 344.9672,-90.33 355.4964,-89.1523 352.4638,-82.8433"/>
@@ -124,7 +124,7 @@
 </g>
 </g>
 <!-- Metre&#45;&gt;SIBaseUnit -->
-<g id="edge3" class="edge">
+<g id="edge7" class="edge">
 <title>Metre&#45;&gt;SIBaseUnit</title>
 <path fill="none" stroke="#000000" d="M565.4968,-29.5441C560.2445,-31.8072 554.7022,-34.0737 549.4469,-36 487.5749,-58.6785 414.4915,-79.1862 366.446,-91.8401"/>
 <polygon fill="none" stroke="#000000" points="365.3754,-88.5022 356.5866,-94.419 367.1469,-95.2744 365.3754,-88.5022"/>
