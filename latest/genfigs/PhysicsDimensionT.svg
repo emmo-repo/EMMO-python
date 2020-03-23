@@ -9,448 +9,448 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1606)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1606 645.7463,-1606 645.7463,4 -4,4"/>
-<!-- TimeCurrentDimension -->
+<!-- CubicTimeSquareCurrentPerMassSquareLengthDimension -->
 <g id="node1" class="node">
-<title>TimeCurrentDimension</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ab79e92b_5377_454d_be06_d61b50db295a" xlink:title="TimeCurrentDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1530" rx="95.5831" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1526.3" font-family="Times,serif" font-size="14.00" fill="#000000">TimeCurrentDimension</text>
+<title>CubicTimeSquareCurrentPerMassSquareLengthDimension</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_321af35f_f0cc_4a5c_b4fe_8c2c0303fb0c" xlink:title="CubicTimeSquareCurrentPerMassSquareLengthDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1530" rx="220.9608" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1526.3" font-family="Times,serif" font-size="14.00" fill="#000000">CubicTimeSquareCurrentPerMassSquareLengthDimension</text>
 </a>
 </g>
 </g>
 <!-- PhysicsDimension -->
-<g id="node7" class="node">
+<g id="node29" class="node">
 <title>PhysicsDimension</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_9895a1b4_f0a5_4167_ac5e_97db40b8bfcc" xlink:title="PhysicsDimension">
+<g id="a_node29"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_9895a1b4_f0a5_4167_ac5e_97db40b8bfcc" xlink:title="PhysicsDimension">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="76.6932" cy="-774" rx="76.8869" ry="18"/>
 <text text-anchor="middle" x="76.6932" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicsDimension</text>
 </a>
 </g>
 </g>
-<!-- TimeCurrentDimension&#45;&gt;PhysicsDimension -->
-<g id="edge16" class="edge">
-<title>TimeCurrentDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M344.1894,-1541.9818C294.26,-1546.0122 229.5612,-1541.8098 189.3864,-1503 137.7008,-1453.0705 90.016,-930.2709 79.0501,-802.1996"/>
+<!-- CubicTimeSquareCurrentPerMassSquareLengthDimension&#45;&gt;PhysicsDimension -->
+<g id="edge27" class="edge">
+<title>CubicTimeSquareCurrentPerMassSquareLengthDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M215.8629,-1522.2056C206.2778,-1517.0266 197.3502,-1510.6933 189.3864,-1503 137.7008,-1453.0705 90.016,-930.2709 79.0501,-802.1996"/>
 <polygon fill="none" stroke="#000000" points="82.52,-801.6965 78.1856,-792.0289 75.5452,-802.2894 82.52,-801.6965"/>
 </g>
-<!-- DimensionOne -->
-<g id="node2" class="node">
-<title>DimensionOne</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_3227b821_26a5_4c7c_9c01_5c24483e0bd0" xlink:title="DimensionOne">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1476" rx="64.189" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1472.3" font-family="Times,serif" font-size="14.00" fill="#000000">DimensionOne</text>
-</a>
-</g>
-</g>
-<!-- DimensionOne&#45;&gt;PhysicsDimension -->
-<g id="edge9" class="edge">
-<title>DimensionOne&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M361.8636,-1486.0663C310.6276,-1492.3149 234.7292,-1492.2769 189.3864,-1449 94.1574,-1358.1099 79.3518,-918.7853 77.0924,-802.3632"/>
-<polygon fill="none" stroke="#000000" points="80.5877,-802.0633 76.9106,-792.1271 73.5888,-802.1877 80.5877,-802.0633"/>
-</g>
-<!-- TemperatureDimension -->
-<g id="node3" class="node">
-<title>TemperatureDimension</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_a77a0a4b_6bd2_42b2_be27_4b63cebbb59e" xlink:title="TemperatureDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1422" rx="94.7833" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1418.3" font-family="Times,serif" font-size="14.00" fill="#000000">TemperatureDimension</text>
-</a>
-</g>
-</g>
-<!-- TemperatureDimension&#45;&gt;PhysicsDimension -->
-<g id="edge13" class="edge">
-<title>TemperatureDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M343.4336,-1433.7444C293.7975,-1437.4764 229.7771,-1433.0103 189.3864,-1395 101.5439,-1312.3344 81.442,-912.5322 77.5357,-802.2335"/>
-<polygon fill="none" stroke="#000000" points="81.0325,-802.0766 77.1974,-792.2002 74.0365,-802.3125 81.0325,-802.0766"/>
-</g>
-<!-- CubicTimeSquareCurrentPerMassSquareLengthDimension -->
-<g id="node4" class="node">
-<title>CubicTimeSquareCurrentPerMassSquareLengthDimension</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_321af35f_f0cc_4a5c_b4fe_8c2c0303fb0c" xlink:title="CubicTimeSquareCurrentPerMassSquareLengthDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1368" rx="220.9608" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1364.3" font-family="Times,serif" font-size="14.00" fill="#000000">CubicTimeSquareCurrentPerMassSquareLengthDimension</text>
-</a>
-</g>
-</g>
-<!-- CubicTimeSquareCurrentPerMassSquareLengthDimension&#45;&gt;PhysicsDimension -->
-<g id="edge12" class="edge">
-<title>CubicTimeSquareCurrentPerMassSquareLengthDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M216.7698,-1360.0664C206.8916,-1354.9407 197.6583,-1348.6553 189.3864,-1341 108.9073,-1266.5196 83.7107,-906.0725 78.0576,-802.1169"/>
-<polygon fill="none" stroke="#000000" points="81.5495,-801.8703 77.5292,-792.0679 74.5592,-802.2379 81.5495,-801.8703"/>
-</g>
 <!-- TimeDimension -->
-<g id="node5" class="node">
+<g id="node2" class="node">
 <title>TimeDimension</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_02e894c3_b793_4197_b120_3442e08f58d1" xlink:title="TimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1314" rx="68.7879" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1310.3" font-family="Times,serif" font-size="14.00" fill="#000000">TimeDimension</text>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_02e894c3_b793_4197_b120_3442e08f58d1" xlink:title="TimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1476" rx="68.7879" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1472.3" font-family="Times,serif" font-size="14.00" fill="#000000">TimeDimension</text>
 </a>
 </g>
 </g>
 <!-- TimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge27" class="edge">
+<g id="edge13" class="edge">
 <title>TimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M357.9433,-1324.043C307.1824,-1329.3752 234.4958,-1327.9155 189.3864,-1287 116.3104,-1220.7181 86.2553,-899.9621 78.7038,-802.2856"/>
+<path fill="none" stroke="#000000" d="M358.9282,-1486.4141C307.7654,-1492.298 233.871,-1491.4578 189.3864,-1449 94.1574,-1358.1099 79.3518,-918.7853 77.0924,-802.3632"/>
+<polygon fill="none" stroke="#000000" points="80.5877,-802.0633 76.9106,-792.1271 73.5888,-802.1877 80.5877,-802.0633"/>
+</g>
+<!-- MassSquareLengthPerCubicTimeCurrentDimension -->
+<g id="node3" class="node">
+<title>MassSquareLengthPerCubicTimeCurrentDimension</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_2e7e5796_4a80_4d73_bb84_f31138446c0c" xlink:title="MassSquareLengthPerCubicTimeCurrentDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1422" rx="196.0654" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1418.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerCubicTimeCurrentDimension</text>
+</a>
+</g>
+</g>
+<!-- MassSquareLengthPerCubicTimeCurrentDimension&#45;&gt;PhysicsDimension -->
+<g id="edge18" class="edge">
+<title>MassSquareLengthPerCubicTimeCurrentDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M224.2498,-1417.9479C211.5131,-1412.1983 199.6821,-1404.6889 189.3864,-1395 101.5439,-1312.3344 81.442,-912.5322 77.5357,-802.2335"/>
+<polygon fill="none" stroke="#000000" points="81.0325,-802.0766 77.1974,-792.2002 74.0365,-802.3125 81.0325,-802.0766"/>
+</g>
+<!-- MassSquareLengthPerSquareTimeSquareCurrentDimension -->
+<g id="node4" class="node">
+<title>MassSquareLengthPerSquareTimeSquareCurrentDimension</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_585e0ff0_9429_4d3c_b578_58abb1ba21d1" xlink:title="MassSquareLengthPerSquareTimeSquareCurrentDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1368" rx="224.4604" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1364.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerSquareTimeSquareCurrentDimension</text>
+</a>
+</g>
+</g>
+<!-- MassSquareLengthPerSquareTimeSquareCurrentDimension&#45;&gt;PhysicsDimension -->
+<g id="edge12" class="edge">
+<title>MassSquareLengthPerSquareTimeSquareCurrentDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M215.9913,-1359.6594C206.4063,-1354.609 197.4406,-1348.4538 189.3864,-1341 108.9073,-1266.5196 83.7107,-906.0725 78.0576,-802.1169"/>
+<polygon fill="none" stroke="#000000" points="81.5495,-801.8703 77.5292,-792.0679 74.5592,-802.2379 81.5495,-801.8703"/>
+</g>
+<!-- SquareLengthPerSquareTimeDimension -->
+<g id="node5" class="node">
+<title>SquareLengthPerSquareTimeDimension</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_847f1d9f_205e_46c1_8cb6_a9e479421f88" xlink:title="SquareLengthPerSquareTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1314" rx="154.0727" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1310.3" font-family="Times,serif" font-size="14.00" fill="#000000">SquareLengthPerSquareTimeDimension</text>
+</a>
+</g>
+</g>
+<!-- SquareLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension -->
+<g id="edge29" class="edge">
+<title>SquareLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M298.8845,-1325.7553C259.8028,-1323.5498 218.7515,-1313.6349 189.3864,-1287 116.3104,-1220.7181 86.2553,-899.9621 78.7038,-802.2856"/>
 <polygon fill="none" stroke="#000000" points="82.1904,-801.9749 77.9483,-792.2664 75.2102,-802.5012 82.1904,-801.9749"/>
 </g>
-<!-- LuminousIntensityPerSquareLengthDimension -->
+<!-- AmountDimension -->
 <g id="node6" class="node">
-<title>LuminousIntensityPerSquareLengthDimension</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_668e6ead_1530_40cc_ad5e_24b880edff50" xlink:title="LuminousIntensityPerSquareLengthDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1260" rx="177.3685" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1256.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensityPerSquareLengthDimension</text>
+<title>AmountDimension</title>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_e501069c_34d3_4dc7_ac87_c90c7342192b" xlink:title="AmountDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1260" rx="79.0865" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1256.3" font-family="Times,serif" font-size="14.00" fill="#000000">AmountDimension</text>
 </a>
 </g>
 </g>
-<!-- LuminousIntensityPerSquareLengthDimension&#45;&gt;PhysicsDimension -->
-<g id="edge26" class="edge">
-<title>LuminousIntensityPerSquareLengthDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M238.1317,-1260.311C220.2627,-1254.2991 203.5277,-1245.5141 189.3864,-1233 123.6213,-1174.8026 89.0473,-893.0345 79.482,-802.2496"/>
+<!-- AmountDimension&#45;&gt;PhysicsDimension -->
+<g id="edge17" class="edge">
+<title>AmountDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M350.8929,-1270.458C300.8048,-1274.6981 232.8469,-1271.4594 189.3864,-1233 123.6213,-1174.8026 89.0473,-893.0345 79.482,-802.2496"/>
 <polygon fill="none" stroke="#000000" points="82.9481,-801.7404 78.439,-792.1529 75.9851,-802.4597 82.9481,-801.7404"/>
 </g>
-<!-- AmountPerTimeDimension -->
-<g id="node8" class="node">
-<title>AmountPerTimeDimension</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ce7d4720_aa20_4a8c_93e8_df41a35b6723" xlink:title="AmountPerTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1206" rx="109.6807" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1202.3" font-family="Times,serif" font-size="14.00" fill="#000000">AmountPerTimeDimension</text>
+<!-- MassPerSquareTimeCurrentDimension -->
+<g id="node7" class="node">
+<title>MassPerSquareTimeCurrentDimension</title>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ec903946_ddc9_464a_903c_7373e0d1eeb5" xlink:title="MassPerSquareTimeCurrentDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1206" rx="150.5735" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1202.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassPerSquareTimeCurrentDimension</text>
 </a>
 </g>
 </g>
-<!-- AmountPerTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge7" class="edge">
-<title>AmountPerTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M329.6349,-1217.2697C283.0255,-1218.5492 227.3531,-1211.5747 189.3864,-1179 130.8828,-1128.805 92.1974,-885.6883 80.4582,-802.2092"/>
+<!-- MassPerSquareTimeCurrentDimension&#45;&gt;PhysicsDimension -->
+<g id="edge2" class="edge">
+<title>MassPerSquareTimeCurrentDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M291.4893,-1216.2529C254.9823,-1213.1141 217.3737,-1203.0126 189.3864,-1179 130.8828,-1128.805 92.1974,-885.6883 80.4582,-802.2092"/>
 <polygon fill="none" stroke="#000000" points="83.9083,-801.6074 79.0704,-792.1817 76.9744,-802.5671 83.9083,-801.6074"/>
 </g>
-<!-- LuminousIntensityCubicTimePerMassLengthDimension -->
-<g id="node9" class="node">
-<title>LuminousIntensityCubicTimePerMassLengthDimension</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_5c003f53_20a2_4bd7_8445_58187e582578" xlink:title="LuminousIntensityCubicTimePerMassLengthDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1152" rx="211.7625" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1148.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensityCubicTimePerMassLengthDimension</text>
+<!-- MassLengthPerSquareTimeDimension -->
+<g id="node8" class="node">
+<title>MassLengthPerSquareTimeDimension</title>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_53e825d9_1a09_483c_baa7_37501ebfbe1c" xlink:title="MassLengthPerSquareTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1152" rx="148.6738" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1148.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassLengthPerSquareTimeDimension</text>
 </a>
 </g>
 </g>
-<!-- LuminousIntensityCubicTimePerMassLengthDimension&#45;&gt;PhysicsDimension -->
-<g id="edge4" class="edge">
-<title>LuminousIntensityCubicTimePerMassLengthDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M221.5322,-1144.6501C210.0078,-1139.5095 199.1506,-1133.0501 189.3864,-1125 138.2005,-1082.8 96.0151,-878.7775 81.8184,-802.6877"/>
+<!-- MassLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension -->
+<g id="edge15" class="edge">
+<title>MassLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M287.0599,-1161.1044C252.1546,-1157.4743 216.5431,-1147.3892 189.3864,-1125 138.2005,-1082.8 96.0151,-878.7775 81.8184,-802.6877"/>
 <polygon fill="none" stroke="#000000" points="85.1817,-801.6252 79.9291,-792.4241 78.2974,-802.8925 85.1817,-801.6252"/>
 </g>
 <!-- MassSquareLengthPerSquareTimeDimension -->
-<g id="node10" class="node">
+<g id="node9" class="node">
 <title>MassSquareLengthPerSquareTimeDimension</title>
-<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_f6070071_d054_4b17_9d2d_f446f7147d0f" xlink:title="MassSquareLengthPerSquareTimeDimension">
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_f6070071_d054_4b17_9d2d_f446f7147d0f" xlink:title="MassSquareLengthPerSquareTimeDimension">
 <ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1098" rx="172.7694" ry="18"/>
 <text text-anchor="middle" x="415.5663" y="-1094.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerSquareTimeDimension</text>
 </a>
 </g>
 </g>
 <!-- MassSquareLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge20" class="edge">
+<g id="edge7" class="edge">
 <title>MassSquareLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension</title>
 <path fill="none" stroke="#000000" d="M242.7348,-1097.5137C223.4485,-1091.7967 205.1205,-1083.2992 189.3864,-1071 103.2834,-1003.6942 82.9559,-862.6242 78.1658,-802.32"/>
 <polygon fill="none" stroke="#000000" points="81.6353,-801.7644 77.4398,-792.0357 74.6527,-802.2574 81.6353,-801.7644"/>
 </g>
-<!-- MassSquareLengthPerCubicTimeCurrentDimension -->
-<g id="node11" class="node">
-<title>MassSquareLengthPerCubicTimeCurrentDimension</title>
-<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_2e7e5796_4a80_4d73_bb84_f31138446c0c" xlink:title="MassSquareLengthPerCubicTimeCurrentDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1044" rx="196.0654" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-1040.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerCubicTimeCurrentDimension</text>
-</a>
-</g>
-</g>
-<!-- MassSquareLengthPerCubicTimeCurrentDimension&#45;&gt;PhysicsDimension -->
-<g id="edge6" class="edge">
-<title>MassSquareLengthPerCubicTimeCurrentDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M229.8804,-1038.011C215.4417,-1032.8041 201.7095,-1025.9414 189.3864,-1017 117.174,-964.6044 89.9043,-854.2632 80.7722,-802.2561"/>
-<polygon fill="none" stroke="#000000" points="84.1749,-801.38 79.0892,-792.0856 77.2689,-802.5229 84.1749,-801.38"/>
-</g>
-<!-- MassSquareLengthPerSquareTimeSquareCurrentDimension -->
-<g id="node12" class="node">
-<title>MassSquareLengthPerSquareTimeSquareCurrentDimension</title>
-<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_585e0ff0_9429_4d3c_b578_58abb1ba21d1" xlink:title="MassSquareLengthPerSquareTimeSquareCurrentDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-990" rx="224.4604" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-986.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerSquareTimeSquareCurrentDimension</text>
-</a>
-</g>
-</g>
-<!-- MassSquareLengthPerSquareTimeSquareCurrentDimension&#45;&gt;PhysicsDimension -->
-<g id="edge1" class="edge">
-<title>MassSquareLengthPerSquareTimeSquareCurrentDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M224.8892,-980.5145C212.3927,-975.9184 200.4141,-970.1617 189.3864,-963 130.633,-924.844 98.2272,-844.3717 84.5699,-801.7866"/>
-<polygon fill="none" stroke="#000000" points="87.8644,-800.5928 81.5698,-792.0705 81.176,-802.6581 87.8644,-800.5928"/>
-</g>
-<!-- MassLengthPerSquareTimeDimension -->
-<g id="node13" class="node">
-<title>MassLengthPerSquareTimeDimension</title>
-<g id="a_node13"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_53e825d9_1a09_483c_baa7_37501ebfbe1c" xlink:title="MassLengthPerSquareTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-936" rx="148.6738" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-932.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassLengthPerSquareTimeDimension</text>
-</a>
-</g>
-</g>
-<!-- MassLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge10" class="edge">
-<title>MassLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M267.028,-934.4478C240.0629,-929.7371 213.0242,-921.8219 189.3864,-909 143.711,-884.2243 108.9574,-832.7206 90.7923,-800.9798"/>
-<polygon fill="none" stroke="#000000" points="93.8272,-799.2356 85.9033,-792.2026 87.7118,-802.642 93.8272,-799.2356"/>
-</g>
-<!-- MassPerSquareTimeCurrentDimension -->
-<g id="node14" class="node">
-<title>MassPerSquareTimeCurrentDimension</title>
-<g id="a_node14"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ec903946_ddc9_464a_903c_7373e0d1eeb5" xlink:title="MassPerSquareTimeCurrentDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-882" rx="150.5735" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassPerSquareTimeCurrentDimension</text>
-</a>
-</g>
-</g>
-<!-- MassPerSquareTimeCurrentDimension&#45;&gt;PhysicsDimension -->
-<g id="edge18" class="edge">
-<title>MassPerSquareTimeCurrentDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M272.9255,-876.0272C244.6041,-871.7898 215.5538,-865.1798 189.3864,-855 156.3338,-842.1417 124.0336,-817.291 102.548,-798.4898"/>
-<polygon fill="none" stroke="#000000" points="104.6511,-795.6751 94.8639,-791.6179 99.9847,-800.893 104.6511,-795.6751"/>
-</g>
 <!-- MassPerLengthSquareTimeDimension -->
-<g id="node15" class="node">
+<g id="node10" class="node">
 <title>MassPerLengthSquareTimeDimension</title>
-<g id="a_node15"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_53bd0c90_41c3_46e2_8779_cd2a80f7e18b" xlink:title="MassPerLengthSquareTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-828" rx="148.6738" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-824.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassPerLengthSquareTimeDimension</text>
+<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_53bd0c90_41c3_46e2_8779_cd2a80f7e18b" xlink:title="MassPerLengthSquareTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-1044" rx="148.6738" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-1040.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassPerLengthSquareTimeDimension</text>
 </a>
 </g>
 </g>
 <!-- MassPerLengthSquareTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge2" class="edge">
+<g id="edge19" class="edge">
 <title>MassPerLengthSquareTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M299.2467,-816.7397C263.8442,-812.6079 224.9086,-807.3533 189.3864,-801 172.494,-797.9787 154.3476,-793.9733 137.6582,-789.975"/>
-<polygon fill="none" stroke="#000000" points="138.0235,-786.4617 127.4792,-787.4953 136.3666,-793.2628 138.0235,-786.4617"/>
-</g>
-<!-- MassSquareLengthPerTimeDimension -->
-<g id="node16" class="node">
-<title>MassSquareLengthPerTimeDimension</title>
-<g id="a_node16"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_501f9b3a_c469_48f7_9281_2e6a8d805d7a" xlink:title="MassSquareLengthPerTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-774" rx="148.6738" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerTimeDimension</text>
-</a>
-</g>
-</g>
-<!-- MassSquareLengthPerTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge24" class="edge">
-<title>MassSquareLengthPerTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M266.4385,-774C231.5003,-774 195.3934,-774 164.1756,-774"/>
-<polygon fill="none" stroke="#000000" points="163.785,-770.5001 153.7849,-774 163.7849,-777.5001 163.785,-770.5001"/>
-</g>
-<!-- PerTimeDimension -->
-<g id="node17" class="node">
-<title>PerTimeDimension</title>
-<g id="a_node17"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_515b5579_d526_4842_9e6f_ecc34db6f368" xlink:title="PerTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-720" rx="80.6858" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-716.3" font-family="Times,serif" font-size="14.00" fill="#000000">PerTimeDimension</text>
-</a>
-</g>
-</g>
-<!-- PerTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge17" class="edge">
-<title>PerTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M340.6213,-726.7367C296.4226,-731.2589 239.5067,-738.0357 189.3864,-747 172.494,-750.0213 154.3476,-754.0267 137.6582,-758.025"/>
-<polygon fill="none" stroke="#000000" points="136.3666,-754.7372 127.4792,-760.5047 138.0235,-761.5383 136.3666,-754.7372"/>
-</g>
-<!-- LengthPerTimeDimension -->
-<g id="node18" class="node">
-<title>LengthPerTimeDimension</title>
-<g id="a_node18"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_4f5c7c54_1c63_4d17_b12b_ea0792c2b187" xlink:title="LengthPerTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-666" rx="105.0817" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">LengthPerTimeDimension</text>
-</a>
-</g>
-</g>
-<!-- LengthPerTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge3" class="edge">
-<title>LengthPerTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M310.4442,-667.5798C271.3759,-670.977 227.3475,-678.2321 189.3864,-693 156.3338,-705.8583 124.0336,-730.709 102.548,-749.5102"/>
-<polygon fill="none" stroke="#000000" points="99.9847,-747.107 94.8639,-756.3821 104.6511,-752.3249 99.9847,-747.107"/>
-</g>
-<!-- LuminousIntensityDimension -->
-<g id="node19" class="node">
-<title>LuminousIntensityDimension</title>
-<g id="a_node19"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_14ff4393_0f28_4fb4_abc7_c2cc00bc761d" xlink:title="LuminousIntensityDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-612" rx="116.1796" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-608.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensityDimension</text>
-</a>
-</g>
-</g>
-<!-- LuminousIntensityDimension&#45;&gt;PhysicsDimension -->
-<g id="edge15" class="edge">
-<title>LuminousIntensityDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M300.638,-609.1927C263.3251,-612.4899 222.9312,-620.8043 189.3864,-639 143.711,-663.7757 108.9574,-715.2794 90.7923,-747.0202"/>
-<polygon fill="none" stroke="#000000" points="87.7118,-745.358 85.9033,-755.7974 93.8272,-748.7644 87.7118,-745.358"/>
-</g>
-<!-- SquareLengthPerSquareTimeDimension -->
-<g id="node20" class="node">
-<title>SquareLengthPerSquareTimeDimension</title>
-<g id="a_node20"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_847f1d9f_205e_46c1_8cb6_a9e479421f88" xlink:title="SquareLengthPerSquareTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-558" rx="154.0727" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-554.3" font-family="Times,serif" font-size="14.00" fill="#000000">SquareLengthPerSquareTimeDimension</text>
-</a>
-</g>
-</g>
-<!-- SquareLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge28" class="edge">
-<title>SquareLengthPerSquareTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M261.4317,-557.3409C235.9425,-562.4349 210.8613,-571.0536 189.3864,-585 130.633,-623.156 98.2272,-703.6283 84.5699,-746.2134"/>
-<polygon fill="none" stroke="#000000" points="81.176,-745.3419 81.5698,-755.9295 87.8644,-747.4072 81.176,-745.3419"/>
-</g>
-<!-- MassSquareLengthPerSquareTimeCurrentDimension -->
-<g id="node21" class="node">
-<title>MassSquareLengthPerSquareTimeCurrentDimension</title>
-<g id="a_node21"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_4c49ab58_a6f6_409e_b849_f873ae1dcbee" xlink:title="MassSquareLengthPerSquareTimeCurrentDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-504" rx="200.3646" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerSquareTimeCurrentDimension</text>
-</a>
-</g>
-</g>
-<!-- MassSquareLengthPerSquareTimeCurrentDimension&#45;&gt;PhysicsDimension -->
-<g id="edge21" class="edge">
-<title>MassSquareLengthPerSquareTimeCurrentDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M228.4763,-510.5014C214.5515,-515.6438 201.3094,-522.3489 189.3864,-531 117.174,-583.3956 89.9043,-693.7368 80.7722,-745.7439"/>
-<polygon fill="none" stroke="#000000" points="77.2689,-745.4771 79.0892,-755.9144 84.1749,-746.62 77.2689,-745.4771"/>
+<path fill="none" stroke="#000000" d="M271.6624,-1048.6203C242.3546,-1043.8206 213.2325,-1034.3022 189.3864,-1017 117.174,-964.6044 89.9043,-854.2632 80.7722,-802.2561"/>
+<polygon fill="none" stroke="#000000" points="84.1749,-801.38 79.0892,-792.0856 77.2689,-802.5229 84.1749,-801.38"/>
 </g>
 <!-- MassSquareLengthPerCubicTimeDimension -->
-<g id="node22" class="node">
+<g id="node11" class="node">
 <title>MassSquareLengthPerCubicTimeDimension</title>
-<g id="a_node22"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_c8d084ad_f88e_4596_8e4d_982c6655ce6f" xlink:title="MassSquareLengthPerCubicTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-450" rx="169.77" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerCubicTimeDimension</text>
+<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_c8d084ad_f88e_4596_8e4d_982c6655ce6f" xlink:title="MassSquareLengthPerCubicTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-990" rx="169.77" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-986.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerCubicTimeDimension</text>
 </a>
 </g>
 </g>
 <!-- MassSquareLengthPerCubicTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge11" class="edge">
-<title>MassSquareLengthPerCubicTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M245.8938,-449.5769C225.4523,-455.2892 205.9773,-464.031 189.3864,-477 103.2834,-544.3058 82.9559,-685.3758 78.1658,-745.68"/>
-<polygon fill="none" stroke="#000000" points="74.6527,-745.7426 77.4398,-755.9643 81.6353,-746.2356 74.6527,-745.7426"/>
-</g>
-<!-- MassSquareLengthPerTemperatureSquareTimeDimension -->
-<g id="node23" class="node">
-<title>MassSquareLengthPerTemperatureSquareTimeDimension</title>
-<g id="a_node23"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_3ecff38b_b3cf_4a78_b49f_8580abf8715b" xlink:title="MassSquareLengthPerTemperatureSquareTimeDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-396" rx="218.2613" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-392.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerTemperatureSquareTimeDimension</text>
-</a>
-</g>
-</g>
-<!-- MassSquareLengthPerTemperatureSquareTimeDimension&#45;&gt;PhysicsDimension -->
-<g id="edge5" class="edge">
-<title>MassSquareLengthPerTemperatureSquareTimeDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M219.916,-404.0815C208.9923,-409.0996 198.6929,-415.3273 189.3864,-423 138.2005,-465.2 96.0151,-669.2225 81.8184,-745.3123"/>
-<polygon fill="none" stroke="#000000" points="78.2974,-745.1075 79.9291,-755.5759 85.1817,-746.3748 78.2974,-745.1075"/>
-</g>
-<!-- AmountDimension -->
-<g id="node24" class="node">
-<title>AmountDimension</title>
-<g id="a_node24"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_e501069c_34d3_4dc7_ac87_c90c7342192b" xlink:title="AmountDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-342" rx="79.0865" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#000000">AmountDimension</text>
-</a>
-</g>
-</g>
-<!-- AmountDimension&#45;&gt;PhysicsDimension -->
-<g id="edge23" class="edge">
-<title>AmountDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M349.9327,-331.8066C300.1487,-327.9332 233.0556,-331.5326 189.3864,-369 130.8828,-419.195 92.1974,-662.3117 80.4582,-745.7908"/>
-<polygon fill="none" stroke="#000000" points="76.9744,-745.4329 79.0704,-755.8183 83.9083,-746.3926 76.9744,-745.4329"/>
-</g>
-<!-- MassDimension -->
-<g id="node25" class="node">
-<title>MassDimension</title>
-<g id="a_node25"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_77e9dc31_5b19_463e_b000_44c6e79f98aa" xlink:title="MassDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-288" rx="68.7879" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassDimension</text>
-</a>
-</g>
-</g>
-<!-- MassDimension&#45;&gt;PhysicsDimension -->
-<g id="edge19" class="edge">
-<title>MassDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M357.6869,-278.1718C307.1083,-273.0785 234.8459,-274.7716 189.3864,-315 123.6213,-373.1974 89.0473,-654.9655 79.482,-745.7504"/>
-<polygon fill="none" stroke="#000000" points="75.9851,-745.5403 78.439,-755.8471 82.9481,-746.2596 75.9851,-745.5403"/>
-</g>
-<!-- QuarticTimeSquareCurrentPerMassSquareLengthDimension -->
-<g id="node26" class="node">
-<title>QuarticTimeSquareCurrentPerMassSquareLengthDimension</title>
-<g id="a_node26"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_b14d9be5_f81e_469b_abca_379c2e83feab" xlink:title="QuarticTimeSquareCurrentPerMassSquareLengthDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-234" rx="226.36" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">QuarticTimeSquareCurrentPerMassSquareLengthDimension</text>
-</a>
-</g>
-</g>
-<!-- QuarticTimeSquareCurrentPerMassSquareLengthDimension&#45;&gt;PhysicsDimension -->
-<g id="edge14" class="edge">
-<title>QuarticTimeSquareCurrentPerMassSquareLengthDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M216.1685,-242.534C206.5388,-247.5356 197.5149,-253.6272 189.3864,-261 116.3104,-327.2819 86.2553,-648.0379 78.7038,-745.7144"/>
-<polygon fill="none" stroke="#000000" points="75.2102,-745.4988 77.9483,-755.7336 82.1904,-746.0251 75.2102,-745.4988"/>
-</g>
-<!-- PerAmountDimension -->
-<g id="node27" class="node">
-<title>PerAmountDimension</title>
-<g id="a_node27"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_af24ae20_8ef2_435a_86a1_2ea44488b318" xlink:title="PerAmountDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-180" rx="90.9839" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#000000">PerAmountDimension</text>
-</a>
-</g>
-</g>
-<!-- PerAmountDimension&#45;&gt;PhysicsDimension -->
-<g id="edge29" class="edge">
-<title>PerAmountDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M345.2118,-168.5824C295.4544,-164.7369 230.5281,-168.9249 189.3864,-207 108.9073,-281.4804 83.7107,-641.9275 78.0576,-745.8831"/>
-<polygon fill="none" stroke="#000000" points="74.5592,-745.7621 77.5292,-755.9321 81.5495,-746.1297 74.5592,-745.7621"/>
-</g>
-<!-- MassSquareLengthPerCubicTimeSquareCurrentDimension -->
-<g id="node28" class="node">
-<title>MassSquareLengthPerCubicTimeSquareCurrentDimension</title>
-<g id="a_node28"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_7610efb8_c7c6_4684_abc1_774783c62472" xlink:title="MassSquareLengthPerCubicTimeSquareCurrentDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-126" rx="220.9608" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerCubicTimeSquareCurrentDimension</text>
-</a>
-</g>
-</g>
-<!-- MassSquareLengthPerCubicTimeSquareCurrentDimension&#45;&gt;PhysicsDimension -->
-<g id="edge22" class="edge">
-<title>MassSquareLengthPerCubicTimeSquareCurrentDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M216.3591,-133.907C206.6166,-139.0484 197.5221,-145.3437 189.3864,-153 101.5439,-235.6656 81.442,-635.4678 77.5357,-745.7665"/>
-<polygon fill="none" stroke="#000000" points="74.0365,-745.6875 77.1974,-755.7998 81.0325,-745.9234 74.0365,-745.6875"/>
-</g>
-<!-- LengthDimension -->
-<g id="node29" class="node">
-<title>LengthDimension</title>
-<g id="a_node29"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_b3600e73_3e05_479d_9714_c041c3acf5cc" xlink:title="LengthDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-72" rx="74.9875" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#000000">LengthDimension</text>
-</a>
-</g>
-</g>
-<!-- LengthDimension&#45;&gt;PhysicsDimension -->
 <g id="edge8" class="edge">
-<title>LengthDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M355.4395,-61.1992C304.4539,-55.7609 232.8697,-57.4978 189.3864,-99 94.1574,-189.8901 79.3518,-629.2147 77.0924,-745.6368"/>
-<polygon fill="none" stroke="#000000" points="73.5888,-745.8123 76.9106,-755.8729 80.5877,-745.9367 73.5888,-745.8123"/>
+<title>MassSquareLengthPerCubicTimeDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M247.3225,-987.4523C226.7698,-982.1875 206.8814,-974.3617 189.3864,-963 130.633,-924.844 98.2272,-844.3717 84.5699,-801.7866"/>
+<polygon fill="none" stroke="#000000" points="87.8644,-800.5928 81.5698,-792.0705 81.176,-802.6581 87.8644,-800.5928"/>
 </g>
 <!-- ElectricCurrentDimension -->
-<g id="node30" class="node">
+<g id="node12" class="node">
 <title>ElectricCurrentDimension</title>
-<g id="a_node30"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_d5f3e0e5_fc7d_4e64_86ad_555e74aaff84" xlink:title="ElectricCurrentDimension">
-<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-18" rx="103.9815" ry="18"/>
-<text text-anchor="middle" x="415.5663" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricCurrentDimension</text>
+<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_d5f3e0e5_fc7d_4e64_86ad_555e74aaff84" xlink:title="ElectricCurrentDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-936" rx="103.9815" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-932.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricCurrentDimension</text>
 </a>
 </g>
 </g>
 <!-- ElectricCurrentDimension&#45;&gt;PhysicsDimension -->
-<g id="edge25" class="edge">
+<g id="edge22" class="edge">
 <title>ElectricCurrentDimension&#45;&gt;PhysicsDimension</title>
-<path fill="none" stroke="#000000" d="M339.6435,-5.6774C290.3888,-2.272 228.3524,-7.3579 189.3864,-45 137.7008,-94.9295 90.016,-617.7291 79.0501,-745.8004"/>
+<path fill="none" stroke="#000000" d="M313.8298,-939.7805C273.05,-937.3514 226.9288,-929.3641 189.3864,-909 143.711,-884.2243 108.9574,-832.7206 90.7923,-800.9798"/>
+<polygon fill="none" stroke="#000000" points="93.8272,-799.2356 85.9033,-792.2026 87.7118,-802.642 93.8272,-799.2356"/>
+</g>
+<!-- MassSquareLengthPerTimeDimension -->
+<g id="node13" class="node">
+<title>MassSquareLengthPerTimeDimension</title>
+<g id="a_node13"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_501f9b3a_c469_48f7_9281_2e6a8d805d7a" xlink:title="MassSquareLengthPerTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-882" rx="148.6738" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerTimeDimension</text>
+</a>
+</g>
+</g>
+<!-- MassSquareLengthPerTimeDimension&#45;&gt;PhysicsDimension -->
+<g id="edge23" class="edge">
+<title>MassSquareLengthPerTimeDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M274.4206,-876.2488C245.6279,-872.0215 216.0145,-865.359 189.3864,-855 156.3338,-842.1417 124.0336,-817.291 102.548,-798.4898"/>
+<polygon fill="none" stroke="#000000" points="104.6511,-795.6751 94.8639,-791.6179 99.9847,-800.893 104.6511,-795.6751"/>
+</g>
+<!-- PerTimeDimension -->
+<g id="node14" class="node">
+<title>PerTimeDimension</title>
+<g id="a_node14"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_515b5579_d526_4842_9e6f_ecc34db6f368" xlink:title="PerTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-828" rx="80.6858" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-824.3" font-family="Times,serif" font-size="14.00" fill="#000000">PerTimeDimension</text>
+</a>
+</g>
+</g>
+<!-- PerTimeDimension&#45;&gt;PhysicsDimension -->
+<g id="edge28" class="edge">
+<title>PerTimeDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M340.6213,-821.2633C296.4226,-816.7411 239.5067,-809.9643 189.3864,-801 172.494,-797.9787 154.3476,-793.9733 137.6582,-789.975"/>
+<polygon fill="none" stroke="#000000" points="138.0235,-786.4617 127.4792,-787.4953 136.3666,-793.2628 138.0235,-786.4617"/>
+</g>
+<!-- LengthPerTimeDimension -->
+<g id="node15" class="node">
+<title>LengthPerTimeDimension</title>
+<g id="a_node15"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_4f5c7c54_1c63_4d17_b12b_ea0792c2b187" xlink:title="LengthPerTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-774" rx="105.0817" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">LengthPerTimeDimension</text>
+</a>
+</g>
+</g>
+<!-- LengthPerTimeDimension&#45;&gt;PhysicsDimension -->
+<g id="edge1" class="edge">
+<title>LengthPerTimeDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M310.2023,-774C263.157,-774 208.383,-774 163.7127,-774"/>
+<polygon fill="none" stroke="#000000" points="163.4664,-770.5001 153.4663,-774 163.4663,-777.5001 163.4664,-770.5001"/>
+</g>
+<!-- LuminousIntensityDimension -->
+<g id="node16" class="node">
+<title>LuminousIntensityDimension</title>
+<g id="a_node16"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_14ff4393_0f28_4fb4_abc7_c2cc00bc761d" xlink:title="LuminousIntensityDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-720" rx="116.1796" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-716.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensityDimension</text>
+</a>
+</g>
+</g>
+<!-- LuminousIntensityDimension&#45;&gt;PhysicsDimension -->
+<g id="edge5" class="edge">
+<title>LuminousIntensityDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M316.1082,-729.3447C276.5208,-733.7221 230.6505,-739.6197 189.3864,-747 172.494,-750.0213 154.3476,-754.0267 137.6582,-758.025"/>
+<polygon fill="none" stroke="#000000" points="136.3666,-754.7372 127.4792,-760.5047 138.0235,-761.5383 136.3666,-754.7372"/>
+</g>
+<!-- MassDimension -->
+<g id="node17" class="node">
+<title>MassDimension</title>
+<g id="a_node17"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_77e9dc31_5b19_463e_b000_44c6e79f98aa" xlink:title="MassDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-666" rx="68.7879" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassDimension</text>
+</a>
+</g>
+</g>
+<!-- MassDimension&#45;&gt;PhysicsDimension -->
+<g id="edge3" class="edge">
+<title>MassDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M346.6107,-665.3637C300.6576,-667.0524 239.6941,-673.429 189.3864,-693 156.3338,-705.8583 124.0336,-730.709 102.548,-749.5102"/>
+<polygon fill="none" stroke="#000000" points="99.9847,-747.107 94.8639,-756.3821 104.6511,-752.3249 99.9847,-747.107"/>
+</g>
+<!-- PerAmountDimension -->
+<g id="node18" class="node">
+<title>PerAmountDimension</title>
+<g id="a_node18"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_af24ae20_8ef2_435a_86a1_2ea44488b318" xlink:title="PerAmountDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-612" rx="90.9839" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-608.3" font-family="Times,serif" font-size="14.00" fill="#000000">PerAmountDimension</text>
+</a>
+</g>
+</g>
+<!-- PerAmountDimension&#45;&gt;PhysicsDimension -->
+<g id="edge21" class="edge">
+<title>PerAmountDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M327.2062,-607.6063C283.405,-609.0264 231.1002,-616.3732 189.3864,-639 143.711,-663.7757 108.9574,-715.2794 90.7923,-747.0202"/>
+<polygon fill="none" stroke="#000000" points="87.7118,-745.358 85.9033,-755.7974 93.8272,-748.7644 87.7118,-745.358"/>
+</g>
+<!-- MassSquareLengthPerCubicTimeSquareCurrentDimension -->
+<g id="node19" class="node">
+<title>MassSquareLengthPerCubicTimeSquareCurrentDimension</title>
+<g id="a_node19"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_7610efb8_c7c6_4684_abc1_774783c62472" xlink:title="MassSquareLengthPerCubicTimeSquareCurrentDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-558" rx="220.9608" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-554.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerCubicTimeSquareCurrentDimension</text>
+</a>
+</g>
+</g>
+<!-- MassSquareLengthPerCubicTimeSquareCurrentDimension&#45;&gt;PhysicsDimension -->
+<g id="edge25" class="edge">
+<title>MassSquareLengthPerCubicTimeSquareCurrentDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M225.4533,-567.279C212.7531,-571.9088 200.5799,-577.7307 189.3864,-585 130.633,-623.156 98.2272,-703.6283 84.5699,-746.2134"/>
+<polygon fill="none" stroke="#000000" points="81.176,-745.3419 81.5698,-755.9295 87.8644,-747.4072 81.176,-745.3419"/>
+</g>
+<!-- QuarticTimeSquareCurrentPerMassSquareLengthDimension -->
+<g id="node20" class="node">
+<title>QuarticTimeSquareCurrentPerMassSquareLengthDimension</title>
+<g id="a_node20"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_b14d9be5_f81e_469b_abca_379c2e83feab" xlink:title="QuarticTimeSquareCurrentPerMassSquareLengthDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-504" rx="226.36" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#000000">QuarticTimeSquareCurrentPerMassSquareLengthDimension</text>
+</a>
+</g>
+</g>
+<!-- QuarticTimeSquareCurrentPerMassSquareLengthDimension&#45;&gt;PhysicsDimension -->
+<g id="edge9" class="edge">
+<title>QuarticTimeSquareCurrentPerMassSquareLengthDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M221.2525,-513.3382C209.9703,-518.0431 199.2289,-523.8585 189.3864,-531 117.174,-583.3956 89.9043,-693.7368 80.7722,-745.7439"/>
+<polygon fill="none" stroke="#000000" points="77.2689,-745.4771 79.0892,-755.9144 84.1749,-746.62 77.2689,-745.4771"/>
+</g>
+<!-- LengthDimension -->
+<g id="node21" class="node">
+<title>LengthDimension</title>
+<g id="a_node21"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_b3600e73_3e05_479d_9714_c041c3acf5cc" xlink:title="LengthDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-450" rx="74.9875" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#000000">LengthDimension</text>
+</a>
+</g>
+</g>
+<!-- LengthDimension&#45;&gt;PhysicsDimension -->
+<g id="edge14" class="edge">
+<title>LengthDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M350.8626,-440.9419C301.5849,-437.6866 234.7194,-441.5637 189.3864,-477 103.2834,-544.3058 82.9559,-685.3758 78.1658,-745.68"/>
+<polygon fill="none" stroke="#000000" points="74.6527,-745.7426 77.4398,-755.9643 81.6353,-746.2356 74.6527,-745.7426"/>
+</g>
+<!-- AmountPerTimeDimension -->
+<g id="node22" class="node">
+<title>AmountPerTimeDimension</title>
+<g id="a_node22"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ce7d4720_aa20_4a8c_93e8_df41a35b6723" xlink:title="AmountPerTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-396" rx="109.6807" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-392.3" font-family="Times,serif" font-size="14.00" fill="#000000">AmountPerTimeDimension</text>
+</a>
+</g>
+</g>
+<!-- AmountPerTimeDimension&#45;&gt;PhysicsDimension -->
+<g id="edge4" class="edge">
+<title>AmountPerTimeDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M327.3555,-385.2521C281.4712,-384.4965 227.2227,-391.806 189.3864,-423 138.2005,-465.2 96.0151,-669.2225 81.8184,-745.3123"/>
+<polygon fill="none" stroke="#000000" points="78.2974,-745.1075 79.9291,-755.5759 85.1817,-746.3748 78.2974,-745.1075"/>
+</g>
+<!-- MassSquareLengthPerSquareTimeCurrentDimension -->
+<g id="node23" class="node">
+<title>MassSquareLengthPerSquareTimeCurrentDimension</title>
+<g id="a_node23"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_4c49ab58_a6f6_409e_b849_f873ae1dcbee" xlink:title="MassSquareLengthPerSquareTimeCurrentDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-342" rx="200.3646" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerSquareTimeCurrentDimension</text>
+</a>
+</g>
+</g>
+<!-- MassSquareLengthPerSquareTimeCurrentDimension&#45;&gt;PhysicsDimension -->
+<g id="edge24" class="edge">
+<title>MassSquareLengthPerSquareTimeCurrentDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M224.3995,-347.4735C211.7511,-352.9342 199.891,-359.9872 189.3864,-369 130.8828,-419.195 92.1974,-662.3117 80.4582,-745.7908"/>
+<polygon fill="none" stroke="#000000" points="76.9744,-745.4329 79.0704,-755.8183 83.9083,-746.3926 76.9744,-745.4329"/>
+</g>
+<!-- TimeCurrentDimension -->
+<g id="node24" class="node">
+<title>TimeCurrentDimension</title>
+<g id="a_node24"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ab79e92b_5377_454d_be06_d61b50db295a" xlink:title="TimeCurrentDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-288" rx="95.5831" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#000000">TimeCurrentDimension</text>
+</a>
+</g>
+</g>
+<!-- TimeCurrentDimension&#45;&gt;PhysicsDimension -->
+<g id="edge10" class="edge">
+<title>TimeCurrentDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M340.6852,-276.804C291.8828,-273.8877 229.9594,-279.0958 189.3864,-315 123.6213,-373.1974 89.0473,-654.9655 79.482,-745.7504"/>
+<polygon fill="none" stroke="#000000" points="75.9851,-745.5403 78.439,-755.8471 82.9481,-746.2596 75.9851,-745.5403"/>
+</g>
+<!-- MassSquareLengthPerTemperatureSquareTimeDimension -->
+<g id="node25" class="node">
+<title>MassSquareLengthPerTemperatureSquareTimeDimension</title>
+<g id="a_node25"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_3ecff38b_b3cf_4a78_b49f_8580abf8715b" xlink:title="MassSquareLengthPerTemperatureSquareTimeDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-234" rx="218.2613" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassSquareLengthPerTemperatureSquareTimeDimension</text>
+</a>
+</g>
+</g>
+<!-- MassSquareLengthPerTemperatureSquareTimeDimension&#45;&gt;PhysicsDimension -->
+<g id="edge26" class="edge">
+<title>MassSquareLengthPerTemperatureSquareTimeDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M217.7354,-241.7325C207.517,-246.8808 197.9543,-253.2287 189.3864,-261 116.3104,-327.2819 86.2553,-648.0379 78.7038,-745.7144"/>
+<polygon fill="none" stroke="#000000" points="75.2102,-745.4988 77.9483,-755.7336 82.1904,-746.0251 75.2102,-745.4988"/>
+</g>
+<!-- LuminousIntensityPerSquareLengthDimension -->
+<g id="node26" class="node">
+<title>LuminousIntensityPerSquareLengthDimension</title>
+<g id="a_node26"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_668e6ead_1530_40cc_ad5e_24b880edff50" xlink:title="LuminousIntensityPerSquareLengthDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-180" rx="177.3685" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensityPerSquareLengthDimension</text>
+</a>
+</g>
+</g>
+<!-- LuminousIntensityPerSquareLengthDimension&#45;&gt;PhysicsDimension -->
+<g id="edge20" class="edge">
+<title>LuminousIntensityPerSquareLengthDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M238.4094,-178.7833C220.3242,-184.9122 203.4631,-193.9726 189.3864,-207 108.9073,-281.4804 83.7107,-641.9275 78.0576,-745.8831"/>
+<polygon fill="none" stroke="#000000" points="74.5592,-745.7621 77.5292,-755.9321 81.5495,-746.1297 74.5592,-745.7621"/>
+</g>
+<!-- TemperatureDimension -->
+<g id="node27" class="node">
+<title>TemperatureDimension</title>
+<g id="a_node27"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_a77a0a4b_6bd2_42b2_be27_4b63cebbb59e" xlink:title="TemperatureDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-126" rx="94.7833" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#000000">TemperatureDimension</text>
+</a>
+</g>
+</g>
+<!-- TemperatureDimension&#45;&gt;PhysicsDimension -->
+<g id="edge16" class="edge">
+<title>TemperatureDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M343.4336,-114.2556C293.7975,-110.5236 229.7771,-114.9897 189.3864,-153 101.5439,-235.6656 81.442,-635.4678 77.5357,-745.7665"/>
+<polygon fill="none" stroke="#000000" points="74.0365,-745.6875 77.1974,-755.7998 81.0325,-745.9234 74.0365,-745.6875"/>
+</g>
+<!-- LuminousIntensityCubicTimePerMassLengthDimension -->
+<g id="node28" class="node">
+<title>LuminousIntensityCubicTimePerMassLengthDimension</title>
+<g id="a_node28"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_5c003f53_20a2_4bd7_8445_58187e582578" xlink:title="LuminousIntensityCubicTimePerMassLengthDimension">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-72" rx="211.7625" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensityCubicTimePerMassLengthDimension</text>
+</a>
+</g>
+</g>
+<!-- LuminousIntensityCubicTimePerMassLengthDimension&#45;&gt;PhysicsDimension -->
+<g id="edge6" class="edge">
+<title>LuminousIntensityCubicTimePerMassLengthDimension&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M218.3027,-78.6896C207.8069,-84.056 198.0401,-90.7405 189.3864,-99 94.1574,-189.8901 79.3518,-629.2147 77.0924,-745.6368"/>
+<polygon fill="none" stroke="#000000" points="73.5888,-745.8123 76.9106,-755.8729 80.5877,-745.9367 73.5888,-745.8123"/>
+</g>
+<!-- DimensionOne -->
+<g id="node30" class="node">
+<title>DimensionOne</title>
+<g id="a_node30"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_3227b821_26a5_4c7c_9c01_5c24483e0bd0" xlink:title="DimensionOne">
+<ellipse fill="#ffc880" stroke="#000000" cx="415.5663" cy="-18" rx="64.189" ry="18"/>
+<text text-anchor="middle" x="415.5663" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">DimensionOne</text>
+</a>
+</g>
+</g>
+<!-- DimensionOne&#45;&gt;PhysicsDimension -->
+<g id="edge11" class="edge">
+<title>DimensionOne&#45;&gt;PhysicsDimension</title>
+<path fill="none" stroke="#000000" d="M362.2347,-7.8752C310.9078,-1.4781 234.6097,-1.3132 189.3864,-45 137.7008,-94.9295 90.016,-617.7291 79.0501,-745.8004"/>
 <polygon fill="none" stroke="#000000" points="75.5452,-745.7106 78.1856,-755.9711 82.52,-746.3035 75.5452,-745.7106"/>
 </g>
 <!-- key1 -->

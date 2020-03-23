@@ -9,21 +9,21 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 324.5,-112 324.5,4 -4,4"/>
-<!-- mereotopological -->
+<!-- connected -->
 <g id="node1" class="node">
-<title>mereotopological</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/mereotopology#EMMO_03212fd7_abfd_4828_9c8e_62c293052d4b" xlink:title="mereotopological">
-<polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="139.5,-108 27.5,-108 27.5,-72 139.5,-72 139.5,-108"/>
-<text text-anchor="middle" x="83.5" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">mereotopological</text>
+<title>connected</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/mereotopology#EMMO_6703954e_34c4_4a15_a9e7_f313760ae1a8" xlink:title="connected">
+<polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="71,-36 0,-36 0,0 71,0 71,-36"/>
+<text text-anchor="middle" x="35.5" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">connected</text>
 </a>
 </g>
 </g>
-<!-- connected -->
+<!-- mereotopological -->
 <g id="node2" class="node">
-<title>connected</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/mereotopology#EMMO_6703954e_34c4_4a15_a9e7_f313760ae1a8" xlink:title="connected">
-<polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="71,-36 0,-36 0,0 71,0 71,-36"/>
-<text text-anchor="middle" x="35.5" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">connected</text>
+<title>mereotopological</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/mereotopology#EMMO_03212fd7_abfd_4828_9c8e_62c293052d4b" xlink:title="mereotopological">
+<polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="139.5,-108 27.5,-108 27.5,-72 139.5,-72 139.5,-108"/>
+<text text-anchor="middle" x="83.5" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">mereotopological</text>
 </a>
 </g>
 </g>
