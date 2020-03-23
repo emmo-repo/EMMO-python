@@ -5,94 +5,94 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="850pt" height="116pt"
- viewBox="0.00 0.00 849.54 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 850.19 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 845.5438,-112 845.5438,4 -4,4"/>
-<!-- DerivedQuantity -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 846.1892,-112 846.1892,4 -4,4"/>
+<!-- InternationalSystemOfQuantity -->
 <g id="node1" class="node">
-<title>DerivedQuantity</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_71f6ab56_342c_484b_bbe0_de86b7367cb3" xlink:title="DerivedQuantity">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="69.5438" cy="-18" rx="69.5877" ry="18"/>
-<text text-anchor="middle" x="69.5438" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">DerivedQuantity</text>
+<title>InternationalSystemOfQuantity</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_f35cff4d_dc09_44cf_a729_22fb79e3bfb2" xlink:title="InternationalSystemOfQuantity">
+<ellipse fill="#ffffcc" stroke="#000000" cx="122.1892" cy="-18" rx="122.3786" ry="18"/>
+<text text-anchor="middle" x="122.1892" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">InternationalSystemOfQuantity</text>
 </a>
 </g>
 </g>
 <!-- PhysicalQuantity -->
-<g id="node5" class="node">
-<title>PhysicalQuantity</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819" xlink:title="PhysicalQuantity">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="334.5438" cy="-90" rx="71.4873" ry="18"/>
-<text text-anchor="middle" x="334.5438" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicalQuantity</text>
-</a>
-</g>
-</g>
-<!-- DerivedQuantity&#45;&gt;PhysicalQuantity -->
-<g id="edge3" class="edge">
-<title>DerivedQuantity&#45;&gt;PhysicalQuantity</title>
-<path fill="none" stroke="#000000" d="M117.5333,-31.0387C161.9532,-43.1074 228.1214,-61.0852 275.708,-74.0144"/>
-<polygon fill="none" stroke="#000000" points="274.998,-77.4483 285.5659,-76.6928 276.8334,-70.6932 274.998,-77.4483"/>
-</g>
-<!-- PhysicalConstant -->
-<g id="node2" class="node">
-<title>PhysicalConstant</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_b953f2b1_c8d1_4dd9_b630_d3ef6580c2bb" xlink:title="PhysicalConstant">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="228.5438" cy="-18" rx="71.4873" ry="18"/>
-<text text-anchor="middle" x="228.5438" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicalConstant</text>
-</a>
-</g>
-</g>
-<!-- PhysicalConstant&#45;&gt;PhysicalQuantity -->
-<g id="edge4" class="edge">
-<title>PhysicalConstant&#45;&gt;PhysicalQuantity</title>
-<path fill="none" stroke="#000000" d="M253.3961,-34.8808C267.6463,-44.5601 285.7208,-56.8372 301.1929,-67.3466"/>
-<polygon fill="none" stroke="#000000" points="299.2412,-70.2519 309.48,-72.9755 303.1744,-64.4613 299.2412,-70.2519"/>
-</g>
-<!-- InternationalSystemOfQuantity -->
 <g id="node3" class="node">
-<title>InternationalSystemOfQuantity</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_f35cff4d_dc09_44cf_a729_22fb79e3bfb2" xlink:title="InternationalSystemOfQuantity">
-<ellipse fill="#ffffcc" stroke="#000000" cx="440.5438" cy="-18" rx="122.3786" ry="18"/>
-<text text-anchor="middle" x="440.5438" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">InternationalSystemOfQuantity</text>
+<title>PhysicalQuantity</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819" xlink:title="PhysicalQuantity">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="395.1892" cy="-90" rx="71.4873" ry="18"/>
+<text text-anchor="middle" x="395.1892" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicalQuantity</text>
 </a>
 </g>
 </g>
 <!-- InternationalSystemOfQuantity&#45;&gt;PhysicalQuantity -->
-<g id="edge1" class="edge">
+<g id="edge4" class="edge">
 <title>InternationalSystemOfQuantity&#45;&gt;PhysicalQuantity</title>
-<path fill="none" stroke="#000000" d="M414.6133,-35.6132C400.5747,-45.1488 383.0725,-57.0371 368.0151,-67.2648"/>
-<polygon fill="none" stroke="#000000" points="365.7823,-64.5503 359.4767,-73.0645 369.7155,-70.3409 365.7823,-64.5503"/>
+<path fill="none" stroke="#000000" d="M182.1002,-33.8007C227.7232,-45.8331 290.2236,-62.3168 335.7338,-74.3195"/>
+<polygon fill="none" stroke="#000000" points="334.902,-77.7197 345.4639,-76.8856 336.6871,-70.9511 334.902,-77.7197"/>
 </g>
 <!-- BaseQuantity -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>BaseQuantity</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_acaaa124_3dde_48b6_86e6_6ec6f364f408" xlink:title="BaseQuantity">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="639.5438" cy="-18" rx="58.4896" ry="18"/>
-<text text-anchor="middle" x="639.5438" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">BaseQuantity</text>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_acaaa124_3dde_48b6_86e6_6ec6f364f408" xlink:title="BaseQuantity">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="321.1892" cy="-18" rx="58.4896" ry="18"/>
+<text text-anchor="middle" x="321.1892" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">BaseQuantity</text>
 </a>
 </g>
 </g>
 <!-- BaseQuantity&#45;&gt;PhysicalQuantity -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>BaseQuantity&#45;&gt;PhysicalQuantity</title>
-<path fill="none" stroke="#000000" d="M595.3409,-29.939C587.4291,-32.0079 579.2516,-34.1024 571.5438,-36 513.204,-50.3632 446.4515,-65.4524 398.6881,-76.0176"/>
-<polygon fill="none" stroke="#000000" points="397.8045,-72.6283 388.794,-78.2015 399.3134,-79.4637 397.8045,-72.6283"/>
+<path fill="none" stroke="#000000" d="M339.1025,-35.4292C348.3057,-44.3836 359.6784,-55.449 369.7721,-65.2698"/>
+<polygon fill="none" stroke="#000000" points="367.5763,-68.0167 377.1843,-72.4818 372.4578,-62.9996 367.5763,-68.0167"/>
+</g>
+<!-- PhysicalConstant -->
+<g id="node4" class="node">
+<title>PhysicalConstant</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_b953f2b1_c8d1_4dd9_b630_d3ef6580c2bb" xlink:title="PhysicalConstant">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="469.1892" cy="-18" rx="71.4873" ry="18"/>
+<text text-anchor="middle" x="469.1892" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicalConstant</text>
+</a>
+</g>
+</g>
+<!-- PhysicalConstant&#45;&gt;PhysicalQuantity -->
+<g id="edge1" class="edge">
+<title>PhysicalConstant&#45;&gt;PhysicalQuantity</title>
+<path fill="none" stroke="#000000" d="M451.2758,-35.4292C442.0726,-44.3836 430.6999,-55.449 420.6063,-65.2698"/>
+<polygon fill="none" stroke="#000000" points="417.9205,-62.9996 413.194,-72.4818 422.8021,-68.0167 417.9205,-62.9996"/>
+</g>
+<!-- DerivedQuantity -->
+<g id="node5" class="node">
+<title>DerivedQuantity</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_71f6ab56_342c_484b_bbe0_de86b7367cb3" xlink:title="DerivedQuantity">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="628.1892" cy="-18" rx="69.5877" ry="18"/>
+<text text-anchor="middle" x="628.1892" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">DerivedQuantity</text>
+</a>
+</g>
+</g>
+<!-- DerivedQuantity&#45;&gt;PhysicalQuantity -->
+<g id="edge2" class="edge">
+<title>DerivedQuantity&#45;&gt;PhysicalQuantity</title>
+<path fill="none" stroke="#000000" d="M583.2644,-31.8823C545.2703,-43.623 490.6937,-60.4879 450.1092,-73.029"/>
+<polygon fill="none" stroke="#000000" points="448.8938,-69.7412 440.3729,-76.0376 450.9605,-76.4292 448.8938,-69.7412"/>
 </g>
 <!-- key1 -->
 <g id="node6" class="node">
 <title>key1</title>
-<text text-anchor="start" x="733.5438" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="734.1892" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node7" class="node">
 <title>key2</title>
-<text text-anchor="start" x="812.5438" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="813.1892" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge5" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M754.5438,-19C775.5438,-19 783.2548,-19 800.1019,-19"/>
-<polygon fill="none" stroke="#000000" points="800.5439,-22.5001 810.5438,-19 800.5438,-15.5001 800.5439,-22.5001"/>
+<path fill="none" stroke="#000000" d="M755.1892,-19C776.1892,-19 783.9001,-19 800.7473,-19"/>
+<polygon fill="none" stroke="#000000" points="801.1892,-22.5001 811.1892,-19 801.1891,-15.5001 801.1892,-22.5001"/>
 </g>
 </g>
 </svg>

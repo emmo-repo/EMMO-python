@@ -5,94 +5,94 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="649pt" height="116pt"
- viewBox="0.00 0.00 648.99 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 649.30 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 644.9919,-112 644.9919,4 -4,4"/>
-<!-- MathematicalOperator -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 645.2964,-112 645.2964,4 -4,4"/>
+<!-- Number -->
 <g id="node1" class="node">
-<title>MathematicalOperator</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_f6d0c26a_98b6_4cf8_8632_aa259131faaa" xlink:title="MathematicalOperator">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="90.9919" cy="-18" rx="90.9839" ry="18"/>
-<text text-anchor="middle" x="90.9919" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MathematicalOperator</text>
+<title>Number</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_21f56795_ee72_4858_b571_11cfaa59c1a8" xlink:title="Number">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="40.2964" cy="-18" rx="40.0939" ry="18"/>
+<text text-anchor="middle" x="40.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Number</text>
 </a>
 </g>
 </g>
 <!-- MathematicalSymbol -->
-<g id="node3" class="node">
-<title>MathematicalSymbol</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_5be83f9c_a4ba_4b9a_be1a_5bfc6e891231" xlink:title="MathematicalSymbol">
-<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="285.9919" cy="-90" rx="87.9851" ry="18"/>
-<text text-anchor="middle" x="285.9919" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">MathematicalSymbol</text>
-</a>
-</g>
-</g>
-<!-- MathematicalOperator&#45;&gt;MathematicalSymbol -->
-<g id="edge4" class="edge">
-<title>MathematicalOperator&#45;&gt;MathematicalSymbol</title>
-<path fill="none" stroke="#000000" d="M134.2687,-33.9791C163.6557,-44.8297 202.679,-59.2383 233.7902,-70.7255"/>
-<polygon fill="none" stroke="#000000" points="232.5787,-74.0091 243.172,-74.1896 235.0033,-67.4424 232.5787,-74.0091"/>
-</g>
-<!-- Number -->
 <g id="node2" class="node">
-<title>Number</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_21f56795_ee72_4858_b571_11cfaa59c1a8" xlink:title="Number">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="239.9919" cy="-18" rx="40.0939" ry="18"/>
-<text text-anchor="middle" x="239.9919" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Number</text>
+<title>MathematicalSymbol</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_5be83f9c_a4ba_4b9a_be1a_5bfc6e891231" xlink:title="MathematicalSymbol">
+<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="204.2964" cy="-90" rx="87.9851" ry="18"/>
+<text text-anchor="middle" x="204.2964" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">MathematicalSymbol</text>
 </a>
 </g>
 </g>
 <!-- Number&#45;&gt;MathematicalSymbol -->
 <g id="edge2" class="edge">
 <title>Number&#45;&gt;MathematicalSymbol</title>
-<path fill="none" stroke="#000000" d="M251.1272,-35.4292C256.4871,-43.8185 263.0308,-54.0608 268.9952,-63.3965"/>
-<polygon fill="none" stroke="#000000" points="266.1454,-65.4368 274.4788,-71.9794 272.0443,-61.6681 266.1454,-65.4368"/>
+<path fill="none" stroke="#000000" d="M69.2388,-30.7064C93.6932,-41.4425 129.1806,-57.0223 157.6422,-69.5177"/>
+<polygon fill="none" stroke="#000000" points="156.4355,-72.8103 166.999,-73.6255 159.2495,-66.4008 156.4355,-72.8103"/>
 </g>
 <!-- Equals -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>Equals</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_535d75a4_1972_40bc_88c6_ca566386934f" xlink:title="Equals">
-<ellipse fill="#ffc880" stroke="#000000" cx="332.9919" cy="-18" rx="34.394" ry="18"/>
-<text text-anchor="middle" x="332.9919" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Equals</text>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_535d75a4_1972_40bc_88c6_ca566386934f" xlink:title="Equals">
+<ellipse fill="#ffc880" stroke="#000000" cx="133.2964" cy="-18" rx="34.394" ry="18"/>
+<text text-anchor="middle" x="133.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Equals</text>
 </a>
 </g>
 </g>
 <!-- Equals&#45;&gt;MathematicalSymbol -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>Equals&#45;&gt;MathematicalSymbol</title>
-<path fill="none" stroke="#000000" d="M321.8536,-35.063C316.2836,-43.5957 309.4185,-54.1125 303.1908,-63.6528"/>
-<polygon fill="none" stroke="#000000" points="300.2416,-61.7677 297.7062,-72.0547 306.1033,-65.5941 300.2416,-61.7677"/>
+<path fill="none" stroke="#000000" d="M149.4074,-34.3379C158.3625,-43.4191 169.692,-54.9082 179.7293,-65.0869"/>
+<polygon fill="none" stroke="#000000" points="177.2436,-67.5509 186.7573,-72.2138 182.2279,-62.6359 177.2436,-67.5509"/>
+</g>
+<!-- MathematicalOperator -->
+<g id="node4" class="node">
+<title>MathematicalOperator</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_f6d0c26a_98b6_4cf8_8632_aa259131faaa" xlink:title="MathematicalOperator">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="276.2964" cy="-18" rx="90.9839" ry="18"/>
+<text text-anchor="middle" x="276.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MathematicalOperator</text>
+</a>
+</g>
+</g>
+<!-- MathematicalOperator&#45;&gt;MathematicalSymbol -->
+<g id="edge4" class="edge">
+<title>MathematicalOperator&#45;&gt;MathematicalSymbol</title>
+<path fill="none" stroke="#000000" d="M258.4987,-35.7978C249.6716,-44.6248 238.8633,-55.4331 229.2271,-65.0693"/>
+<polygon fill="none" stroke="#000000" points="226.7352,-62.6115 222.139,-72.1575 231.685,-67.5612 226.7352,-62.6115"/>
 </g>
 <!-- MetricPrefix -->
 <g id="node5" class="node">
 <title>MetricPrefix</title>
 <g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_7d2afa66_ae9e_4095_a9bf_421d0be401b6" xlink:title="MetricPrefix">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="440.9919" cy="-18" rx="55.7903" ry="18"/>
-<text text-anchor="middle" x="440.9919" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MetricPrefix</text>
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="441.2964" cy="-18" rx="55.7903" ry="18"/>
+<text text-anchor="middle" x="441.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MetricPrefix</text>
 </a>
 </g>
 </g>
 <!-- MetricPrefix&#45;&gt;MathematicalSymbol -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>MetricPrefix&#45;&gt;MathematicalSymbol</title>
-<path fill="none" stroke="#000000" d="M408.8758,-32.9184C386.3096,-43.4008 355.8172,-57.565 330.853,-69.1613"/>
-<polygon fill="none" stroke="#000000" points="329.1788,-66.0798 321.584,-73.4669 332.1278,-72.4283 329.1788,-66.0798"/>
+<path fill="none" stroke="#000000" d="M400.5547,-30.3772C362.7375,-41.866 306.0036,-59.1016 263.2462,-72.0912"/>
+<polygon fill="none" stroke="#000000" points="262.0752,-68.7889 253.5244,-75.0447 264.11,-75.4867 262.0752,-68.7889"/>
 </g>
 <!-- key1 -->
 <g id="node6" class="node">
 <title>key1</title>
-<text text-anchor="start" x="532.9919" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="533.2964" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node7" class="node">
 <title>key2</title>
-<text text-anchor="start" x="611.9919" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="612.2964" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge5" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M553.9919,-19C574.9919,-19 582.7029,-19 599.55,-19"/>
-<polygon fill="none" stroke="#000000" points="599.992,-22.5001 609.9919,-19 599.9919,-15.5001 599.992,-22.5001"/>
+<path fill="none" stroke="#000000" d="M554.2964,-19C575.2964,-19 583.0074,-19 599.8545,-19"/>
+<polygon fill="none" stroke="#000000" points="600.2965,-22.5001 610.2964,-19 600.2964,-15.5001 600.2965,-22.5001"/>
 </g>
 </g>
 </svg>

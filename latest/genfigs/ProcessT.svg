@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Experiment&#45;&gt;Observation -->
-<g id="edge3" class="edge">
+<g id="edge6" class="edge">
 <title>Experiment&#45;&gt;Observation</title>
 <path fill="none" stroke="#000000" d="M78.3028,-38.5821C97.9081,-50.1945 124.8972,-66.1803 146.426,-78.932"/>
 <polygon fill="none" stroke="#000000" points="144.8932,-82.0919 155.2809,-84.1768 148.4606,-76.0691 144.8932,-82.0919"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- Experiment&#45;&gt;PhysicalPhenomenon -->
-<g id="edge4" class="edge">
+<g id="edge7" class="edge">
 <title>Experiment&#45;&gt;PhysicalPhenomenon</title>
 <path fill="none" stroke="#ff0000" d="M86.3132,-36.587C94.9652,-39.8332 104.2743,-43.1736 112.9954,-46 170.8426,-64.7477 192.842,-50.7301 244.9954,-82 272.0915,-98.2462 296.0962,-125.5101 311.6255,-145.7817"/>
 <polygon fill="#ff0000" stroke="#ff0000" points="308.9623,-148.0652 317.7463,-153.989 314.5736,-143.8803 308.9623,-148.0652"/>
@@ -58,67 +58,67 @@
 </g>
 </g>
 <!-- Observation&#45;&gt;Semiosis -->
-<g id="edge5" class="edge">
+<g id="edge8" class="edge">
 <title>Observation&#45;&gt;Semiosis</title>
 <path fill="none" stroke="#000000" d="M181.9954,-118.1686C181.9954,-125.869 181.9954,-135.0257 181.9954,-143.5834"/>
 <polygon fill="none" stroke="#000000" points="178.4955,-143.5867 181.9954,-153.5867 185.4955,-143.5868 178.4955,-143.5867"/>
 </g>
 <!-- Process -->
-<g id="node4" class="node">
+<g id="node7" class="node">
 <title>Process</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/holistic#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce" xlink:title="Process">
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/holistic#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce" xlink:title="Process">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="329.9954" cy="-244" rx="37.8943" ry="18"/>
 <text text-anchor="middle" x="329.9954" y="-240.3" font-family="Times,serif" font-size="14.00" fill="#000000">Process</text>
 </a>
 </g>
 </g>
 <!-- Semiosis&#45;&gt;Process -->
-<g id="edge1" class="edge">
+<g id="edge5" class="edge">
 <title>Semiosis&#45;&gt;Process</title>
 <path fill="none" stroke="#000000" d="M210.1814,-185.7121C234.084,-197.3404 268.5005,-214.0836 294.3198,-226.6443"/>
 <polygon fill="none" stroke="#000000" points="292.8843,-229.8381 303.4078,-231.0655 295.9466,-223.5435 292.8843,-229.8381"/>
 </g>
 <!-- Manufacturing -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>Manufacturing</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/manufacturing#EMMO_a4d66059_5dd3_4b90_b4cb_10960559441b" xlink:title="Manufacturing">
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/manufacturing#EMMO_a4d66059_5dd3_4b90_b4cb_10960559441b" xlink:title="Manufacturing">
 <ellipse fill="#ffffcc" stroke="#000000" cx="498.9954" cy="-172" rx="63.8893" ry="18"/>
 <text text-anchor="middle" x="498.9954" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Manufacturing</text>
 </a>
 </g>
 </g>
 <!-- Manufacturing&#45;&gt;Process -->
-<g id="edge8" class="edge">
+<g id="edge1" class="edge">
 <title>Manufacturing&#45;&gt;Process</title>
 <path fill="none" stroke="#000000" d="M463.5674,-187.0936C435.4796,-199.06 396.3216,-215.7427 367.6656,-227.9512"/>
 <polygon fill="none" stroke="#000000" points="366.2092,-224.7672 358.3812,-231.9066 368.9529,-231.2071 366.2092,-224.7672"/>
 </g>
 <!-- Measurement -->
-<g id="node6" class="node">
+<g id="node5" class="node">
 <title>Measurement</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb" xlink:title="Measurement">
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb" xlink:title="Measurement">
 <ellipse fill="#ffffcc" stroke="#000000" cx="181.9954" cy="-23" rx="59.5901" ry="18"/>
 <text text-anchor="middle" x="181.9954" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">Measurement</text>
 </a>
 </g>
 </g>
 <!-- Measurement&#45;&gt;Observation -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>Measurement&#45;&gt;Observation</title>
 <path fill="none" stroke="#000000" d="M181.9954,-41.2479C181.9954,-50.3578 181.9954,-61.5826 181.9954,-71.7718"/>
 <polygon fill="none" stroke="#000000" points="178.4955,-71.883 181.9954,-81.8831 185.4955,-71.8831 178.4955,-71.883"/>
 </g>
 <!-- Theorization -->
-<g id="node7" class="node">
+<g id="node6" class="node">
 <title>Theorization</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_6c739b1a_a774_4416_bb31_1961486fa9ed" xlink:title="Theorization">
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_6c739b1a_a774_4416_bb31_1961486fa9ed" xlink:title="Theorization">
 <ellipse fill="#ffffcc" stroke="#000000" cx="315.9954" cy="-23" rx="55.7903" ry="18"/>
 <text text-anchor="middle" x="315.9954" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">Theorization</text>
 </a>
 </g>
 </g>
 <!-- Theorization&#45;&gt;Observation -->
-<g id="edge7" class="edge">
+<g id="edge3" class="edge">
 <title>Theorization&#45;&gt;Observation</title>
 <path fill="none" stroke="#000000" d="M288.5551,-38.7679C268.2314,-50.4465 240.3414,-66.4728 218.1922,-79.2003"/>
 <polygon fill="none" stroke="#000000" points="216.3256,-76.2362 209.3989,-84.2532 219.8132,-82.3055 216.3256,-76.2362"/>

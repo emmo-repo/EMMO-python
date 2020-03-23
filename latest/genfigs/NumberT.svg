@@ -9,21 +9,21 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 390,-112 390,4 -4,4"/>
-<!-- Real -->
+<!-- Number -->
 <g id="node1" class="node">
-<title>Real</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_18d180e4_5e3e_42f7_820c_e08951223486" xlink:title="Real">
-<ellipse fill="#ffc880" stroke="#000000" cx="27" cy="-18" rx="27" ry="18"/>
-<text text-anchor="middle" x="27" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Real</text>
+<title>Number</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_21f56795_ee72_4858_b571_11cfaa59c1a8" xlink:title="Number">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="112" cy="-90" rx="40.0939" ry="18"/>
+<text text-anchor="middle" x="112" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Number</text>
 </a>
 </g>
 </g>
-<!-- Number -->
-<g id="node4" class="node">
-<title>Number</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_21f56795_ee72_4858_b571_11cfaa59c1a8" xlink:title="Number">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="112" cy="-90" rx="40.0939" ry="18"/>
-<text text-anchor="middle" x="112" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Number</text>
+<!-- Real -->
+<g id="node2" class="node">
+<title>Real</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_18d180e4_5e3e_42f7_820c_e08951223486" xlink:title="Real">
+<ellipse fill="#ffc880" stroke="#000000" cx="27" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="27" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Real</text>
 </a>
 </g>
 </g>
@@ -34,31 +34,31 @@
 <polygon fill="none" stroke="#000000" points="83.2777,-70.2574 93.1704,-74.0502 87.8021,-64.916 83.2777,-70.2574"/>
 </g>
 <!-- Boolean -->
-<g id="node2" class="node">
+<g id="node3" class="node">
 <title>Boolean</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_54dc83cb_06e1_4739_9e45_bc09cead7f48" xlink:title="Boolean">
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_54dc83cb_06e1_4739_9e45_bc09cead7f48" xlink:title="Boolean">
 <ellipse fill="#ffc880" stroke="#000000" cx="112" cy="-18" rx="40.0939" ry="18"/>
 <text text-anchor="middle" x="112" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Boolean</text>
 </a>
 </g>
 </g>
 <!-- Boolean&#45;&gt;Number -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>Boolean&#45;&gt;Number</title>
 <path fill="none" stroke="#000000" d="M112,-36.1686C112,-43.869 112,-53.0257 112,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="108.5001,-61.5867 112,-71.5867 115.5001,-61.5868 108.5001,-61.5867"/>
 </g>
 <!-- Integer -->
-<g id="node3" class="node">
+<g id="node4" class="node">
 <title>Integer</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f8bd64d5_5d3e_4ad4_a46e_c30714fecb7f" xlink:title="Integer">
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f8bd64d5_5d3e_4ad4_a46e_c30714fecb7f" xlink:title="Integer">
 <ellipse fill="#ffc880" stroke="#000000" cx="206" cy="-18" rx="35.9954" ry="18"/>
 <text text-anchor="middle" x="206" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Integer</text>
 </a>
 </g>
 </g>
 <!-- Integer&#45;&gt;Number -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>Integer&#45;&gt;Number</title>
 <path fill="none" stroke="#000000" d="M186.065,-33.2693C172.9102,-43.3453 155.4645,-56.7081 140.809,-67.9335"/>
 <polygon fill="none" stroke="#000000" points="138.3666,-65.3955 132.5561,-74.2549 142.6232,-70.9527 138.3666,-65.3955"/>

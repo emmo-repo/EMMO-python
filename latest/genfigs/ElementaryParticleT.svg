@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Gluon&#45;&gt;Massless -->
-<g id="edge4" class="edge">
+<g id="edge6" class="edge">
 <title>Gluon&#45;&gt;Massless</title>
 <path fill="none" stroke="#000000" d="M55.7385,-30.8722C75.637,-41.8929 104.5898,-57.9283 127.3255,-70.5204"/>
 <polygon fill="none" stroke="#000000" points="125.8853,-73.7236 136.329,-75.5069 129.2768,-67.6 125.8853,-73.7236"/>
@@ -52,7 +52,7 @@
 </g>
 </g>
 <!-- Quark&#45;&gt;Massive -->
-<g id="edge5" class="edge">
+<g id="edge2" class="edge">
 <title>Quark&#45;&gt;Massive</title>
 <path fill="none" stroke="#000000" d="M307.4971,-36.1686C307.4971,-43.869 307.4971,-53.0257 307.4971,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="303.9972,-61.5867 307.4971,-71.5867 310.9972,-61.5868 303.9972,-61.5867"/>
@@ -88,7 +88,7 @@
 <polygon fill="none" stroke="#000000" points="143.5905,-65.774 151.7915,-72.4818 149.5635,-62.1238 143.5905,-65.774"/>
 </g>
 <!-- Massless&#45;&gt;ElementaryParticle -->
-<g id="edge2" class="edge">
+<g id="edge5" class="edge">
 <title>Massless&#45;&gt;ElementaryParticle</title>
 <path fill="none" stroke="#000000" d="M174.6007,-107.4292C180.4867,-115.905 187.6861,-126.2721 194.2228,-135.6849"/>
 <polygon fill="none" stroke="#000000" points="191.404,-137.7621 199.9828,-143.9794 197.1536,-133.7693 191.404,-137.7621"/>
@@ -103,7 +103,7 @@
 </g>
 </g>
 <!-- Graviton&#45;&gt;Massless -->
-<g id="edge6" class="edge">
+<g id="edge1" class="edge">
 <title>Graviton&#45;&gt;Massless</title>
 <path fill="none" stroke="#000000" d="M201.9094,-35.4292C195.586,-44.1847 187.8051,-54.9582 180.8319,-64.6133"/>
 <polygon fill="none" stroke="#000000" points="177.9865,-62.5753 174.9689,-72.7313 183.6613,-66.6737 177.9865,-62.5753"/>
@@ -118,7 +118,7 @@
 </g>
 </g>
 <!-- Electron&#45;&gt;Massive -->
-<g id="edge1" class="edge">
+<g id="edge4" class="edge">
 <title>Electron&#45;&gt;Massive</title>
 <path fill="none" stroke="#000000" d="M378.3013,-33.9791C365.7262,-43.9286 349.3701,-56.8697 335.5467,-67.8069"/>
 <polygon fill="none" stroke="#000000" points="332.9939,-65.3636 327.3234,-74.3133 337.3373,-70.8532 332.9939,-65.3636"/>

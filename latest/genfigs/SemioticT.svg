@@ -9,26 +9,26 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 403.0957,-112 403.0957,4 -4,4"/>
-<!-- Interpreter -->
-<g id="node1" class="node">
-<title>Interpreter</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_0527413c_b286_4e9c_b2d0_03fb2a038dee" xlink:title="Interpreter">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="48.0957" cy="-18" rx="48.1917" ry="18"/>
-<text text-anchor="middle" x="48.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Interpreter</text>
-</a>
-</g>
-</g>
 <!-- Semiotic -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>Semiotic</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_b803f122_4acb_4064_9d71_c1e5fd091fc9" xlink:title="Semiotic">
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_b803f122_4acb_4064_9d71_c1e5fd091fc9" xlink:title="Semiotic">
 <ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="149.0957" cy="-90" rx="42.4939" ry="18"/>
 <text text-anchor="middle" x="149.0957" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Semiotic</text>
 </a>
 </g>
 </g>
+<!-- Interpreter -->
+<g id="node2" class="node">
+<title>Interpreter</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_0527413c_b286_4e9c_b2d0_03fb2a038dee" xlink:title="Interpreter">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="48.0957" cy="-18" rx="48.1917" ry="18"/>
+<text text-anchor="middle" x="48.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Interpreter</text>
+</a>
+</g>
+</g>
 <!-- Interpreter&#45;&gt;Semiotic -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>Interpreter&#45;&gt;Semiotic</title>
 <path fill="none" stroke="#000000" d="M70.5109,-33.9791C84.7312,-44.1164 103.3078,-57.3591 118.8292,-68.4238"/>
 <polygon fill="none" stroke="#000000" points="116.9162,-71.3584 127.0907,-74.3133 120.9796,-65.6585 116.9162,-71.3584"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- Object&#45;&gt;Semiotic -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Object&#45;&gt;Semiotic</title>
 <path fill="none" stroke="#000000" d="M149.0957,-36.1686C149.0957,-43.869 149.0957,-53.0257 149.0957,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="145.5958,-61.5867 149.0957,-71.5867 152.5958,-61.5868 145.5958,-61.5867"/>
@@ -58,7 +58,7 @@
 </g>
 </g>
 <!-- Sign&#45;&gt;Semiotic -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>Sign&#45;&gt;Semiotic</title>
 <path fill="none" stroke="#000000" d="M212.1089,-32.5703C201.3834,-42.3454 187.0213,-55.4349 174.7174,-66.6486"/>
 <polygon fill="none" stroke="#000000" points="172.0214,-64.3701 166.9881,-73.693 176.7367,-69.5438 172.0214,-64.3701"/>

@@ -33,32 +33,32 @@
 <path fill="none" stroke="#000000" d="M107.9203,-35.7978C117.774,-44.7783 129.8779,-55.8098 140.5883,-65.5711"/>
 <polygon fill="none" stroke="#000000" points="138.3401,-68.2577 148.0887,-72.407 143.0554,-63.0841 138.3401,-68.2577"/>
 </g>
-<!-- Polynomial -->
+<!-- Expression -->
 <g id="node2" class="node">
+<title>Expression</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f9bc8b52_85e9_4b53_b969_dd7724d5b8e4" xlink:title="Expression">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="167.3922" cy="-162" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="167.3922" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Expression</text>
+</a>
+</g>
+</g>
+<!-- Polynomial -->
+<g id="node3" class="node">
 <title>Polynomial</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_91447ec0_fb55_49f2_85a5_3172dff6482c" xlink:title="Polynomial">
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_91447ec0_fb55_49f2_85a5_3172dff6482c" xlink:title="Polynomial">
 <ellipse fill="#ffffcc" stroke="#000000" cx="246.3922" cy="-18" rx="51.9908" ry="18"/>
 <text text-anchor="middle" x="246.3922" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Polynomial</text>
 </a>
 </g>
 </g>
 <!-- Polynomial&#45;&gt;AlgebricExpression -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Polynomial&#45;&gt;AlgebricExpression</title>
 <path fill="none" stroke="#000000" d="M227.6703,-35.063C217.7569,-44.0979 205.4027,-55.3575 194.4642,-65.3267"/>
 <polygon fill="none" stroke="#000000" points="191.838,-62.9847 186.8047,-72.3076 196.5533,-68.1583 191.838,-62.9847"/>
 </g>
-<!-- Expression -->
-<g id="node3" class="node">
-<title>Expression</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f9bc8b52_85e9_4b53_b969_dd7724d5b8e4" xlink:title="Expression">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="167.3922" cy="-162" rx="50.0912" ry="18"/>
-<text text-anchor="middle" x="167.3922" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Expression</text>
-</a>
-</g>
-</g>
 <!-- AlgebricExpression&#45;&gt;Expression -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>AlgebricExpression&#45;&gt;Expression</title>
 <path fill="none" stroke="#000000" d="M167.3922,-108.1686C167.3922,-115.869 167.3922,-125.0257 167.3922,-133.5834"/>
 <polygon fill="none" stroke="#000000" points="163.8923,-133.5867 167.3922,-143.5867 170.8923,-133.5868 163.8923,-133.5867"/>

@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- AlgebricEquation&#45;&gt;Equation -->
-<g id="edge1" class="edge">
+<g id="edge5" class="edge">
 <title>AlgebricEquation&#45;&gt;Equation</title>
 <path fill="none" stroke="#000000" d="M128.3399,-101.9948C137.7125,-104.0171 147.3546,-106.0814 156.4435,-108 231.2678,-123.7946 318.2045,-141.5231 370.9974,-152.2198"/>
 <polygon fill="none" stroke="#000000" points="370.5913,-155.7085 381.087,-154.2627 371.9805,-148.8478 370.5913,-155.7085"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- ArithmeticEquation&#45;&gt;Equation -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>ArithmeticEquation&#45;&gt;Equation</title>
 <path fill="none" stroke="#000000" d="M284.8378,-105.9791C313.0993,-117.7412 351.4065,-133.684 379.9288,-145.5546"/>
 <polygon fill="none" stroke="#000000" points="378.6207,-148.8011 389.1979,-149.4122 381.3104,-142.3385 378.6207,-148.8011"/>
@@ -58,7 +58,7 @@
 </g>
 </g>
 <!-- DefiningEquation&#45;&gt;Equation -->
-<g id="edge5" class="edge">
+<g id="edge2" class="edge">
 <title>DefiningEquation&#45;&gt;Equation</title>
 <path fill="none" stroke="#000000" d="M419.4435,-108.1686C419.4435,-115.869 419.4435,-125.0257 419.4435,-133.5834"/>
 <polygon fill="none" stroke="#000000" points="415.9436,-133.5867 419.4435,-143.5867 422.9436,-133.5868 415.9436,-133.5867"/>
@@ -73,7 +73,7 @@
 </g>
 </g>
 <!-- FunctionDefinition&#45;&gt;DefiningEquation -->
-<g id="edge7" class="edge">
+<g id="edge1" class="edge">
 <title>FunctionDefinition&#45;&gt;DefiningEquation</title>
 <path fill="none" stroke="#000000" d="M419.4435,-36.1686C419.4435,-43.869 419.4435,-53.0257 419.4435,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="415.9436,-61.5867 419.4435,-71.5867 422.9436,-61.5868 415.9436,-61.5867"/>
@@ -88,7 +88,7 @@
 </g>
 </g>
 <!-- Equation&#45;&gt;Formula -->
-<g id="edge3" class="edge">
+<g id="edge8" class="edge">
 <title>Equation&#45;&gt;Formula</title>
 <path fill="none" stroke="#000000" d="M432.2733,-179.4292C438.7183,-188.1847 446.6489,-198.9582 453.7561,-208.6133"/>
 <polygon fill="none" stroke="#000000" points="450.9849,-210.7528 459.7318,-216.7313 456.6223,-206.6031 450.9849,-210.7528"/>
@@ -103,7 +103,7 @@
 </g>
 </g>
 <!-- Inequality&#45;&gt;Formula -->
-<g id="edge8" class="edge">
+<g id="edge3" class="edge">
 <title>Inequality&#45;&gt;Formula</title>
 <path fill="none" stroke="#000000" d="M512.6137,-179.4292C506.1687,-188.1847 498.2381,-198.9582 491.1309,-208.6133"/>
 <polygon fill="none" stroke="#000000" points="488.2647,-206.6031 485.1552,-216.7313 493.9021,-210.7528 488.2647,-206.6031"/>
@@ -118,7 +118,7 @@
 </g>
 </g>
 <!-- PhysicsEquation&#45;&gt;Equation -->
-<g id="edge4" class="edge">
+<g id="edge6" class="edge">
 <title>PhysicsEquation&#45;&gt;Equation</title>
 <path fill="none" stroke="#000000" d="M545.5089,-105.6229C519.7277,-117.1524 484.6494,-132.8396 458.0405,-144.7392"/>
 <polygon fill="none" stroke="#000000" points="456.3532,-141.6597 448.6533,-148.9372 459.2109,-148.0498 456.3532,-141.6597"/>
@@ -133,7 +133,7 @@
 </g>
 </g>
 <!-- MaterialRelation&#45;&gt;Equation -->
-<g id="edge2" class="edge">
+<g id="edge4" class="edge">
 <title>MaterialRelation&#45;&gt;Equation</title>
 <path fill="none" stroke="#000000" d="M686.2329,-102.1735C677.3074,-104.1751 668.118,-106.1862 659.4435,-108 575.7433,-125.501 552.9965,-121.7067 470.4435,-144 467.2708,-144.8568 464.0124,-145.8157 460.751,-146.8329"/>
 <polygon fill="none" stroke="#000000" points="459.4531,-143.575 451.0403,-150.0152 461.6331,-150.2269 459.4531,-143.575"/>
