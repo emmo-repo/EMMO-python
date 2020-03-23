@@ -9,56 +9,56 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 567.8437,-112 567.8437,4 -4,4"/>
-<!-- SubMultipleUnit -->
-<g id="node1" class="node">
-<title>SubMultipleUnit</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_a2f94f33_71fa_443c_a1fb_d1685fc537ec" xlink:title="SubMultipleUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="70.8437" cy="-18" rx="70.6878" ry="18"/>
-<text text-anchor="middle" x="70.8437" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SubMultipleUnit</text>
-</a>
-</g>
-</g>
 <!-- PrefixedUnit -->
-<g id="node4" class="node">
+<g id="node1" class="node">
 <title>PrefixedUnit</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_c6d4a5e0_7e95_44df_a6db_84ee0a8bbc8e" xlink:title="PrefixedUnit">
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_c6d4a5e0_7e95_44df_a6db_84ee0a8bbc8e" xlink:title="PrefixedUnit">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="223.8437" cy="-90" rx="55.7903" ry="18"/>
 <text text-anchor="middle" x="223.8437" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PrefixedUnit</text>
 </a>
 </g>
 </g>
+<!-- SubMultipleUnit -->
+<g id="node2" class="node">
+<title>SubMultipleUnit</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_a2f94f33_71fa_443c_a1fb_d1685fc537ec" xlink:title="SubMultipleUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="70.8437" cy="-18" rx="70.6878" ry="18"/>
+<text text-anchor="middle" x="70.8437" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SubMultipleUnit</text>
+</a>
+</g>
+</g>
 <!-- SubMultipleUnit&#45;&gt;PrefixedUnit -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>SubMultipleUnit&#45;&gt;PrefixedUnit</title>
 <path fill="none" stroke="#000000" d="M104.7994,-33.9791C127.8046,-44.8051 158.3363,-59.173 182.7193,-70.6473"/>
 <polygon fill="none" stroke="#000000" points="181.5338,-73.9576 192.0724,-75.0488 184.5145,-67.6239 181.5338,-73.9576"/>
 </g>
 <!-- SIPrefixedUnit -->
-<g id="node2" class="node">
+<g id="node3" class="node">
 <title>SIPrefixedUnit</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_d41ce84b_4317_41fb_a5d1_6cd281fca106" xlink:title="SIPrefixedUnit">
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_d41ce84b_4317_41fb_a5d1_6cd281fca106" xlink:title="SIPrefixedUnit">
 <ellipse fill="#ffffcc" stroke="#000000" cx="223.8437" cy="-18" rx="63.8893" ry="18"/>
 <text text-anchor="middle" x="223.8437" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIPrefixedUnit</text>
 </a>
 </g>
 </g>
 <!-- SIPrefixedUnit&#45;&gt;PrefixedUnit -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>SIPrefixedUnit&#45;&gt;PrefixedUnit</title>
 <path fill="none" stroke="#000000" d="M223.8437,-36.1686C223.8437,-43.869 223.8437,-53.0257 223.8437,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="220.3438,-61.5867 223.8437,-71.5867 227.3438,-61.5868 220.3438,-61.5867"/>
 </g>
 <!-- MultipleUnit -->
-<g id="node3" class="node">
+<g id="node4" class="node">
 <title>MultipleUnit</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_62f0d847_3603_45b4_bfc4_dd4511355ff2" xlink:title="MultipleUnit">
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_62f0d847_3603_45b4_bfc4_dd4511355ff2" xlink:title="MultipleUnit">
 <ellipse fill="#ffffcc" stroke="#000000" cx="362.8437" cy="-18" rx="57.3905" ry="18"/>
 <text text-anchor="middle" x="362.8437" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MultipleUnit</text>
 </a>
 </g>
 </g>
 <!-- MultipleUnit&#45;&gt;PrefixedUnit -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>MultipleUnit&#45;&gt;PrefixedUnit</title>
 <path fill="none" stroke="#000000" d="M333.0247,-33.4458C312.412,-44.1229 284.796,-58.4276 262.4958,-69.9788"/>
 <polygon fill="none" stroke="#000000" points="260.8831,-66.8724 253.6134,-74.5797 264.1027,-73.0881 260.8831,-66.8724"/>

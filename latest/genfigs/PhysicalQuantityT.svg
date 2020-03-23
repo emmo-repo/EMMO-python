@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- PhysicalConstant&#45;&gt;PhysicalQuantity -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>PhysicalConstant&#45;&gt;PhysicalQuantity</title>
 <path fill="none" stroke="#000000" d="M120.223,-31.2898C164.4546,-43.353 229.7703,-61.1664 276.8471,-74.0055"/>
 <polygon fill="none" stroke="#000000" points="276.0332,-77.4113 286.6018,-76.6659 277.8751,-70.6579 276.0332,-77.4113"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- DerivedQuantity&#45;&gt;PhysicalQuantity -->
-<g id="edge3" class="edge">
+<g id="edge4" class="edge">
 <title>DerivedQuantity&#45;&gt;PhysicalQuantity</title>
 <path fill="none" stroke="#000000" d="M255.1115,-34.8808C269.0965,-44.4705 286.8,-56.6101 302.031,-67.0542"/>
 <polygon fill="none" stroke="#000000" points="300.4396,-70.2067 310.6662,-72.9755 304.3983,-64.4336 300.4396,-70.2067"/>
@@ -58,7 +58,7 @@
 </g>
 </g>
 <!-- InternationalSystemOfQuantity&#45;&gt;PhysicalQuantity -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>InternationalSystemOfQuantity&#45;&gt;PhysicalQuantity</title>
 <path fill="none" stroke="#000000" d="M414.8078,-35.6132C400.9016,-45.1488 383.5645,-57.0371 368.6492,-67.2648"/>
 <polygon fill="none" stroke="#000000" points="366.4593,-64.5226 360.1913,-73.0645 370.418,-70.2957 366.4593,-64.5226"/>
@@ -73,7 +73,7 @@
 </g>
 </g>
 <!-- BaseQuantity&#45;&gt;PhysicalQuantity -->
-<g id="edge4" class="edge">
+<g id="edge3" class="edge">
 <title>BaseQuantity&#45;&gt;PhysicalQuantity</title>
 <path fill="none" stroke="#000000" d="M595.2893,-29.9331C587.3776,-32.0027 579.2005,-34.0988 571.4937,-36 513.3944,-50.3322 446.9242,-65.4249 399.364,-75.9993"/>
 <polygon fill="none" stroke="#000000" points="398.5164,-72.6021 389.512,-78.1852 400.0327,-79.4359 398.5164,-72.6021"/>

@@ -9,44 +9,44 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 314.1926,-184 314.1926,4 -4,4"/>
-<!-- MathematicalModel -->
-<g id="node1" class="node">
-<title>MathematicalModel</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_f7ed665b_c2e1_42bc_889b_6b42ed3a36f0" xlink:title="MathematicalModel">
-<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="83.1926" cy="-18" rx="83.3857" ry="18"/>
-<text text-anchor="middle" x="83.1926" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MathematicalModel</text>
-</a>
-</g>
-</g>
 <!-- Model -->
-<g id="node3" class="node">
+<g id="node1" class="node">
 <title>Model</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_939483b1_0148_43d1_8b35_851d2cd5d939" xlink:title="Model">
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_939483b1_0148_43d1_8b35_851d2cd5d939" xlink:title="Model">
 <ellipse fill="#ffc880" stroke="#000000" cx="83.1926" cy="-90" rx="34.394" ry="18"/>
 <text text-anchor="middle" x="83.1926" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Model</text>
 </a>
 </g>
 </g>
-<!-- MathematicalModel&#45;&gt;Model -->
-<g id="edge2" class="edge">
-<title>MathematicalModel&#45;&gt;Model</title>
-<path fill="none" stroke="#000000" d="M83.1926,-36.1686C83.1926,-43.869 83.1926,-53.0257 83.1926,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="79.6927,-61.5867 83.1926,-71.5867 86.6927,-61.5868 79.6927,-61.5867"/>
-</g>
 <!-- Icon -->
-<g id="node2" class="node">
+<g id="node3" class="node">
 <title>Icon</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_d7788d1a_020d_4c78_85a1_13563fcec168" xlink:title="Icon">
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_d7788d1a_020d_4c78_85a1_13563fcec168" xlink:title="Icon">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="83.1926" cy="-162" rx="27" ry="18"/>
 <text text-anchor="middle" x="83.1926" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Icon</text>
 </a>
 </g>
 </g>
 <!-- Model&#45;&gt;Icon -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Model&#45;&gt;Icon</title>
 <path fill="none" stroke="#000000" d="M83.1926,-108.1686C83.1926,-115.869 83.1926,-125.0257 83.1926,-133.5834"/>
 <polygon fill="none" stroke="#000000" points="79.6927,-133.5867 83.1926,-143.5867 86.6927,-133.5868 79.6927,-133.5867"/>
+</g>
+<!-- MathematicalModel -->
+<g id="node2" class="node">
+<title>MathematicalModel</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_f7ed665b_c2e1_42bc_889b_6b42ed3a36f0" xlink:title="MathematicalModel">
+<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="83.1926" cy="-18" rx="83.3857" ry="18"/>
+<text text-anchor="middle" x="83.1926" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MathematicalModel</text>
+</a>
+</g>
+</g>
+<!-- MathematicalModel&#45;&gt;Model -->
+<g id="edge1" class="edge">
+<title>MathematicalModel&#45;&gt;Model</title>
+<path fill="none" stroke="#000000" d="M83.1926,-36.1686C83.1926,-43.869 83.1926,-53.0257 83.1926,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="79.6927,-61.5867 83.1926,-71.5867 86.6927,-61.5868 79.6927,-61.5867"/>
 </g>
 <!-- key1 -->
 <g id="node4" class="node">

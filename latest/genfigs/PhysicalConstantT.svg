@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- MeasuredConstant&#45;&gt;PhysicalConstant -->
-<g id="edge5" class="edge">
+<g id="edge1" class="edge">
 <title>MeasuredConstant&#45;&gt;PhysicalConstant</title>
 <path fill="none" stroke="#000000" d="M433.624,-179.7978C443.353,-188.7783 455.3037,-199.8098 465.8785,-209.5711"/>
 <polygon fill="none" stroke="#000000" points="463.562,-212.196 473.284,-216.407 468.31,-207.0523 463.562,-212.196"/>
@@ -43,16 +43,16 @@
 </g>
 </g>
 <!-- SIExactConstant -->
-<g id="node8" class="node">
+<g id="node7" class="node">
 <title>SIExactConstant</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_f2ca6dd0_0e5f_4392_a92d_cafdae6cfc95" xlink:title="SIExactConstant">
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_f2ca6dd0_0e5f_4392_a92d_cafdae6cfc95" xlink:title="SIExactConstant">
 <ellipse fill="#ffffcc" stroke="#000000" cx="571.3431" cy="-90" rx="69.5877" ry="18"/>
 <text text-anchor="middle" x="571.3431" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIExactConstant</text>
 </a>
 </g>
 </g>
 <!-- ElementaryCharge&#45;&gt;SIExactConstant -->
-<g id="edge9" class="edge">
+<g id="edge2" class="edge">
 <title>ElementaryCharge&#45;&gt;SIExactConstant</title>
 <path fill="none" stroke="#000000" d="M133.8582,-30.3091C143.9848,-32.3386 154.4586,-34.324 164.3431,-36 280.2093,-55.6463 415.648,-72.385 497.3891,-81.8124"/>
 <polygon fill="none" stroke="#000000" points="496.9977,-85.2903 507.3316,-82.9535 497.7959,-78.336 496.9977,-85.2903"/>
@@ -67,7 +67,7 @@
 </g>
 </g>
 <!-- AvogadroConstant&#45;&gt;SIExactConstant -->
-<g id="edge6" class="edge">
+<g id="edge10" class="edge">
 <title>AvogadroConstant&#45;&gt;SIExactConstant</title>
 <path fill="none" stroke="#000000" d="M306.2571,-30.5414C362.8014,-43.2243 450.0206,-62.7875 508.8213,-75.9764"/>
 <polygon fill="none" stroke="#000000" points="508.206,-79.4253 518.7296,-78.1988 509.7381,-72.595 508.206,-79.4253"/>
@@ -82,7 +82,7 @@
 </g>
 </g>
 <!-- PlanckConstant&#45;&gt;SIExactConstant -->
-<g id="edge8" class="edge">
+<g id="edge3" class="edge">
 <title>PlanckConstant&#45;&gt;SIExactConstant</title>
 <path fill="none" stroke="#000000" d="M445.6672,-33.4458C469.5468,-44.1917 501.592,-58.612 527.3466,-70.2016"/>
 <polygon fill="none" stroke="#000000" points="525.9683,-73.4193 536.5238,-74.3313 528.8409,-67.0359 525.9683,-73.4193"/>
@@ -97,25 +97,10 @@
 </g>
 </g>
 <!-- LuminousEfficacy&#45;&gt;SIExactConstant -->
-<g id="edge4" class="edge">
+<g id="edge6" class="edge">
 <title>LuminousEfficacy&#45;&gt;SIExactConstant</title>
 <path fill="none" stroke="#000000" d="M571.3431,-36.1686C571.3431,-43.869 571.3431,-53.0257 571.3431,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="567.8432,-61.5867 571.3431,-71.5867 574.8432,-61.5868 567.8432,-61.5867"/>
-</g>
-<!-- BoltzmannConstant -->
-<g id="node7" class="node">
-<title>BoltzmannConstant</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_ffc7735f_c177_46a4_98e9_a54440d29209" xlink:title="BoltzmannConstant">
-<ellipse fill="#ffffcc" stroke="#000000" cx="747.3431" cy="-18" rx="81.4863" ry="18"/>
-<text text-anchor="middle" x="747.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">BoltzmannConstant</text>
-</a>
-</g>
-</g>
-<!-- BoltzmannConstant&#45;&gt;SIExactConstant -->
-<g id="edge2" class="edge">
-<title>BoltzmannConstant&#45;&gt;SIExactConstant</title>
-<path fill="none" stroke="#000000" d="M708.283,-33.9791C681.74,-44.8376 646.4869,-59.2594 618.397,-70.7507"/>
-<polygon fill="none" stroke="#000000" points="616.7162,-67.6567 608.786,-74.6825 619.3667,-74.1355 616.7162,-67.6567"/>
 </g>
 <!-- ExactConstant -->
 <g id="node9" class="node">
@@ -127,13 +112,28 @@
 </g>
 </g>
 <!-- SIExactConstant&#45;&gt;ExactConstant -->
-<g id="edge1" class="edge">
+<g id="edge8" class="edge">
 <title>SIExactConstant&#45;&gt;ExactConstant</title>
 <path fill="none" stroke="#000000" d="M571.3431,-108.1686C571.3431,-115.869 571.3431,-125.0257 571.3431,-133.5834"/>
 <polygon fill="none" stroke="#000000" points="567.8432,-133.5867 571.3431,-143.5867 574.8432,-133.5868 567.8432,-133.5867"/>
 </g>
+<!-- BoltzmannConstant -->
+<g id="node8" class="node">
+<title>BoltzmannConstant</title>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_ffc7735f_c177_46a4_98e9_a54440d29209" xlink:title="BoltzmannConstant">
+<ellipse fill="#ffffcc" stroke="#000000" cx="747.3431" cy="-18" rx="81.4863" ry="18"/>
+<text text-anchor="middle" x="747.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">BoltzmannConstant</text>
+</a>
+</g>
+</g>
+<!-- BoltzmannConstant&#45;&gt;SIExactConstant -->
+<g id="edge9" class="edge">
+<title>BoltzmannConstant&#45;&gt;SIExactConstant</title>
+<path fill="none" stroke="#000000" d="M708.283,-33.9791C681.74,-44.8376 646.4869,-59.2594 618.397,-70.7507"/>
+<polygon fill="none" stroke="#000000" points="616.7162,-67.6567 608.786,-74.6825 619.3667,-74.1355 616.7162,-67.6567"/>
+</g>
 <!-- ExactConstant&#45;&gt;PhysicalConstant -->
-<g id="edge10" class="edge">
+<g id="edge5" class="edge">
 <title>ExactConstant&#45;&gt;PhysicalConstant</title>
 <path fill="none" stroke="#000000" d="M552.2194,-179.4292C542.2981,-188.4714 530.015,-199.6662 519.1611,-209.5583"/>
 <polygon fill="none" stroke="#000000" points="516.5979,-207.1589 511.5645,-216.4818 521.3131,-212.3325 516.5979,-207.1589"/>
@@ -148,7 +148,7 @@
 </g>
 </g>
 <!-- HyperfineTransitionFrequencyOfCs&#45;&gt;SIExactConstant -->
-<g id="edge3" class="edge">
+<g id="edge7" class="edge">
 <title>HyperfineTransitionFrequencyOfCs&#45;&gt;SIExactConstant</title>
 <path fill="none" stroke="#000000" d="M901.2632,-32.4837C824.256,-45.9086 711.0793,-65.6392 639.3193,-78.1494"/>
 <polygon fill="none" stroke="#000000" points="638.2918,-74.7757 629.0415,-79.9412 639.4941,-81.6717 638.2918,-74.7757"/>
@@ -163,7 +163,7 @@
 </g>
 </g>
 <!-- SpeedOfLightInVacuum&#45;&gt;SIExactConstant -->
-<g id="edge7" class="edge">
+<g id="edge4" class="edge">
 <title>SpeedOfLightInVacuum&#45;&gt;SIExactConstant</title>
 <path fill="none" stroke="#000000" d="M1167.9432,-30.5685C1155.7608,-32.5355 1143.2018,-34.4328 1131.3431,-36 959.445,-58.7179 756.6632,-75.8955 648.4917,-84.2922"/>
 <polygon fill="none" stroke="#000000" points="648.0239,-80.8178 638.323,-85.0773 648.5628,-87.797 648.0239,-80.8178"/>
