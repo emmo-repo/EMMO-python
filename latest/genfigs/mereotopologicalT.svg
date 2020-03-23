@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- connected&#45;&gt;mereotopological -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>connected&#45;&gt;mereotopological</title>
 <path fill="none" stroke="#000000" d="M47.6124,-36.1686C53.0281,-44.2921 59.5242,-54.0363 65.4921,-62.9882"/>
 <polygon fill="none" stroke="#000000" points="62.7653,-65.2077 71.2245,-71.5867 68.5896,-61.3247 62.7653,-65.2077"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- disconnected&#45;&gt;mereotopological -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>disconnected&#45;&gt;mereotopological</title>
 <path fill="none" stroke="#000000" d="M120.1352,-36.1686C114.5491,-44.3768 107.837,-54.2394 101.6928,-63.2677"/>
 <polygon fill="none" stroke="#000000" points="98.764,-61.3504 96.0313,-71.5867 104.551,-65.2888 98.764,-61.3504"/>

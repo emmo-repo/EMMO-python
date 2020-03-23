@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- QuantitativeProperty&#45;&gt;ObjectiveProperty -->
-<g id="edge2" class="edge">
+<g id="edge7" class="edge">
 <title>QuantitativeProperty&#45;&gt;ObjectiveProperty</title>
 <path fill="none" stroke="#000000" d="M378.4327,-107.7978C367.394,-116.9332 353.791,-128.1908 341.8477,-138.075"/>
 <polygon fill="none" stroke="#000000" points="339.3688,-135.5833 333.8963,-144.6554 343.8318,-140.9761 339.3688,-135.5833"/>
@@ -49,9 +49,9 @@
 <polygon fill="none" stroke="#000000" points="281.5712,-140.8582 291.5271,-144.4818 286.0039,-135.4405 281.5712,-140.8582"/>
 </g>
 <!-- Property -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>Property</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_b7bcff25_ffc3_474e_9ab5_01b1664bd4ba" xlink:title="Property">
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_b7bcff25_ffc3_474e_9ab5_01b1664bd4ba" xlink:title="Property">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="226.9383" cy="-234" rx="40.8928" ry="18"/>
 <text text-anchor="middle" x="226.9383" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Property</text>
 </a>
@@ -64,16 +64,16 @@
 <polygon fill="none" stroke="#000000" points="251.5154,-208.8591 246.0946,-217.9622 256.009,-214.2264 251.5154,-208.8591"/>
 </g>
 <!-- SubjectiveProperty -->
-<g id="node4" class="node">
+<g id="node5" class="node">
 <title>SubjectiveProperty</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_251cfb4f_5c75_4778_91ed_6c8395212fd8" xlink:title="SubjectiveProperty">
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_251cfb4f_5c75_4778_91ed_6c8395212fd8" xlink:title="SubjectiveProperty">
 <ellipse fill="#ffffcc" stroke="#000000" cx="141.9383" cy="-162" rx="77.9862" ry="18"/>
 <text text-anchor="middle" x="141.9383" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">SubjectiveProperty</text>
 </a>
 </g>
 </g>
 <!-- SubjectiveProperty&#45;&gt;Property -->
-<g id="edge7" class="edge">
+<g id="edge3" class="edge">
 <title>SubjectiveProperty&#45;&gt;Property</title>
 <path fill="none" stroke="#000000" d="M162.5144,-179.4292C173.8802,-189.0567 188.1267,-201.1243 200.3307,-211.4618"/>
 <polygon fill="none" stroke="#000000" points="198.1121,-214.1694 208.0048,-217.9622 202.6365,-208.828 198.1121,-214.1694"/>
@@ -88,7 +88,7 @@
 </g>
 </g>
 <!-- ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge3" class="edge">
+<g id="edge6" class="edge">
 <title>ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M191.7492,-34.0686C235.0626,-45.705 293.477,-61.3984 337.4057,-73.2002"/>
 <polygon fill="none" stroke="#000000" points="336.5457,-76.5932 347.1114,-75.8077 338.3619,-69.8329 336.5457,-76.5932"/>
@@ -103,7 +103,7 @@
 </g>
 </g>
 <!-- ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M399.9383,-36.1686C399.9383,-43.869 399.9383,-53.0257 399.9383,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="396.4384,-61.5867 399.9383,-71.5867 403.4384,-61.5868 396.4384,-61.5867"/>
@@ -118,7 +118,7 @@
 </g>
 </g>
 <!-- MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M599.4411,-33.8898C558.4099,-45.4299 502.9457,-61.0292 460.9132,-72.8508"/>
 <polygon fill="none" stroke="#000000" points="459.7564,-69.5403 451.0775,-75.6171 461.6516,-76.2789 459.7564,-69.5403"/>

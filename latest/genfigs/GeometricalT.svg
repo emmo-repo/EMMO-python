@@ -5,214 +5,214 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="847pt" height="188pt"
- viewBox="0.00 0.00 847.25 188.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 847.20 188.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 843.2474,-184 843.2474,4 -4,4"/>
-<!-- Line -->
-<g id="node1" class="node">
-<title>Line</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_3e309118_e8b7_4021_80f4_642d2df65d94" xlink:title="Line">
-<ellipse fill="#ffffcc" stroke="#000000" cx="351.2474" cy="-18" rx="27" ry="18"/>
-<text text-anchor="middle" x="351.2474" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Line</text>
-</a>
-</g>
-</g>
-<!-- 1&#45;manifold -->
-<g id="node12" class="node">
-<title>1&#45;manifold</title>
-<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_0c576e13_4ee7_4f3d_bfe9_1614243df018" xlink:title="1&#45;manifold">
-<ellipse fill="#ffffcc" stroke="#000000" cx="389.2474" cy="-90" rx="50.0912" ry="18"/>
-<text text-anchor="middle" x="389.2474" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">1&#45;manifold</text>
-</a>
-</g>
-</g>
-<!-- Line&#45;&gt;1&#45;manifold -->
-<g id="edge11" class="edge">
-<title>Line&#45;&gt;1&#45;manifold</title>
-<path fill="none" stroke="#000000" d="M360.2529,-35.063C364.6972,-43.4839 370.1616,-53.8373 375.1438,-63.2774"/>
-<polygon fill="none" stroke="#000000" points="372.1467,-65.0974 379.9097,-72.3076 378.3375,-61.83 372.1467,-65.0974"/>
-</g>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 843.1972,-184 843.1972,4 -4,4"/>
 <!-- 0&#45;manifold -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>0&#45;manifold</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_0ab0485c_9e5b_4257_a679_90a2dfba5c7c" xlink:title="0&#45;manifold">
-<ellipse fill="#ffffcc" stroke="#000000" cx="91.2474" cy="-90" rx="50.0912" ry="18"/>
-<text text-anchor="middle" x="91.2474" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">0&#45;manifold</text>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_0ab0485c_9e5b_4257_a679_90a2dfba5c7c" xlink:title="0&#45;manifold">
+<ellipse fill="#ffffcc" stroke="#000000" cx="647.1972" cy="-90" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="647.1972" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">0&#45;manifold</text>
 </a>
 </g>
 </g>
 <!-- Geometrical -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>Geometrical</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_b5957cef_a287_442d_a3ce_fd39f20ba1cd" xlink:title="Geometrical">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="311.2474" cy="-162" rx="54.6905" ry="18"/>
-<text text-anchor="middle" x="311.2474" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Geometrical</text>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_b5957cef_a287_442d_a3ce_fd39f20ba1cd" xlink:title="Geometrical">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="412.1972" cy="-162" rx="54.6905" ry="18"/>
+<text text-anchor="middle" x="412.1972" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Geometrical</text>
 </a>
 </g>
 </g>
 <!-- 0&#45;manifold&#45;&gt;Geometrical -->
-<g id="edge1" class="edge">
+<g id="edge10" class="edge">
 <title>0&#45;manifold&#45;&gt;Geometrical</title>
-<path fill="none" stroke="#000000" d="M128.5674,-102.2138C165.4881,-114.297 222.1814,-132.8511 262.6115,-146.0828"/>
-<polygon fill="none" stroke="#000000" points="261.6676,-149.4565 272.2603,-149.2406 263.845,-142.8037 261.6676,-149.4565"/>
+<path fill="none" stroke="#000000" d="M608.9174,-101.7283C568.8949,-113.9905 505.9195,-133.2851 462.0394,-146.7292"/>
+<polygon fill="none" stroke="#000000" points="460.9652,-143.3976 452.4293,-149.6736 463.0159,-150.0906 460.9652,-143.3976"/>
 </g>
 <!-- Point -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>Point</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_39362460_2a97_4367_8f93_0418c2ac9a08" xlink:title="Point">
-<ellipse fill="#ffffcc" stroke="#000000" cx="29.2474" cy="-18" rx="29.4969" ry="18"/>
-<text text-anchor="middle" x="29.2474" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Point</text>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_39362460_2a97_4367_8f93_0418c2ac9a08" xlink:title="Point">
+<ellipse fill="#ffffcc" stroke="#000000" cx="666.1972" cy="-18" rx="29.4969" ry="18"/>
+<text text-anchor="middle" x="666.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Point</text>
 </a>
 </g>
 </g>
 <!-- Point&#45;&gt;0&#45;manifold -->
 <g id="edge9" class="edge">
 <title>Point&#45;&gt;0&#45;manifold</title>
-<path fill="none" stroke="#000000" d="M43.0072,-33.9791C50.7766,-43.0017 60.6644,-54.4843 69.4628,-64.7018"/>
-<polygon fill="none" stroke="#000000" points="67.0466,-67.2597 76.2241,-72.5536 72.351,-62.692 67.0466,-67.2597"/>
+<path fill="none" stroke="#000000" d="M661.5006,-35.7978C659.4154,-43.6995 656.9112,-53.189 654.585,-62.0041"/>
+<polygon fill="none" stroke="#000000" points="651.1393,-61.3448 651.9718,-71.9069 657.9076,-63.1309 651.1393,-61.3448"/>
 </g>
 <!-- Torus -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>Torus</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_86060335_31c2_4820_b433_27c64aea0366" xlink:title="Torus">
-<ellipse fill="#ffffcc" stroke="#000000" cx="107.2474" cy="-18" rx="31.3957" ry="18"/>
-<text text-anchor="middle" x="107.2474" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Torus</text>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_86060335_31c2_4820_b433_27c64aea0366" xlink:title="Torus">
+<ellipse fill="#ffffcc" stroke="#000000" cx="31.1972" cy="-18" rx="31.3957" ry="18"/>
+<text text-anchor="middle" x="31.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Torus</text>
 </a>
 </g>
 </g>
 <!-- 2&#45;manifold -->
-<g id="node8" class="node">
+<g id="node7" class="node">
 <title>2&#45;manifold</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_9268958f_7f54_48ab_a693_febe2645892b" xlink:title="2&#45;manifold">
-<ellipse fill="#ffffcc" stroke="#000000" cx="229.2474" cy="-90" rx="50.0912" ry="18"/>
-<text text-anchor="middle" x="229.2474" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">2&#45;manifold</text>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_9268958f_7f54_48ab_a693_febe2645892b" xlink:title="2&#45;manifold">
+<ellipse fill="#ffffcc" stroke="#000000" cx="153.1972" cy="-90" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="153.1972" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">2&#45;manifold</text>
 </a>
 </g>
 </g>
 <!-- Torus&#45;&gt;2&#45;manifold -->
-<g id="edge5" class="edge">
+<g id="edge12" class="edge">
 <title>Torus&#45;&gt;2&#45;manifold</title>
-<path fill="none" stroke="#000000" d="M129.0586,-30.8722C147.1698,-41.5607 173.2737,-56.9663 194.2957,-69.3728"/>
-<polygon fill="none" stroke="#000000" points="192.5649,-72.4153 202.9559,-74.4837 196.1227,-66.3869 192.5649,-72.4153"/>
+<path fill="none" stroke="#000000" d="M53.0084,-30.8722C71.1196,-41.5607 97.2235,-56.9663 118.2455,-69.3728"/>
+<polygon fill="none" stroke="#000000" points="116.5147,-72.4153 126.9057,-74.4837 120.0725,-66.3869 116.5147,-72.4153"/>
 </g>
 <!-- Plane -->
-<g id="node6" class="node">
+<g id="node5" class="node">
 <title>Plane</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_25f5ca8e_8f7f_44d8_a392_bd3fe8894458" xlink:title="Plane">
-<ellipse fill="#ffffcc" stroke="#000000" cx="187.2474" cy="-18" rx="30.5947" ry="18"/>
-<text text-anchor="middle" x="187.2474" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Plane</text>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_25f5ca8e_8f7f_44d8_a392_bd3fe8894458" xlink:title="Plane">
+<ellipse fill="#ffffcc" stroke="#000000" cx="111.1972" cy="-18" rx="30.5947" ry="18"/>
+<text text-anchor="middle" x="111.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Plane</text>
 </a>
 </g>
 </g>
 <!-- Plane&#45;&gt;2&#45;manifold -->
-<g id="edge12" class="edge">
+<g id="edge11" class="edge">
 <title>Plane&#45;&gt;2&#45;manifold</title>
-<path fill="none" stroke="#000000" d="M197.2008,-35.063C202.1642,-43.5716 208.2785,-54.0532 213.8311,-63.5721"/>
-<polygon fill="none" stroke="#000000" points="210.8648,-65.4333 218.9268,-72.3076 216.9113,-61.9062 210.8648,-65.4333"/>
+<path fill="none" stroke="#000000" d="M121.1506,-35.063C126.114,-43.5716 132.2283,-54.0532 137.781,-63.5721"/>
+<polygon fill="none" stroke="#000000" points="134.8147,-65.4333 142.8767,-72.3076 140.8611,-61.9062 134.8147,-65.4333"/>
 </g>
 <!-- EuclideanSpace -->
-<g id="node7" class="node">
+<g id="node6" class="node">
 <title>EuclideanSpace</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_5f278af9_8593_4e27_a717_ccc9e07a0ddf" xlink:title="EuclideanSpace">
-<ellipse fill="#ffffcc" stroke="#000000" cx="628.2474" cy="-18" rx="66.8882" ry="18"/>
-<text text-anchor="middle" x="628.2474" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">EuclideanSpace</text>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_5f278af9_8593_4e27_a717_ccc9e07a0ddf" xlink:title="EuclideanSpace">
+<ellipse fill="#ffffcc" stroke="#000000" cx="315.1972" cy="-18" rx="66.8882" ry="18"/>
+<text text-anchor="middle" x="315.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">EuclideanSpace</text>
 </a>
 </g>
 </g>
 <!-- 3&#45;manifold -->
-<g id="node11" class="node">
+<g id="node9" class="node">
 <title>3&#45;manifold</title>
-<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_46f0f8df_4dc6_418f_8036_10427a3a288e" xlink:title="3&#45;manifold">
-<ellipse fill="#ffffcc" stroke="#000000" cx="586.2474" cy="-90" rx="50.0912" ry="18"/>
-<text text-anchor="middle" x="586.2474" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">3&#45;manifold</text>
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_46f0f8df_4dc6_418f_8036_10427a3a288e" xlink:title="3&#45;manifold">
+<ellipse fill="#ffffcc" stroke="#000000" cx="333.1972" cy="-90" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="333.1972" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">3&#45;manifold</text>
 </a>
 </g>
 </g>
 <!-- EuclideanSpace&#45;&gt;3&#45;manifold -->
-<g id="edge4" class="edge">
+<g id="edge1" class="edge">
 <title>EuclideanSpace&#45;&gt;3&#45;manifold</title>
-<path fill="none" stroke="#000000" d="M617.8654,-35.7978C613.0192,-44.1056 607.1492,-54.1684 601.789,-63.3573"/>
-<polygon fill="none" stroke="#000000" points="598.6711,-61.7561 596.6556,-72.1575 604.7175,-65.2832 598.6711,-61.7561"/>
+<path fill="none" stroke="#000000" d="M319.7394,-36.1686C321.6856,-43.9537 324.004,-53.2271 326.1635,-61.8653"/>
+<polygon fill="none" stroke="#000000" points="322.773,-62.7342 328.5939,-71.5867 329.564,-61.0364 322.773,-62.7342"/>
 </g>
 <!-- 2&#45;manifold&#45;&gt;Geometrical -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>2&#45;manifold&#45;&gt;Geometrical</title>
-<path fill="none" stroke="#000000" d="M248.266,-106.6992C258.9525,-116.0825 272.4678,-127.9496 284.236,-138.2827"/>
-<polygon fill="none" stroke="#000000" points="282.2242,-141.1739 292.0479,-145.1419 286.8428,-135.9138 282.2242,-141.1739"/>
+<path fill="none" stroke="#000000" d="M192.8157,-101.0136C237.7579,-113.5072 311.1991,-133.9233 360.5885,-147.6532"/>
+<polygon fill="none" stroke="#000000" points="359.8645,-151.0846 370.4366,-150.3909 361.7394,-144.3403 359.8645,-151.0846"/>
 </g>
-<!-- Sphere -->
-<g id="node9" class="node">
-<title>Sphere</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_d7bf784a_db94_4dd9_861c_54f262846fbf" xlink:title="Sphere">
-<ellipse fill="#ffffcc" stroke="#000000" cx="271.2474" cy="-18" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="271.2474" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sphere</text>
+<!-- Curve -->
+<g id="node8" class="node">
+<title>Curve</title>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_0ef4ff4a_5458_4f2a_b51f_4689d472a3f2" xlink:title="Curve">
+<ellipse fill="#ffffcc" stroke="#000000" cx="432.1972" cy="-18" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="432.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Curve</text>
 </a>
 </g>
 </g>
-<!-- Sphere&#45;&gt;2&#45;manifold -->
-<g id="edge7" class="edge">
-<title>Sphere&#45;&gt;2&#45;manifold</title>
-<path fill="none" stroke="#000000" d="M261.0804,-35.4292C256.2006,-43.7945 250.2462,-54.002 244.813,-63.3161"/>
-<polygon fill="none" stroke="#000000" points="241.6281,-61.8298 239.6126,-72.2311 247.6746,-65.3569 241.6281,-61.8298"/>
-</g>
-<!-- Curve -->
+<!-- 1&#45;manifold -->
 <g id="node10" class="node">
-<title>Curve</title>
-<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_0ef4ff4a_5458_4f2a_b51f_4689d472a3f2" xlink:title="Curve">
-<ellipse fill="#ffffcc" stroke="#000000" cx="428.2474" cy="-18" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="428.2474" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Curve</text>
+<title>1&#45;manifold</title>
+<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_0c576e13_4ee7_4f3d_bfe9_1614243df018" xlink:title="1&#45;manifold">
+<ellipse fill="#ffffcc" stroke="#000000" cx="492.1972" cy="-90" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="492.1972" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">1&#45;manifold</text>
 </a>
 </g>
 </g>
 <!-- Curve&#45;&gt;1&#45;manifold -->
-<g id="edge10" class="edge">
+<g id="edge2" class="edge">
 <title>Curve&#45;&gt;1&#45;manifold</title>
-<path fill="none" stroke="#000000" d="M418.8066,-35.4292C414.2754,-43.7945 408.7463,-54.002 403.7012,-63.3161"/>
-<polygon fill="none" stroke="#000000" points="400.5576,-61.7712 398.8722,-72.2311 406.7126,-65.1052 400.5576,-61.7712"/>
+<path fill="none" stroke="#000000" d="M446.1132,-34.6992C453.4697,-43.5269 462.658,-54.5529 470.8904,-64.4318"/>
+<polygon fill="none" stroke="#000000" points="468.4289,-66.9452 477.5196,-72.3868 473.8065,-62.4639 468.4289,-66.9452"/>
 </g>
 <!-- 3&#45;manifold&#45;&gt;Geometrical -->
-<g id="edge2" class="edge">
+<g id="edge6" class="edge">
 <title>3&#45;manifold&#45;&gt;Geometrical</title>
-<path fill="none" stroke="#000000" d="M545.6702,-100.6238C497.5268,-113.2287 417.1289,-134.2783 364.1453,-148.1504"/>
-<polygon fill="none" stroke="#000000" points="363.0461,-144.8201 354.2586,-150.7389 364.8191,-151.5919 363.0461,-144.8201"/>
+<path fill="none" stroke="#000000" d="M351.9191,-107.063C362.1511,-116.3884 374.9835,-128.0837 386.1756,-138.284"/>
+<polygon fill="none" stroke="#000000" points="383.8611,-140.9102 393.6097,-145.0595 388.5764,-135.7366 383.8611,-140.9102"/>
 </g>
 <!-- 1&#45;manifold&#45;&gt;Geometrical -->
 <g id="edge3" class="edge">
 <title>1&#45;manifold&#45;&gt;Geometrical</title>
-<path fill="none" stroke="#000000" d="M370.7625,-107.063C360.8296,-116.2318 348.4148,-127.6916 337.4977,-137.7689"/>
-<polygon fill="none" stroke="#000000" points="334.844,-135.4553 329.8699,-144.81 339.592,-140.599 334.844,-135.4553"/>
+<path fill="none" stroke="#000000" d="M473.2383,-107.063C462.8768,-116.3884 449.882,-128.0837 438.5483,-138.284"/>
+<polygon fill="none" stroke="#000000" points="436.1116,-135.7683 431.02,-145.0595 440.7944,-140.9713 436.1116,-135.7683"/>
 </g>
 <!-- Circle -->
-<g id="node13" class="node">
+<g id="node11" class="node">
 <title>Circle</title>
-<g id="a_node13"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_b2a234a8_579a_422c_9305_b8f7e72c76cd" xlink:title="Circle">
-<ellipse fill="#ffffcc" stroke="#000000" cx="511.2474" cy="-18" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="511.2474" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Circle</text>
+<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_b2a234a8_579a_422c_9305_b8f7e72c76cd" xlink:title="Circle">
+<ellipse fill="#ffffcc" stroke="#000000" cx="515.1972" cy="-18" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="515.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Circle</text>
 </a>
 </g>
 </g>
 <!-- Circle&#45;&gt;1&#45;manifold -->
-<g id="edge8" class="edge">
+<g id="edge7" class="edge">
 <title>Circle&#45;&gt;1&#45;manifold</title>
-<path fill="none" stroke="#000000" d="M488.8707,-31.2059C470.7742,-41.8858 444.9734,-57.1125 424.1629,-69.3941"/>
-<polygon fill="none" stroke="#000000" points="422.1264,-66.5319 415.2932,-74.6287 425.6842,-72.5604 422.1264,-66.5319"/>
+<path fill="none" stroke="#000000" d="M509.5118,-35.7978C506.9602,-43.7854 503.8903,-53.3955 501.0486,-62.2913"/>
+<polygon fill="none" stroke="#000000" points="497.686,-61.316 497.977,-71.9069 504.354,-63.4462 497.686,-61.316"/>
+</g>
+<!-- Line -->
+<g id="node12" class="node">
+<title>Line</title>
+<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_3e309118_e8b7_4021_80f4_642d2df65d94" xlink:title="Line">
+<ellipse fill="#ffffcc" stroke="#000000" cx="592.1972" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="592.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Line</text>
+</a>
+</g>
+</g>
+<!-- Line&#45;&gt;1&#45;manifold -->
+<g id="edge5" class="edge">
+<title>Line&#45;&gt;1&#45;manifold</title>
+<path fill="none" stroke="#000000" d="M573.388,-31.5426C559.2233,-41.7412 539.4982,-55.9433 523.0373,-67.7951"/>
+<polygon fill="none" stroke="#000000" points="520.8439,-65.0615 514.7736,-73.745 524.9341,-70.7423 520.8439,-65.0615"/>
+</g>
+<!-- Sphere -->
+<g id="node13" class="node">
+<title>Sphere</title>
+<g id="a_node13"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_d7bf784a_db94_4dd9_861c_54f262846fbf" xlink:title="Sphere">
+<ellipse fill="#ffffcc" stroke="#000000" cx="195.1972" cy="-18" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="195.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sphere</text>
+</a>
+</g>
+</g>
+<!-- Sphere&#45;&gt;2&#45;manifold -->
+<g id="edge8" class="edge">
+<title>Sphere&#45;&gt;2&#45;manifold</title>
+<path fill="none" stroke="#000000" d="M185.0302,-35.4292C180.1505,-43.7945 174.196,-54.002 168.7628,-63.3161"/>
+<polygon fill="none" stroke="#000000" points="165.5779,-61.8298 163.5624,-72.2311 171.6244,-65.3569 165.5779,-61.8298"/>
 </g>
 <!-- key1 -->
 <g id="node14" class="node">
 <title>key1</title>
-<text text-anchor="start" x="731.2474" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="731.1972" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node15" class="node">
 <title>key2</title>
-<text text-anchor="start" x="810.2474" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="810.1972" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge13" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M752.2474,-19C773.2474,-19 780.9583,-19 797.8055,-19"/>
-<polygon fill="none" stroke="#000000" points="798.2474,-22.5001 808.2474,-19 798.2474,-15.5001 798.2474,-22.5001"/>
+<path fill="none" stroke="#000000" d="M752.1972,-19C773.1972,-19 780.9082,-19 797.7553,-19"/>
+<polygon fill="none" stroke="#000000" points="798.1973,-22.5001 808.1972,-19 798.1972,-15.5001 798.1973,-22.5001"/>
 </g>
 </g>
 </svg>

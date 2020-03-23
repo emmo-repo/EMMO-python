@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- OrdinalQuantity&#45;&gt;Quantity -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>OrdinalQuantity&#45;&gt;Quantity</title>
 <path fill="none" stroke="#000000" d="M265.203,-105.2693C293.2128,-117.0629 331.9167,-133.3593 360.6581,-145.461"/>
 <polygon fill="none" stroke="#000000" points="359.4188,-148.7367 369.9934,-149.3916 362.1353,-142.2853 359.4188,-148.7367"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- QuantitativeProperty&#45;&gt;Quantity -->
-<g id="edge4" class="edge">
+<g id="edge5" class="edge">
 <title>QuantitativeProperty&#45;&gt;Quantity</title>
 <path fill="none" stroke="#000000" d="M399.9383,-108.1686C399.9383,-115.869 399.9383,-125.0257 399.9383,-133.5834"/>
 <polygon fill="none" stroke="#000000" points="396.4384,-133.5867 399.9383,-143.5867 403.4384,-133.5868 396.4384,-133.5867"/>
@@ -58,7 +58,7 @@
 </g>
 </g>
 <!-- PhysicalQuantity&#45;&gt;Quantity -->
-<g id="edge2" class="edge">
+<g id="edge6" class="edge">
 <title>PhysicalQuantity&#45;&gt;Quantity</title>
 <path fill="none" stroke="#000000" d="M536.6109,-105.4458C508.0814,-117.2511 468.8346,-133.4912 439.7147,-145.5408"/>
 <polygon fill="none" stroke="#000000" points="438.1596,-142.3964 430.2577,-149.4541 440.8361,-148.8645 438.1596,-142.3964"/>
@@ -73,7 +73,7 @@
 </g>
 </g>
 <!-- ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge5" class="edge">
+<g id="edge2" class="edge">
 <title>ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M191.7492,-34.0686C235.0626,-45.705 293.477,-61.3984 337.4057,-73.2002"/>
 <polygon fill="none" stroke="#000000" points="336.5457,-76.5932 347.1114,-75.8077 338.3619,-69.8329 336.5457,-76.5932"/>
@@ -88,7 +88,7 @@
 </g>
 </g>
 <!-- ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge6" class="edge">
+<g id="edge3" class="edge">
 <title>ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M399.9383,-36.1686C399.9383,-43.869 399.9383,-53.0257 399.9383,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="396.4384,-61.5867 399.9383,-71.5867 403.4384,-61.5868 396.4384,-61.5867"/>
@@ -103,7 +103,7 @@
 </g>
 </g>
 <!-- MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge1" class="edge">
+<g id="edge4" class="edge">
 <title>MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
 <path fill="none" stroke="#000000" d="M599.4411,-33.8898C558.4099,-45.4299 502.9457,-61.0292 460.9132,-72.8508"/>
 <polygon fill="none" stroke="#000000" points="459.7564,-69.5403 451.0775,-75.6171 461.6516,-76.2789 459.7564,-69.5403"/>

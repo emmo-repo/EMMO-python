@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Photon&#45;&gt;Massless -->
-<g id="edge7" class="edge">
+<g id="edge4" class="edge">
 <title>Photon&#45;&gt;Massless</title>
 <path fill="none" stroke="#000000" d="M60.7376,-31.0387C82.2259,-42.2499 113.4876,-58.5604 137.6866,-71.186"/>
 <polygon fill="none" stroke="#000000" points="136.0954,-74.3035 146.5803,-75.8261 139.3334,-68.0974 136.0954,-74.3035"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- Massless&#45;&gt;ElementaryParticle -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>Massless&#45;&gt;ElementaryParticle</title>
 <path fill="none" stroke="#000000" d="M185.8504,-107.4292C191.7364,-115.905 198.9358,-126.2721 205.4725,-135.6849"/>
 <polygon fill="none" stroke="#000000" points="202.6537,-137.7621 211.2325,-143.9794 208.4033,-133.7693 202.6537,-137.7621"/>
@@ -58,7 +58,7 @@
 </g>
 </g>
 <!-- Graviton&#45;&gt;Massless -->
-<g id="edge6" class="edge">
+<g id="edge2" class="edge">
 <title>Graviton&#45;&gt;Massless</title>
 <path fill="none" stroke="#000000" d="M142.1289,-35.7978C147.0115,-44.168 152.9334,-54.3198 158.3261,-63.5644"/>
 <polygon fill="none" stroke="#000000" points="155.4222,-65.5327 163.4842,-72.407 161.4687,-62.0056 155.4222,-65.5327"/>
@@ -82,7 +82,7 @@
 </g>
 </g>
 <!-- Electron&#45;&gt;Massive -->
-<g id="edge1" class="edge">
+<g id="edge6" class="edge">
 <title>Electron&#45;&gt;Massive</title>
 <path fill="none" stroke="#000000" d="M315.7468,-36.1686C315.7468,-43.869 315.7468,-53.0257 315.7468,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="312.2469,-61.5867 315.7468,-71.5867 319.2469,-61.5868 312.2469,-61.5867"/>
@@ -97,7 +97,7 @@
 </g>
 </g>
 <!-- Gluon&#45;&gt;Massless -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>Gluon&#45;&gt;Massless</title>
 <path fill="none" stroke="#000000" d="M212.6605,-35.063C206.4638,-43.8114 198.7896,-54.6455 191.8983,-64.3744"/>
 <polygon fill="none" stroke="#000000" points="189.0248,-62.376 186.1006,-72.5593 194.7369,-66.4221 189.0248,-62.376"/>
@@ -112,13 +112,13 @@
 </g>
 </g>
 <!-- Quark&#45;&gt;Massive -->
-<g id="edge4" class="edge">
+<g id="edge7" class="edge">
 <title>Quark&#45;&gt;Massive</title>
 <path fill="none" stroke="#000000" d="M387.8916,-32.9184C375.1842,-42.9727 358.1957,-56.4141 343.8962,-67.7279"/>
 <polygon fill="none" stroke="#000000" points="341.5109,-65.1522 335.8404,-74.1018 345.8543,-70.6417 341.5109,-65.1522"/>
 </g>
 <!-- Massive&#45;&gt;ElementaryParticle -->
-<g id="edge2" class="edge">
+<g id="edge5" class="edge">
 <title>Massive&#45;&gt;ElementaryParticle</title>
 <path fill="none" stroke="#000000" d="M295.329,-105.9791C283.2295,-115.4483 267.6676,-127.6272 254.1459,-138.2095"/>
 <polygon fill="none" stroke="#000000" points="251.7574,-135.6342 246.0395,-144.5536 256.0716,-141.1467 251.7574,-135.6342"/>
