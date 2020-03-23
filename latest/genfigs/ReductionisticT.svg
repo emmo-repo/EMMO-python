@@ -19,39 +19,24 @@
 </g>
 </g>
 <!-- State -->
-<g id="node7" class="node">
+<g id="node5" class="node">
 <title>State</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/reductionistic#EMMO_36c79456_e29c_400d_8bd3_0eedddb82652" xlink:title="State">
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/reductionistic#EMMO_36c79456_e29c_400d_8bd3_0eedddb82652" xlink:title="State">
 <ellipse fill="#ffffcc" stroke="#000000" cx="262.895" cy="-172" rx="28.6953" ry="18"/>
 <text text-anchor="middle" x="262.895" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">State</text>
 </a>
 </g>
 </g>
 <!-- PrefixedUnit&#45;&gt;State -->
-<g id="edge8" class="edge">
+<g id="edge11" class="edge">
 <title>PrefixedUnit&#45;&gt;State</title>
 <path fill="none" stroke="#000000" d="M94.345,-113.3739C132.6052,-126.6818 190.8094,-146.9267 227.8352,-159.8053"/>
 <polygon fill="none" stroke="#000000" points="227.0878,-163.2509 237.6826,-163.2305 229.3875,-156.6394 227.0878,-163.2509"/>
 </g>
-<!-- Quantity -->
-<g id="node2" class="node">
-<title>Quantity</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_f658c301_ce93_46cf_9639_4eace2c5d1d5" xlink:title="Quantity">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="170.895" cy="-100" rx="41.6928" ry="18"/>
-<text text-anchor="middle" x="170.895" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">Quantity</text>
-</a>
-</g>
-</g>
-<!-- Quantity&#45;&gt;State -->
-<g id="edge7" class="edge">
-<title>Quantity&#45;&gt;State</title>
-<path fill="none" stroke="#000000" d="M191.3128,-115.9791C204.677,-126.4381 222.2653,-140.2028 236.663,-151.4706"/>
-<polygon fill="none" stroke="#000000" points="234.6832,-154.3656 244.7154,-157.7724 238.9974,-148.853 234.6832,-154.3656"/>
-</g>
 <!-- Expression -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>Expression</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f9bc8b52_85e9_4b53_b969_dd7724d5b8e4" xlink:title="Expression">
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f9bc8b52_85e9_4b53_b969_dd7724d5b8e4" xlink:title="Expression">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="483.895" cy="-23" rx="50.0912" ry="18"/>
 <text text-anchor="middle" x="483.895" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">Expression</text>
 </a>
@@ -67,10 +52,25 @@
 </g>
 </g>
 <!-- Expression&#45;&gt;SymbolicComposition -->
-<g id="edge11" class="edge">
+<g id="edge8" class="edge">
 <title>Expression&#45;&gt;SymbolicComposition</title>
 <path fill="none" stroke="#000000" d="M496.3754,-40.4725C503.3778,-50.2758 512.2544,-62.703 520.0837,-73.6642"/>
 <polygon fill="none" stroke="#000000" points="517.4219,-75.9593 526.0824,-82.0623 523.118,-71.8906 517.4219,-75.9593"/>
+</g>
+<!-- Quantity -->
+<g id="node3" class="node">
+<title>Quantity</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_f658c301_ce93_46cf_9639_4eace2c5d1d5" xlink:title="Quantity">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="170.895" cy="-100" rx="41.6928" ry="18"/>
+<text text-anchor="middle" x="170.895" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">Quantity</text>
+</a>
+</g>
+</g>
+<!-- Quantity&#45;&gt;State -->
+<g id="edge7" class="edge">
+<title>Quantity&#45;&gt;State</title>
+<path fill="none" stroke="#000000" d="M191.3128,-115.9791C204.677,-126.4381 222.2653,-140.2028 236.663,-151.4706"/>
+<polygon fill="none" stroke="#000000" points="234.6832,-154.3656 244.7154,-157.7724 238.9974,-148.853 234.6832,-154.3656"/>
 </g>
 <!-- Existent -->
 <g id="node4" class="node">
@@ -82,13 +82,13 @@
 </g>
 </g>
 <!-- Existent&#45;&gt;State -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>Existent&#45;&gt;State</title>
 <path fill="none" stroke="#ff00ff" stroke-dasharray="5,2" d="M319.448,-184.1589C311.6262,-185.7069 303.8043,-185.9148 295.9824,-184.7826"/>
 <polygon fill="#ff00ff" stroke="#ff00ff" points="296.5896,-181.3329 286.0747,-182.6317 295.1046,-188.1736 296.5896,-181.3329"/>
 </g>
 <!-- Existent&#45;&gt;State -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>Existent&#45;&gt;State</title>
 <path fill="none" stroke="#ff00ff" stroke-dasharray="5,2" d="M319.448,-159.8411C311.6262,-158.2931 303.8043,-158.0852 295.9824,-159.2174"/>
 <polygon fill="#ff00ff" stroke="#ff00ff" points="295.1046,-155.8264 286.0747,-161.3683 296.5896,-162.6671 295.1046,-155.8264"/>
@@ -103,46 +103,46 @@
 </g>
 </g>
 <!-- Existent&#45;&gt;Reductionistic -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>Existent&#45;&gt;Reductionistic</title>
 <path fill="none" stroke="#000000" d="M338.4859,-189.4292C333.438,-197.8816 327.2667,-208.2149 321.6576,-217.6069"/>
 <polygon fill="none" stroke="#000000" points="318.6296,-215.8511 316.507,-226.2311 324.6394,-219.4403 318.6296,-215.8511"/>
 </g>
+<!-- State&#45;&gt;Reductionistic -->
+<g id="edge5" class="edge">
+<title>State&#45;&gt;Reductionistic</title>
+<path fill="none" stroke="#000000" d="M273.0854,-189.063C278.1293,-197.5086 284.3342,-207.8981 289.9853,-217.3604"/>
+<polygon fill="none" stroke="#000000" points="287.0454,-219.2639 295.1777,-226.0547 293.0552,-215.6747 287.0454,-219.2639"/>
+</g>
 <!-- Formula -->
-<g id="node5" class="node">
+<g id="node6" class="node">
 <title>Formula</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_88470739_03d3_4c47_a03e_b30a1288d50c" xlink:title="Formula">
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_88470739_03d3_4c47_a03e_b30a1288d50c" xlink:title="Formula">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="592.895" cy="-23" rx="40.8928" ry="18"/>
 <text text-anchor="middle" x="592.895" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">Formula</text>
 </a>
 </g>
 </g>
 <!-- Formula&#45;&gt;SymbolicComposition -->
-<g id="edge9" class="edge">
+<g id="edge10" class="edge">
 <title>Formula&#45;&gt;SymbolicComposition</title>
 <path fill="none" stroke="#000000" d="M580.6416,-40.4725C573.7665,-50.2758 565.0514,-62.703 557.3643,-73.6642"/>
 <polygon fill="none" stroke="#000000" points="554.351,-71.8653 551.4747,-82.0623 560.0821,-75.8846 554.351,-71.8653"/>
 </g>
 <!-- String -->
-<g id="node6" class="node">
+<g id="node7" class="node">
 <title>String</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_50ea1ec5_f157_41b0_b46b_a9032f17ca10" xlink:title="String">
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_50ea1ec5_f157_41b0_b46b_a9032f17ca10" xlink:title="String">
 <ellipse fill="#ffffcc" stroke="#000000" cx="262.895" cy="-100" rx="32.4942" ry="18"/>
 <text text-anchor="middle" x="262.895" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">String</text>
 </a>
 </g>
 </g>
 <!-- String&#45;&gt;State -->
-<g id="edge1" class="edge">
+<g id="edge9" class="edge">
 <title>String&#45;&gt;State</title>
 <path fill="none" stroke="#000000" d="M262.895,-118.1686C262.895,-125.869 262.895,-135.0257 262.895,-143.5834"/>
 <polygon fill="none" stroke="#000000" points="259.3951,-143.5867 262.895,-153.5867 266.3951,-143.5868 259.3951,-143.5867"/>
-</g>
-<!-- State&#45;&gt;Reductionistic -->
-<g id="edge2" class="edge">
-<title>State&#45;&gt;Reductionistic</title>
-<path fill="none" stroke="#000000" d="M273.0854,-189.063C278.1293,-197.5086 284.3342,-207.8981 289.9853,-217.3604"/>
-<polygon fill="none" stroke="#000000" points="287.0454,-219.2639 295.1777,-226.0547 293.0552,-215.6747 287.0454,-219.2639"/>
 </g>
 <!-- MaterialState -->
 <g id="node9" class="node">
@@ -154,7 +154,7 @@
 </g>
 </g>
 <!-- MaterialState&#45;&gt;State -->
-<g id="edge10" class="edge">
+<g id="edge4" class="edge">
 <title>MaterialState&#45;&gt;State</title>
 <path fill="none" stroke="#000000" d="M347.1613,-116.3379C330.58,-127.2907 308.696,-141.7462 291.3853,-153.1807"/>
 <polygon fill="none" stroke="#000000" points="289.217,-150.4183 282.8021,-158.8504 293.0752,-156.2591 289.217,-150.4183"/>

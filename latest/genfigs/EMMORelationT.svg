@@ -9,21 +9,21 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 351.5,-112 351.5,4 -4,4"/>
-<!-- EMMORelation -->
+<!-- semiotical -->
 <g id="node1" class="node">
-<title>EMMORelation</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/mereotopology#EMMO_ec2472ae_cf4a_46a5_8555_1556f5a6c3c5" xlink:title="EMMORelation">
-<polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="144.5,-108 38.5,-108 38.5,-72 144.5,-72 144.5,-108"/>
-<text text-anchor="middle" x="91.5" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">EMMORelation</text>
+<title>semiotical</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_2337e25c_3c60_43fc_a8f9_b11a3f974291" xlink:title="semiotical">
+<polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="73,-36 0,-36 0,0 73,0 73,-36"/>
+<text text-anchor="middle" x="36.5" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">semiotical</text>
 </a>
 </g>
 </g>
-<!-- semiotical -->
-<g id="node2" class="node">
-<title>semiotical</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_2337e25c_3c60_43fc_a8f9_b11a3f974291" xlink:title="semiotical">
-<polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="73,-36 0,-36 0,0 73,0 73,-36"/>
-<text text-anchor="middle" x="36.5" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">semiotical</text>
+<!-- EMMORelation -->
+<g id="node3" class="node">
+<title>EMMORelation</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/mereotopology#EMMO_ec2472ae_cf4a_46a5_8555_1556f5a6c3c5" xlink:title="EMMORelation">
+<polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="144.5,-108 38.5,-108 38.5,-72 144.5,-72 144.5,-108"/>
+<text text-anchor="middle" x="91.5" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">EMMORelation</text>
 </a>
 </g>
 </g>
@@ -34,9 +34,9 @@
 <polygon fill="none" stroke="#000000" points="68.5825,-65.7647 77.4343,-71.5867 74.1452,-61.5153 68.5825,-65.7647"/>
 </g>
 <!-- mereotopological -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>mereotopological</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/mereotopology#EMMO_03212fd7_abfd_4828_9c8e_62c293052d4b" xlink:title="mereotopological">
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/mereotopology#EMMO_03212fd7_abfd_4828_9c8e_62c293052d4b" xlink:title="mereotopological">
 <polygon fill="#0079ba" stroke="#000000" stroke-width="2" points="203.5,-36 91.5,-36 91.5,0 203.5,0 203.5,-36"/>
 <text text-anchor="middle" x="147.5" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#ffffff">mereotopological</text>
 </a>

@@ -9,328 +9,328 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1120)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1120 382.7728,-1120 382.7728,4 -4,4"/>
-<!-- Mega -->
+<!-- Peta -->
 <g id="node1" class="node">
-<title>Mega</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_5eaecadc_4f0d_4a3a_afc7_1fc0b83cc928" xlink:title="Mega">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-1044" rx="31.3957" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-1040.3" font-family="Times,serif" font-size="14.00" fill="#000000">Mega</text>
+<title>Peta</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_43a6b269_da31_4bb6_a537_c97df4fff32a" xlink:title="Peta">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-1044" rx="27" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-1040.3" font-family="Times,serif" font-size="14.00" fill="#000000">Peta</text>
 </a>
 </g>
 </g>
 <!-- SIMetricPrefix -->
-<g id="node3" class="node">
+<g id="node12" class="node">
 <title>SIMetricPrefix</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_471cb92b_edca_4cf9_bce8_a75084d876b8" xlink:title="SIMetricPrefix">
+<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_471cb92b_edca_4cf9_bce8_a75084d876b8" xlink:title="SIMetricPrefix">
 <ellipse fill="#ffffcc" stroke="#000000" cx="211.4844" cy="-531" rx="63.8893" ry="18"/>
 <text text-anchor="middle" x="211.4844" y="-527.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIMetricPrefix</text>
 </a>
 </g>
 </g>
-<!-- Mega&#45;&gt;SIMetricPrefix -->
-<g id="edge4" class="edge">
-<title>Mega&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M323.4669,-1030.5271C318.7939,-1026.6815 314.3167,-1022.1235 311.1788,-1017 262.9792,-938.3016 225.6183,-650.824 214.7231,-559.2339"/>
+<!-- Peta&#45;&gt;SIMetricPrefix -->
+<g id="edge19" class="edge">
+<title>Peta&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M324.8735,-1031.6593C319.7027,-1027.5874 314.6305,-1022.6358 311.1788,-1017 262.9792,-938.3016 225.6183,-650.824 214.7231,-559.2339"/>
 <polygon fill="none" stroke="#000000" points="218.171,-558.5853 213.5267,-549.0627 211.219,-559.4031 218.171,-558.5853"/>
 </g>
-<!-- Femto -->
+<!-- Deci -->
 <g id="node2" class="node">
+<title>Deci</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_1181c938_c8f0_4ad6_bc7a_2bfdc0903d29" xlink:title="Deci">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-990" rx="27.0966" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-986.3" font-family="Times,serif" font-size="14.00" fill="#000000">Deci</text>
+</a>
+</g>
+</g>
+<!-- Deci&#45;&gt;SIMetricPrefix -->
+<g id="edge14" class="edge">
+<title>Deci&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M324.9623,-977.6042C319.7929,-973.5314 314.6992,-968.5931 311.1788,-963 267.8289,-894.1268 228.0739,-644.2888 215.5517,-559.4304"/>
+<polygon fill="none" stroke="#000000" points="219.0061,-558.8633 214.0963,-549.4747 212.0797,-559.8759 219.0061,-558.8633"/>
+</g>
+<!-- Atto -->
+<g id="node3" class="node">
+<title>Atto</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_42955b2d_b465_4666_86cc_ea3c2d685753" xlink:title="Atto">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-936" rx="27" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-932.3" font-family="Times,serif" font-size="14.00" fill="#000000">Atto</text>
+</a>
+</g>
+</g>
+<!-- Atto&#45;&gt;SIMetricPrefix -->
+<g id="edge8" class="edge">
+<title>Atto&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M325.074,-923.5327C319.9064,-919.4588 314.7856,-914.5378 311.1788,-909 236.4429,-794.2546 217.585,-625.5745 212.9491,-559.2559"/>
+<polygon fill="none" stroke="#000000" points="216.4344,-558.9134 212.2999,-549.1587 209.4488,-559.3627 216.4344,-558.9134"/>
+</g>
+<!-- Tera -->
+<g id="node4" class="node">
+<title>Tera</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_3a204900_2b33_47d1_b444_815cc4c8cffa" xlink:title="Tera">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-882" rx="27" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">Tera</text>
+</a>
+</g>
+</g>
+<!-- Tera&#45;&gt;SIMetricPrefix -->
+<g id="edge21" class="edge">
+<title>Tera&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M325.2184,-869.4365C320.0531,-865.3611 314.8974,-860.4634 311.1788,-855 245.8679,-759.046 222.0176,-618.636 214.5087,-559.2202"/>
+<polygon fill="none" stroke="#000000" points="217.9603,-558.6076 213.2904,-549.0974 211.0104,-559.444 217.9603,-558.6076"/>
+</g>
+<!-- Zetta -->
+<g id="node5" class="node">
+<title>Zetta</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_daa9ee97_4c5f_42e5_918c_44d7523e8958" xlink:title="Zetta">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-828" rx="28.6953" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-824.3" font-family="Times,serif" font-size="14.00" fill="#000000">Zetta</text>
+</a>
+</g>
+</g>
+<!-- Zetta&#45;&gt;SIMetricPrefix -->
+<g id="edge1" class="edge">
+<title>Zetta&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M325.0594,-815.022C320.0133,-811.0023 314.9589,-806.2369 311.1788,-801 255.2071,-723.4578 227.2044,-610.9511 216.6344,-559.0983"/>
+<polygon fill="none" stroke="#000000" points="220.0093,-558.1219 214.6397,-548.9886 213.1417,-559.477 220.0093,-558.1219"/>
+</g>
+<!-- Kilo -->
+<g id="node6" class="node">
+<title>Kilo</title>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_74931b1b_c133_4e59_9a75_1bf0e1626201" xlink:title="Kilo">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-774" rx="27" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">Kilo</text>
+</a>
+</g>
+</g>
+<!-- Kilo&#45;&gt;SIMetricPrefix -->
+<g id="edge13" class="edge">
+<title>Kilo&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M325.6799,-761.0992C320.5219,-757.0185 315.2546,-752.2023 311.1788,-747 264.3701,-687.254 233.3917,-601.9802 219.6366,-558.6154"/>
+<polygon fill="none" stroke="#000000" points="222.9682,-557.5418 216.6613,-549.0287 216.2828,-559.6167 222.9682,-557.5418"/>
+</g>
+<!-- Zepto -->
+<g id="node7" class="node">
+<title>Zepto</title>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_254472c6_3dbd_4f02_bc43_571389cd281f" xlink:title="Zepto">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-720" rx="31.3957" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-716.3" font-family="Times,serif" font-size="14.00" fill="#000000">Zepto</text>
+</a>
+</g>
+</g>
+<!-- Zepto&#45;&gt;SIMetricPrefix -->
+<g id="edge10" class="edge">
+<title>Zepto&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M325.0147,-705.9288C320.1927,-702.0406 315.2588,-697.6127 311.1788,-693 273.5416,-650.4493 241.4713,-591.9366 224.4804,-558.1257"/>
+<polygon fill="none" stroke="#000000" points="227.4732,-556.2822 219.8987,-548.8742 221.2003,-559.3888 227.4732,-556.2822"/>
+</g>
+<!-- Pico -->
+<g id="node8" class="node">
+<title>Pico</title>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_068c4e58_2470_4b1c_8454_010dd4906100" xlink:title="Pico">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-666" rx="27" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">Pico</text>
+</a>
+</g>
+</g>
+<!-- Pico&#45;&gt;SIMetricPrefix -->
+<g id="edge3" class="edge">
+<title>Pico&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M327.0132,-652.4747C321.7714,-648.3103 316.1256,-643.6058 311.1788,-639 282.57,-612.3634 252.5021,-578.9334 232.9652,-556.378"/>
+<polygon fill="none" stroke="#000000" points="235.4417,-553.8899 226.2661,-548.5928 230.1357,-558.4557 235.4417,-553.8899"/>
+</g>
+<!-- Yocto -->
+<g id="node9" class="node">
+<title>Yocto</title>
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_f5769206_9257_4b08_bf7b_dad7868c6afc" xlink:title="Yocto">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-612" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-608.3" font-family="Times,serif" font-size="14.00" fill="#000000">Yocto</text>
+</a>
+</g>
+</g>
+<!-- Yocto&#45;&gt;SIMetricPrefix -->
+<g id="edge5" class="edge">
+<title>Yocto&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M322.9324,-598.6245C302.4451,-586.1932 271.5585,-567.4518 247.4927,-552.8492"/>
+<polygon fill="none" stroke="#000000" points="249.0041,-549.6723 238.6392,-547.477 245.3728,-555.6568 249.0041,-549.6723"/>
+</g>
+<!-- Mega -->
+<g id="node10" class="node">
+<title>Mega</title>
+<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_5eaecadc_4f0d_4a3a_afc7_1fc0b83cc928" xlink:title="Mega">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-558" rx="31.3957" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-554.3" font-family="Times,serif" font-size="14.00" fill="#000000">Mega</text>
+</a>
+</g>
+</g>
+<!-- Mega&#45;&gt;SIMetricPrefix -->
+<g id="edge6" class="edge">
+<title>Mega&#45;&gt;SIMetricPrefix</title>
+<path fill="none" stroke="#000000" d="M315.3497,-552.0078C302.9302,-549.4959 287.9966,-546.4754 273.3753,-543.5181"/>
+<polygon fill="none" stroke="#000000" points="273.8329,-540.0398 263.3375,-541.4878 272.4451,-546.9009 273.8329,-540.0398"/>
+</g>
+<!-- Femto -->
+<g id="node11" class="node">
 <title>Femto</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_23bfe79a_cade_48f1_9a8c_fd96e6bac8ba" xlink:title="Femto">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-990" rx="33.5952" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-986.3" font-family="Times,serif" font-size="14.00" fill="#000000">Femto</text>
+<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_23bfe79a_cade_48f1_9a8c_fd96e6bac8ba" xlink:title="Femto">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-504" rx="33.5952" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#000000">Femto</text>
 </a>
 </g>
 </g>
 <!-- Femto&#45;&gt;SIMetricPrefix -->
-<g id="edge1" class="edge">
+<g id="edge18" class="edge">
 <title>Femto&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M323.2051,-976.1825C318.6556,-972.4006 314.2991,-967.9576 311.1788,-963 267.8289,-894.1268 228.0739,-644.2888 215.5517,-559.4304"/>
-<polygon fill="none" stroke="#000000" points="219.0061,-558.8633 214.0963,-549.4747 212.0797,-559.8759 219.0061,-558.8633"/>
+<path fill="none" stroke="#000000" d="M313.3402,-510.3986C301.3662,-512.8205 287.2847,-515.6686 273.476,-518.4616"/>
+<polygon fill="none" stroke="#000000" points="272.6109,-515.0656 263.5033,-520.4786 273.9987,-521.9266 272.6109,-515.0656"/>
 </g>
 <!-- MetricPrefix -->
-<g id="node6" class="node">
+<g id="node15" class="node">
 <title>MetricPrefix</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_7d2afa66_ae9e_4095_a9bf_421d0be401b6" xlink:title="MetricPrefix">
+<g id="a_node15"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_7d2afa66_ae9e_4095_a9bf_421d0be401b6" xlink:title="MetricPrefix">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="55.895" cy="-531" rx="55.7903" ry="18"/>
 <text text-anchor="middle" x="55.895" y="-527.3" font-family="Times,serif" font-size="14.00" fill="#000000">MetricPrefix</text>
 </a>
 </g>
 </g>
 <!-- SIMetricPrefix&#45;&gt;MetricPrefix -->
-<g id="edge14" class="edge">
+<g id="edge9" class="edge">
 <title>SIMetricPrefix&#45;&gt;MetricPrefix</title>
 <path fill="none" stroke="#000000" d="M147.7513,-531C139.2791,-531 130.5768,-531 122.0644,-531"/>
 <polygon fill="none" stroke="#000000" points="121.8037,-527.5001 111.8036,-531 121.8036,-534.5001 121.8037,-527.5001"/>
 </g>
 <!-- Exa -->
-<g id="node4" class="node">
+<g id="node13" class="node">
 <title>Exa</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_5cf9f86c_86f5_40c4_846d_60371f670e0a" xlink:title="Exa">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-936" rx="27" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-932.3" font-family="Times,serif" font-size="14.00" fill="#000000">Exa</text>
+<g id="a_node13"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_5cf9f86c_86f5_40c4_846d_60371f670e0a" xlink:title="Exa">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-450" rx="27" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#000000">Exa</text>
 </a>
 </g>
 </g>
 <!-- Exa&#45;&gt;SIMetricPrefix -->
-<g id="edge13" class="edge">
+<g id="edge11" class="edge">
 <title>Exa&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M325.074,-923.5327C319.9064,-919.4588 314.7856,-914.5378 311.1788,-909 236.4429,-794.2546 217.585,-625.5745 212.9491,-559.2559"/>
-<polygon fill="none" stroke="#000000" points="216.4344,-558.9134 212.2999,-549.1587 209.4488,-559.3627 216.4344,-558.9134"/>
+<path fill="none" stroke="#000000" d="M324.9908,-462.1265C304.5208,-474.5473 272.2588,-494.1233 247.3534,-509.2354"/>
+<polygon fill="none" stroke="#000000" points="245.2797,-506.3997 238.5461,-514.5795 248.911,-512.3842 245.2797,-506.3997"/>
 </g>
 <!-- Hecto -->
-<g id="node5" class="node">
+<g id="node14" class="node">
 <title>Hecto</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_21aaefc1_3f86_4208_b7db_a755f31f0f8c" xlink:title="Hecto">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-882" rx="31.6951" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">Hecto</text>
+<g id="a_node14"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_21aaefc1_3f86_4208_b7db_a755f31f0f8c" xlink:title="Hecto">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-396" rx="31.6951" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-392.3" font-family="Times,serif" font-size="14.00" fill="#000000">Hecto</text>
 </a>
 </g>
 </g>
 <!-- Hecto&#45;&gt;SIMetricPrefix -->
-<g id="edge21" class="edge">
+<g id="edge12" class="edge">
 <title>Hecto&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M323.811,-868.3048C319.1276,-864.4659 314.5594,-859.9667 311.1788,-855 245.8679,-759.046 222.0176,-618.636 214.5087,-559.2202"/>
-<polygon fill="none" stroke="#000000" points="217.9603,-558.6076 213.2904,-549.0974 211.0104,-559.444 217.9603,-558.6076"/>
+<path fill="none" stroke="#000000" d="M325.6066,-410.6482C320.7732,-414.5253 315.6859,-418.8036 311.1788,-423 282.57,-449.6366 252.5021,-483.0666 232.9652,-505.622"/>
+<polygon fill="none" stroke="#000000" points="230.1357,-503.5443 226.2661,-513.4072 235.4417,-508.1101 230.1357,-503.5443"/>
 </g>
 <!-- Yotta -->
-<g id="node7" class="node">
+<g id="node16" class="node">
 <title>Yotta</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e79c62ff_10ad_4ec0_baba_c19ddd4eaa11" xlink:title="Yotta">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-828" rx="30.5947" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-824.3" font-family="Times,serif" font-size="14.00" fill="#000000">Yotta</text>
+<g id="a_node16"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e79c62ff_10ad_4ec0_baba_c19ddd4eaa11" xlink:title="Yotta">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-342" rx="30.5947" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#000000">Yotta</text>
 </a>
 </g>
 </g>
 <!-- Yotta&#45;&gt;SIMetricPrefix -->
-<g id="edge12" class="edge">
+<g id="edge15" class="edge">
 <title>Yotta&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M324.3553,-814.4563C319.5459,-810.558 314.783,-805.9933 311.1788,-801 255.2071,-723.4578 227.2044,-610.9511 216.6344,-559.0983"/>
-<polygon fill="none" stroke="#000000" points="220.0093,-558.1219 214.6397,-548.9886 213.1417,-559.477 220.0093,-558.1219"/>
+<path fill="none" stroke="#000000" d="M325.0147,-356.0712C320.1927,-359.9594 315.2588,-364.3873 311.1788,-369 273.5416,-411.5507 241.4713,-470.0634 224.4804,-503.8743"/>
+<polygon fill="none" stroke="#000000" points="221.2003,-502.6112 219.8987,-513.1258 227.4732,-505.7178 221.2003,-502.6112"/>
 </g>
 <!-- Milli -->
-<g id="node8" class="node">
+<g id="node17" class="node">
 <title>Milli</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a3a701ed_6f7d_4a10_9aee_dfa1961fc7b7" xlink:title="Milli">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-774" rx="28.6953" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">Milli</text>
+<g id="a_node17"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a3a701ed_6f7d_4a10_9aee_dfa1961fc7b7" xlink:title="Milli">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-288" rx="28.6953" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#000000">Milli</text>
 </a>
 </g>
 </g>
 <!-- Milli&#45;&gt;SIMetricPrefix -->
 <g id="edge7" class="edge">
 <title>Milli&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M325.3281,-760.8199C320.2831,-756.7994 315.162,-752.0841 311.1788,-747 264.3701,-687.254 233.3917,-601.9802 219.6366,-558.6154"/>
-<polygon fill="none" stroke="#000000" points="222.9682,-557.5418 216.6613,-549.0287 216.2828,-559.6167 222.9682,-557.5418"/>
+<path fill="none" stroke="#000000" d="M325.3281,-301.1801C320.2831,-305.2006 315.162,-309.9159 311.1788,-315 264.3701,-374.746 233.3917,-460.0198 219.6366,-503.3846"/>
+<polygon fill="none" stroke="#000000" points="216.2828,-502.3833 216.6613,-512.9713 222.9682,-504.4582 216.2828,-502.3833"/>
 </g>
 <!-- Giga -->
-<g id="node9" class="node">
+<g id="node18" class="node">
 <title>Giga</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a8eb4bbb_1bd3_4ad4_b114_2789bcbd2134" xlink:title="Giga">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-720" rx="27.8951" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-716.3" font-family="Times,serif" font-size="14.00" fill="#000000">Giga</text>
+<g id="a_node18"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a8eb4bbb_1bd3_4ad4_b114_2789bcbd2134" xlink:title="Giga">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-234" rx="27.8951" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Giga</text>
 </a>
 </g>
 </g>
 <!-- Giga&#45;&gt;SIMetricPrefix -->
-<g id="edge19" class="edge">
+<g id="edge2" class="edge">
 <title>Giga&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M325.7195,-706.4939C320.676,-702.4721 315.4579,-697.8377 311.1788,-693 273.5416,-650.4493 241.4713,-591.9366 224.4804,-558.1257"/>
-<polygon fill="none" stroke="#000000" points="227.4732,-556.2822 219.8987,-548.8742 221.2003,-559.3888 227.4732,-556.2822"/>
+<path fill="none" stroke="#000000" d="M325.0594,-246.978C320.0133,-250.9977 314.9589,-255.7631 311.1788,-261 255.2071,-338.5422 227.2044,-451.0489 216.6344,-502.9017"/>
+<polygon fill="none" stroke="#000000" points="213.1417,-502.523 214.6397,-513.0114 220.0093,-503.8781 213.1417,-502.523"/>
 </g>
 <!-- Deka -->
-<g id="node10" class="node">
+<g id="node19" class="node">
 <title>Deka</title>
-<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_1d8b370b_c672_4d0c_964e_eaafcbf2f51f" xlink:title="Deka">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-666" rx="29.4969" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">Deka</text>
+<g id="a_node19"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_1d8b370b_c672_4d0c_964e_eaafcbf2f51f" xlink:title="Deka">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-180" rx="29.4969" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#000000">Deka</text>
 </a>
 </g>
 </g>
 <!-- Deka&#45;&gt;SIMetricPrefix -->
-<g id="edge17" class="edge">
+<g id="edge20" class="edge">
 <title>Deka&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M326.312,-651.9163C321.2709,-647.8923 315.9057,-643.4011 311.1788,-639 282.57,-612.3634 252.5021,-578.9334 232.9652,-556.378"/>
-<polygon fill="none" stroke="#000000" points="235.4417,-553.8899 226.2661,-548.5928 230.1357,-558.4557 235.4417,-553.8899"/>
+<path fill="none" stroke="#000000" d="M324.5142,-193.1243C319.5873,-197.0853 314.7284,-201.785 311.1788,-207 245.8679,-302.954 222.0176,-443.364 214.5087,-502.7798"/>
+<polygon fill="none" stroke="#000000" points="211.0104,-502.556 213.2904,-512.9026 217.9603,-503.3924 211.0104,-502.556"/>
 </g>
 <!-- Centi -->
-<g id="node11" class="node">
+<g id="node20" class="node">
 <title>Centi</title>
-<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_b55cd09a_e54d_4eb1_81dd_03c29d1b878e" xlink:title="Centi">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-612" rx="29.795" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-608.3" font-family="Times,serif" font-size="14.00" fill="#000000">Centi</text>
+<g id="a_node20"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_b55cd09a_e54d_4eb1_81dd_03c29d1b878e" xlink:title="Centi">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-126" rx="29.795" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#000000">Centi</text>
 </a>
 </g>
 </g>
 <!-- Centi&#45;&gt;SIMetricPrefix -->
-<g id="edge10" class="edge">
+<g id="edge4" class="edge">
 <title>Centi&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M323.8237,-599.1653C303.2641,-586.6901 271.6488,-567.5066 247.1889,-552.6648"/>
-<polygon fill="none" stroke="#000000" points="248.8997,-549.609 238.5348,-547.4137 245.2684,-555.5935 248.8997,-549.609"/>
+<path fill="none" stroke="#000000" d="M324.0181,-139.3124C319.2151,-143.2151 314.5397,-147.8398 311.1788,-153 236.4429,-267.7454 217.585,-436.4255 212.9491,-502.7441"/>
+<polygon fill="none" stroke="#000000" points="209.4488,-502.6373 212.2999,-512.8413 216.4344,-503.0866 209.4488,-502.6373"/>
 </g>
 <!-- Micro -->
-<g id="node12" class="node">
+<g id="node21" class="node">
 <title>Micro</title>
-<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_9ff3bf8e_2168_406e_8251_1d158fc948ae" xlink:title="Micro">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-558" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-554.3" font-family="Times,serif" font-size="14.00" fill="#000000">Micro</text>
+<g id="a_node21"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_9ff3bf8e_2168_406e_8251_1d158fc948ae" xlink:title="Micro">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-72" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#000000">Micro</text>
 </a>
 </g>
 </g>
 <!-- Micro&#45;&gt;SIMetricPrefix -->
-<g id="edge15" class="edge">
+<g id="edge16" class="edge">
 <title>Micro&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M314.3502,-551.8057C302.0919,-549.3263 287.5076,-546.3765 273.2301,-543.4887"/>
-<polygon fill="none" stroke="#000000" points="273.9225,-540.0579 263.4271,-541.5059 272.5348,-546.919 273.9225,-540.0579"/>
+<path fill="none" stroke="#000000" d="M323.2051,-85.8175C318.6556,-89.5994 314.2991,-94.0424 311.1788,-99 267.8289,-167.8732 228.0739,-417.7112 215.5517,-502.5696"/>
+<polygon fill="none" stroke="#000000" points="212.0797,-502.1241 214.0963,-512.5253 219.0061,-503.1367 212.0797,-502.1241"/>
 </g>
 <!-- Nano -->
-<g id="node13" class="node">
+<g id="node22" class="node">
 <title>Nano</title>
-<g id="a_node13"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e1981c25_7c55_4020_aa7a_d2e14ced86d4" xlink:title="Nano">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-504" rx="29.795" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#000000">Nano</text>
+<g id="a_node22"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e1981c25_7c55_4020_aa7a_d2e14ced86d4" xlink:title="Nano">
+<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-18" rx="29.795" ry="18"/>
+<text text-anchor="middle" x="344.9758" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Nano</text>
 </a>
 </g>
 </g>
 <!-- Nano&#45;&gt;SIMetricPrefix -->
-<g id="edge8" class="edge">
+<g id="edge17" class="edge">
 <title>Nano&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M316.3385,-509.7922C303.8272,-512.3227 288.6293,-515.3966 273.7317,-518.4099"/>
-<polygon fill="none" stroke="#000000" points="272.6102,-515.0657 263.5026,-520.4788 273.998,-521.9268 272.6102,-515.0657"/>
-</g>
-<!-- Peta -->
-<g id="node14" class="node">
-<title>Peta</title>
-<g id="a_node14"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_43a6b269_da31_4bb6_a537_c97df4fff32a" xlink:title="Peta">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-450" rx="27" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#000000">Peta</text>
-</a>
-</g>
-</g>
-<!-- Peta&#45;&gt;SIMetricPrefix -->
-<g id="edge18" class="edge">
-<title>Peta&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M324.9908,-462.1265C304.5208,-474.5473 272.2588,-494.1233 247.3534,-509.2354"/>
-<polygon fill="none" stroke="#000000" points="245.2797,-506.3997 238.5461,-514.5795 248.911,-512.3842 245.2797,-506.3997"/>
-</g>
-<!-- Deci -->
-<g id="node15" class="node">
-<title>Deci</title>
-<g id="a_node15"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_1181c938_c8f0_4ad6_bc7a_2bfdc0903d29" xlink:title="Deci">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-396" rx="27.0966" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-392.3" font-family="Times,serif" font-size="14.00" fill="#000000">Deci</text>
-</a>
-</g>
-</g>
-<!-- Deci&#45;&gt;SIMetricPrefix -->
-<g id="edge11" class="edge">
-<title>Deci&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M326.6632,-409.8037C321.5208,-413.8988 316.0157,-418.4965 311.1788,-423 282.57,-449.6366 252.5021,-483.0666 232.9652,-505.622"/>
-<polygon fill="none" stroke="#000000" points="230.1357,-503.5443 226.2661,-513.4072 235.4417,-508.1101 230.1357,-503.5443"/>
-</g>
-<!-- Atto -->
-<g id="node16" class="node">
-<title>Atto</title>
-<g id="a_node16"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_42955b2d_b465_4666_86cc_ea3c2d685753" xlink:title="Atto">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-342" rx="27" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#000000">Atto</text>
-</a>
-</g>
-</g>
-<!-- Atto&#45;&gt;SIMetricPrefix -->
-<g id="edge16" class="edge">
-<title>Atto&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M326.0711,-355.2265C320.9193,-359.3124 315.5574,-364.0498 311.1788,-369 273.5416,-411.5507 241.4713,-470.0634 224.4804,-503.8743"/>
-<polygon fill="none" stroke="#000000" points="221.2003,-502.6112 219.8987,-513.1258 227.4732,-505.7178 221.2003,-502.6112"/>
-</g>
-<!-- Tera -->
-<g id="node17" class="node">
-<title>Tera</title>
-<g id="a_node17"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_3a204900_2b33_47d1_b444_815cc4c8cffa" xlink:title="Tera">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-288" rx="27" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#000000">Tera</text>
-</a>
-</g>
-</g>
-<!-- Tera&#45;&gt;SIMetricPrefix -->
-<g id="edge9" class="edge">
-<title>Tera&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M325.6799,-300.9008C320.5219,-304.9815 315.2546,-309.7977 311.1788,-315 264.3701,-374.746 233.3917,-460.0198 219.6366,-503.3846"/>
-<polygon fill="none" stroke="#000000" points="216.2828,-502.3833 216.6613,-512.9713 222.9682,-504.4582 216.2828,-502.3833"/>
-</g>
-<!-- Zetta -->
-<g id="node18" class="node">
-<title>Zetta</title>
-<g id="a_node18"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_daa9ee97_4c5f_42e5_918c_44d7523e8958" xlink:title="Zetta">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-234" rx="28.6953" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Zetta</text>
-</a>
-</g>
-</g>
-<!-- Zetta&#45;&gt;SIMetricPrefix -->
-<g id="edge5" class="edge">
-<title>Zetta&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M325.0594,-246.978C320.0133,-250.9977 314.9589,-255.7631 311.1788,-261 255.2071,-338.5422 227.2044,-451.0489 216.6344,-502.9017"/>
-<polygon fill="none" stroke="#000000" points="213.1417,-502.523 214.6397,-513.0114 220.0093,-503.8781 213.1417,-502.523"/>
-</g>
-<!-- Kilo -->
-<g id="node19" class="node">
-<title>Kilo</title>
-<g id="a_node19"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_74931b1b_c133_4e59_9a75_1bf0e1626201" xlink:title="Kilo">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-180" rx="27" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#000000">Kilo</text>
-</a>
-</g>
-</g>
-<!-- Kilo&#45;&gt;SIMetricPrefix -->
-<g id="edge20" class="edge">
-<title>Kilo&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M325.2184,-192.5635C320.0531,-196.6389 314.8974,-201.5366 311.1788,-207 245.8679,-302.954 222.0176,-443.364 214.5087,-502.7798"/>
-<polygon fill="none" stroke="#000000" points="211.0104,-502.556 213.2904,-512.9026 217.9603,-503.3924 211.0104,-502.556"/>
-</g>
-<!-- Zepto -->
-<g id="node20" class="node">
-<title>Zepto</title>
-<g id="a_node20"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_254472c6_3dbd_4f02_bc43_571389cd281f" xlink:title="Zepto">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-126" rx="31.3957" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#000000">Zepto</text>
-</a>
-</g>
-</g>
-<!-- Zepto&#45;&gt;SIMetricPrefix -->
-<g id="edge3" class="edge">
-<title>Zepto&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M323.6669,-139.5992C318.9879,-143.441 314.4577,-147.9656 311.1788,-153 236.4429,-267.7454 217.585,-436.4255 212.9491,-502.7441"/>
-<polygon fill="none" stroke="#000000" points="209.4488,-502.6373 212.2999,-512.8413 216.4344,-503.0866 209.4488,-502.6373"/>
-</g>
-<!-- Pico -->
-<g id="node21" class="node">
-<title>Pico</title>
-<g id="a_node21"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_068c4e58_2470_4b1c_8454_010dd4906100" xlink:title="Pico">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-72" rx="27" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#000000">Pico</text>
-</a>
-</g>
-</g>
-<!-- Pico&#45;&gt;SIMetricPrefix -->
-<g id="edge6" class="edge">
-<title>Pico&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M324.9623,-84.3958C319.7929,-88.4686 314.6992,-93.4069 311.1788,-99 267.8289,-167.8732 228.0739,-417.7112 215.5517,-502.5696"/>
-<polygon fill="none" stroke="#000000" points="212.0797,-502.1241 214.0963,-512.5253 219.0061,-503.1367 212.0797,-502.1241"/>
-</g>
-<!-- Yocto -->
-<g id="node22" class="node">
-<title>Yocto</title>
-<g id="a_node22"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_f5769206_9257_4b08_bf7b_dad7868c6afc" xlink:title="Yocto">
-<ellipse fill="#ffffcc" stroke="#000000" cx="344.9758" cy="-18" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="344.9758" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Yocto</text>
-</a>
-</g>
-</g>
-<!-- Yocto&#45;&gt;SIMetricPrefix -->
-<g id="edge2" class="edge">
-<title>Yocto&#45;&gt;SIMetricPrefix</title>
-<path fill="none" stroke="#000000" d="M323.1168,-31.7626C318.5709,-35.5468 314.2382,-40.0046 311.1788,-45 262.9792,-123.6984 225.6183,-411.176 214.7231,-502.7661"/>
+<path fill="none" stroke="#000000" d="M323.8177,-31.1858C319.0186,-35.091 314.3951,-39.7484 311.1788,-45 262.9792,-123.6984 225.6183,-411.176 214.7231,-502.7661"/>
 <polygon fill="none" stroke="#000000" points="211.219,-502.5969 213.5267,-512.9373 218.171,-503.4147 211.219,-502.5969"/>
 </g>
 <!-- key1 -->

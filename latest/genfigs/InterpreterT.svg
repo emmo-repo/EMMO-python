@@ -37,13 +37,13 @@
 </g>
 </g>
 <!-- MeasurementInstrument&#45;&gt;Observer -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>MeasurementInstrument&#45;&gt;Observer</title>
 <path fill="none" stroke="#000000" d="M98.1413,-36.1686C98.1413,-43.869 98.1413,-53.0257 98.1413,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="94.6414,-61.5867 98.1413,-71.5867 101.6414,-61.5868 94.6414,-61.5867"/>
 </g>
 <!-- Observer&#45;&gt;Interpreter -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>Observer&#45;&gt;Interpreter</title>
 <path fill="none" stroke="#000000" d="M98.1413,-108.1686C98.1413,-115.869 98.1413,-125.0257 98.1413,-133.5834"/>
 <polygon fill="none" stroke="#000000" points="94.6414,-133.5867 98.1413,-143.5867 101.6414,-133.5868 94.6414,-133.5867"/>
