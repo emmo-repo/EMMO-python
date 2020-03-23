@@ -5,109 +5,109 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="389pt" height="188pt"
- viewBox="0.00 0.00 389.15 188.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 389.20 188.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 385.1471,-184 385.1471,4 -4,4"/>
-<!-- Music -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 385.1972,-184 385.1972,4 -4,4"/>
+<!-- Noise -->
 <g id="node1" class="node">
-<title>Music</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_0d69f94a_f4fa_49d9_bf90_ace770eeab02" xlink:title="Music">
-<ellipse fill="#ffffcc" stroke="#000000" cx="33.1471" cy="-18" rx="33.2948" ry="18"/>
-<text text-anchor="middle" x="33.1471" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Music</text>
+<title>Noise</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_91756568_8655_4060_8937_a1a906dad8c1" xlink:title="Noise">
+<ellipse fill="#ffffcc" stroke="#000000" cx="31.1972" cy="-18" rx="31.3957" ry="18"/>
+<text text-anchor="middle" x="31.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Noise</text>
 </a>
 </g>
 </g>
 <!-- Acoustical -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>Acoustical</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_4b3afb22_27cf_4ce3_88bc_492bfccb546b" xlink:title="Acoustical">
-<ellipse fill="#ffffcc" stroke="#000000" cx="115.1471" cy="-90" rx="48.1917" ry="18"/>
-<text text-anchor="middle" x="115.1471" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Acoustical</text>
-</a>
-</g>
-</g>
-<!-- Music&#45;&gt;Acoustical -->
-<g id="edge3" class="edge">
-<title>Music&#45;&gt;Acoustical</title>
-<path fill="none" stroke="#000000" d="M50.9398,-33.6229C61.9134,-43.2583 76.1942,-55.7975 88.5005,-66.603"/>
-<polygon fill="none" stroke="#000000" points="86.424,-69.4375 96.2477,-73.4055 91.0426,-64.1774 86.424,-69.4375"/>
-</g>
-<!-- Noise -->
-<g id="node2" class="node">
-<title>Noise</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_91756568_8655_4060_8937_a1a906dad8c1" xlink:title="Noise">
-<ellipse fill="#ffffcc" stroke="#000000" cx="115.1471" cy="-18" rx="31.3957" ry="18"/>
-<text text-anchor="middle" x="115.1471" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Noise</text>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_4b3afb22_27cf_4ce3_88bc_492bfccb546b" xlink:title="Acoustical">
+<ellipse fill="#ffffcc" stroke="#000000" cx="113.1972" cy="-90" rx="48.1917" ry="18"/>
+<text text-anchor="middle" x="113.1972" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Acoustical</text>
 </a>
 </g>
 </g>
 <!-- Noise&#45;&gt;Acoustical -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>Noise&#45;&gt;Acoustical</title>
-<path fill="none" stroke="#000000" d="M115.1471,-36.1686C115.1471,-43.869 115.1471,-53.0257 115.1471,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="111.6472,-61.5867 115.1471,-71.5867 118.6472,-61.5868 111.6472,-61.5867"/>
+<path fill="none" stroke="#000000" d="M48.5873,-33.2693C59.5397,-42.8861 73.902,-55.4968 86.3033,-66.3859"/>
+<polygon fill="none" stroke="#000000" points="84.2904,-69.2761 94.1141,-73.2441 88.909,-64.016 84.2904,-69.2761"/>
 </g>
-<!-- Graphical -->
-<g id="node3" class="node">
-<title>Graphical</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_c74da218_9147_4f03_92d1_8894abca55f3" xlink:title="Graphical">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="227.1471" cy="-90" rx="45.4919" ry="18"/>
-<text text-anchor="middle" x="227.1471" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Graphical</text>
+<!-- Music -->
+<g id="node2" class="node">
+<title>Music</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_0d69f94a_f4fa_49d9_bf90_ace770eeab02" xlink:title="Music">
+<ellipse fill="#ffffcc" stroke="#000000" cx="113.1972" cy="-18" rx="33.2948" ry="18"/>
+<text text-anchor="middle" x="113.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Music</text>
 </a>
 </g>
+</g>
+<!-- Music&#45;&gt;Acoustical -->
+<g id="edge5" class="edge">
+<title>Music&#45;&gt;Acoustical</title>
+<path fill="none" stroke="#000000" d="M113.1972,-36.1686C113.1972,-43.869 113.1972,-53.0257 113.1972,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="109.6973,-61.5867 113.1972,-71.5867 116.6973,-61.5868 109.6973,-61.5867"/>
 </g>
 <!-- Perceptual -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>Perceptual</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_649bf97b_4397_4005_90d9_219755d92e34" xlink:title="Perceptual">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="171.1471" cy="-162" rx="48.1917" ry="18"/>
-<text text-anchor="middle" x="171.1471" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Perceptual</text>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_649bf97b_4397_4005_90d9_219755d92e34" xlink:title="Perceptual">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="169.1972" cy="-162" rx="48.1917" ry="18"/>
+<text text-anchor="middle" x="169.1972" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Perceptual</text>
 </a>
 </g>
-</g>
-<!-- Graphical&#45;&gt;Perceptual -->
-<g id="edge5" class="edge">
-<title>Graphical&#45;&gt;Perceptual</title>
-<path fill="none" stroke="#000000" d="M213.591,-107.4292C206.8313,-116.1203 198.5249,-126.7999 191.058,-136.4002"/>
-<polygon fill="none" stroke="#000000" points="188.1491,-134.4394 184.7724,-144.4818 193.6745,-138.737 188.1491,-134.4394"/>
 </g>
 <!-- Acoustical&#45;&gt;Perceptual -->
 <g id="edge1" class="edge">
 <title>Acoustical&#45;&gt;Perceptual</title>
-<path fill="none" stroke="#000000" d="M128.7031,-107.4292C135.4628,-116.1203 143.7692,-126.7999 151.2361,-136.4002"/>
-<polygon fill="none" stroke="#000000" points="148.6196,-138.737 157.5218,-144.4818 154.1451,-134.4394 148.6196,-138.737"/>
+<path fill="none" stroke="#000000" d="M126.7533,-107.4292C133.513,-116.1203 141.8194,-126.7999 149.2862,-136.4002"/>
+<polygon fill="none" stroke="#000000" points="146.6698,-138.737 155.5719,-144.4818 152.1952,-134.4394 146.6698,-138.737"/>
+</g>
+<!-- Graphical -->
+<g id="node5" class="node">
+<title>Graphical</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_c74da218_9147_4f03_92d1_8894abca55f3" xlink:title="Graphical">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="225.1972" cy="-90" rx="45.4919" ry="18"/>
+<text text-anchor="middle" x="225.1972" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Graphical</text>
+</a>
+</g>
+</g>
+<!-- Graphical&#45;&gt;Perceptual -->
+<g id="edge4" class="edge">
+<title>Graphical&#45;&gt;Perceptual</title>
+<path fill="none" stroke="#000000" d="M211.6412,-107.4292C204.8815,-116.1203 196.5751,-126.7999 189.1082,-136.4002"/>
+<polygon fill="none" stroke="#000000" points="186.1992,-134.4394 182.8225,-144.4818 191.7247,-138.737 186.1992,-134.4394"/>
 </g>
 <!-- Speech -->
 <g id="node6" class="node">
 <title>Speech</title>
 <g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_660ef3b0_6692_4c51_8f69_763c7817b2e1" xlink:title="Speech">
-<ellipse fill="#ffffcc" stroke="#000000" cx="201.1471" cy="-18" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="201.1471" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Speech</text>
+<ellipse fill="#ffffcc" stroke="#000000" cx="201.1972" cy="-18" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="201.1972" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Speech</text>
 </a>
 </g>
 </g>
 <!-- Speech&#45;&gt;Acoustical -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>Speech&#45;&gt;Acoustical</title>
-<path fill="none" stroke="#000000" d="M182.4863,-33.6229C170.8679,-43.35 155.7145,-56.0366 142.7253,-66.9112"/>
-<polygon fill="none" stroke="#000000" points="140.3891,-64.3024 134.9683,-73.4055 144.8827,-69.6697 140.3891,-64.3024"/>
+<path fill="none" stroke="#000000" d="M182.1025,-33.6229C170.2139,-43.35 154.7081,-56.0366 141.4168,-66.9112"/>
+<polygon fill="none" stroke="#000000" points="139.0027,-64.3642 133.4794,-73.4055 143.4354,-69.7819 139.0027,-64.3642"/>
 </g>
 <!-- key1 -->
 <g id="node7" class="node">
 <title>key1</title>
-<text text-anchor="start" x="273.1471" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="273.1972" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node8" class="node">
 <title>key2</title>
-<text text-anchor="start" x="352.1471" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="352.1972" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge6" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M294.1471,-19C315.1471,-19 322.858,-19 339.7052,-19"/>
-<polygon fill="none" stroke="#000000" points="340.1471,-22.5001 350.1471,-19 340.147,-15.5001 340.1471,-22.5001"/>
+<path fill="none" stroke="#000000" d="M294.1972,-19C315.1972,-19 322.9082,-19 339.7553,-19"/>
+<polygon fill="none" stroke="#000000" points="340.1973,-22.5001 350.1972,-19 340.1972,-15.5001 340.1973,-22.5001"/>
 </g>
 </g>
 </svg>

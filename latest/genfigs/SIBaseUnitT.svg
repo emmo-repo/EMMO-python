@@ -5,139 +5,139 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="774pt" height="116pt"
- viewBox="0.00 0.00 773.85 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 773.65 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 769.846,-112 769.846,4 -4,4"/>
-<!-- Kilogram -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 769.6465,-112 769.6465,4 -4,4"/>
+<!-- Ampere -->
 <g id="node1" class="node">
-<title>Kilogram</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_9bfd6f1e_b0ce_459c_beb7_8f1f41708bba" xlink:title="Kilogram">
-<ellipse fill="#ffffcc" stroke="#000000" cx="44.846" cy="-18" rx="44.6926" ry="18"/>
-<text text-anchor="middle" x="44.846" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Kilogram</text>
+<title>Ampere</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_db5dd38d_ac79_4af6_8782_fee7e7150ae8" xlink:title="Ampere">
+<ellipse fill="#ffffcc" stroke="#000000" cx="39.6465" cy="-18" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="39.6465" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Ampere</text>
 </a>
 </g>
 </g>
 <!-- SIBaseUnit -->
-<g id="node7" class="node">
-<title>SIBaseUnit</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_3a185e6c_9e19_4776_b583_19c978156aa0" xlink:title="SIBaseUnit">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="306.846" cy="-90" rx="51.1914" ry="18"/>
-<text text-anchor="middle" x="306.846" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIBaseUnit</text>
-</a>
-</g>
-</g>
-<!-- Kilogram&#45;&gt;SIBaseUnit -->
-<g id="edge2" class="edge">
-<title>Kilogram&#45;&gt;SIBaseUnit</title>
-<path fill="none" stroke="#000000" d="M79.0152,-29.7778C85.5724,-31.9278 92.4027,-34.0921 98.846,-36 151.5035,-51.5921 212.3744,-67.1069 254.6038,-77.4783"/>
-<polygon fill="none" stroke="#000000" points="253.8417,-80.895 264.3869,-79.8709 255.5047,-74.0954 253.8417,-80.895"/>
-</g>
-<!-- Metre -->
-<g id="node2" class="node">
-<title>Metre</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_7db11dbf_a643_464a_9b56_07eabcc3e9c5" xlink:title="Metre">
-<ellipse fill="#ffffcc" stroke="#000000" cx="139.846" cy="-18" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="139.846" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Metre</text>
-</a>
-</g>
-</g>
-<!-- Metre&#45;&gt;SIBaseUnit -->
-<g id="edge4" class="edge">
-<title>Metre&#45;&gt;SIBaseUnit</title>
-<path fill="none" stroke="#000000" d="M165.5738,-29.0922C192.0241,-40.4959 233.6444,-58.44 264.8709,-71.9029"/>
-<polygon fill="none" stroke="#000000" points="263.6312,-75.1799 274.1998,-75.925 266.4026,-68.7518 263.6312,-75.1799"/>
-</g>
-<!-- Kelvin -->
-<g id="node3" class="node">
-<title>Kelvin</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_2e5e45fc_f52c_4294_bdc2_5ed7a06dfce7" xlink:title="Kelvin">
-<ellipse fill="#ffffcc" stroke="#000000" cx="224.846" cy="-18" rx="34.394" ry="18"/>
-<text text-anchor="middle" x="224.846" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Kelvin</text>
-</a>
-</g>
-</g>
-<!-- Kelvin&#45;&gt;SIBaseUnit -->
-<g id="edge3" class="edge">
-<title>Kelvin&#45;&gt;SIBaseUnit</title>
-<path fill="none" stroke="#000000" d="M242.6388,-33.6229C253.5351,-43.1904 267.6922,-55.621 279.9391,-66.3745"/>
-<polygon fill="none" stroke="#000000" points="277.8341,-69.1839 287.6579,-73.1519 282.4528,-63.9238 277.8341,-69.1839"/>
-</g>
-<!-- Mole -->
-<g id="node4" class="node">
-<title>Mole</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_df6eeb01_1b41_4bd8_9257_a04fbd7cf000" xlink:title="Mole">
-<ellipse fill="#ffffcc" stroke="#000000" cx="306.846" cy="-18" rx="29.795" ry="18"/>
-<text text-anchor="middle" x="306.846" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Mole</text>
-</a>
-</g>
-</g>
-<!-- Mole&#45;&gt;SIBaseUnit -->
-<g id="edge5" class="edge">
-<title>Mole&#45;&gt;SIBaseUnit</title>
-<path fill="none" stroke="#000000" d="M306.846,-36.1686C306.846,-43.869 306.846,-53.0257 306.846,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="303.3461,-61.5867 306.846,-71.5867 310.3461,-61.5868 303.3461,-61.5867"/>
-</g>
-<!-- Second -->
-<g id="node5" class="node">
-<title>Second</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_314ba716_2d3d_4462_9a4f_d3419ae1df43" xlink:title="Second">
-<ellipse fill="#ffffcc" stroke="#000000" cx="390.846" cy="-18" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="390.846" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Second</text>
-</a>
-</g>
-</g>
-<!-- Second&#45;&gt;SIBaseUnit -->
-<g id="edge1" class="edge">
-<title>Second&#45;&gt;SIBaseUnit</title>
-<path fill="none" stroke="#000000" d="M372.6193,-33.6229C361.4572,-43.1904 346.9549,-55.621 334.4092,-66.3745"/>
-<polygon fill="none" stroke="#000000" points="331.817,-63.9865 326.5022,-73.1519 336.3725,-69.3013 331.817,-63.9865"/>
-</g>
-<!-- Candela -->
-<g id="node6" class="node">
-<title>Candela</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_8d00f093_3f45_4ea3_986c_b3545c3c2f4c" xlink:title="Candela">
-<ellipse fill="#ffffcc" stroke="#000000" cx="484.846" cy="-18" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="484.846" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Candela</text>
-</a>
-</g>
-</g>
-<!-- Candela&#45;&gt;SIBaseUnit -->
-<g id="edge6" class="edge">
-<title>Candela&#45;&gt;SIBaseUnit</title>
-<path fill="none" stroke="#000000" d="M455.0528,-30.0512C426.3181,-41.6742 382.514,-59.3927 349.9714,-72.556"/>
-<polygon fill="none" stroke="#000000" points="348.6468,-69.3163 340.6889,-76.3108 351.2717,-75.8055 348.6468,-69.3163"/>
-</g>
-<!-- Ampere -->
 <g id="node8" class="node">
-<title>Ampere</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_db5dd38d_ac79_4af6_8782_fee7e7150ae8" xlink:title="Ampere">
-<ellipse fill="#ffffcc" stroke="#000000" cx="581.846" cy="-18" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="581.846" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Ampere</text>
+<title>SIBaseUnit</title>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_3a185e6c_9e19_4776_b583_19c978156aa0" xlink:title="SIBaseUnit">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="314.6465" cy="-90" rx="51.1914" ry="18"/>
+<text text-anchor="middle" x="314.6465" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIBaseUnit</text>
 </a>
 </g>
 </g>
 <!-- Ampere&#45;&gt;SIBaseUnit -->
 <g id="edge7" class="edge">
 <title>Ampere&#45;&gt;SIBaseUnit</title>
-<path fill="none" stroke="#000000" d="M551.8297,-29.913C545.9141,-32.074 539.7197,-34.2078 533.846,-36 475.7295,-53.7332 407.7874,-69.2241 361.4848,-79.0125"/>
-<polygon fill="none" stroke="#000000" points="360.7233,-75.596 351.6544,-81.0738 362.1599,-82.447 360.7233,-75.596"/>
+<path fill="none" stroke="#000000" d="M69.6628,-29.913C75.5784,-32.074 81.7728,-34.2078 87.6465,-36 145.763,-53.7332 213.7051,-69.2241 260.0077,-79.0125"/>
+<polygon fill="none" stroke="#000000" points="259.3327,-82.447 269.8381,-81.0738 260.7692,-75.596 259.3327,-82.447"/>
+</g>
+<!-- Kilogram -->
+<g id="node2" class="node">
+<title>Kilogram</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_9bfd6f1e_b0ce_459c_beb7_8f1f41708bba" xlink:title="Kilogram">
+<ellipse fill="#ffffcc" stroke="#000000" cx="141.6465" cy="-18" rx="44.6926" ry="18"/>
+<text text-anchor="middle" x="141.6465" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Kilogram</text>
+</a>
+</g>
+</g>
+<!-- Kilogram&#45;&gt;SIBaseUnit -->
+<g id="edge3" class="edge">
+<title>Kilogram&#45;&gt;SIBaseUnit</title>
+<path fill="none" stroke="#000000" d="M172.9755,-31.0387C200.652,-42.5572 241.2614,-59.4582 271.9144,-72.2156"/>
+<polygon fill="none" stroke="#000000" points="270.9106,-75.5888 281.4878,-76.1999 273.6003,-69.1261 270.9106,-75.5888"/>
+</g>
+<!-- Mole -->
+<g id="node3" class="node">
+<title>Mole</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_df6eeb01_1b41_4bd8_9257_a04fbd7cf000" xlink:title="Mole">
+<ellipse fill="#ffffcc" stroke="#000000" cx="234.6465" cy="-18" rx="29.795" ry="18"/>
+<text text-anchor="middle" x="234.6465" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Mole</text>
+</a>
+</g>
+</g>
+<!-- Mole&#45;&gt;SIBaseUnit -->
+<g id="edge5" class="edge">
+<title>Mole&#45;&gt;SIBaseUnit</title>
+<path fill="none" stroke="#000000" d="M251.6124,-33.2693C262.2225,-42.8184 276.1124,-55.3194 288.1527,-66.1556"/>
+<polygon fill="none" stroke="#000000" points="285.9702,-68.9002 295.7446,-72.9883 290.653,-63.6971 285.9702,-68.9002"/>
+</g>
+<!-- Metre -->
+<g id="node4" class="node">
+<title>Metre</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_7db11dbf_a643_464a_9b56_07eabcc3e9c5" xlink:title="Metre">
+<ellipse fill="#ffffcc" stroke="#000000" cx="314.6465" cy="-18" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="314.6465" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Metre</text>
+</a>
+</g>
+</g>
+<!-- Metre&#45;&gt;SIBaseUnit -->
+<g id="edge6" class="edge">
+<title>Metre&#45;&gt;SIBaseUnit</title>
+<path fill="none" stroke="#000000" d="M314.6465,-36.1686C314.6465,-43.869 314.6465,-53.0257 314.6465,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="311.1466,-61.5867 314.6465,-71.5867 318.1466,-61.5868 311.1466,-61.5867"/>
+</g>
+<!-- Kelvin -->
+<g id="node5" class="node">
+<title>Kelvin</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_2e5e45fc_f52c_4294_bdc2_5ed7a06dfce7" xlink:title="Kelvin">
+<ellipse fill="#ffffcc" stroke="#000000" cx="399.6465" cy="-18" rx="34.394" ry="18"/>
+<text text-anchor="middle" x="399.6465" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Kelvin</text>
+</a>
+</g>
+</g>
+<!-- Kelvin&#45;&gt;SIBaseUnit -->
+<g id="edge2" class="edge">
+<title>Kelvin&#45;&gt;SIBaseUnit</title>
+<path fill="none" stroke="#000000" d="M381.2027,-33.6229C369.8002,-43.2815 354.953,-55.858 342.1756,-66.6812"/>
+<polygon fill="none" stroke="#000000" points="339.9049,-64.0177 334.5366,-73.1519 344.4293,-69.3591 339.9049,-64.0177"/>
+</g>
+<!-- Candela -->
+<g id="node6" class="node">
+<title>Candela</title>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_8d00f093_3f45_4ea3_986c_b3545c3c2f4c" xlink:title="Candela">
+<ellipse fill="#ffffcc" stroke="#000000" cx="491.6465" cy="-18" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="491.6465" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Candela</text>
+</a>
+</g>
+</g>
+<!-- Candela&#45;&gt;SIBaseUnit -->
+<g id="edge1" class="edge">
+<title>Candela&#45;&gt;SIBaseUnit</title>
+<path fill="none" stroke="#000000" d="M462.0207,-30.0512C433.57,-41.6243 390.2629,-59.2408 357.9469,-72.3863"/>
+<polygon fill="none" stroke="#000000" points="356.2433,-69.3007 348.2992,-76.3108 358.881,-75.7848 356.2433,-69.3007"/>
+</g>
+<!-- Second -->
+<g id="node7" class="node">
+<title>Second</title>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_314ba716_2d3d_4462_9a4f_d3419ae1df43" xlink:title="Second">
+<ellipse fill="#ffffcc" stroke="#000000" cx="585.6465" cy="-18" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="585.6465" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Second</text>
+</a>
+</g>
+</g>
+<!-- Second&#45;&gt;SIBaseUnit -->
+<g id="edge4" class="edge">
+<title>Second&#45;&gt;SIBaseUnit</title>
+<path fill="none" stroke="#000000" d="M557.7905,-29.875C552.1685,-32.0634 546.2602,-34.2171 540.6465,-36 483.1558,-54.259 415.7214,-69.611 369.5734,-79.2226"/>
+<polygon fill="none" stroke="#000000" points="368.8579,-75.7964 359.7712,-81.2445 370.2721,-82.6521 368.8579,-75.7964"/>
 </g>
 <!-- key1 -->
 <g id="node9" class="node">
 <title>key1</title>
-<text text-anchor="start" x="657.846" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="657.6465" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node10" class="node">
 <title>key2</title>
-<text text-anchor="start" x="736.846" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="736.6465" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge8" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M678.846,-19C699.846,-19 707.557,-19 724.4041,-19"/>
-<polygon fill="none" stroke="#000000" points="724.8461,-22.5001 734.846,-19 724.846,-15.5001 724.8461,-22.5001"/>
+<path fill="none" stroke="#000000" d="M678.6465,-19C699.6465,-19 707.3574,-19 724.2046,-19"/>
+<polygon fill="none" stroke="#000000" points="724.6465,-22.5001 734.6465,-19 724.6464,-15.5001 724.6465,-22.5001"/>
 </g>
 </g>
 </svg>

@@ -5,79 +5,79 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="394pt" height="116pt"
- viewBox="0.00 0.00 394.00 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 394.30 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 390,-112 390,4 -4,4"/>
-<!-- Number -->
-<g id="node1" class="node">
-<title>Number</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_21f56795_ee72_4858_b571_11cfaa59c1a8" xlink:title="Number">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="112" cy="-90" rx="40.0939" ry="18"/>
-<text text-anchor="middle" x="112" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Number</text>
-</a>
-</g>
-</g>
-<!-- Real -->
-<g id="node2" class="node">
-<title>Real</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_18d180e4_5e3e_42f7_820c_e08951223486" xlink:title="Real">
-<ellipse fill="#ffc880" stroke="#000000" cx="27" cy="-18" rx="27" ry="18"/>
-<text text-anchor="middle" x="27" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Real</text>
-</a>
-</g>
-</g>
-<!-- Real&#45;&gt;Number -->
-<g id="edge2" class="edge">
-<title>Real&#45;&gt;Number</title>
-<path fill="none" stroke="#000000" d="M43.7933,-32.2249C55.6839,-42.297 71.8748,-56.0116 85.4979,-67.5512"/>
-<polygon fill="none" stroke="#000000" points="83.2777,-70.2574 93.1704,-74.0502 87.8021,-64.916 83.2777,-70.2574"/>
-</g>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 390.2964,-112 390.2964,4 -4,4"/>
 <!-- Boolean -->
-<g id="node3" class="node">
+<g id="node1" class="node">
 <title>Boolean</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_54dc83cb_06e1_4739_9e45_bc09cead7f48" xlink:title="Boolean">
-<ellipse fill="#ffc880" stroke="#000000" cx="112" cy="-18" rx="40.0939" ry="18"/>
-<text text-anchor="middle" x="112" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Boolean</text>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_54dc83cb_06e1_4739_9e45_bc09cead7f48" xlink:title="Boolean">
+<ellipse fill="#ffc880" stroke="#000000" cx="40.2964" cy="-18" rx="40.0939" ry="18"/>
+<text text-anchor="middle" x="40.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Boolean</text>
+</a>
+</g>
+</g>
+<!-- Number -->
+<g id="node3" class="node">
+<title>Number</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_21f56795_ee72_4858_b571_11cfaa59c1a8" xlink:title="Number">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="134.2964" cy="-90" rx="40.0939" ry="18"/>
+<text text-anchor="middle" x="134.2964" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Number</text>
 </a>
 </g>
 </g>
 <!-- Boolean&#45;&gt;Number -->
 <g id="edge3" class="edge">
 <title>Boolean&#45;&gt;Number</title>
-<path fill="none" stroke="#000000" d="M112,-36.1686C112,-43.869 112,-53.0257 112,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="108.5001,-61.5867 112,-71.5867 115.5001,-61.5868 108.5001,-61.5867"/>
+<path fill="none" stroke="#000000" d="M60.693,-33.6229C73.8732,-43.7184 91.2153,-57.0017 105.7552,-68.1386"/>
+<polygon fill="none" stroke="#000000" points="103.8725,-71.1053 113.9396,-74.4076 108.1291,-65.5482 103.8725,-71.1053"/>
 </g>
 <!-- Integer -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>Integer</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f8bd64d5_5d3e_4ad4_a46e_c30714fecb7f" xlink:title="Integer">
-<ellipse fill="#ffc880" stroke="#000000" cx="206" cy="-18" rx="35.9954" ry="18"/>
-<text text-anchor="middle" x="206" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Integer</text>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f8bd64d5_5d3e_4ad4_a46e_c30714fecb7f" xlink:title="Integer">
+<ellipse fill="#ffc880" stroke="#000000" cx="134.2964" cy="-18" rx="35.9954" ry="18"/>
+<text text-anchor="middle" x="134.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Integer</text>
 </a>
 </g>
 </g>
 <!-- Integer&#45;&gt;Number -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Integer&#45;&gt;Number</title>
-<path fill="none" stroke="#000000" d="M186.065,-33.2693C172.9102,-43.3453 155.4645,-56.7081 140.809,-67.9335"/>
-<polygon fill="none" stroke="#000000" points="138.3666,-65.3955 132.5561,-74.2549 142.6232,-70.9527 138.3666,-65.3955"/>
+<path fill="none" stroke="#000000" d="M134.2964,-36.1686C134.2964,-43.869 134.2964,-53.0257 134.2964,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="130.7965,-61.5867 134.2964,-71.5867 137.7965,-61.5868 130.7965,-61.5867"/>
+</g>
+<!-- Real -->
+<g id="node4" class="node">
+<title>Real</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_18d180e4_5e3e_42f7_820c_e08951223486" xlink:title="Real">
+<ellipse fill="#ffc880" stroke="#000000" cx="215.2964" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="215.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Real</text>
+</a>
+</g>
+</g>
+<!-- Real&#45;&gt;Number -->
+<g id="edge1" class="edge">
+<title>Real&#45;&gt;Number</title>
+<path fill="none" stroke="#000000" d="M198.9049,-32.5703C187.8031,-42.4385 172.9013,-55.6846 160.2069,-66.9685"/>
+<polygon fill="none" stroke="#000000" points="157.7906,-64.4334 152.6418,-73.693 162.4412,-69.6653 157.7906,-64.4334"/>
 </g>
 <!-- key1 -->
 <g id="node5" class="node">
 <title>key1</title>
-<text text-anchor="start" x="278" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="278.2964" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node6" class="node">
 <title>key2</title>
-<text text-anchor="start" x="357" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="357.2964" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge4" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M299,-19C320,-19 327.7109,-19 344.5581,-19"/>
-<polygon fill="none" stroke="#000000" points="345,-22.5001 355,-19 345,-15.5001 345,-22.5001"/>
+<path fill="none" stroke="#000000" d="M299.2964,-19C320.2964,-19 328.0074,-19 344.8545,-19"/>
+<polygon fill="none" stroke="#000000" points="345.2965,-22.5001 355.2964,-19 345.2964,-15.5001 345.2965,-22.5001"/>
 </g>
 </g>
 </svg>
