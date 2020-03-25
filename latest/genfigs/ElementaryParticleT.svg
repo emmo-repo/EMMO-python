@@ -5,139 +5,139 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="590pt" height="188pt"
- viewBox="0.00 0.00 590.50 188.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 590.30 188.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 586.4971,-184 586.4971,4 -4,4"/>
-<!-- Quark -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 586.2964,-184 586.2964,4 -4,4"/>
+<!-- ElementaryParticle -->
 <g id="node1" class="node">
-<title>Quark</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_72d53756_7fb1_46ed_980f_83f47efbe105" xlink:title="Quark">
-<ellipse fill="#ffffcc" stroke="#000000" cx="32.4971" cy="-18" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="32.4971" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Quark</text>
+<title>ElementaryParticle</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_c26a0340_d619_4928_b1a1_1a04e88bb89d" xlink:title="ElementaryParticle">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="181.2964" cy="-162" rx="78.7863" ry="18"/>
+<text text-anchor="middle" x="181.2964" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElementaryParticle</text>
+</a>
+</g>
+</g>
+<!-- Electron -->
+<g id="node2" class="node">
+<title>Electron</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_8043d3c6_a4c1_4089_ba34_9744e28e5b3d" xlink:title="Electron">
+<ellipse fill="#ffffcc" stroke="#000000" cx="40.2964" cy="-18" rx="40.0939" ry="18"/>
+<text text-anchor="middle" x="40.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Electron</text>
 </a>
 </g>
 </g>
 <!-- Massive -->
-<g id="node2" class="node">
-<title>Massive</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_385b8f6e_43ac_4596_ad76_ac322c68b7ca" xlink:title="Massive">
-<ellipse fill="#ffc880" stroke="#000000" cx="123.4971" cy="-90" rx="40.0939" ry="18"/>
-<text text-anchor="middle" x="123.4971" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Massive</text>
-</a>
-</g>
-</g>
-<!-- Quark&#45;&gt;Massive -->
-<g id="edge3" class="edge">
-<title>Quark&#45;&gt;Massive</title>
-<path fill="none" stroke="#000000" d="M51.3524,-32.9184C64.0598,-42.9727 81.0483,-56.4141 95.3477,-67.7279"/>
-<polygon fill="none" stroke="#000000" points="93.3896,-70.6417 103.4036,-74.1018 97.733,-65.1522 93.3896,-70.6417"/>
-</g>
-<!-- ElementaryParticle -->
-<g id="node6" class="node">
-<title>ElementaryParticle</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_c26a0340_d619_4928_b1a1_1a04e88bb89d" xlink:title="ElementaryParticle">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="173.4971" cy="-162" rx="78.7863" ry="18"/>
-<text text-anchor="middle" x="173.4971" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElementaryParticle</text>
-</a>
-</g>
-</g>
-<!-- Massive&#45;&gt;ElementaryParticle -->
-<g id="edge1" class="edge">
-<title>Massive&#45;&gt;ElementaryParticle</title>
-<path fill="none" stroke="#000000" d="M135.6007,-107.4292C141.4867,-115.905 148.6861,-126.2721 155.2228,-135.6849"/>
-<polygon fill="none" stroke="#000000" points="152.404,-137.7621 160.9828,-143.9794 158.1536,-133.7693 152.404,-137.7621"/>
-</g>
-<!-- Photon -->
-<g id="node3" class="node">
-<title>Photon</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_25f8b804_9a0b_4387_a3e7_b35bce5365ee" xlink:title="Photon">
-<ellipse fill="#ffffcc" stroke="#000000" cx="217.4971" cy="-18" rx="35.9954" ry="18"/>
-<text text-anchor="middle" x="217.4971" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Photon</text>
-</a>
-</g>
-</g>
-<!-- Massless -->
-<g id="node4" class="node">
-<title>Massless</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_e5488299_8dab_4ebb_900a_26d2abed8396" xlink:title="Massless">
-<ellipse fill="#ffc880" stroke="#000000" cx="268.4971" cy="-90" rx="42.7926" ry="18"/>
-<text text-anchor="middle" x="268.4971" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Massless</text>
-</a>
-</g>
-</g>
-<!-- Photon&#45;&gt;Massless -->
-<g id="edge4" class="edge">
-<title>Photon&#45;&gt;Massless</title>
-<path fill="none" stroke="#000000" d="M229.5834,-35.063C235.7802,-43.8114 243.4544,-54.6455 250.3457,-64.3744"/>
-<polygon fill="none" stroke="#000000" points="247.507,-66.4221 256.1433,-72.5593 253.2192,-62.376 247.507,-66.4221"/>
-</g>
-<!-- Massless&#45;&gt;ElementaryParticle -->
-<g id="edge6" class="edge">
-<title>Massless&#45;&gt;ElementaryParticle</title>
-<path fill="none" stroke="#000000" d="M247.4135,-105.9791C234.8016,-115.5376 218.5466,-127.8572 204.4928,-138.5085"/>
-<polygon fill="none" stroke="#000000" points="202.3723,-135.724 196.5167,-144.5536 206.6005,-141.3028 202.3723,-135.724"/>
-</g>
-<!-- Graviton -->
 <g id="node5" class="node">
-<title>Graviton</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_eb3c61f0_3983_4346_a0c6_e7f6b90a67a8" xlink:title="Graviton">
-<ellipse fill="#ffffcc" stroke="#000000" cx="313.4971" cy="-18" rx="42.4939" ry="18"/>
-<text text-anchor="middle" x="313.4971" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Graviton</text>
-</a>
-</g>
-</g>
-<!-- Graviton&#45;&gt;Massless -->
-<g id="edge7" class="edge">
-<title>Graviton&#45;&gt;Massless</title>
-<path fill="none" stroke="#000000" d="M302.6039,-35.4292C297.2817,-43.9447 290.7664,-54.3692 284.8615,-63.817"/>
-<polygon fill="none" stroke="#000000" points="281.7781,-62.1468 279.446,-72.4818 287.7141,-65.8568 281.7781,-62.1468"/>
-</g>
-<!-- Electron -->
-<g id="node7" class="node">
-<title>Electron</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_8043d3c6_a4c1_4089_ba34_9744e28e5b3d" xlink:title="Electron">
-<ellipse fill="#ffffcc" stroke="#000000" cx="123.4971" cy="-18" rx="40.0939" ry="18"/>
-<text text-anchor="middle" x="123.4971" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Electron</text>
+<title>Massive</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_385b8f6e_43ac_4596_ad76_ac322c68b7ca" xlink:title="Massive">
+<ellipse fill="#ffc880" stroke="#000000" cx="131.2964" cy="-90" rx="40.0939" ry="18"/>
+<text text-anchor="middle" x="131.2964" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Massive</text>
 </a>
 </g>
 </g>
 <!-- Electron&#45;&gt;Massive -->
-<g id="edge5" class="edge">
+<g id="edge4" class="edge">
 <title>Electron&#45;&gt;Massive</title>
-<path fill="none" stroke="#000000" d="M123.4971,-36.1686C123.4971,-43.869 123.4971,-53.0257 123.4971,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="119.9972,-61.5867 123.4971,-71.5867 126.9972,-61.5868 119.9972,-61.5867"/>
+<path fill="none" stroke="#000000" d="M60.4923,-33.9791C73.0673,-43.9286 89.4234,-56.8697 103.2468,-67.8069"/>
+<polygon fill="none" stroke="#000000" points="101.4562,-70.8532 111.4701,-74.3133 105.7996,-65.3636 101.4562,-70.8532"/>
 </g>
 <!-- Gluon -->
-<g id="node8" class="node">
+<g id="node3" class="node">
 <title>Gluon</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_7db59e56_f68b_48b7_ae99_891c35ae5c3b" xlink:title="Gluon">
-<ellipse fill="#ffffcc" stroke="#000000" cx="406.4971" cy="-18" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="406.4971" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Gluon</text>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_7db59e56_f68b_48b7_ae99_891c35ae5c3b" xlink:title="Gluon">
+<ellipse fill="#ffffcc" stroke="#000000" cx="214.2964" cy="-18" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="214.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Gluon</text>
+</a>
+</g>
+</g>
+<!-- Massless -->
+<g id="node7" class="node">
+<title>Massless</title>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_e5488299_8dab_4ebb_900a_26d2abed8396" xlink:title="Massless">
+<ellipse fill="#ffc880" stroke="#000000" cx="266.2964" cy="-90" rx="42.7926" ry="18"/>
+<text text-anchor="middle" x="266.2964" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Massless</text>
 </a>
 </g>
 </g>
 <!-- Gluon&#45;&gt;Massless -->
-<g id="edge2" class="edge">
+<g id="edge7" class="edge">
 <title>Gluon&#45;&gt;Massless</title>
-<path fill="none" stroke="#000000" d="M382.7741,-30.3772C361.3175,-41.572 329.4026,-58.2232 304.7494,-71.0858"/>
-<polygon fill="none" stroke="#000000" points="302.9401,-68.0819 295.6933,-75.8107 306.1781,-74.288 302.9401,-68.0819"/>
+<path fill="none" stroke="#000000" d="M226.6197,-35.063C232.938,-43.8114 240.7626,-54.6455 247.7891,-64.3744"/>
+<polygon fill="none" stroke="#000000" points="245.0081,-66.5017 253.7004,-72.5593 250.6828,-62.4033 245.0081,-66.5017"/>
+</g>
+<!-- Quark -->
+<g id="node4" class="node">
+<title>Quark</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_72d53756_7fb1_46ed_980f_83f47efbe105" xlink:title="Quark">
+<ellipse fill="#ffffcc" stroke="#000000" cx="131.2964" cy="-18" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="131.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Quark</text>
+</a>
+</g>
+</g>
+<!-- Quark&#45;&gt;Massive -->
+<g id="edge1" class="edge">
+<title>Quark&#45;&gt;Massive</title>
+<path fill="none" stroke="#000000" d="M131.2964,-36.1686C131.2964,-43.869 131.2964,-53.0257 131.2964,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="127.7965,-61.5867 131.2964,-71.5867 134.7965,-61.5868 127.7965,-61.5867"/>
+</g>
+<!-- Massive&#45;&gt;ElementaryParticle -->
+<g id="edge3" class="edge">
+<title>Massive&#45;&gt;ElementaryParticle</title>
+<path fill="none" stroke="#000000" d="M143.4,-107.4292C149.286,-115.905 156.4854,-126.2721 163.0221,-135.6849"/>
+<polygon fill="none" stroke="#000000" points="160.2033,-137.7621 168.7821,-143.9794 165.9529,-133.7693 160.2033,-137.7621"/>
+</g>
+<!-- Photon -->
+<g id="node6" class="node">
+<title>Photon</title>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_25f8b804_9a0b_4387_a3e7_b35bce5365ee" xlink:title="Photon">
+<ellipse fill="#ffffcc" stroke="#000000" cx="300.2964" cy="-18" rx="35.9954" ry="18"/>
+<text text-anchor="middle" x="300.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Photon</text>
+</a>
+</g>
+</g>
+<!-- Photon&#45;&gt;Massless -->
+<g id="edge5" class="edge">
+<title>Photon&#45;&gt;Massless</title>
+<path fill="none" stroke="#000000" d="M291.8919,-35.7978C288.0097,-44.019 283.3158,-53.959 279.0134,-63.0699"/>
+<polygon fill="none" stroke="#000000" points="275.8273,-61.6204 274.7221,-72.1575 282.1571,-64.6095 275.8273,-61.6204"/>
+</g>
+<!-- Massless&#45;&gt;ElementaryParticle -->
+<g id="edge2" class="edge">
+<title>Massless&#45;&gt;ElementaryParticle</title>
+<path fill="none" stroke="#000000" d="M247.0086,-106.3379C235.9992,-115.6635 221.9921,-127.5283 209.741,-137.9058"/>
+<polygon fill="none" stroke="#000000" points="207.3612,-135.3347 201.993,-144.4688 211.8856,-140.676 207.3612,-135.3347"/>
+</g>
+<!-- Graviton -->
+<g id="node8" class="node">
+<title>Graviton</title>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_eb3c61f0_3983_4346_a0c6_e7f6b90a67a8" xlink:title="Graviton">
+<ellipse fill="#ffffcc" stroke="#000000" cx="396.2964" cy="-18" rx="42.4939" ry="18"/>
+<text text-anchor="middle" x="396.2964" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Graviton</text>
+</a>
+</g>
+</g>
+<!-- Graviton&#45;&gt;Massless -->
+<g id="edge6" class="edge">
+<title>Graviton&#45;&gt;Massless</title>
+<path fill="none" stroke="#000000" d="M370.3014,-32.3972C350.4621,-43.3851 322.9299,-58.6338 301.1763,-70.6819"/>
+<polygon fill="none" stroke="#000000" points="299.2985,-67.7209 292.2464,-75.6277 302.6901,-73.8445 299.2985,-67.7209"/>
 </g>
 <!-- key1 -->
 <g id="node9" class="node">
 <title>key1</title>
-<text text-anchor="start" x="474.4971" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="474.2964" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node10" class="node">
 <title>key2</title>
-<text text-anchor="start" x="553.4971" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="553.2964" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge8" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M495.4971,-19C516.4971,-19 524.2081,-19 541.0552,-19"/>
-<polygon fill="none" stroke="#000000" points="541.4972,-22.5001 551.4971,-19 541.4971,-15.5001 541.4972,-22.5001"/>
+<path fill="none" stroke="#000000" d="M495.2964,-19C516.2964,-19 524.0074,-19 540.8545,-19"/>
+<polygon fill="none" stroke="#000000" points="541.2965,-22.5001 551.2964,-19 541.2964,-15.5001 541.2965,-22.5001"/>
 </g>
 </g>
 </svg>

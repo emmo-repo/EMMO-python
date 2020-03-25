@@ -5,154 +5,154 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="1136pt" height="188pt"
- viewBox="0.00 0.00 1136.34 188.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1135.90 188.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 1132.3431,-184 1132.3431,4 -4,4"/>
-<!-- BaseQuantity -->
-<g id="node1" class="node">
-<title>BaseQuantity</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_acaaa124_3dde_48b6_86e6_6ec6f364f408" xlink:title="BaseQuantity">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="370.3431" cy="-162" rx="58.4896" ry="18"/>
-<text text-anchor="middle" x="370.3431" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">BaseQuantity</text>
-</a>
-</g>
-</g>
-<!-- LuminousIntensity -->
-<g id="node2" class="node">
-<title>LuminousIntensity</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_50bf79a6_a48b_424d_9d2c_813bd631231a" xlink:title="LuminousIntensity">
-<ellipse fill="#ffffcc" stroke="#000000" cx="77.3431" cy="-18" rx="77.1866" ry="18"/>
-<text text-anchor="middle" x="77.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensity</text>
-</a>
-</g>
-</g>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 1131.8973,-184 1131.8973,4 -4,4"/>
 <!-- ISQBaseQuantity -->
-<g id="node9" class="node">
+<g id="node1" class="node">
 <title>ISQBaseQuantity</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_1a4c1a97_88a7_4d8e_b2f9_2ca58e92dde4" xlink:title="ISQBaseQuantity">
-<ellipse fill="#ffffcc" stroke="#000000" cx="370.3431" cy="-90" rx="72.5877" ry="18"/>
-<text text-anchor="middle" x="370.3431" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">ISQBaseQuantity</text>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_1a4c1a97_88a7_4d8e_b2f9_2ca58e92dde4" xlink:title="ISQBaseQuantity">
+<ellipse fill="#ffffcc" stroke="#000000" cx="322.8973" cy="-90" rx="72.5877" ry="18"/>
+<text text-anchor="middle" x="322.8973" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">ISQBaseQuantity</text>
 </a>
 </g>
 </g>
-<!-- LuminousIntensity&#45;&gt;ISQBaseQuantity -->
-<g id="edge6" class="edge">
-<title>LuminousIntensity&#45;&gt;ISQBaseQuantity</title>
-<path fill="none" stroke="#000000" d="M130.7432,-31.1222C180.8298,-43.4302 255.7068,-61.83 308.3966,-74.7776"/>
-<polygon fill="none" stroke="#000000" points="307.7486,-78.2225 318.2949,-77.21 309.4191,-71.4247 307.7486,-78.2225"/>
+<!-- BaseQuantity -->
+<g id="node2" class="node">
+<title>BaseQuantity</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_acaaa124_3dde_48b6_86e6_6ec6f364f408" xlink:title="BaseQuantity">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="322.8973" cy="-162" rx="58.4896" ry="18"/>
+<text text-anchor="middle" x="322.8973" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">BaseQuantity</text>
+</a>
 </g>
-<!-- Length -->
+</g>
+<!-- ISQBaseQuantity&#45;&gt;BaseQuantity -->
+<g id="edge4" class="edge">
+<title>ISQBaseQuantity&#45;&gt;BaseQuantity</title>
+<path fill="none" stroke="#000000" d="M322.8973,-108.1686C322.8973,-115.869 322.8973,-125.0257 322.8973,-133.5834"/>
+<polygon fill="none" stroke="#000000" points="319.3974,-133.5867 322.8973,-143.5867 326.3974,-133.5868 319.3974,-133.5867"/>
+</g>
+<!-- Mass -->
 <g id="node3" class="node">
-<title>Length</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_cd2cd0de_e0cc_4ef1_b27e_2e88db027bac" xlink:title="Length">
-<ellipse fill="#ffffcc" stroke="#000000" cx="208.3431" cy="-18" rx="35.9954" ry="18"/>
-<text text-anchor="middle" x="208.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Length</text>
+<title>Mass</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ed4af7ae_63a2_497e_bb88_2309619ea405" xlink:title="Mass">
+<ellipse fill="#ffffcc" stroke="#000000" cx="29.8973" cy="-18" rx="29.795" ry="18"/>
+<text text-anchor="middle" x="29.8973" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Mass</text>
 </a>
 </g>
 </g>
-<!-- Length&#45;&gt;ISQBaseQuantity -->
-<g id="edge3" class="edge">
-<title>Length&#45;&gt;ISQBaseQuantity</title>
-<path fill="none" stroke="#000000" d="M235.4583,-30.0512C259.9786,-40.9491 296.5559,-57.2057 325.4372,-70.0418"/>
-<polygon fill="none" stroke="#000000" points="324.3485,-73.388 334.9081,-74.2511 327.1915,-66.9913 324.3485,-73.388"/>
+<!-- Mass&#45;&gt;ISQBaseQuantity -->
+<g id="edge7" class="edge">
+<title>Mass&#45;&gt;ISQBaseQuantity</title>
+<path fill="none" stroke="#000000" d="M53.065,-29.7178C58.1929,-32.0207 63.6608,-34.2592 68.8973,-36 128.6567,-55.8662 198.8258,-70.1302 250.2517,-78.9907"/>
+<polygon fill="none" stroke="#000000" points="249.8339,-82.4697 260.2783,-80.6908 251.0042,-75.5682 249.8339,-82.4697"/>
 </g>
 <!-- Time -->
 <g id="node4" class="node">
 <title>Time</title>
 <g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_d4f7d378_5e3b_468a_baa1_a7e98358cda7" xlink:title="Time">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.3431" cy="-18" rx="29.795" ry="18"/>
-<text text-anchor="middle" x="292.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Time</text>
+<ellipse fill="#ffffcc" stroke="#000000" cx="107.8973" cy="-18" rx="29.795" ry="18"/>
+<text text-anchor="middle" x="107.8973" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Time</text>
 </a>
 </g>
 </g>
 <!-- Time&#45;&gt;ISQBaseQuantity -->
-<g id="edge7" class="edge">
+<g id="edge3" class="edge">
 <title>Time&#45;&gt;ISQBaseQuantity</title>
-<path fill="none" stroke="#000000" d="M308.8849,-33.2693C318.9859,-42.5933 332.1357,-54.7316 343.6785,-65.3865"/>
-<polygon fill="none" stroke="#000000" points="341.6337,-68.2621 351.3557,-72.4731 346.3816,-63.1185 341.6337,-68.2621"/>
+<path fill="none" stroke="#000000" d="M131.1891,-29.3703C136.3093,-31.6948 141.7427,-34.03 146.8973,-36 185.0754,-50.591 229.0276,-64.0791 263.4591,-73.9254"/>
+<polygon fill="none" stroke="#000000" points="262.7871,-77.3727 273.3625,-76.7323 264.6959,-70.638 262.7871,-77.3727"/>
 </g>
-<!-- Mass -->
+<!-- Length -->
 <g id="node5" class="node">
-<title>Mass</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ed4af7ae_63a2_497e_bb88_2309619ea405" xlink:title="Mass">
-<ellipse fill="#ffffcc" stroke="#000000" cx="370.3431" cy="-18" rx="29.795" ry="18"/>
-<text text-anchor="middle" x="370.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Mass</text>
+<title>Length</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_cd2cd0de_e0cc_4ef1_b27e_2e88db027bac" xlink:title="Length">
+<ellipse fill="#ffffcc" stroke="#000000" cx="191.8973" cy="-18" rx="35.9954" ry="18"/>
+<text text-anchor="middle" x="191.8973" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Length</text>
 </a>
 </g>
 </g>
-<!-- Mass&#45;&gt;ISQBaseQuantity -->
-<g id="edge8" class="edge">
-<title>Mass&#45;&gt;ISQBaseQuantity</title>
-<path fill="none" stroke="#000000" d="M370.3431,-36.1686C370.3431,-43.869 370.3431,-53.0257 370.3431,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="366.8432,-61.5867 370.3431,-71.5867 373.8432,-61.5868 366.8432,-61.5867"/>
+<!-- Length&#45;&gt;ISQBaseQuantity -->
+<g id="edge5" class="edge">
+<title>Length&#45;&gt;ISQBaseQuantity</title>
+<path fill="none" stroke="#000000" d="M216.2304,-31.3739C235.2199,-41.8109 261.9728,-56.5147 283.935,-68.5856"/>
+<polygon fill="none" stroke="#000000" points="282.2577,-71.6575 292.7071,-73.4069 285.6294,-65.523 282.2577,-71.6575"/>
+</g>
+<!-- LuminousIntensity -->
+<g id="node6" class="node">
+<title>LuminousIntensity</title>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_50bf79a6_a48b_424d_9d2c_813bd631231a" xlink:title="LuminousIntensity">
+<ellipse fill="#ffffcc" stroke="#000000" cx="322.8973" cy="-18" rx="77.1866" ry="18"/>
+<text text-anchor="middle" x="322.8973" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensity</text>
+</a>
+</g>
+</g>
+<!-- LuminousIntensity&#45;&gt;ISQBaseQuantity -->
+<g id="edge2" class="edge">
+<title>LuminousIntensity&#45;&gt;ISQBaseQuantity</title>
+<path fill="none" stroke="#000000" d="M322.8973,-36.1686C322.8973,-43.869 322.8973,-53.0257 322.8973,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="319.3974,-61.5867 322.8973,-71.5867 326.3974,-61.5868 319.3974,-61.5867"/>
 </g>
 <!-- ThermodynamicTemperature -->
-<g id="node6" class="node">
+<g id="node7" class="node">
 <title>ThermodynamicTemperature</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_affe07e4_e9bc_4852_86c6_69e26182a17f" xlink:title="ThermodynamicTemperature">
-<ellipse fill="#ffffcc" stroke="#000000" cx="533.3431" cy="-18" rx="115.0796" ry="18"/>
-<text text-anchor="middle" x="533.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ThermodynamicTemperature</text>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_affe07e4_e9bc_4852_86c6_69e26182a17f" xlink:title="ThermodynamicTemperature">
+<ellipse fill="#ffffcc" stroke="#000000" cx="532.8973" cy="-18" rx="115.0796" ry="18"/>
+<text text-anchor="middle" x="532.8973" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ThermodynamicTemperature</text>
 </a>
 </g>
 </g>
 <!-- ThermodynamicTemperature&#45;&gt;ISQBaseQuantity -->
 <g id="edge1" class="edge">
 <title>ThermodynamicTemperature&#45;&gt;ISQBaseQuantity</title>
-<path fill="none" stroke="#000000" d="M494.7144,-35.063C470.8396,-45.6089 440.1029,-59.1859 415.1594,-70.2038"/>
-<polygon fill="none" stroke="#000000" points="413.6428,-67.0475 405.9096,-74.2897 416.4712,-73.4506 413.6428,-67.0475"/>
+<path fill="none" stroke="#000000" d="M484.9823,-34.428C452.2596,-45.6472 408.9094,-60.5102 375.2748,-72.042"/>
+<polygon fill="none" stroke="#000000" points="373.9422,-68.7988 365.6179,-75.353 376.2125,-75.4205 373.9422,-68.7988"/>
 </g>
 <!-- AmountOfSubstance -->
-<g id="node7" class="node">
+<g id="node8" class="node">
 <title>AmountOfSubstance</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_8159c26a_494b_4fa0_9959_10888f152298" xlink:title="AmountOfSubstance">
-<ellipse fill="#ffffcc" stroke="#000000" cx="751.3431" cy="-18" rx="85.2851" ry="18"/>
-<text text-anchor="middle" x="751.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">AmountOfSubstance</text>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_8159c26a_494b_4fa0_9959_10888f152298" xlink:title="AmountOfSubstance">
+<ellipse fill="#ffffcc" stroke="#000000" cx="750.8973" cy="-18" rx="85.2851" ry="18"/>
+<text text-anchor="middle" x="750.8973" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">AmountOfSubstance</text>
 </a>
 </g>
 </g>
 <!-- AmountOfSubstance&#45;&gt;ISQBaseQuantity -->
-<g id="edge4" class="edge">
+<g id="edge8" class="edge">
 <title>AmountOfSubstance&#45;&gt;ISQBaseQuantity</title>
-<path fill="none" stroke="#000000" d="M688.1443,-30.1308C677.8505,-32.0984 667.3011,-34.1098 657.3431,-36 582.6292,-50.1823 496.9413,-66.2833 438.7881,-77.1859"/>
-<polygon fill="none" stroke="#000000" points="437.8033,-73.8095 428.6194,-79.092 439.093,-80.6897 437.8033,-73.8095"/>
+<path fill="none" stroke="#000000" d="M688.2456,-30.2583C677.7869,-32.2297 667.0424,-34.209 656.8973,-36 566.8019,-51.9059 462.7008,-68.4462 394.9871,-78.961"/>
+<polygon fill="none" stroke="#000000" points="394.1993,-75.5412 384.8534,-80.5318 395.2716,-82.4586 394.1993,-75.5412"/>
 </g>
 <!-- ElectricCurrent -->
-<g id="node8" class="node">
+<g id="node9" class="node">
 <title>ElectricCurrent</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_c995ae70_3b84_4ebb_bcfc_69e6a281bb88" xlink:title="ElectricCurrent">
-<ellipse fill="#ffffcc" stroke="#000000" cx="919.3431" cy="-18" rx="64.9885" ry="18"/>
-<text text-anchor="middle" x="919.3431" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricCurrent</text>
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_c995ae70_3b84_4ebb_bcfc_69e6a281bb88" xlink:title="ElectricCurrent">
+<ellipse fill="#ffffcc" stroke="#000000" cx="918.8973" cy="-18" rx="64.9885" ry="18"/>
+<text text-anchor="middle" x="918.8973" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricCurrent</text>
 </a>
 </g>
 </g>
 <!-- ElectricCurrent&#45;&gt;ISQBaseQuantity -->
-<g id="edge2" class="edge">
+<g id="edge6" class="edge">
 <title>ElectricCurrent&#45;&gt;ISQBaseQuantity</title>
-<path fill="none" stroke="#000000" d="M872.1581,-30.4116C863.2904,-32.478 854.0651,-34.4498 845.3431,-36 707.5652,-60.4888 545.2286,-76.1441 450.4481,-83.979"/>
-<polygon fill="none" stroke="#000000" points="450.0422,-80.5004 440.361,-84.8043 450.6132,-87.4771 450.0422,-80.5004"/>
-</g>
-<!-- ISQBaseQuantity&#45;&gt;BaseQuantity -->
-<g id="edge5" class="edge">
-<title>ISQBaseQuantity&#45;&gt;BaseQuantity</title>
-<path fill="none" stroke="#000000" d="M370.3431,-108.1686C370.3431,-115.869 370.3431,-125.0257 370.3431,-133.5834"/>
-<polygon fill="none" stroke="#000000" points="366.8432,-133.5867 370.3431,-143.5867 373.8432,-133.5868 366.8432,-133.5867"/>
+<path fill="none" stroke="#000000" d="M871.725,-30.4838C862.856,-32.5432 853.627,-34.4939 844.8973,-36 690.018,-62.7209 506.843,-77.95 403.8331,-85.0416"/>
+<polygon fill="none" stroke="#000000" points="403.5526,-81.5525 393.8131,-85.7231 404.0276,-88.5364 403.5526,-81.5525"/>
 </g>
 <!-- key1 -->
 <g id="node10" class="node">
 <title>key1</title>
-<text text-anchor="start" x="1020.3431" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="1019.8973" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node11" class="node">
 <title>key2</title>
-<text text-anchor="start" x="1099.3431" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="1098.8973" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge9" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M1041.3431,-19C1062.3431,-19 1070.0541,-19 1086.9012,-19"/>
-<polygon fill="none" stroke="#000000" points="1087.3432,-22.5001 1097.3431,-19 1087.3431,-15.5001 1087.3432,-22.5001"/>
+<path fill="none" stroke="#000000" d="M1040.8973,-19C1061.8973,-19 1069.6083,-19 1086.4555,-19"/>
+<polygon fill="none" stroke="#000000" points="1086.8974,-22.5001 1096.8973,-19 1086.8973,-15.5001 1086.8974,-22.5001"/>
 </g>
 </g>
 </svg>

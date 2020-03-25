@@ -9,14 +9,29 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 445.9954,-184 445.9954,4 -4,4"/>
-<!-- Expression -->
+<!-- AlgebricExpression -->
 <g id="node1" class="node">
+<title>AlgebricExpression</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_1aed91a3_d00c_48af_8f43_a0c958b2512a" xlink:title="AlgebricExpression">
+<ellipse fill="#ffffcc" stroke="#000000" cx="130.9954" cy="-90" rx="80.6858" ry="18"/>
+<text text-anchor="middle" x="130.9954" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">AlgebricExpression</text>
+</a>
+</g>
+</g>
+<!-- Expression -->
+<g id="node4" class="node">
 <title>Expression</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f9bc8b52_85e9_4b53_b969_dd7724d5b8e4" xlink:title="Expression">
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_f9bc8b52_85e9_4b53_b969_dd7724d5b8e4" xlink:title="Expression">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="130.9954" cy="-162" rx="50.0912" ry="18"/>
 <text text-anchor="middle" x="130.9954" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Expression</text>
 </a>
 </g>
+</g>
+<!-- AlgebricExpression&#45;&gt;Expression -->
+<g id="edge3" class="edge">
+<title>AlgebricExpression&#45;&gt;Expression</title>
+<path fill="none" stroke="#000000" d="M130.9954,-108.1686C130.9954,-115.869 130.9954,-125.0257 130.9954,-133.5834"/>
+<polygon fill="none" stroke="#000000" points="127.4955,-133.5867 130.9954,-143.5867 134.4955,-133.5868 127.4955,-133.5867"/>
 </g>
 <!-- Polynomial -->
 <g id="node2" class="node">
@@ -27,31 +42,16 @@
 </a>
 </g>
 </g>
-<!-- AlgebricExpression -->
-<g id="node3" class="node">
-<title>AlgebricExpression</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_1aed91a3_d00c_48af_8f43_a0c958b2512a" xlink:title="AlgebricExpression">
-<ellipse fill="#ffffcc" stroke="#000000" cx="130.9954" cy="-90" rx="80.6858" ry="18"/>
-<text text-anchor="middle" x="130.9954" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">AlgebricExpression</text>
-</a>
-</g>
-</g>
 <!-- Polynomial&#45;&gt;AlgebricExpression -->
 <g id="edge1" class="edge">
 <title>Polynomial&#45;&gt;AlgebricExpression</title>
 <path fill="none" stroke="#000000" d="M70.7173,-35.063C80.6306,-44.0979 92.9849,-55.3575 103.9233,-65.3267"/>
 <polygon fill="none" stroke="#000000" points="101.8343,-68.1583 111.5829,-72.3076 106.5495,-62.9847 101.8343,-68.1583"/>
 </g>
-<!-- AlgebricExpression&#45;&gt;Expression -->
-<g id="edge3" class="edge">
-<title>AlgebricExpression&#45;&gt;Expression</title>
-<path fill="none" stroke="#000000" d="M130.9954,-108.1686C130.9954,-115.869 130.9954,-125.0257 130.9954,-133.5834"/>
-<polygon fill="none" stroke="#000000" points="127.4955,-133.5867 130.9954,-143.5867 134.4955,-133.5868 127.4955,-133.5867"/>
-</g>
 <!-- ArithmeticExpression -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>ArithmeticExpression</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_89083bab_f69c_4d06_bf6d_62973b56cdc7" xlink:title="ArithmeticExpression">
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_89083bab_f69c_4d06_bf6d_62973b56cdc7" xlink:title="ArithmeticExpression">
 <ellipse fill="#ffffcc" stroke="#000000" cx="209.9954" cy="-18" rx="88.2844" ry="18"/>
 <text text-anchor="middle" x="209.9954" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ArithmeticExpression</text>
 </a>

@@ -5,79 +5,79 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="406pt" height="116pt"
- viewBox="0.00 0.00 406.45 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 406.10 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 402.4469,-112 402.4469,4 -4,4"/>
-<!-- Object -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 402.0957,-112 402.0957,4 -4,4"/>
+<!-- Interpreter -->
 <g id="node1" class="node">
-<title>Object</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_6f5af708_f825_4feb_a0d1_a8d813d3022b" xlink:title="Object">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="34.4469" cy="-18" rx="34.394" ry="18"/>
-<text text-anchor="middle" x="34.4469" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Object</text>
+<title>Interpreter</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_0527413c_b286_4e9c_b2d0_03fb2a038dee" xlink:title="Interpreter">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="48.0957" cy="-18" rx="48.1917" ry="18"/>
+<text text-anchor="middle" x="48.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Interpreter</text>
 </a>
 </g>
 </g>
 <!-- Semiotic -->
-<g id="node2" class="node">
-<title>Semiotic</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_b803f122_4acb_4064_9d71_c1e5fd091fc9" xlink:title="Semiotic">
-<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="113.4469" cy="-90" rx="42.4939" ry="18"/>
-<text text-anchor="middle" x="113.4469" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Semiotic</text>
-</a>
-</g>
-</g>
-<!-- Object&#45;&gt;Semiotic -->
-<g id="edge2" class="edge">
-<title>Object&#45;&gt;Semiotic</title>
-<path fill="none" stroke="#000000" d="M51.5888,-33.6229C62.2353,-43.3261 76.1131,-55.9742 88.0254,-66.831"/>
-<polygon fill="none" stroke="#000000" points="85.7674,-69.5086 95.516,-73.6579 90.4827,-64.335 85.7674,-69.5086"/>
-</g>
-<!-- Sign -->
-<g id="node3" class="node">
-<title>Sign</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_b21a56ed_f969_4612_a6ec_cb7766f7f31d" xlink:title="Sign">
-<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="113.4469" cy="-18" rx="27" ry="18"/>
-<text text-anchor="middle" x="113.4469" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sign</text>
-</a>
-</g>
-</g>
-<!-- Sign&#45;&gt;Semiotic -->
-<g id="edge1" class="edge">
-<title>Sign&#45;&gt;Semiotic</title>
-<path fill="none" stroke="#000000" d="M113.4469,-36.1686C113.4469,-43.869 113.4469,-53.0257 113.4469,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="109.947,-61.5867 113.4469,-71.5867 116.947,-61.5868 109.947,-61.5867"/>
-</g>
-<!-- Interpreter -->
 <g id="node4" class="node">
-<title>Interpreter</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_0527413c_b286_4e9c_b2d0_03fb2a038dee" xlink:title="Interpreter">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="206.4469" cy="-18" rx="48.1917" ry="18"/>
-<text text-anchor="middle" x="206.4469" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Interpreter</text>
+<title>Semiotic</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_b803f122_4acb_4064_9d71_c1e5fd091fc9" xlink:title="Semiotic">
+<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="141.0957" cy="-90" rx="42.4939" ry="18"/>
+<text text-anchor="middle" x="141.0957" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Semiotic</text>
 </a>
 </g>
 </g>
 <!-- Interpreter&#45;&gt;Semiotic -->
 <g id="edge3" class="edge">
 <title>Interpreter&#45;&gt;Semiotic</title>
-<path fill="none" stroke="#000000" d="M185.3438,-34.3379C172.4416,-44.3267 155.7765,-57.2287 141.7399,-68.0958"/>
-<polygon fill="none" stroke="#000000" points="139.5921,-65.3322 133.8274,-74.2216 143.8773,-70.8673 139.5921,-65.3322"/>
+<path fill="none" stroke="#000000" d="M69.1989,-34.3379C82.101,-44.3267 98.7662,-57.2287 112.8028,-68.0958"/>
+<polygon fill="none" stroke="#000000" points="110.6654,-70.8673 120.7152,-74.2216 114.9506,-65.3322 110.6654,-70.8673"/>
+</g>
+<!-- Sign -->
+<g id="node2" class="node">
+<title>Sign</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_b21a56ed_f969_4612_a6ec_cb7766f7f31d" xlink:title="Sign">
+<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="141.0957" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="141.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sign</text>
+</a>
+</g>
+</g>
+<!-- Sign&#45;&gt;Semiotic -->
+<g id="edge1" class="edge">
+<title>Sign&#45;&gt;Semiotic</title>
+<path fill="none" stroke="#000000" d="M141.0957,-36.1686C141.0957,-43.869 141.0957,-53.0257 141.0957,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="137.5958,-61.5867 141.0957,-71.5867 144.5958,-61.5868 137.5958,-61.5867"/>
+</g>
+<!-- Object -->
+<g id="node3" class="node">
+<title>Object</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/top/semiotics#EMMO_6f5af708_f825_4feb_a0d1_a8d813d3022b" xlink:title="Object">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="220.0957" cy="-18" rx="34.394" ry="18"/>
+<text text-anchor="middle" x="220.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Object</text>
+</a>
+</g>
+</g>
+<!-- Object&#45;&gt;Semiotic -->
+<g id="edge2" class="edge">
+<title>Object&#45;&gt;Semiotic</title>
+<path fill="none" stroke="#000000" d="M202.9539,-33.6229C192.3073,-43.3261 178.4296,-55.9742 166.5173,-66.831"/>
+<polygon fill="none" stroke="#000000" points="164.06,-64.335 159.0267,-73.6579 168.7753,-69.5086 164.06,-64.335"/>
 </g>
 <!-- key1 -->
 <g id="node5" class="node">
 <title>key1</title>
-<text text-anchor="start" x="290.4469" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="290.0957" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node6" class="node">
 <title>key2</title>
-<text text-anchor="start" x="369.4469" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="369.0957" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge4" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M311.4469,-19C332.4469,-19 340.1579,-19 357.005,-19"/>
-<polygon fill="none" stroke="#000000" points="357.447,-22.5001 367.4469,-19 357.4469,-15.5001 357.447,-22.5001"/>
+<path fill="none" stroke="#000000" d="M311.0957,-19C332.0957,-19 339.8067,-19 356.6538,-19"/>
+<polygon fill="none" stroke="#000000" points="357.0958,-22.5001 367.0957,-19 357.0957,-15.5001 357.0958,-22.5001"/>
 </g>
 </g>
 </svg>

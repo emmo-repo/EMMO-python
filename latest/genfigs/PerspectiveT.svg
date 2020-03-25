@@ -5,16 +5,16 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="613pt" height="116pt"
- viewBox="0.00 0.00 612.74 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 613.10 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 608.7445,-112 608.7445,4 -4,4"/>
-<!-- Reductionistic -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 609.0957,-112 609.0957,4 -4,4"/>
+<!-- Perceptual -->
 <g id="node1" class="node">
-<title>Reductionistic</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/reductionistic#EMMO_15db234d_ecaf_4715_9838_4b4ec424fb13" xlink:title="Reductionistic">
-<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="61.7445" cy="-18" rx="61.99" ry="18"/>
-<text text-anchor="middle" x="61.7445" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Reductionistic</text>
+<title>Perceptual</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_649bf97b_4397_4005_90d9_219755d92e34" xlink:title="Perceptual">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="48.0957" cy="-18" rx="48.1917" ry="18"/>
+<text text-anchor="middle" x="48.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Perceptual</text>
 </a>
 </g>
 </g>
@@ -22,77 +22,77 @@
 <g id="node5" class="node">
 <title>Perspective</title>
 <g id="a_node5"><a xlink:href="http://emmo.info/emmo/top#EMMO_49267eba_5548_4163_8f36_518d65b583f9" xlink:title="Perspective">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="241.7445" cy="-90" rx="51.1914" ry="18"/>
-<text text-anchor="middle" x="241.7445" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Perspective</text>
-</a>
-</g>
-</g>
-<!-- Reductionistic&#45;&gt;Perspective -->
-<g id="edge4" class="edge">
-<title>Reductionistic&#45;&gt;Perspective</title>
-<path fill="none" stroke="#000000" d="M98.1702,-32.5703C127.0912,-44.1387 167.6169,-60.349 198.2409,-72.5986"/>
-<polygon fill="none" stroke="#000000" points="197.2239,-75.9613 207.8086,-76.4256 199.8237,-69.462 197.2239,-75.9613"/>
-</g>
-<!-- Perceptual -->
-<g id="node2" class="node">
-<title>Perceptual</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_649bf97b_4397_4005_90d9_219755d92e34" xlink:title="Perceptual">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="189.7445" cy="-18" rx="48.1917" ry="18"/>
-<text text-anchor="middle" x="189.7445" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Perceptual</text>
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="208.0957" cy="-90" rx="51.1914" ry="18"/>
+<text text-anchor="middle" x="208.0957" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Perspective</text>
 </a>
 </g>
 </g>
 <!-- Perceptual&#45;&gt;Perspective -->
-<g id="edge3" class="edge">
+<g id="edge4" class="edge">
 <title>Perceptual&#45;&gt;Perspective</title>
-<path fill="none" stroke="#000000" d="M202.3323,-35.4292C208.5458,-44.0325 216.1666,-54.5844 223.0454,-64.1089"/>
-<polygon fill="none" stroke="#000000" points="220.4001,-66.4242 229.0925,-72.4818 226.0749,-62.3257 220.4001,-66.4242"/>
+<path fill="none" stroke="#000000" d="M78.9453,-31.8823C104.0458,-43.1775 139.6859,-59.2156 167.17,-71.5834"/>
+<polygon fill="none" stroke="#000000" points="165.9652,-74.8793 176.5207,-75.7912 168.8378,-68.4958 165.9652,-74.8793"/>
 </g>
 <!-- Holistic -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>Holistic</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/holistic#EMMO_0277f24a_ea7f_4917_81b7_fb0406c8fc62" xlink:title="Holistic">
-<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="293.7445" cy="-18" rx="38.1938" ry="18"/>
-<text text-anchor="middle" x="293.7445" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Holistic</text>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/holistic#EMMO_0277f24a_ea7f_4917_81b7_fb0406c8fc62" xlink:title="Holistic">
+<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="152.0957" cy="-18" rx="38.1938" ry="18"/>
+<text text-anchor="middle" x="152.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Holistic</text>
 </a>
 </g>
 </g>
 <!-- Holistic&#45;&gt;Perspective -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>Holistic&#45;&gt;Perspective</title>
-<path fill="none" stroke="#000000" d="M281.4212,-35.063C275.1494,-43.7471 267.3933,-54.4863 260.407,-64.1596"/>
-<polygon fill="none" stroke="#000000" points="257.5399,-62.1515 254.5224,-72.3076 263.2147,-66.25 257.5399,-62.1515"/>
+<path fill="none" stroke="#000000" d="M165.367,-35.063C172.1713,-43.8114 180.5978,-54.6455 188.1647,-64.3744"/>
+<polygon fill="none" stroke="#000000" points="185.6286,-66.8146 194.5308,-72.5593 191.1541,-62.517 185.6286,-66.8146"/>
 </g>
 <!-- Physicalistic -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>Physicalistic</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_98ada9d8_f1c8_4f13_99b5_d890f5354152" xlink:title="Physicalistic">
-<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="405.7445" cy="-18" rx="55.4913" ry="18"/>
-<text text-anchor="middle" x="405.7445" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Physicalistic</text>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/physicalistic#EMMO_98ada9d8_f1c8_4f13_99b5_d890f5354152" xlink:title="Physicalistic">
+<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="264.0957" cy="-18" rx="55.4913" ry="18"/>
+<text text-anchor="middle" x="264.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Physicalistic</text>
 </a>
 </g>
 </g>
 <!-- Physicalistic&#45;&gt;Perspective -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>Physicalistic&#45;&gt;Perspective</title>
-<path fill="none" stroke="#000000" d="M372.5567,-32.5703C346.8532,-43.8547 311.0892,-59.556 283.4517,-71.6895"/>
-<polygon fill="none" stroke="#000000" points="281.7942,-68.5947 274.0447,-75.8194 284.6081,-75.0042 281.7942,-68.5947"/>
+<path fill="none" stroke="#000000" d="M250.253,-35.7978C243.5394,-44.4296 235.3521,-54.9561 227.9848,-64.4283"/>
+<polygon fill="none" stroke="#000000" points="225.1559,-62.3646 221.7792,-72.407 230.6814,-66.6622 225.1559,-62.3646"/>
+</g>
+<!-- Reductionistic -->
+<g id="node4" class="node">
+<title>Reductionistic</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/reductionistic#EMMO_15db234d_ecaf_4715_9838_4b4ec424fb13" xlink:title="Reductionistic">
+<ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="399.0957" cy="-18" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="399.0957" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Reductionistic</text>
+</a>
+</g>
+</g>
+<!-- Reductionistic&#45;&gt;Perspective -->
+<g id="edge2" class="edge">
+<title>Reductionistic&#45;&gt;Perspective</title>
+<path fill="none" stroke="#000000" d="M360.9031,-32.3972C329.6917,-44.1628 285.5211,-60.8135 252.691,-73.1892"/>
+<polygon fill="none" stroke="#000000" points="251.4463,-69.9179 243.3237,-76.7204 253.9155,-76.468 251.4463,-69.9179"/>
 </g>
 <!-- key1 -->
 <g id="node6" class="node">
 <title>key1</title>
-<text text-anchor="start" x="496.7445" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="497.0957" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node7" class="node">
 <title>key2</title>
-<text text-anchor="start" x="575.7445" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="576.0957" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge5" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M517.7445,-19C538.7445,-19 546.4555,-19 563.3026,-19"/>
-<polygon fill="none" stroke="#000000" points="563.7446,-22.5001 573.7445,-19 563.7445,-15.5001 563.7446,-22.5001"/>
+<path fill="none" stroke="#000000" d="M518.0957,-19C539.0957,-19 546.8067,-19 563.6538,-19"/>
+<polygon fill="none" stroke="#000000" points="564.0958,-22.5001 574.0957,-19 564.0957,-15.5001 564.0958,-22.5001"/>
 </g>
 </g>
 </svg>
