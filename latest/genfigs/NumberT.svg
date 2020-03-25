@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Boolean&#45;&gt;Number -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Boolean&#45;&gt;Number</title>
 <path fill="none" stroke="#000000" d="M60.693,-33.6229C73.8732,-43.7184 91.2153,-57.0017 105.7552,-68.1386"/>
 <polygon fill="none" stroke="#000000" points="103.8725,-71.1053 113.9396,-74.4076 108.1291,-65.5482 103.8725,-71.1053"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- Integer&#45;&gt;Number -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>Integer&#45;&gt;Number</title>
 <path fill="none" stroke="#000000" d="M134.2964,-36.1686C134.2964,-43.869 134.2964,-53.0257 134.2964,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="130.7965,-61.5867 134.2964,-71.5867 137.7965,-61.5868 130.7965,-61.5867"/>

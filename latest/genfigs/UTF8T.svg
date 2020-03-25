@@ -19,19 +19,19 @@
 </g>
 </g>
 <!-- UTF8 -->
-<g id="node7" class="node">
+<g id="node8" class="node">
 <title>UTF8</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_e13b2173_1dec_4b97_9ac1_1dc4b418612a" xlink:title="UTF8">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="468.8927" cy="-162" rx="31.6951" ry="18"/>
-<text text-anchor="middle" x="468.8927" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">UTF8</text>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_e13b2173_1dec_4b97_9ac1_1dc4b418612a" xlink:title="UTF8">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="441.8927" cy="-162" rx="31.6951" ry="18"/>
+<text text-anchor="middle" x="441.8927" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">UTF8</text>
 </a>
 </g>
 </g>
 <!-- MicroUnit&#45;&gt;UTF8 -->
-<g id="edge6" class="edge">
+<g id="edge10" class="edge">
 <title>MicroUnit&#45;&gt;UTF8</title>
-<path fill="none" stroke="#000000" d="M817.231,-102.1156C810.2077,-104.2589 802.8568,-106.3343 795.8927,-108 694.5875,-132.2302 573.0414,-149.1946 510.5377,-157.0529"/>
-<polygon fill="none" stroke="#000000" points="509.7903,-153.6187 500.2981,-158.3249 510.6533,-160.5653 509.7903,-153.6187"/>
+<path fill="none" stroke="#000000" d="M817.2471,-102.1842C810.2224,-104.3215 802.8669,-106.3771 795.8927,-108 684.388,-133.9467 550.1285,-150.5064 483.5471,-157.7581"/>
+<polygon fill="none" stroke="#000000" points="483.0251,-154.294 473.4561,-158.8421 483.7728,-161.2539 483.0251,-154.294"/>
 </g>
 <!-- LatinCapitalLetterA -->
 <g id="node2" class="node">
@@ -43,145 +43,145 @@
 </g>
 </g>
 <!-- LatinCapitalLetterA&#45;&gt;UTF8 -->
-<g id="edge8" class="edge">
+<g id="edge5" class="edge">
 <title>LatinCapitalLetterA&#45;&gt;UTF8</title>
-<path fill="none" stroke="#000000" d="M142.5656,-102.1313C152.688,-104.1179 163.0835,-106.1352 172.8927,-108 263.959,-125.3123 371.0031,-144.5706 428.1162,-154.7584"/>
-<polygon fill="none" stroke="#000000" points="427.7253,-158.2438 438.1843,-156.5526 428.9534,-151.3524 427.7253,-158.2438"/>
+<path fill="none" stroke="#000000" d="M142.5547,-102.1324C216.394,-116.9002 338.9965,-141.4208 401.9261,-154.0067"/>
+<polygon fill="none" stroke="#000000" points="401.3702,-157.4647 411.8625,-155.9939 402.7431,-150.6007 401.3702,-157.4647"/>
 </g>
-<!-- Atto -->
+<!-- Space -->
 <g id="node3" class="node">
-<title>Atto</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_42955b2d_b465_4666_86cc_ea3c2d685753" xlink:title="Atto">
-<ellipse fill="#ffffcc" stroke="#000000" cx="532.8927" cy="-18" rx="27" ry="18"/>
-<text text-anchor="middle" x="532.8927" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Atto</text>
+<title>Space</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_ea192c80_6029_4410_863c_8eed7ea52037" xlink:title="Space">
+<ellipse fill="#ffc880" stroke="#000000" cx="213.8927" cy="-90" rx="31.6951" ry="18"/>
+<text text-anchor="middle" x="213.8927" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Space</text>
 </a>
 </g>
 </g>
-<!-- LatinSmallLetterA -->
-<g id="node6" class="node">
-<title>LatinSmallLetterA</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_cfcf0f48_09ac_4770_a06a_684a42b4a14c" xlink:title="LatinSmallLetterA">
-<ellipse fill="#ffc880" stroke="#000000" cx="532.8927" cy="-90" rx="77.1866" ry="18"/>
-<text text-anchor="middle" x="532.8927" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">LatinSmallLetterA</text>
-</a>
-</g>
-</g>
-<!-- Atto&#45;&gt;LatinSmallLetterA -->
-<g id="edge10" class="edge">
-<title>Atto&#45;&gt;LatinSmallLetterA</title>
-<path fill="none" stroke="#000000" d="M532.8927,-36.1686C532.8927,-43.869 532.8927,-53.0257 532.8927,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="529.3928,-61.5867 532.8927,-71.5867 536.3928,-61.5868 529.3928,-61.5867"/>
+<!-- Space&#45;&gt;UTF8 -->
+<g id="edge2" class="edge">
+<title>Space&#45;&gt;UTF8</title>
+<path fill="none" stroke="#000000" d="M238.8312,-101.5761C244.0843,-103.8369 249.63,-106.0944 254.8927,-108 305.0594,-126.1649 364.478,-142.4643 402.653,-152.2895"/>
+<polygon fill="none" stroke="#000000" points="401.8016,-155.6843 412.3565,-154.7651 403.5321,-148.9015 401.8016,-155.6843"/>
 </g>
 <!-- GreekSmallLetterMu -->
 <g id="node4" class="node">
 <title>GreekSmallLetterMu</title>
 <g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_1e9c2a4b_abb9_4b27_bd9c_e31aac337a04" xlink:title="GreekSmallLetterMu">
-<ellipse fill="#ffc880" stroke="#000000" cx="268.8927" cy="-90" rx="87.1846" ry="18"/>
-<text text-anchor="middle" x="268.8927" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">GreekSmallLetterMu</text>
+<ellipse fill="#ffc880" stroke="#000000" cx="350.8927" cy="-90" rx="87.1846" ry="18"/>
+<text text-anchor="middle" x="350.8927" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">GreekSmallLetterMu</text>
 </a>
 </g>
 </g>
 <!-- GreekSmallLetterMu&#45;&gt;UTF8 -->
-<g id="edge7" class="edge">
+<g id="edge11" class="edge">
 <title>GreekSmallLetterMu&#45;&gt;UTF8</title>
-<path fill="none" stroke="#000000" d="M312.2898,-105.6229C348.1553,-118.5345 398.505,-136.6604 432.3421,-148.8418"/>
-<polygon fill="none" stroke="#000000" points="431.2556,-152.1705 441.85,-152.2646 433.6267,-145.5842 431.2556,-152.1705"/>
-</g>
-<!-- Space -->
-<g id="node5" class="node">
-<title>Space</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_ea192c80_6029_4410_863c_8eed7ea52037" xlink:title="Space">
-<ellipse fill="#ffc880" stroke="#000000" cx="405.8927" cy="-90" rx="31.6951" ry="18"/>
-<text text-anchor="middle" x="405.8927" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Space</text>
-</a>
-</g>
-</g>
-<!-- Space&#45;&gt;UTF8 -->
-<g id="edge1" class="edge">
-<title>Space&#45;&gt;UTF8</title>
-<path fill="none" stroke="#000000" d="M420.1884,-106.3379C428.4045,-115.7277 438.873,-127.6918 447.9976,-138.1198"/>
-<polygon fill="none" stroke="#000000" points="445.4345,-140.5057 454.6536,-145.7267 450.7026,-135.8962 445.4345,-140.5057"/>
-</g>
-<!-- LatinSmallLetterA&#45;&gt;UTF8 -->
-<g id="edge4" class="edge">
-<title>LatinSmallLetterA&#45;&gt;UTF8</title>
-<path fill="none" stroke="#000000" d="M517.0725,-107.7978C508.8943,-116.9983 498.8027,-128.3513 489.9719,-138.2859"/>
-<polygon fill="none" stroke="#000000" points="487.2484,-136.0816 483.2207,-145.881 492.4803,-140.7322 487.2484,-136.0816"/>
+<path fill="none" stroke="#000000" d="M372.9213,-107.4292C385.6409,-117.493 401.7304,-130.2232 415.1695,-140.8564"/>
+<polygon fill="none" stroke="#000000" points="413.127,-143.7033 423.1409,-147.1634 417.4704,-138.2138 413.127,-143.7033"/>
 </g>
 <!-- Ampere -->
-<g id="node8" class="node">
+<g id="node5" class="node">
 <title>Ampere</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_db5dd38d_ac79_4af6_8782_fee7e7150ae8" xlink:title="Ampere">
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_db5dd38d_ac79_4af6_8782_fee7e7150ae8" xlink:title="Ampere">
 <ellipse fill="#ffffcc" stroke="#000000" cx="81.8927" cy="-18" rx="39.7935" ry="18"/>
 <text text-anchor="middle" x="81.8927" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Ampere</text>
 </a>
 </g>
 </g>
 <!-- Ampere&#45;&gt;LatinCapitalLetterA -->
-<g id="edge5" class="edge">
+<g id="edge4" class="edge">
 <title>Ampere&#45;&gt;LatinCapitalLetterA</title>
 <path fill="none" stroke="#000000" d="M81.8927,-36.1686C81.8927,-43.869 81.8927,-53.0257 81.8927,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="78.3928,-61.5867 81.8927,-71.5867 85.3928,-61.5868 78.3928,-61.5867"/>
 </g>
 <!-- Milli -->
-<g id="node9" class="node">
+<g id="node6" class="node">
 <title>Milli</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a3a701ed_6f7d_4a10_9aee_dfa1961fc7b7" xlink:title="Milli">
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a3a701ed_6f7d_4a10_9aee_dfa1961fc7b7" xlink:title="Milli">
 <ellipse fill="#ffffcc" stroke="#000000" cx="659.8927" cy="-18" rx="28.6953" ry="18"/>
 <text text-anchor="middle" x="659.8927" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Milli</text>
 </a>
 </g>
 </g>
 <!-- LatinSmallLetterM -->
-<g id="node11" class="node">
+<g id="node10" class="node">
 <title>LatinSmallLetterM</title>
-<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_aa0d5cde_cbdc_4815_b46d_2f76b00a6bde" xlink:title="LatinSmallLetterM">
+<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_aa0d5cde_cbdc_4815_b46d_2f76b00a6bde" xlink:title="LatinSmallLetterM">
 <ellipse fill="#ffc880" stroke="#000000" cx="707.8927" cy="-90" rx="79.0865" ry="18"/>
 <text text-anchor="middle" x="707.8927" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">LatinSmallLetterM</text>
 </a>
 </g>
 </g>
 <!-- Milli&#45;&gt;LatinSmallLetterM -->
-<g id="edge3" class="edge">
+<g id="edge9" class="edge">
 <title>Milli&#45;&gt;LatinSmallLetterM</title>
 <path fill="none" stroke="#000000" d="M671.0255,-34.6992C676.7506,-43.2867 683.8625,-53.9546 690.3081,-63.623"/>
 <polygon fill="none" stroke="#000000" points="687.5221,-65.7538 695.9813,-72.1329 693.3465,-61.8709 687.5221,-65.7538"/>
 </g>
-<!-- Metre -->
-<g id="node10" class="node">
-<title>Metre</title>
-<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_7db11dbf_a643_464a_9b56_07eabcc3e9c5" xlink:title="Metre">
-<ellipse fill="#ffffcc" stroke="#000000" cx="738.8927" cy="-18" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="738.8927" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Metre</text>
+<!-- LatinSmallLetterA -->
+<g id="node7" class="node">
+<title>LatinSmallLetterA</title>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_cfcf0f48_09ac_4770_a06a_684a42b4a14c" xlink:title="LatinSmallLetterA">
+<ellipse fill="#ffc880" stroke="#000000" cx="532.8927" cy="-90" rx="77.1866" ry="18"/>
+<text text-anchor="middle" x="532.8927" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">LatinSmallLetterA</text>
 </a>
 </g>
 </g>
-<!-- Metre&#45;&gt;LatinSmallLetterM -->
-<g id="edge2" class="edge">
-<title>Metre&#45;&gt;LatinSmallLetterM</title>
-<path fill="none" stroke="#000000" d="M731.2298,-35.7978C727.7537,-43.8713 723.5639,-53.6024 719.6994,-62.578"/>
-<polygon fill="none" stroke="#000000" points="716.4228,-61.3379 715.6828,-71.9069 722.8522,-64.1062 716.4228,-61.3379"/>
-</g>
-<!-- LatinSmallLetterM&#45;&gt;UTF8 -->
-<g id="edge11" class="edge">
-<title>LatinSmallLetterM&#45;&gt;UTF8</title>
-<path fill="none" stroke="#000000" d="M660.1019,-104.3972C615.0488,-117.9697 548.4162,-138.0431 506.882,-150.5555"/>
-<polygon fill="none" stroke="#000000" points="505.7116,-147.2527 497.1463,-153.4885 507.7308,-153.9551 505.7116,-147.2527"/>
+<!-- LatinSmallLetterA&#45;&gt;UTF8 -->
+<g id="edge8" class="edge">
+<title>LatinSmallLetterA&#45;&gt;UTF8</title>
+<path fill="none" stroke="#000000" d="M510.8642,-107.4292C498.1446,-117.493 482.0551,-130.2232 468.616,-140.8564"/>
+<polygon fill="none" stroke="#000000" points="466.3151,-138.2138 460.6445,-147.1634 470.6585,-143.7033 466.3151,-138.2138"/>
 </g>
 <!-- Micro -->
-<g id="node12" class="node">
+<g id="node9" class="node">
 <title>Micro</title>
-<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_9ff3bf8e_2168_406e_8251_1d158fc948ae" xlink:title="Micro">
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_9ff3bf8e_2168_406e_8251_1d158fc948ae" xlink:title="Micro">
 <ellipse fill="#ffffcc" stroke="#000000" cx="852.8927" cy="-18" rx="32.4942" ry="18"/>
 <text text-anchor="middle" x="852.8927" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Micro</text>
 </a>
 </g>
 </g>
 <!-- Micro&#45;&gt;MicroUnit -->
-<g id="edge9" class="edge">
+<g id="edge6" class="edge">
 <title>Micro&#45;&gt;MicroUnit</title>
 <path fill="none" stroke="#000000" d="M852.8927,-36.1686C852.8927,-43.869 852.8927,-53.0257 852.8927,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="849.3928,-61.5867 852.8927,-71.5867 856.3928,-61.5868 849.3928,-61.5867"/>
+</g>
+<!-- LatinSmallLetterM&#45;&gt;UTF8 -->
+<g id="edge7" class="edge">
+<title>LatinSmallLetterM&#45;&gt;UTF8</title>
+<path fill="none" stroke="#000000" d="M656.92,-103.7971C605.4815,-117.7203 527.1866,-138.9129 480.6211,-151.5171"/>
+<polygon fill="none" stroke="#000000" points="479.6446,-148.1554 470.9065,-154.1467 481.4736,-154.9123 479.6446,-148.1554"/>
+</g>
+<!-- Metre -->
+<g id="node11" class="node">
+<title>Metre</title>
+<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_7db11dbf_a643_464a_9b56_07eabcc3e9c5" xlink:title="Metre">
+<ellipse fill="#ffffcc" stroke="#000000" cx="738.8927" cy="-18" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="738.8927" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Metre</text>
+</a>
+</g>
+</g>
+<!-- Metre&#45;&gt;LatinSmallLetterM -->
+<g id="edge1" class="edge">
+<title>Metre&#45;&gt;LatinSmallLetterM</title>
+<path fill="none" stroke="#000000" d="M731.2298,-35.7978C727.7537,-43.8713 723.5639,-53.6024 719.6994,-62.578"/>
+<polygon fill="none" stroke="#000000" points="716.4228,-61.3379 715.6828,-71.9069 722.8522,-64.1062 716.4228,-61.3379"/>
+</g>
+<!-- Atto -->
+<g id="node12" class="node">
+<title>Atto</title>
+<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_42955b2d_b465_4666_86cc_ea3c2d685753" xlink:title="Atto">
+<ellipse fill="#ffffcc" stroke="#000000" cx="532.8927" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="532.8927" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Atto</text>
+</a>
+</g>
+</g>
+<!-- Atto&#45;&gt;LatinSmallLetterA -->
+<g id="edge3" class="edge">
+<title>Atto&#45;&gt;LatinSmallLetterA</title>
+<path fill="none" stroke="#000000" d="M532.8927,-36.1686C532.8927,-43.869 532.8927,-53.0257 532.8927,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="529.3928,-61.5867 532.8927,-71.5867 536.3928,-61.5868 529.3928,-61.5867"/>
 </g>
 <!-- key1 -->
 <g id="node13" class="node">
