@@ -19,16 +19,16 @@
 </g>
 </g>
 <!-- Equation -->
-<g id="node4" class="node">
+<g id="node5" class="node">
 <title>Equation</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_e56ee3eb_7609_4ae1_8bed_51974f0960a6" xlink:title="Equation">
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_e56ee3eb_7609_4ae1_8bed_51974f0960a6" xlink:title="Equation">
 <ellipse fill="#ffffcc" stroke="#000000" cx="419.4435" cy="-162" rx="42.4939" ry="18"/>
 <text text-anchor="middle" x="419.4435" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Equation</text>
 </a>
 </g>
 </g>
 <!-- AlgebricEquation&#45;&gt;Equation -->
-<g id="edge1" class="edge">
+<g id="edge3" class="edge">
 <title>AlgebricEquation&#45;&gt;Equation</title>
 <path fill="none" stroke="#000000" d="M128.3399,-101.9948C137.7125,-104.0171 147.3546,-106.0814 156.4435,-108 231.2678,-123.7946 318.2045,-141.5231 370.9974,-152.2198"/>
 <polygon fill="none" stroke="#000000" points="370.5913,-155.7085 381.087,-154.2627 371.9805,-148.8478 370.5913,-155.7085"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- ArithmeticEquation&#45;&gt;Equation -->
-<g id="edge4" class="edge">
+<g id="edge5" class="edge">
 <title>ArithmeticEquation&#45;&gt;Equation</title>
 <path fill="none" stroke="#000000" d="M284.8378,-105.9791C313.0993,-117.7412 351.4065,-133.684 379.9288,-145.5546"/>
 <polygon fill="none" stroke="#000000" points="378.6207,-148.8011 389.1979,-149.4122 381.3104,-142.3385 378.6207,-148.8011"/>
@@ -58,30 +58,15 @@
 </g>
 </g>
 <!-- DefiningEquation&#45;&gt;Equation -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>DefiningEquation&#45;&gt;Equation</title>
 <path fill="none" stroke="#000000" d="M419.4435,-108.1686C419.4435,-115.869 419.4435,-125.0257 419.4435,-133.5834"/>
 <polygon fill="none" stroke="#000000" points="415.9436,-133.5867 419.4435,-143.5867 422.9436,-133.5868 415.9436,-133.5867"/>
 </g>
-<!-- Formula -->
-<g id="node6" class="node">
-<title>Formula</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_88470739_03d3_4c47_a03e_b30a1288d50c" xlink:title="Formula">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="472.4435" cy="-234" rx="40.8928" ry="18"/>
-<text text-anchor="middle" x="472.4435" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Formula</text>
-</a>
-</g>
-</g>
-<!-- Equation&#45;&gt;Formula -->
-<g id="edge2" class="edge">
-<title>Equation&#45;&gt;Formula</title>
-<path fill="none" stroke="#000000" d="M432.2733,-179.4292C438.7183,-188.1847 446.6489,-198.9582 453.7561,-208.6133"/>
-<polygon fill="none" stroke="#000000" points="450.9849,-210.7528 459.7318,-216.7313 456.6223,-206.6031 450.9849,-210.7528"/>
-</g>
 <!-- FunctionDefinition -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>FunctionDefinition</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_4bc29b0f_8fcc_4026_a291_f9774a66d9b8" xlink:title="FunctionDefinition">
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/top/math#EMMO_4bc29b0f_8fcc_4026_a291_f9774a66d9b8" xlink:title="FunctionDefinition">
 <ellipse fill="#ffffcc" stroke="#000000" cx="419.4435" cy="-18" rx="77.9862" ry="18"/>
 <text text-anchor="middle" x="419.4435" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">FunctionDefinition</text>
 </a>
@@ -93,35 +78,50 @@
 <path fill="none" stroke="#000000" d="M419.4435,-36.1686C419.4435,-43.869 419.4435,-53.0257 419.4435,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="415.9436,-61.5867 419.4435,-71.5867 422.9436,-61.5868 415.9436,-61.5867"/>
 </g>
-<!-- PhysicsEquation -->
+<!-- Formula -->
 <g id="node7" class="node">
-<title>PhysicsEquation</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_27c5d8c6_8af7_4d63_beb1_ec37cd8b3fa3" xlink:title="PhysicsEquation">
-<ellipse fill="#ffffcc" stroke="#000000" cx="580.4435" cy="-90" rx="69.5877" ry="18"/>
-<text text-anchor="middle" x="580.4435" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicsEquation</text>
+<title>Formula</title>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_88470739_03d3_4c47_a03e_b30a1288d50c" xlink:title="Formula">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="472.4435" cy="-234" rx="40.8928" ry="18"/>
+<text text-anchor="middle" x="472.4435" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Formula</text>
 </a>
 </g>
 </g>
-<!-- PhysicsEquation&#45;&gt;Equation -->
-<g id="edge5" class="edge">
-<title>PhysicsEquation&#45;&gt;Equation</title>
-<path fill="none" stroke="#000000" d="M545.5089,-105.6229C519.7277,-117.1524 484.6494,-132.8396 458.0405,-144.7392"/>
-<polygon fill="none" stroke="#000000" points="456.3532,-141.6597 448.6533,-148.9372 459.2109,-148.0498 456.3532,-141.6597"/>
+<!-- Equation&#45;&gt;Formula -->
+<g id="edge2" class="edge">
+<title>Equation&#45;&gt;Formula</title>
+<path fill="none" stroke="#000000" d="M432.2733,-179.4292C438.7183,-188.1847 446.6489,-198.9582 453.7561,-208.6133"/>
+<polygon fill="none" stroke="#000000" points="450.9849,-210.7528 459.7318,-216.7313 456.6223,-206.6031 450.9849,-210.7528"/>
 </g>
 <!-- Inequality -->
-<g id="node8" class="node">
+<g id="node6" class="node">
 <title>Inequality</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_0b6ebe5a_0026_4bef_a1c1_5be00df9f98e" xlink:title="Inequality">
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_0b6ebe5a_0026_4bef_a1c1_5be00df9f98e" xlink:title="Inequality">
 <ellipse fill="#ffffcc" stroke="#000000" cx="525.4435" cy="-162" rx="46.2923" ry="18"/>
 <text text-anchor="middle" x="525.4435" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Inequality</text>
 </a>
 </g>
 </g>
 <!-- Inequality&#45;&gt;Formula -->
-<g id="edge3" class="edge">
+<g id="edge6" class="edge">
 <title>Inequality&#45;&gt;Formula</title>
 <path fill="none" stroke="#000000" d="M512.6137,-179.4292C506.1687,-188.1847 498.2381,-198.9582 491.1309,-208.6133"/>
 <polygon fill="none" stroke="#000000" points="488.2647,-206.6031 485.1552,-216.7313 493.9021,-210.7528 488.2647,-206.6031"/>
+</g>
+<!-- PhysicsEquation -->
+<g id="node8" class="node">
+<title>PhysicsEquation</title>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/models#EMMO_27c5d8c6_8af7_4d63_beb1_ec37cd8b3fa3" xlink:title="PhysicsEquation">
+<ellipse fill="#ffffcc" stroke="#000000" cx="580.4435" cy="-90" rx="69.5877" ry="18"/>
+<text text-anchor="middle" x="580.4435" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicsEquation</text>
+</a>
+</g>
+</g>
+<!-- PhysicsEquation&#45;&gt;Equation -->
+<g id="edge1" class="edge">
+<title>PhysicsEquation&#45;&gt;Equation</title>
+<path fill="none" stroke="#000000" d="M545.5089,-105.6229C519.7277,-117.1524 484.6494,-132.8396 458.0405,-144.7392"/>
+<polygon fill="none" stroke="#000000" points="456.3532,-141.6597 448.6533,-148.9372 459.2109,-148.0498 456.3532,-141.6597"/>
 </g>
 <!-- MaterialRelation -->
 <g id="node9" class="node">

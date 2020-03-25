@@ -5,139 +5,139 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="928pt" height="260pt"
- viewBox="0.00 0.00 928.29 260.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 927.94 260.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 256)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-256 924.2895,-256 924.2895,4 -4,4"/>
-<!-- ModelledQuantitativeProperty -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-256 923.9383,-256 923.9383,4 -4,4"/>
+<!-- Property -->
 <g id="node1" class="node">
-<title>ModelledQuantitativeProperty</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_d0200cf1_e4f4_45ae_873f_b9359daea3cd" xlink:title="ModelledQuantitativeProperty">
-<ellipse fill="#ffffcc" stroke="#000000" cx="118.2895" cy="-18" rx="118.0794" ry="18"/>
-<text text-anchor="middle" x="118.2895" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ModelledQuantitativeProperty</text>
+<title>Property</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_b7bcff25_ffc3_474e_9ab5_01b1664bd4ba" xlink:title="Property">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="571.9383" cy="-234" rx="40.8928" ry="18"/>
+<text text-anchor="middle" x="571.9383" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Property</text>
+</a>
+</g>
+</g>
+<!-- ConventionalQuantitativeProperty -->
+<g id="node2" class="node">
+<title>ConventionalQuantitativeProperty</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_d8aa8e1f_b650_416d_88a0_5118de945456" xlink:title="ConventionalQuantitativeProperty">
+<ellipse fill="#ffffcc" stroke="#000000" cx="131.9383" cy="-18" rx="131.8766" ry="18"/>
+<text text-anchor="middle" x="131.9383" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ConventionalQuantitativeProperty</text>
 </a>
 </g>
 </g>
 <!-- QuantitativeProperty -->
-<g id="node4" class="node">
+<g id="node5" class="node">
 <title>QuantitativeProperty</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_dd4a7f3e_ef56_466c_ac1a_d2716b5f87ec" xlink:title="QuantitativeProperty">
-<ellipse fill="#ffc880" stroke="#000000" cx="374.2895" cy="-90" rx="84.485" ry="18"/>
-<text text-anchor="middle" x="374.2895" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">QuantitativeProperty</text>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_dd4a7f3e_ef56_466c_ac1a_d2716b5f87ec" xlink:title="QuantitativeProperty">
+<ellipse fill="#ffc880" stroke="#000000" cx="399.9383" cy="-90" rx="84.485" ry="18"/>
+<text text-anchor="middle" x="399.9383" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">QuantitativeProperty</text>
+</a>
+</g>
+</g>
+<!-- ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty -->
+<g id="edge5" class="edge">
+<title>ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
+<path fill="none" stroke="#000000" d="M191.7492,-34.0686C235.0626,-45.705 293.477,-61.3984 337.4057,-73.2002"/>
+<polygon fill="none" stroke="#000000" points="336.5457,-76.5932 347.1114,-75.8077 338.3619,-69.8329 336.5457,-76.5932"/>
+</g>
+<!-- ModelledQuantitativeProperty -->
+<g id="node3" class="node">
+<title>ModelledQuantitativeProperty</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_d0200cf1_e4f4_45ae_873f_b9359daea3cd" xlink:title="ModelledQuantitativeProperty">
+<ellipse fill="#ffffcc" stroke="#000000" cx="399.9383" cy="-18" rx="118.0794" ry="18"/>
+<text text-anchor="middle" x="399.9383" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ModelledQuantitativeProperty</text>
 </a>
 </g>
 </g>
 <!-- ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge6" class="edge">
+<g id="edge3" class="edge">
 <title>ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
-<path fill="none" stroke="#000000" d="M174.7867,-33.8898C215.8179,-45.4299 271.2821,-61.0292 313.3146,-72.8508"/>
-<polygon fill="none" stroke="#000000" points="312.5762,-76.2789 323.1503,-75.6171 314.4714,-69.5403 312.5762,-76.2789"/>
-</g>
-<!-- Property -->
-<g id="node2" class="node">
-<title>Property</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_b7bcff25_ffc3_474e_9ab5_01b1664bd4ba" xlink:title="Property">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="546.2895" cy="-234" rx="40.8928" ry="18"/>
-<text text-anchor="middle" x="546.2895" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Property</text>
-</a>
-</g>
+<path fill="none" stroke="#000000" d="M399.9383,-36.1686C399.9383,-43.869 399.9383,-53.0257 399.9383,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="396.4384,-61.5867 399.9383,-71.5867 403.4384,-61.5868 396.4384,-61.5867"/>
 </g>
 <!-- MeasuredQuantitativeProperty -->
-<g id="node3" class="node">
+<g id="node4" class="node">
 <title>MeasuredQuantitativeProperty</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_873b0ab3_88e6_4054_b901_5531e01f14a4" xlink:title="MeasuredQuantitativeProperty">
-<ellipse fill="#ffffcc" stroke="#000000" cx="374.2895" cy="-18" rx="119.6788" ry="18"/>
-<text text-anchor="middle" x="374.2895" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MeasuredQuantitativeProperty</text>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_873b0ab3_88e6_4054_b901_5531e01f14a4" xlink:title="MeasuredQuantitativeProperty">
+<ellipse fill="#ffffcc" stroke="#000000" cx="655.9383" cy="-18" rx="119.6788" ry="18"/>
+<text text-anchor="middle" x="655.9383" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MeasuredQuantitativeProperty</text>
 </a>
 </g>
 </g>
 <!-- MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge5" class="edge">
+<g id="edge6" class="edge">
 <title>MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
-<path fill="none" stroke="#000000" d="M374.2895,-36.1686C374.2895,-43.869 374.2895,-53.0257 374.2895,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="370.7896,-61.5867 374.2895,-71.5867 377.7896,-61.5868 370.7896,-61.5867"/>
+<path fill="none" stroke="#000000" d="M599.4411,-33.8898C558.4099,-45.4299 502.9457,-61.0292 460.9132,-72.8508"/>
+<polygon fill="none" stroke="#000000" points="459.7564,-69.5403 451.0775,-75.6171 461.6516,-76.2789 459.7564,-69.5403"/>
 </g>
 <!-- ObjectiveProperty -->
-<g id="node5" class="node">
+<g id="node7" class="node">
 <title>ObjectiveProperty</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_2a888cdf_ec4a_4ec5_af1c_0343372fc978" xlink:title="ObjectiveProperty">
-<ellipse fill="#ffffcc" stroke="#000000" cx="461.2895" cy="-162" rx="75.2868" ry="18"/>
-<text text-anchor="middle" x="461.2895" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">ObjectiveProperty</text>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_2a888cdf_ec4a_4ec5_af1c_0343372fc978" xlink:title="ObjectiveProperty">
+<ellipse fill="#ffffcc" stroke="#000000" cx="486.9383" cy="-162" rx="75.2868" ry="18"/>
+<text text-anchor="middle" x="486.9383" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">ObjectiveProperty</text>
 </a>
 </g>
 </g>
 <!-- QuantitativeProperty&#45;&gt;ObjectiveProperty -->
-<g id="edge4" class="edge">
+<g id="edge1" class="edge">
 <title>QuantitativeProperty&#45;&gt;ObjectiveProperty</title>
-<path fill="none" stroke="#000000" d="M395.7951,-107.7978C406.8338,-116.9332 420.4368,-128.1908 432.3801,-138.075"/>
-<polygon fill="none" stroke="#000000" points="430.396,-140.9761 440.3315,-144.6554 434.859,-135.5833 430.396,-140.9761"/>
-</g>
-<!-- ObjectiveProperty&#45;&gt;Property -->
-<g id="edge7" class="edge">
-<title>ObjectiveProperty&#45;&gt;Property</title>
-<path fill="none" stroke="#000000" d="M481.8656,-179.4292C493.2314,-189.0567 507.478,-201.1243 519.682,-211.4618"/>
-<polygon fill="none" stroke="#000000" points="517.4633,-214.1694 527.356,-217.9622 521.9877,-208.828 517.4633,-214.1694"/>
+<path fill="none" stroke="#000000" d="M421.4439,-107.7978C432.4826,-116.9332 446.0856,-128.1908 458.0289,-138.075"/>
+<polygon fill="none" stroke="#000000" points="456.0448,-140.9761 465.9803,-144.6554 460.5078,-135.5833 456.0448,-140.9761"/>
 </g>
 <!-- NominalProperty -->
 <g id="node6" class="node">
 <title>NominalProperty</title>
 <g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_909415d1_7c43_4d5e_bbeb_7e1910159f66" xlink:title="NominalProperty">
-<ellipse fill="#ffffcc" stroke="#000000" cx="549.2895" cy="-90" rx="72.2875" ry="18"/>
-<text text-anchor="middle" x="549.2895" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">NominalProperty</text>
+<ellipse fill="#ffffcc" stroke="#000000" cx="574.9383" cy="-90" rx="72.2875" ry="18"/>
+<text text-anchor="middle" x="574.9383" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">NominalProperty</text>
 </a>
 </g>
 </g>
 <!-- NominalProperty&#45;&gt;ObjectiveProperty -->
-<g id="edge1" class="edge">
+<g id="edge7" class="edge">
 <title>NominalProperty&#45;&gt;ObjectiveProperty</title>
-<path fill="none" stroke="#000000" d="M527.9872,-107.4292C516.7209,-116.647 502.7207,-128.1017 490.4602,-138.1331"/>
-<polygon fill="none" stroke="#000000" points="488.2239,-135.4405 482.7007,-144.4818 492.6566,-140.8582 488.2239,-135.4405"/>
+<path fill="none" stroke="#000000" d="M553.6359,-107.4292C542.3697,-116.647 528.3695,-128.1017 516.109,-138.1331"/>
+<polygon fill="none" stroke="#000000" points="513.8727,-135.4405 508.3495,-144.4818 518.3054,-140.8582 513.8727,-135.4405"/>
+</g>
+<!-- ObjectiveProperty&#45;&gt;Property -->
+<g id="edge2" class="edge">
+<title>ObjectiveProperty&#45;&gt;Property</title>
+<path fill="none" stroke="#000000" d="M507.5144,-179.4292C518.8802,-189.0567 533.1267,-201.1243 545.3307,-211.4618"/>
+<polygon fill="none" stroke="#000000" points="543.1121,-214.1694 553.0048,-217.9622 547.6365,-208.828 543.1121,-214.1694"/>
 </g>
 <!-- SubjectiveProperty -->
-<g id="node7" class="node">
+<g id="node8" class="node">
 <title>SubjectiveProperty</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_251cfb4f_5c75_4778_91ed_6c8395212fd8" xlink:title="SubjectiveProperty">
-<ellipse fill="#ffffcc" stroke="#000000" cx="632.2895" cy="-162" rx="77.9862" ry="18"/>
-<text text-anchor="middle" x="632.2895" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">SubjectiveProperty</text>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_251cfb4f_5c75_4778_91ed_6c8395212fd8" xlink:title="SubjectiveProperty">
+<ellipse fill="#ffffcc" stroke="#000000" cx="657.9383" cy="-162" rx="77.9862" ry="18"/>
+<text text-anchor="middle" x="657.9383" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">SubjectiveProperty</text>
 </a>
 </g>
 </g>
 <!-- SubjectiveProperty&#45;&gt;Property -->
-<g id="edge3" class="edge">
+<g id="edge4" class="edge">
 <title>SubjectiveProperty&#45;&gt;Property</title>
-<path fill="none" stroke="#000000" d="M611.4713,-179.4292C599.9718,-189.0567 585.5577,-201.1243 573.2101,-211.4618"/>
-<polygon fill="none" stroke="#000000" points="570.8666,-208.8591 565.4458,-217.9622 575.3602,-214.2264 570.8666,-208.8591"/>
-</g>
-<!-- ConventionalQuantitativeProperty -->
-<g id="node8" class="node">
-<title>ConventionalQuantitativeProperty</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_d8aa8e1f_b650_416d_88a0_5118de945456" xlink:title="ConventionalQuantitativeProperty">
-<ellipse fill="#ffffcc" stroke="#000000" cx="644.2895" cy="-18" rx="131.8766" ry="18"/>
-<text text-anchor="middle" x="644.2895" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ConventionalQuantitativeProperty</text>
-</a>
-</g>
-</g>
-<!-- ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge2" class="edge">
-<title>ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
-<path fill="none" stroke="#000000" d="M584.0323,-34.0686C540.2512,-45.7436 481.1554,-61.5024 436.8496,-73.3173"/>
-<polygon fill="none" stroke="#000000" points="435.8243,-69.9683 427.0638,-75.9268 437.628,-76.732 435.8243,-69.9683"/>
+<path fill="none" stroke="#000000" d="M637.1201,-179.4292C625.6206,-189.0567 611.2065,-201.1243 598.8589,-211.4618"/>
+<polygon fill="none" stroke="#000000" points="596.5154,-208.8591 591.0946,-217.9622 601.009,-214.2264 596.5154,-208.8591"/>
 </g>
 <!-- key1 -->
 <g id="node9" class="node">
 <title>key1</title>
-<text text-anchor="start" x="812.2895" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="811.9383" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node10" class="node">
 <title>key2</title>
-<text text-anchor="start" x="891.2895" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="890.9383" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge8" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M833.2895,-19C854.2895,-19 862.0004,-19 878.8476,-19"/>
-<polygon fill="none" stroke="#000000" points="879.2895,-22.5001 889.2895,-19 879.2895,-15.5001 879.2895,-22.5001"/>
+<path fill="none" stroke="#000000" d="M832.9383,-19C853.9383,-19 861.6492,-19 878.4964,-19"/>
+<polygon fill="none" stroke="#000000" points="878.9383,-22.5001 888.9383,-19 878.9383,-15.5001 878.9383,-22.5001"/>
 </g>
 </g>
 </svg>

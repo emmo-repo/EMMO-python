@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Nucleon&#45;&gt;Subatomic -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>Nucleon&#45;&gt;Subatomic</title>
 <path fill="none" stroke="#000000" d="M257.48,-115.6229C243.9272,-125.5801 226.1535,-138.6383 211.1249,-149.6797"/>
 <polygon fill="none" stroke="#000000" points="208.6327,-147.1676 202.6461,-155.909 212.7772,-152.8088 208.6327,-147.1676"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- Neutron&#45;&gt;Nucleon -->
-<g id="edge1" class="edge">
+<g id="edge6" class="edge">
 <title>Neutron&#45;&gt;Nucleon</title>
 <path fill="none" stroke="#000000" d="M243.1826,-40.4725C249.064,-50.3174 256.5263,-62.8085 263.0947,-73.8036"/>
 <polygon fill="none" stroke="#000000" points="260.2144,-75.8069 268.3477,-82.5967 266.2238,-72.2169 260.2144,-75.8069"/>
@@ -58,7 +58,7 @@
 </g>
 </g>
 <!-- ElectronCloud&#45;&gt;Subatomic -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>ElectronCloud&#45;&gt;Subatomic</title>
 <path fill="none" stroke="#000000" d="M88.7475,-116.3379C105.8374,-126.6781 128.0871,-140.14 146.4242,-151.2348"/>
 <polygon fill="none" stroke="#000000" points="144.7044,-154.285 155.0721,-156.4671 148.3281,-148.2959 144.7044,-154.285"/>
@@ -73,7 +73,7 @@
 </g>
 </g>
 <!-- Proton&#45;&gt;Nucleon -->
-<g id="edge4" class="edge">
+<g id="edge5" class="edge">
 <title>Proton&#45;&gt;Nucleon</title>
 <path fill="none" stroke="#000000" d="M314.3064,-40.4725C308.425,-50.3174 300.9628,-62.8085 294.3943,-73.8036"/>
 <polygon fill="none" stroke="#000000" points="291.2653,-72.2169 289.1413,-82.5967 297.2746,-75.8069 291.2653,-72.2169"/>
@@ -88,13 +88,13 @@
 </g>
 </g>
 <!-- Nucleus&#45;&gt;Nucleon -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>Nucleus&#45;&gt;Nucleon</title>
 <path fill="none" stroke="#006400" d="M220.557,-100C223.0502,-100 225.5433,-100 228.0364,-100"/>
 <polygon fill="#006400" stroke="#006400" points="228.2861,-103.5001 238.286,-100 228.286,-96.5001 228.2861,-103.5001"/>
 </g>
 <!-- Nucleus&#45;&gt;Subatomic -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>Nucleus&#45;&gt;Subatomic</title>
 <path fill="none" stroke="#000000" d="M180.7445,-118.1686C180.7445,-125.869 180.7445,-135.0257 180.7445,-143.5834"/>
 <polygon fill="none" stroke="#000000" points="177.2446,-143.5867 180.7445,-153.5867 184.2446,-143.5868 177.2446,-143.5867"/>

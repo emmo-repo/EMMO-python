@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- mereotopological&#45;&gt;EMMORelation -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>mereotopological&#45;&gt;EMMORelation</title>
 <path fill="none" stroke="#000000" d="M69.8788,-36.1686C76.2136,-44.4614 83.8384,-54.443 90.7926,-63.5467"/>
 <polygon fill="none" stroke="#000000" points="88.0825,-65.7647 96.9343,-71.5867 93.6452,-61.5153 88.0825,-65.7647"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- semiotical&#45;&gt;EMMORelation -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>semiotical&#45;&gt;EMMORelation</title>
 <path fill="none" stroke="#000000" d="M152.8688,-36.1686C146.4189,-44.4614 138.6555,-54.443 131.5748,-63.5467"/>
 <polygon fill="none" stroke="#000000" points="128.6981,-61.5444 125.3214,-71.5867 134.2236,-65.842 128.6981,-61.5444"/>

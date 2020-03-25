@@ -19,7 +19,7 @@
 </g>
 </g>
 <!-- Elementary&#45;&gt;Elementary -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Elementary&#45;&gt;Elementary</title>
 <path fill="none" stroke="#ff00ff" d="M112.855,-86.384C131.5319,-83.9574 148.6384,-88.4961 148.6384,-100 148.6384,-109.3469 137.3454,-114.0957 123.0927,-114.2463"/>
 <polygon fill="#ff00ff" stroke="#ff00ff" points="123.0513,-110.7372 112.855,-113.616 122.621,-117.724 123.0513,-110.7372"/>
@@ -34,7 +34,7 @@
 </g>
 </g>
 <!-- ElementaryParticle&#45;&gt;Elementary -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>ElementaryParticle&#45;&gt;Elementary</title>
 <path fill="none" stroke="#000000" d="M78.643,-41.2479C78.643,-50.3578 78.643,-61.5826 78.643,-71.7718"/>
 <polygon fill="none" stroke="#000000" points="75.1431,-71.883 78.643,-81.8831 82.1431,-71.8831 75.1431,-71.883"/>
@@ -54,12 +54,14 @@
 <!-- key1&#45;&gt;key2 -->
 <g id="edge3" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#ff00ff" d="M281.643,-13C303.4208,-13 308.8652,-13 330.643,-13"/>
+<path fill="none" stroke="#ff00ff" d="M281.643,-13C299.5076,-13 306.3813,-13 320.296,-13"/>
+<polygon fill="#ff00ff" stroke="#ff00ff" points="320.6431,-16.5001 330.643,-13 320.643,-9.5001 320.6431,-16.5001"/>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge4" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M281.643,-33C303.4208,-33 308.8652,-33 330.643,-33"/>
+<path fill="none" stroke="#000000" d="M281.643,-33C299.5076,-33 306.3813,-33 320.296,-33"/>
+<polygon fill="none" stroke="#000000" points="320.6431,-36.5001 330.643,-33 320.643,-29.5001 320.6431,-36.5001"/>
 </g>
 </g>
 </svg>

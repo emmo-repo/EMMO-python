@@ -9,42 +9,36 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 266)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-266 775.9919,-266 775.9919,4 -4,4"/>
-<!-- SymbolicComposition -->
+<!-- Language -->
 <g id="node1" class="node">
-<title>SymbolicComposition</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_89a0c87c_0804_4013_937a_6fe234d9499c" xlink:title="SymbolicComposition">
-<ellipse fill="#ffffcc" stroke="#000000" cx="90.9919" cy="-100" rx="90.9839" ry="18"/>
-<text text-anchor="middle" x="90.9919" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">SymbolicComposition</text>
+<title>Language</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_d8d2144e_5c8d_455d_a643_5caf4d8d9df8" xlink:title="Language">
+<ellipse fill="#ffffcc" stroke="#000000" cx="422.9919" cy="-100" rx="45.4919" ry="18"/>
+<text text-anchor="middle" x="422.9919" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">Language</text>
 </a>
 </g>
 </g>
 <!-- Symbolic -->
-<g id="node9" class="node">
+<g id="node5" class="node">
 <title>Symbolic</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_057e7d57_aff0_49de_911a_8861d85cef40" xlink:title="Symbolic">
-<ellipse fill="#ffffcc" stroke="#000000" cx="281.9919" cy="-172" rx="44.6926" ry="18"/>
-<text text-anchor="middle" x="281.9919" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Symbolic</text>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_057e7d57_aff0_49de_911a_8861d85cef40" xlink:title="Symbolic">
+<ellipse fill="#ffffcc" stroke="#000000" cx="282.9919" cy="-172" rx="44.6926" ry="18"/>
+<text text-anchor="middle" x="282.9919" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Symbolic</text>
 </a>
 </g>
 </g>
-<!-- SymbolicComposition&#45;&gt;Symbolic -->
-<g id="edge1" class="edge">
-<title>SymbolicComposition&#45;&gt;Symbolic</title>
-<path fill="none" stroke="#000000" d="M129.0303,-116.5183C160.212,-128.784 204.2723,-145.3676 237.1586,-157.202"/>
-<polygon fill="none" stroke="#000000" points="236.3847,-160.6422 246.9793,-160.7123 238.7408,-154.0506 236.3847,-160.6422"/>
-</g>
-<!-- SymbolicComposition&#45;&gt;Symbolic -->
-<g id="edge2" class="edge">
-<title>SymbolicComposition&#45;&gt;Symbolic</title>
-<path fill="none" stroke="#006400" d="M138.1145,-115.6229C170.1749,-127.1921 212.0276,-142.9478 242.3768,-154.8621"/>
-<polygon fill="#006400" stroke="#006400" points="241.2128,-158.1655 251.7993,-158.5853 243.7852,-151.6552 241.2128,-158.1655"/>
+<!-- Language&#45;&gt;Symbolic -->
+<g id="edge12" class="edge">
+<title>Language&#45;&gt;Symbolic</title>
+<path fill="none" stroke="#000000" d="M394.9973,-114.3972C373.4412,-125.4832 343.4517,-140.9064 319.9288,-153.0039"/>
+<polygon fill="none" stroke="#000000" points="318.2302,-149.9417 310.938,-157.6277 321.4316,-156.1667 318.2302,-149.9417"/>
 </g>
 <!-- Pictorial -->
 <g id="node2" class="node">
 <title>Pictorial</title>
 <g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_1da53c06_9577_4008_8652_272fa3b62be7" xlink:title="Pictorial">
-<ellipse fill="#ffffcc" stroke="#000000" cx="384.9919" cy="-172" rx="40.0939" ry="18"/>
-<text text-anchor="middle" x="384.9919" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Pictorial</text>
+<ellipse fill="#ffffcc" stroke="#000000" cx="52.9919" cy="-172" rx="40.0939" ry="18"/>
+<text text-anchor="middle" x="52.9919" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Pictorial</text>
 </a>
 </g>
 </g>
@@ -52,91 +46,88 @@
 <g id="node10" class="node">
 <title>Graphical</title>
 <g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_c74da218_9147_4f03_92d1_8894abca55f3" xlink:title="Graphical">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="384.9919" cy="-244" rx="45.4919" ry="18"/>
-<text text-anchor="middle" x="384.9919" y="-240.3" font-family="Times,serif" font-size="14.00" fill="#000000">Graphical</text>
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="165.9919" cy="-244" rx="45.4919" ry="18"/>
+<text text-anchor="middle" x="165.9919" y="-240.3" font-family="Times,serif" font-size="14.00" fill="#000000">Graphical</text>
 </a>
 </g>
 </g>
 <!-- Pictorial&#45;&gt;Graphical -->
-<g id="edge10" class="edge">
+<g id="edge9" class="edge">
 <title>Pictorial&#45;&gt;Graphical</title>
-<path fill="none" stroke="#000000" d="M384.9919,-190.1686C384.9919,-197.869 384.9919,-207.0257 384.9919,-215.5834"/>
-<polygon fill="none" stroke="#000000" points="381.492,-215.5867 384.9919,-225.5867 388.492,-215.5868 381.492,-215.5867"/>
+<path fill="none" stroke="#000000" d="M76.1318,-186.744C92.5567,-197.2094 114.8417,-211.4087 133.1096,-223.0485"/>
+<polygon fill="none" stroke="#000000" points="131.3972,-226.1074 141.7116,-228.5293 135.1588,-220.204 131.3972,-226.1074"/>
+</g>
+<!-- Metrological -->
+<g id="node3" class="node">
+<title>Metrological</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_985bec21_989f_4b9e_a4b3_735d88099c3c" xlink:title="Metrological">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="355.9919" cy="-23" rx="56.59" ry="18"/>
+<text text-anchor="middle" x="355.9919" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">Metrological</text>
+</a>
+</g>
+</g>
+<!-- Metrological&#45;&gt;Language -->
+<g id="edge1" class="edge">
+<title>Metrological&#45;&gt;Language</title>
+<path fill="none" stroke="#000000" d="M371.1953,-40.4725C380.0808,-50.6842 391.4435,-63.7429 401.2613,-75.026"/>
+<polygon fill="none" stroke="#000000" points="398.8749,-77.6154 408.0796,-82.8619 404.1557,-73.0204 398.8749,-77.6154"/>
+</g>
+<!-- SymbolicComposition -->
+<g id="node4" class="node">
+<title>SymbolicComposition</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_89a0c87c_0804_4013_937a_6fe234d9499c" xlink:title="SymbolicComposition">
+<ellipse fill="#ffffcc" stroke="#000000" cx="90.9919" cy="-100" rx="90.9839" ry="18"/>
+<text text-anchor="middle" x="90.9919" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">SymbolicComposition</text>
+</a>
+</g>
+</g>
+<!-- SymbolicComposition&#45;&gt;Symbolic -->
+<g id="edge2" class="edge">
+<title>SymbolicComposition&#45;&gt;Symbolic</title>
+<path fill="none" stroke="#000000" d="M129.2597,-116.5183C160.7469,-128.8369 205.2845,-145.5107 238.3798,-157.3548"/>
+<polygon fill="none" stroke="#000000" points="237.2279,-160.6598 247.8226,-160.7123 239.573,-154.0643 237.2279,-160.6598"/>
+</g>
+<!-- SymbolicComposition&#45;&gt;Symbolic -->
+<g id="edge3" class="edge">
+<title>SymbolicComposition&#45;&gt;Symbolic</title>
+<path fill="none" stroke="#006400" d="M137.838,-115.4458C170.1514,-127.0415 212.5452,-142.9157 243.2226,-154.8948"/>
+<polygon fill="#006400" stroke="#006400" points="242.1562,-158.2363 252.7434,-158.6369 244.7168,-151.7214 242.1562,-158.2363"/>
+</g>
+<!-- Symbolic&#45;&gt;Graphical -->
+<g id="edge4" class="edge">
+<title>Symbolic&#45;&gt;Graphical</title>
+<path fill="none" stroke="#000000" d="M258.4649,-187.0936C241.3422,-197.6306 218.2772,-211.8244 199.4663,-223.4004"/>
+<polygon fill="none" stroke="#000000" points="197.5719,-220.4565 190.8896,-228.6783 201.2406,-226.4181 197.5719,-220.4565"/>
 </g>
 <!-- Symbol -->
-<g id="node3" class="node">
+<g id="node6" class="node">
 <title>Symbol</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_a1083d0a_c1fb_471f_8e20_a98f881ad527" xlink:title="Symbol">
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_a1083d0a_c1fb_471f_8e20_a98f881ad527" xlink:title="Symbol">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="237.9919" cy="-100" rx="38.1938" ry="18"/>
 <text text-anchor="middle" x="237.9919" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">Symbol</text>
 </a>
 </g>
 </g>
 <!-- Symbol&#45;&gt;Symbolic -->
-<g id="edge9" class="edge">
+<g id="edge8" class="edge">
 <title>Symbol&#45;&gt;Symbolic</title>
-<path fill="none" stroke="#000000" d="M248.6431,-117.4292C253.847,-125.9447 260.2176,-136.3692 265.9912,-145.817"/>
-<polygon fill="none" stroke="#000000" points="263.0853,-147.774 271.2863,-154.4818 269.0583,-144.1238 263.0853,-147.774"/>
-</g>
-<!-- Metrological -->
-<g id="node4" class="node">
-<title>Metrological</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_985bec21_989f_4b9e_a4b3_735d88099c3c" xlink:title="Metrological">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="355.9919" cy="-23" rx="56.59" ry="18"/>
-<text text-anchor="middle" x="355.9919" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">Metrological</text>
-</a>
-</g>
-</g>
-<!-- Language -->
-<g id="node6" class="node">
-<title>Language</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_d8d2144e_5c8d_455d_a643_5caf4d8d9df8" xlink:title="Language">
-<ellipse fill="#ffffcc" stroke="#000000" cx="422.9919" cy="-100" rx="45.4919" ry="18"/>
-<text text-anchor="middle" x="422.9919" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">Language</text>
-</a>
-</g>
-</g>
-<!-- Metrological&#45;&gt;Language -->
-<g id="edge12" class="edge">
-<title>Metrological&#45;&gt;Language</title>
-<path fill="none" stroke="#000000" d="M371.1953,-40.4725C380.0808,-50.6842 391.4435,-63.7429 401.2613,-75.026"/>
-<polygon fill="none" stroke="#000000" points="398.8749,-77.6154 408.0796,-82.8619 404.1557,-73.0204 398.8749,-77.6154"/>
-</g>
-<!-- Mathematical -->
-<g id="node5" class="node">
-<title>Mathematical</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_54ee6b5e_5261_44a8_86eb_5717e7fdb9d0" xlink:title="Mathematical">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="489.9919" cy="-23" rx="59.5901" ry="18"/>
-<text text-anchor="middle" x="489.9919" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">Mathematical</text>
-</a>
-</g>
-</g>
-<!-- Mathematical&#45;&gt;Language -->
-<g id="edge11" class="edge">
-<title>Mathematical&#45;&gt;Language</title>
-<path fill="none" stroke="#000000" d="M474.7886,-40.4725C465.9031,-50.6842 454.5403,-63.7429 444.7226,-75.026"/>
-<polygon fill="none" stroke="#000000" points="441.8282,-73.0204 437.9043,-82.8619 447.1089,-77.6154 441.8282,-73.0204"/>
-</g>
-<!-- Language&#45;&gt;Symbolic -->
-<g id="edge6" class="edge">
-<title>Language&#45;&gt;Symbolic</title>
-<path fill="none" stroke="#000000" d="M394.7974,-114.3972C373.0872,-125.4832 342.8835,-140.9064 319.1927,-153.0039"/>
-<polygon fill="none" stroke="#000000" points="317.452,-149.9628 310.1376,-157.6277 320.6354,-156.197 317.452,-149.9628"/>
+<path fill="none" stroke="#000000" d="M248.8852,-117.4292C254.2074,-125.9447 260.7227,-136.3692 266.6276,-145.817"/>
+<polygon fill="none" stroke="#000000" points="263.775,-147.8568 272.043,-154.4818 269.711,-144.1468 263.775,-147.8568"/>
 </g>
 <!-- Geometrical -->
 <g id="node7" class="node">
 <title>Geometrical</title>
 <g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/perceptual#EMMO_b5957cef_a287_442d_a3ce_fd39f20ba1cd" xlink:title="Geometrical">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="497.9919" cy="-172" rx="54.6905" ry="18"/>
-<text text-anchor="middle" x="497.9919" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Geometrical</text>
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="165.9919" cy="-172" rx="54.6905" ry="18"/>
+<text text-anchor="middle" x="165.9919" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Geometrical</text>
 </a>
 </g>
 </g>
 <!-- Geometrical&#45;&gt;Graphical -->
-<g id="edge8" class="edge">
+<g id="edge11" class="edge">
 <title>Geometrical&#45;&gt;Graphical</title>
-<path fill="none" stroke="#000000" d="M472.6325,-188.1582C456.4523,-198.4677 435.317,-211.9345 417.8559,-223.0601"/>
-<polygon fill="none" stroke="#000000" points="415.6583,-220.3102 409.1055,-228.6356 419.4198,-226.2137 415.6583,-220.3102"/>
+<path fill="none" stroke="#000000" d="M165.9919,-190.1686C165.9919,-197.869 165.9919,-207.0257 165.9919,-215.5834"/>
+<polygon fill="none" stroke="#000000" points="162.492,-215.5867 165.9919,-225.5867 169.492,-215.5868 162.492,-215.5867"/>
 </g>
 <!-- String -->
 <g id="node8" class="node">
@@ -147,29 +138,38 @@
 </a>
 </g>
 </g>
+<!-- String&#45;&gt;Symbolic -->
+<g id="edge5" class="edge">
+<title>String&#45;&gt;Symbolic</title>
+<path fill="none" stroke="#000000" d="M316.5645,-117.063C311.3648,-125.5716 304.9594,-136.0532 299.1423,-145.5721"/>
+<polygon fill="none" stroke="#000000" points="296.032,-143.9497 293.804,-154.3076 302.005,-147.5998 296.032,-143.9497"/>
+</g>
 <!-- String&#45;&gt;Symbol -->
-<g id="edge4" class="edge">
+<g id="edge6" class="edge">
 <title>String&#45;&gt;Symbol</title>
 <path fill="none" stroke="#006400" d="M301.298,-111.0889C293.3051,-113.1384 285.3122,-113.8813 277.3194,-113.3176"/>
 <polygon fill="#006400" stroke="#006400" points="277.5828,-109.8205 267.1951,-111.9048 276.6153,-116.7534 277.5828,-109.8205"/>
 </g>
 <!-- String&#45;&gt;Symbol -->
-<g id="edge5" class="edge">
+<g id="edge7" class="edge">
 <title>String&#45;&gt;Symbol</title>
 <path fill="none" stroke="#006400" d="M301.298,-88.9111C293.3051,-86.8616 285.3122,-86.1187 277.3194,-86.6824"/>
 <polygon fill="#006400" stroke="#006400" points="276.6153,-83.2466 267.1951,-88.0952 277.5828,-90.1795 276.6153,-83.2466"/>
 </g>
-<!-- String&#45;&gt;Symbolic -->
-<g id="edge3" class="edge">
-<title>String&#45;&gt;Symbolic</title>
-<path fill="none" stroke="#000000" d="M316.3276,-117.063C311.0097,-125.5716 304.4586,-136.0532 298.5094,-145.5721"/>
-<polygon fill="none" stroke="#000000" points="295.3817,-143.9726 293.0497,-154.3076 301.3177,-147.6826 295.3817,-143.9726"/>
+<!-- Mathematical -->
+<g id="node9" class="node">
+<title>Mathematical</title>
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_54ee6b5e_5261_44a8_86eb_5717e7fdb9d0" xlink:title="Mathematical">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="489.9919" cy="-23" rx="59.5901" ry="18"/>
+<text text-anchor="middle" x="489.9919" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">Mathematical</text>
+</a>
 </g>
-<!-- Symbolic&#45;&gt;Graphical -->
-<g id="edge7" class="edge">
-<title>Symbolic&#45;&gt;Graphical</title>
-<path fill="none" stroke="#000000" d="M304.3414,-187.6229C318.8186,-197.7429 337.8784,-211.0663 353.8342,-222.2199"/>
-<polygon fill="none" stroke="#000000" points="352.1291,-225.2982 362.3304,-228.1589 356.1396,-219.561 352.1291,-225.2982"/>
+</g>
+<!-- Mathematical&#45;&gt;Language -->
+<g id="edge10" class="edge">
+<title>Mathematical&#45;&gt;Language</title>
+<path fill="none" stroke="#000000" d="M474.7886,-40.4725C465.9031,-50.6842 454.5403,-63.7429 444.7226,-75.026"/>
+<polygon fill="none" stroke="#000000" points="441.8282,-73.0204 437.9043,-82.8619 447.1089,-77.6154 441.8282,-73.0204"/>
 </g>
 <!-- key1 -->
 <g id="node11" class="node">

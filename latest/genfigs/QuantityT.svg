@@ -9,104 +9,104 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-184 924.2895,-184 924.2895,4 -4,4"/>
-<!-- PhysicalQuantity -->
-<g id="node1" class="node">
-<title>PhysicalQuantity</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819" xlink:title="PhysicalQuantity">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="200.2895" cy="-90" rx="71.4873" ry="18"/>
-<text text-anchor="middle" x="200.2895" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicalQuantity</text>
-</a>
-</g>
-</g>
-<!-- Quantity -->
-<g id="node3" class="node">
-<title>Quantity</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_f658c301_ce93_46cf_9639_4eace2c5d1d5" xlink:title="Quantity">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="374.2895" cy="-162" rx="41.6928" ry="18"/>
-<text text-anchor="middle" x="374.2895" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Quantity</text>
-</a>
-</g>
-</g>
-<!-- PhysicalQuantity&#45;&gt;Quantity -->
-<g id="edge5" class="edge">
-<title>PhysicalQuantity&#45;&gt;Quantity</title>
-<path fill="none" stroke="#000000" d="M237.6169,-105.4458C266.1464,-117.2511 305.3932,-133.4912 334.5131,-145.5408"/>
-<polygon fill="none" stroke="#000000" points="333.3917,-148.8645 343.9701,-149.4541 336.0682,-142.3964 333.3917,-148.8645"/>
-</g>
 <!-- ModelledQuantitativeProperty -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>ModelledQuantitativeProperty</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_d0200cf1_e4f4_45ae_873f_b9359daea3cd" xlink:title="ModelledQuantitativeProperty">
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_d0200cf1_e4f4_45ae_873f_b9359daea3cd" xlink:title="ModelledQuantitativeProperty">
 <ellipse fill="#ffffcc" stroke="#000000" cx="118.2895" cy="-18" rx="118.0794" ry="18"/>
 <text text-anchor="middle" x="118.2895" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ModelledQuantitativeProperty</text>
 </a>
 </g>
 </g>
 <!-- QuantitativeProperty -->
-<g id="node6" class="node">
+<g id="node2" class="node">
 <title>QuantitativeProperty</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_dd4a7f3e_ef56_466c_ac1a_d2716b5f87ec" xlink:title="QuantitativeProperty">
-<ellipse fill="#ffc880" stroke="#000000" cx="374.2895" cy="-90" rx="84.485" ry="18"/>
-<text text-anchor="middle" x="374.2895" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">QuantitativeProperty</text>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_dd4a7f3e_ef56_466c_ac1a_d2716b5f87ec" xlink:title="QuantitativeProperty">
+<ellipse fill="#ffc880" stroke="#000000" cx="386.2895" cy="-90" rx="84.485" ry="18"/>
+<text text-anchor="middle" x="386.2895" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">QuantitativeProperty</text>
 </a>
 </g>
 </g>
 <!-- ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty -->
 <g id="edge3" class="edge">
 <title>ModelledQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
-<path fill="none" stroke="#000000" d="M174.7867,-33.8898C215.8179,-45.4299 271.2821,-61.0292 313.3146,-72.8508"/>
-<polygon fill="none" stroke="#000000" points="312.5762,-76.2789 323.1503,-75.6171 314.4714,-69.5403 312.5762,-76.2789"/>
+<path fill="none" stroke="#000000" d="M176.7721,-33.7117C220.1576,-45.3676 279.2249,-61.2364 323.5851,-73.154"/>
+<polygon fill="none" stroke="#000000" points="322.8188,-76.5722 333.3845,-75.7867 324.635,-69.8119 322.8188,-76.5722"/>
 </g>
-<!-- MeasuredQuantitativeProperty -->
-<g id="node4" class="node">
-<title>MeasuredQuantitativeProperty</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_873b0ab3_88e6_4054_b901_5531e01f14a4" xlink:title="MeasuredQuantitativeProperty">
-<ellipse fill="#ffffcc" stroke="#000000" cx="374.2895" cy="-18" rx="119.6788" ry="18"/>
-<text text-anchor="middle" x="374.2895" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MeasuredQuantitativeProperty</text>
+<!-- Quantity -->
+<g id="node6" class="node">
+<title>Quantity</title>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_f658c301_ce93_46cf_9639_4eace2c5d1d5" xlink:title="Quantity">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="557.2895" cy="-162" rx="41.6928" ry="18"/>
+<text text-anchor="middle" x="557.2895" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Quantity</text>
 </a>
 </g>
-</g>
-<!-- MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge1" class="edge">
-<title>MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
-<path fill="none" stroke="#000000" d="M374.2895,-36.1686C374.2895,-43.869 374.2895,-53.0257 374.2895,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="370.7896,-61.5867 374.2895,-71.5867 377.7896,-61.5868 370.7896,-61.5867"/>
-</g>
-<!-- ConventionalQuantitativeProperty -->
-<g id="node5" class="node">
-<title>ConventionalQuantitativeProperty</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_d8aa8e1f_b650_416d_88a0_5118de945456" xlink:title="ConventionalQuantitativeProperty">
-<ellipse fill="#ffffcc" stroke="#000000" cx="644.2895" cy="-18" rx="131.8766" ry="18"/>
-<text text-anchor="middle" x="644.2895" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ConventionalQuantitativeProperty</text>
-</a>
-</g>
-</g>
-<!-- ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty -->
-<g id="edge2" class="edge">
-<title>ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
-<path fill="none" stroke="#000000" d="M584.0323,-34.0686C540.2512,-45.7436 481.1554,-61.5024 436.8496,-73.3173"/>
-<polygon fill="none" stroke="#000000" points="435.8243,-69.9683 427.0638,-75.9268 437.628,-76.732 435.8243,-69.9683"/>
 </g>
 <!-- QuantitativeProperty&#45;&gt;Quantity -->
-<g id="edge6" class="edge">
+<g id="edge1" class="edge">
 <title>QuantitativeProperty&#45;&gt;Quantity</title>
-<path fill="none" stroke="#000000" d="M374.2895,-108.1686C374.2895,-115.869 374.2895,-125.0257 374.2895,-133.5834"/>
-<polygon fill="none" stroke="#000000" points="370.7896,-133.5867 374.2895,-143.5867 377.7896,-133.5868 370.7896,-133.5867"/>
+<path fill="none" stroke="#000000" d="M424.6652,-106.1582C452.4118,-117.841 489.7873,-133.578 517.7893,-145.3683"/>
+<polygon fill="none" stroke="#000000" points="516.6973,-148.7061 527.2719,-149.361 519.4138,-142.2547 516.6973,-148.7061"/>
 </g>
 <!-- OrdinalQuantity -->
-<g id="node7" class="node">
+<g id="node3" class="node">
 <title>OrdinalQuantity</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_c46f091c_0420_4c1a_af30_0a2c8ebcf7d7" xlink:title="OrdinalQuantity">
-<ellipse fill="#ffffcc" stroke="#000000" cx="545.2895" cy="-90" rx="68.4888" ry="18"/>
-<text text-anchor="middle" x="545.2895" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">OrdinalQuantity</text>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_c46f091c_0420_4c1a_af30_0a2c8ebcf7d7" xlink:title="OrdinalQuantity">
+<ellipse fill="#ffffcc" stroke="#000000" cx="557.2895" cy="-90" rx="68.4888" ry="18"/>
+<text text-anchor="middle" x="557.2895" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">OrdinalQuantity</text>
 </a>
 </g>
 </g>
 <!-- OrdinalQuantity&#45;&gt;Quantity -->
-<g id="edge4" class="edge">
+<g id="edge6" class="edge">
 <title>OrdinalQuantity&#45;&gt;Quantity</title>
-<path fill="none" stroke="#000000" d="M509.0248,-105.2693C481.015,-117.0629 442.3111,-133.3593 413.5697,-145.461"/>
-<polygon fill="none" stroke="#000000" points="412.0925,-142.2853 404.2344,-149.3916 414.809,-148.7367 412.0925,-142.2853"/>
+<path fill="none" stroke="#000000" d="M557.2895,-108.1686C557.2895,-115.869 557.2895,-125.0257 557.2895,-133.5834"/>
+<polygon fill="none" stroke="#000000" points="553.7896,-133.5867 557.2895,-143.5867 560.7896,-133.5868 553.7896,-133.5867"/>
+</g>
+<!-- ConventionalQuantitativeProperty -->
+<g id="node4" class="node">
+<title>ConventionalQuantitativeProperty</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_d8aa8e1f_b650_416d_88a0_5118de945456" xlink:title="ConventionalQuantitativeProperty">
+<ellipse fill="#ffffcc" stroke="#000000" cx="386.2895" cy="-18" rx="131.8766" ry="18"/>
+<text text-anchor="middle" x="386.2895" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">ConventionalQuantitativeProperty</text>
+</a>
+</g>
+</g>
+<!-- ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty -->
+<g id="edge5" class="edge">
+<title>ConventionalQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
+<path fill="none" stroke="#000000" d="M386.2895,-36.1686C386.2895,-43.869 386.2895,-53.0257 386.2895,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="382.7896,-61.5867 386.2895,-71.5867 389.7896,-61.5868 382.7896,-61.5867"/>
+</g>
+<!-- PhysicalQuantity -->
+<g id="node5" class="node">
+<title>PhysicalQuantity</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819" xlink:title="PhysicalQuantity">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="715.2895" cy="-90" rx="71.4873" ry="18"/>
+<text text-anchor="middle" x="715.2895" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicalQuantity</text>
+</a>
+</g>
+</g>
+<!-- PhysicalQuantity&#45;&gt;Quantity -->
+<g id="edge4" class="edge">
+<title>PhysicalQuantity&#45;&gt;Quantity</title>
+<path fill="none" stroke="#000000" d="M680.6157,-105.8007C655.3737,-117.3034 621.2048,-132.874 595.2339,-144.7089"/>
+<polygon fill="none" stroke="#000000" points="593.7166,-141.554 586.0682,-148.8856 596.6193,-147.9238 593.7166,-141.554"/>
+</g>
+<!-- MeasuredQuantitativeProperty -->
+<g id="node7" class="node">
+<title>MeasuredQuantitativeProperty</title>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/properties#EMMO_873b0ab3_88e6_4054_b901_5531e01f14a4" xlink:title="MeasuredQuantitativeProperty">
+<ellipse fill="#ffffcc" stroke="#000000" cx="656.2895" cy="-18" rx="119.6788" ry="18"/>
+<text text-anchor="middle" x="656.2895" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MeasuredQuantitativeProperty</text>
+</a>
+</g>
+</g>
+<!-- MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty -->
+<g id="edge2" class="edge">
+<title>MeasuredQuantitativeProperty&#45;&gt;QuantitativeProperty</title>
+<path fill="none" stroke="#000000" d="M597.3705,-33.7117C553.5169,-45.406 493.7602,-61.3412 449.0199,-73.2719"/>
+<polygon fill="none" stroke="#000000" points="447.9003,-69.9481 439.1398,-75.9066 449.704,-76.7117 447.9003,-69.9481"/>
 </g>
 <!-- key1 -->
 <g id="node8" class="node">

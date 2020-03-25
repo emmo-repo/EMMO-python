@@ -9,87 +9,66 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 194)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-194 939.3933,-194 939.3933,4 -4,4"/>
-<!-- MetrologicalSymbol -->
-<g id="node1" class="node">
-<title>MetrologicalSymbol</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_50a3552e_859a_4ff7_946d_76d537cabce6" xlink:title="MetrologicalSymbol">
-<ellipse fill="#ffc880" stroke="#000000" cx="500.3933" cy="-100" rx="84.485" ry="18"/>
-<text text-anchor="middle" x="500.3933" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">MetrologicalSymbol</text>
-</a>
-</g>
-</g>
-<!-- Metrological -->
-<g id="node2" class="node">
-<title>Metrological</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_985bec21_989f_4b9e_a4b3_735d88099c3c" xlink:title="Metrological">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="283.3933" cy="-172" rx="56.59" ry="18"/>
-<text text-anchor="middle" x="283.3933" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Metrological</text>
-</a>
-</g>
-</g>
-<!-- MetrologicalSymbol&#45;&gt;Metrological -->
-<g id="edge6" class="edge">
-<title>MetrologicalSymbol&#45;&gt;Metrological</title>
-<path fill="none" stroke="#000000" d="M454.6383,-115.1814C418.6823,-127.1115 368.7194,-143.689 332.0393,-155.8594"/>
-<polygon fill="none" stroke="#000000" points="330.9326,-152.5389 322.5436,-159.01 333.137,-159.1827 330.9326,-152.5389"/>
-</g>
-<!-- MeasurementUnit -->
-<g id="node3" class="node">
-<title>MeasurementUnit</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_b081b346_7279_46ef_9a3d_2c088fcd79f4" xlink:title="MeasurementUnit">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="75.3933" cy="-23" rx="75.2868" ry="18"/>
-<text text-anchor="middle" x="75.3933" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">MeasurementUnit</text>
-</a>
-</g>
-</g>
-<!-- ReferenceUnit -->
-<g id="node5" class="node">
-<title>ReferenceUnit</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_18ce5200_00f5_45bb_8c6f_6fb128cd41ae" xlink:title="ReferenceUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="283.3933" cy="-100" rx="61.99" ry="18"/>
-<text text-anchor="middle" x="283.3933" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">ReferenceUnit</text>
-</a>
-</g>
-</g>
-<!-- MeasurementUnit&#45;&gt;ReferenceUnit -->
-<g id="edge1" class="edge">
-<title>MeasurementUnit&#45;&gt;ReferenceUnit</title>
-<path fill="none" stroke="#000000" d="M116.4874,-38.2127C150.6847,-50.8723 199.4173,-68.9127 235.4013,-82.2337"/>
-<polygon fill="none" stroke="#000000" points="234.5968,-85.668 245.1899,-85.8574 237.027,-79.1034 234.5968,-85.668"/>
-</g>
 <!-- Quantity -->
-<g id="node4" class="node">
+<g id="node1" class="node">
 <title>Quantity</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_f658c301_ce93_46cf_9639_4eace2c5d1d5" xlink:title="Quantity">
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_f658c301_ce93_46cf_9639_4eace2c5d1d5" xlink:title="Quantity">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="162.3933" cy="-100" rx="41.6928" ry="18"/>
 <text text-anchor="middle" x="162.3933" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">Quantity</text>
 </a>
 </g>
 </g>
-<!-- Quantity&#45;&gt;Metrological -->
-<g id="edge3" class="edge">
-<title>Quantity&#45;&gt;Metrological</title>
-<path fill="none" stroke="#000000" d="M186.8795,-114.5703C204.3657,-124.9753 228.1627,-139.1355 247.7512,-150.7915"/>
-<polygon fill="none" stroke="#000000" points="246.0339,-153.8423 256.4174,-155.9482 249.6134,-147.8268 246.0339,-153.8423"/>
+<!-- ReferenceUnit -->
+<g id="node2" class="node">
+<title>ReferenceUnit</title>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_18ce5200_00f5_45bb_8c6f_6fb128cd41ae" xlink:title="ReferenceUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="283.3933" cy="-100" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="283.3933" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">ReferenceUnit</text>
+</a>
+</g>
 </g>
 <!-- Quantity&#45;&gt;ReferenceUnit -->
-<g id="edge4" class="edge">
+<g id="edge8" class="edge">
 <title>Quantity&#45;&gt;ReferenceUnit</title>
 <path fill="none" stroke="#006400" stroke-dasharray="5,2" d="M204.4597,-100C206.7562,-100 209.0526,-100 211.3491,-100"/>
 <polygon fill="#006400" stroke="#006400" points="211.4181,-103.5001 221.4181,-100 211.4181,-96.5001 211.4181,-103.5001"/>
 </g>
-<!-- ReferenceUnit&#45;&gt;Metrological -->
+<!-- Metrological -->
+<g id="node5" class="node">
+<title>Metrological</title>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_985bec21_989f_4b9e_a4b3_735d88099c3c" xlink:title="Metrological">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="283.3933" cy="-172" rx="56.59" ry="18"/>
+<text text-anchor="middle" x="283.3933" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">Metrological</text>
+</a>
+</g>
+</g>
+<!-- Quantity&#45;&gt;Metrological -->
 <g id="edge7" class="edge">
+<title>Quantity&#45;&gt;Metrological</title>
+<path fill="none" stroke="#000000" d="M186.8795,-114.5703C204.3657,-124.9753 228.1627,-139.1355 247.7512,-150.7915"/>
+<polygon fill="none" stroke="#000000" points="246.0339,-153.8423 256.4174,-155.9482 249.6134,-147.8268 246.0339,-153.8423"/>
+</g>
+<!-- ReferenceUnit&#45;&gt;Metrological -->
+<g id="edge9" class="edge">
 <title>ReferenceUnit&#45;&gt;Metrological</title>
 <path fill="none" stroke="#000000" d="M283.3933,-118.1686C283.3933,-125.869 283.3933,-135.0257 283.3933,-143.5834"/>
 <polygon fill="none" stroke="#000000" points="279.8934,-143.5867 283.3933,-153.5867 286.8934,-143.5868 279.8934,-143.5867"/>
 </g>
 <!-- MetricPrefix -->
-<g id="node6" class="node">
+<g id="node3" class="node">
 <title>MetricPrefix</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_7d2afa66_ae9e_4095_a9bf_421d0be401b6" xlink:title="MetricPrefix">
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_7d2afa66_ae9e_4095_a9bf_421d0be401b6" xlink:title="MetricPrefix">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="500.3933" cy="-23" rx="55.7903" ry="18"/>
 <text text-anchor="middle" x="500.3933" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">MetricPrefix</text>
+</a>
+</g>
+</g>
+<!-- MetrologicalSymbol -->
+<g id="node6" class="node">
+<title>MetrologicalSymbol</title>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_50a3552e_859a_4ff7_946d_76d537cabce6" xlink:title="MetrologicalSymbol">
+<ellipse fill="#ffc880" stroke="#000000" cx="500.3933" cy="-100" rx="84.485" ry="18"/>
+<text text-anchor="middle" x="500.3933" y="-96.3" font-family="Times,serif" font-size="14.00" fill="#000000">MetrologicalSymbol</text>
 </a>
 </g>
 </g>
@@ -99,25 +78,61 @@
 <path fill="none" stroke="#000000" d="M500.3933,-41.2479C500.3933,-50.3578 500.3933,-61.5826 500.3933,-71.7718"/>
 <polygon fill="none" stroke="#000000" points="496.8934,-71.883 500.3933,-81.8831 503.8934,-71.8831 496.8934,-71.883"/>
 </g>
-<!-- ProcedureUnit -->
+<!-- PhysicsDimension -->
+<g id="node4" class="node">
+<title>PhysicsDimension</title>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_9895a1b4_f0a5_4167_ac5e_97db40b8bfcc" xlink:title="PhysicsDimension">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="651.3933" cy="-23" rx="76.8869" ry="18"/>
+<text text-anchor="middle" x="651.3933" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicsDimension</text>
+</a>
+</g>
+</g>
+<!-- PhysicsDimension&#45;&gt;MetrologicalSymbol -->
+<g id="edge4" class="edge">
+<title>PhysicsDimension&#45;&gt;MetrologicalSymbol</title>
+<path fill="none" stroke="#000000" d="M619,-39.5184C596.4856,-50.9993 566.28,-66.4021 541.9862,-78.7904"/>
+<polygon fill="none" stroke="#000000" points="540.3118,-75.7154 532.9932,-83.3762 543.4918,-81.9514 540.3118,-75.7154"/>
+</g>
+<!-- MetrologicalSymbol&#45;&gt;Metrological -->
+<g id="edge6" class="edge">
+<title>MetrologicalSymbol&#45;&gt;Metrological</title>
+<path fill="none" stroke="#000000" d="M454.6383,-115.1814C418.6823,-127.1115 368.7194,-143.689 332.0393,-155.8594"/>
+<polygon fill="none" stroke="#000000" points="330.9326,-152.5389 322.5436,-159.01 333.137,-159.1827 330.9326,-152.5389"/>
+</g>
+<!-- MeasurementUnit -->
 <g id="node7" class="node">
+<title>MeasurementUnit</title>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_b081b346_7279_46ef_9a3d_2c088fcd79f4" xlink:title="MeasurementUnit">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="75.3933" cy="-23" rx="75.2868" ry="18"/>
+<text text-anchor="middle" x="75.3933" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">MeasurementUnit</text>
+</a>
+</g>
+</g>
+<!-- MeasurementUnit&#45;&gt;ReferenceUnit -->
+<g id="edge3" class="edge">
+<title>MeasurementUnit&#45;&gt;ReferenceUnit</title>
+<path fill="none" stroke="#000000" d="M116.4874,-38.2127C150.6847,-50.8723 199.4173,-68.9127 235.4013,-82.2337"/>
+<polygon fill="none" stroke="#000000" points="234.5968,-85.668 245.1899,-85.8574 237.027,-79.1034 234.5968,-85.668"/>
+</g>
+<!-- ProcedureUnit -->
+<g id="node8" class="node">
 <title>ProcedureUnit</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_c9c8f824_9127_4f93_bc21_69fe78a7f6f2" xlink:title="ProcedureUnit">
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_c9c8f824_9127_4f93_bc21_69fe78a7f6f2" xlink:title="ProcedureUnit">
 <ellipse fill="#ffffcc" stroke="#000000" cx="230.3933" cy="-23" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="230.3933" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">ProcedureUnit</text>
 </a>
 </g>
 </g>
 <!-- ProcedureUnit&#45;&gt;ReferenceUnit -->
-<g id="edge9" class="edge">
+<g id="edge1" class="edge">
 <title>ProcedureUnit&#45;&gt;ReferenceUnit</title>
 <path fill="none" stroke="#000000" d="M242.6858,-40.8589C249.442,-50.6745 257.9474,-63.0314 265.4343,-73.9087"/>
 <polygon fill="none" stroke="#000000" points="262.6146,-75.9851 271.1675,-82.238 268.3807,-72.0162 262.6146,-75.9851"/>
 </g>
 <!-- StandardUnit -->
-<g id="node8" class="node">
+<g id="node9" class="node">
 <title>StandardUnit</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_acd1a504_ca32_4f30_86ad_0b62cea5bc02" xlink:title="StandardUnit">
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_acd1a504_ca32_4f30_86ad_0b62cea5bc02" xlink:title="StandardUnit">
 <ellipse fill="#ffffcc" stroke="#000000" cx="368.3933" cy="-23" rx="57.6901" ry="18"/>
 <text text-anchor="middle" x="368.3933" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">StandardUnit</text>
 </a>
@@ -128,21 +143,6 @@
 <title>StandardUnit&#45;&gt;ReferenceUnit</title>
 <path fill="none" stroke="#000000" d="M349.5291,-40.0888C337.9451,-50.5825 322.9262,-64.1878 310.1291,-75.7805"/>
 <polygon fill="none" stroke="#000000" points="307.5602,-73.385 302.4988,-82.6927 312.2598,-78.5729 307.5602,-73.385"/>
-</g>
-<!-- PhysicsDimension -->
-<g id="node9" class="node">
-<title>PhysicsDimension</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_9895a1b4_f0a5_4167_ac5e_97db40b8bfcc" xlink:title="PhysicsDimension">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="651.3933" cy="-23" rx="76.8869" ry="18"/>
-<text text-anchor="middle" x="651.3933" y="-19.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicsDimension</text>
-</a>
-</g>
-</g>
-<!-- PhysicsDimension&#45;&gt;MetrologicalSymbol -->
-<g id="edge8" class="edge">
-<title>PhysicsDimension&#45;&gt;MetrologicalSymbol</title>
-<path fill="none" stroke="#000000" d="M619,-39.5184C596.4856,-50.9993 566.28,-66.4021 541.9862,-78.7904"/>
-<polygon fill="none" stroke="#000000" points="540.3118,-75.7154 532.9932,-83.3762 543.4918,-81.9514 540.3118,-75.7154"/>
 </g>
 <!-- key1 -->
 <g id="node10" class="node">
