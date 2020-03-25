@@ -18,29 +18,29 @@
 </a>
 </g>
 </g>
-<!-- SpecialUnit -->
-<g id="node2" class="node">
-<title>SpecialUnit</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_3ee80521_3c23_4dd1_935d_9d522614a3e2" xlink:title="SpecialUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="152.8472" cy="-90" rx="51.9908" ry="18"/>
-<text text-anchor="middle" x="152.8472" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">SpecialUnit</text>
-</a>
-</g>
-</g>
 <!-- UnitSymbol -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>UnitSymbol</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_216f448e_cdbc_4aeb_a529_7a5fe7fc38bb" xlink:title="UnitSymbol">
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_216f448e_cdbc_4aeb_a529_7a5fe7fc38bb" xlink:title="UnitSymbol">
 <ellipse fill="#ffc880" stroke="#000000" cx="284.8472" cy="-162" rx="53.8905" ry="18"/>
 <text text-anchor="middle" x="284.8472" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">UnitSymbol</text>
 </a>
 </g>
 </g>
-<!-- SpecialUnit&#45;&gt;UnitSymbol -->
-<g id="edge1" class="edge">
-<title>SpecialUnit&#45;&gt;UnitSymbol</title>
-<path fill="none" stroke="#000000" d="M180.841,-105.2693C200.2224,-115.841 226.2369,-130.0307 247.3995,-141.574"/>
-<polygon fill="none" stroke="#000000" points="245.9837,-144.7885 256.4387,-146.5044 249.3357,-138.6432 245.9837,-144.7885"/>
+<!-- MetrologicalSymbol -->
+<g id="node11" class="node">
+<title>MetrologicalSymbol</title>
+<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_50a3552e_859a_4ff7_946d_76d537cabce6" xlink:title="MetrologicalSymbol">
+<ellipse fill="#ffc880" stroke="#000000" cx="359.8472" cy="-234" rx="84.485" ry="18"/>
+<text text-anchor="middle" x="359.8472" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">MetrologicalSymbol</text>
+</a>
+</g>
+</g>
+<!-- UnitSymbol&#45;&gt;MetrologicalSymbol -->
+<g id="edge6" class="edge">
+<title>UnitSymbol&#45;&gt;MetrologicalSymbol</title>
+<path fill="none" stroke="#000000" d="M302.6211,-179.063C312.0325,-188.0979 323.7612,-199.3575 334.1459,-209.3267"/>
+<polygon fill="none" stroke="#000000" points="331.7798,-211.9071 341.4176,-216.3076 336.6275,-206.8574 331.7798,-211.9071"/>
 </g>
 <!-- UTF8 -->
 <g id="node3" class="node">
@@ -52,148 +52,148 @@
 </g>
 </g>
 <!-- UTF8&#45;&gt;Symbol -->
-<g id="edge3" class="edge">
+<g id="edge12" class="edge">
 <title>UTF8&#45;&gt;Symbol</title>
 <path fill="none" stroke="#000000" d="M55.257,-246.2138C77.0769,-257.5981 109.9065,-274.7266 134.841,-287.7359"/>
 <polygon fill="none" stroke="#000000" points="133.4866,-290.9769 143.9714,-292.4996 136.7246,-284.7708 133.4866,-290.9769"/>
 </g>
-<!-- MetrologicalSymbol -->
-<g id="node12" class="node">
-<title>MetrologicalSymbol</title>
-<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_50a3552e_859a_4ff7_946d_76d537cabce6" xlink:title="MetrologicalSymbol">
-<ellipse fill="#ffc880" stroke="#000000" cx="359.8472" cy="-234" rx="84.485" ry="18"/>
-<text text-anchor="middle" x="359.8472" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">MetrologicalSymbol</text>
-</a>
-</g>
-</g>
-<!-- UnitSymbol&#45;&gt;MetrologicalSymbol -->
-<g id="edge10" class="edge">
-<title>UnitSymbol&#45;&gt;MetrologicalSymbol</title>
-<path fill="none" stroke="#000000" d="M302.6211,-179.063C312.0325,-188.0979 323.7612,-199.3575 334.1459,-209.3267"/>
-<polygon fill="none" stroke="#000000" points="331.7798,-211.9071 341.4176,-216.3076 336.6275,-206.8574 331.7798,-211.9071"/>
-</g>
 <!-- SISpecialUnit -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>SISpecialUnit</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e9ffc696_5228_4ff9_8a60_0f5e05e9931b" xlink:title="SISpecialUnit">
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e9ffc696_5228_4ff9_8a60_0f5e05e9931b" xlink:title="SISpecialUnit">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="160.8472" cy="-18" rx="59.5901" ry="18"/>
 <text text-anchor="middle" x="160.8472" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SISpecialUnit</text>
 </a>
 </g>
 </g>
-<!-- SISpecialUnit&#45;&gt;SpecialUnit -->
-<g id="edge11" class="edge">
-<title>SISpecialUnit&#45;&gt;SpecialUnit</title>
-<path fill="none" stroke="#000000" d="M158.8284,-36.1686C157.9728,-43.869 156.9554,-53.0257 156.0046,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="152.5189,-61.2614 154.8931,-71.5867 159.4761,-62.0344 152.5189,-61.2614"/>
-</g>
 <!-- SIUnitSymbol -->
-<g id="node8" class="node">
+<g id="node7" class="node">
 <title>SIUnitSymbol</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_32129fb5_df25_48fd_a29c_18a2f22a2dd5" xlink:title="SIUnitSymbol">
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_32129fb5_df25_48fd_a29c_18a2f22a2dd5" xlink:title="SIUnitSymbol">
 <ellipse fill="#ffffcc" stroke="#000000" cx="284.8472" cy="-90" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="284.8472" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIUnitSymbol</text>
 </a>
 </g>
 </g>
 <!-- SISpecialUnit&#45;&gt;SIUnitSymbol -->
-<g id="edge12" class="edge">
+<g id="edge11" class="edge">
 <title>SISpecialUnit&#45;&gt;SIUnitSymbol</title>
 <path fill="none" stroke="#000000" d="M188.6752,-34.1582C206.305,-44.3948 229.2955,-57.7442 248.3771,-68.8238"/>
 <polygon fill="none" stroke="#000000" points="246.7066,-71.9011 257.112,-73.8957 250.2216,-65.8476 246.7066,-71.9011"/>
 </g>
+<!-- SpecialUnit -->
+<g id="node12" class="node">
+<title>SpecialUnit</title>
+<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_3ee80521_3c23_4dd1_935d_9d522614a3e2" xlink:title="SpecialUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="152.8472" cy="-90" rx="51.9908" ry="18"/>
+<text text-anchor="middle" x="152.8472" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">SpecialUnit</text>
+</a>
+</g>
+</g>
+<!-- SISpecialUnit&#45;&gt;SpecialUnit -->
+<g id="edge10" class="edge">
+<title>SISpecialUnit&#45;&gt;SpecialUnit</title>
+<path fill="none" stroke="#000000" d="M158.8284,-36.1686C157.9728,-43.869 156.9554,-53.0257 156.0046,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="152.5189,-61.2614 154.8931,-71.5867 159.4761,-62.0344 152.5189,-61.2614"/>
+</g>
 <!-- MathematicalSymbol -->
-<g id="node6" class="node">
+<g id="node5" class="node">
 <title>MathematicalSymbol</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_5be83f9c_a4ba_4b9a_be1a_5bfc6e891231" xlink:title="MathematicalSymbol">
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/math#EMMO_5be83f9c_a4ba_4b9a_be1a_5bfc6e891231" xlink:title="MathematicalSymbol">
 <ellipse fill="#ffc880" stroke="#000000" stroke-width="2" cx="169.8472" cy="-234" rx="87.9851" ry="18"/>
 <text text-anchor="middle" x="169.8472" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">MathematicalSymbol</text>
 </a>
 </g>
 </g>
 <!-- MathematicalSymbol&#45;&gt;Symbol -->
-<g id="edge4" class="edge">
+<g id="edge5" class="edge">
 <title>MathematicalSymbol&#45;&gt;Symbol</title>
 <path fill="none" stroke="#000000" d="M169.8472,-252.1686C169.8472,-259.869 169.8472,-269.0257 169.8472,-277.5834"/>
 <polygon fill="none" stroke="#000000" points="166.3473,-277.5867 169.8472,-287.5867 173.3473,-277.5868 166.3473,-277.5867"/>
 </g>
 <!-- SIBaseUnit -->
-<g id="node7" class="node">
+<g id="node6" class="node">
 <title>SIBaseUnit</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_3a185e6c_9e19_4776_b583_19c978156aa0" xlink:title="SIBaseUnit">
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_3a185e6c_9e19_4776_b583_19c978156aa0" xlink:title="SIBaseUnit">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="290.8472" cy="-18" rx="51.1914" ry="18"/>
 <text text-anchor="middle" x="290.8472" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIBaseUnit</text>
 </a>
 </g>
 </g>
 <!-- SIBaseUnit&#45;&gt;SIUnitSymbol -->
-<g id="edge7" class="edge">
+<g id="edge3" class="edge">
 <title>SIBaseUnit&#45;&gt;SIUnitSymbol</title>
 <path fill="none" stroke="#000000" d="M289.3331,-36.1686C288.6914,-43.869 287.9284,-53.0257 287.2152,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="283.7242,-61.3306 286.3816,-71.5867 290.7001,-61.912 283.7242,-61.3306"/>
 </g>
 <!-- BaseUnit -->
-<g id="node9" class="node">
+<g id="node8" class="node">
 <title>BaseUnit</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_db716151_6b73_45ff_910c_d182fdcbb4f5" xlink:title="BaseUnit">
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_db716151_6b73_45ff_910c_d182fdcbb4f5" xlink:title="BaseUnit">
 <ellipse fill="#ffffcc" stroke="#000000" cx="407.8472" cy="-90" rx="43.5923" ry="18"/>
 <text text-anchor="middle" x="407.8472" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">BaseUnit</text>
 </a>
 </g>
 </g>
 <!-- SIBaseUnit&#45;&gt;BaseUnit -->
-<g id="edge6" class="edge">
+<g id="edge2" class="edge">
 <title>SIBaseUnit&#45;&gt;BaseUnit</title>
 <path fill="none" stroke="#000000" d="M316.5233,-33.8007C333.6344,-44.3306 356.2851,-58.2695 374.7473,-69.6308"/>
 <polygon fill="none" stroke="#000000" points="373.0805,-72.7147 383.4314,-74.9749 376.7492,-66.7531 373.0805,-72.7147"/>
 </g>
 <!-- SIUnitSymbol&#45;&gt;UnitSymbol -->
-<g id="edge8" class="edge">
+<g id="edge1" class="edge">
 <title>SIUnitSymbol&#45;&gt;UnitSymbol</title>
 <path fill="none" stroke="#000000" d="M284.8472,-108.1686C284.8472,-115.869 284.8472,-125.0257 284.8472,-133.5834"/>
 <polygon fill="none" stroke="#000000" points="281.3473,-133.5867 284.8472,-143.5867 288.3473,-133.5868 281.3473,-133.5867"/>
 </g>
 <!-- BaseUnit&#45;&gt;UnitSymbol -->
-<g id="edge9" class="edge">
+<g id="edge4" class="edge">
 <title>BaseUnit&#45;&gt;UnitSymbol</title>
 <path fill="none" stroke="#000000" d="M382.6595,-104.744C364.7404,-115.2332 340.4137,-129.4733 320.5039,-141.1278"/>
 <polygon fill="none" stroke="#000000" points="318.5679,-138.2055 311.7059,-146.2778 322.1042,-144.2466 318.5679,-138.2055"/>
 </g>
 <!-- UnitOne -->
-<g id="node10" class="node">
+<g id="node9" class="node">
 <title>UnitOne</title>
-<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_5ebd5e01_0ed3_49a2_a30d_cd05cbe72978" xlink:title="UnitOne">
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_5ebd5e01_0ed3_49a2_a30d_cd05cbe72978" xlink:title="UnitOne">
 <ellipse fill="#ffffcc" stroke="#000000" cx="407.8472" cy="-18" rx="40.8928" ry="18"/>
 <text text-anchor="middle" x="407.8472" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">UnitOne</text>
 </a>
 </g>
 </g>
 <!-- UnitOne&#45;&gt;BaseUnit -->
-<g id="edge13" class="edge">
+<g id="edge7" class="edge">
 <title>UnitOne&#45;&gt;BaseUnit</title>
 <path fill="none" stroke="#000000" d="M407.8472,-36.1686C407.8472,-43.869 407.8472,-53.0257 407.8472,-61.5834"/>
 <polygon fill="none" stroke="#000000" points="404.3473,-61.5867 407.8472,-71.5867 411.3473,-61.5868 404.3473,-61.5867"/>
 </g>
 <!-- PhysicsDimension -->
-<g id="node11" class="node">
+<g id="node10" class="node">
 <title>PhysicsDimension</title>
-<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_9895a1b4_f0a5_4167_ac5e_97db40b8bfcc" xlink:title="PhysicsDimension">
+<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_9895a1b4_f0a5_4167_ac5e_97db40b8bfcc" xlink:title="PhysicsDimension">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="433.8472" cy="-162" rx="76.8869" ry="18"/>
 <text text-anchor="middle" x="433.8472" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">PhysicsDimension</text>
 </a>
 </g>
 </g>
 <!-- PhysicsDimension&#45;&gt;MetrologicalSymbol -->
-<g id="edge2" class="edge">
+<g id="edge13" class="edge">
 <title>PhysicsDimension&#45;&gt;MetrologicalSymbol</title>
 <path fill="none" stroke="#000000" d="M415.555,-179.7978C406.4146,-188.6912 395.2071,-199.5958 385.2472,-209.2865"/>
 <polygon fill="none" stroke="#000000" points="382.6554,-206.9248 377.9289,-216.407 387.5369,-211.9419 382.6554,-206.9248"/>
 </g>
 <!-- MetrologicalSymbol&#45;&gt;Symbol -->
-<g id="edge5" class="edge">
+<g id="edge9" class="edge">
 <title>MetrologicalSymbol&#45;&gt;Symbol</title>
 <path fill="none" stroke="#000000" d="M318.1509,-249.8007C285.779,-262.0679 241.1981,-278.9618 209.3859,-291.0169"/>
 <polygon fill="none" stroke="#000000" points="208.0616,-287.7758 199.9508,-294.5923 210.5422,-294.3216 208.0616,-287.7758"/>
+</g>
+<!-- SpecialUnit&#45;&gt;UnitSymbol -->
+<g id="edge8" class="edge">
+<title>SpecialUnit&#45;&gt;UnitSymbol</title>
+<path fill="none" stroke="#000000" d="M180.841,-105.2693C200.2224,-115.841 226.2369,-130.0307 247.3995,-141.574"/>
+<polygon fill="none" stroke="#000000" points="245.9837,-144.7885 256.4387,-146.5044 249.3357,-138.6432 245.9837,-144.7885"/>
 </g>
 <!-- key1 -->
 <g id="node13" class="node">
