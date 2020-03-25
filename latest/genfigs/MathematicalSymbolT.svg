@@ -28,7 +28,7 @@
 </g>
 </g>
 <!-- Number&#45;&gt;MathematicalSymbol -->
-<g id="edge2" class="edge">
+<g id="edge4" class="edge">
 <title>Number&#45;&gt;MathematicalSymbol</title>
 <path fill="none" stroke="#000000" d="M71.3252,-29.6435C77.2731,-31.8058 83.4642,-34.0091 89.2964,-36 126.1439,-48.5784 167.7998,-61.7546 200.7723,-71.9425"/>
 <polygon fill="none" stroke="#000000" points="200.1241,-75.4051 210.7114,-75.0044 202.185,-68.7153 200.1241,-75.4051"/>
@@ -43,7 +43,7 @@
 </g>
 </g>
 <!-- MathematicalOperator&#45;&gt;MathematicalSymbol -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>MathematicalOperator&#45;&gt;MathematicalSymbol</title>
 <path fill="none" stroke="#000000" d="M206.847,-35.7978C215.4661,-44.5383 226.0009,-55.2214 235.4322,-64.7856"/>
 <polygon fill="none" stroke="#000000" points="233.1881,-67.4946 242.7017,-72.1575 238.1723,-62.5796 233.1881,-67.4946"/>
@@ -58,7 +58,7 @@
 </g>
 </g>
 <!-- Equals&#45;&gt;MathematicalSymbol -->
-<g id="edge4" class="edge">
+<g id="edge1" class="edge">
 <title>Equals&#45;&gt;MathematicalSymbol</title>
 <path fill="none" stroke="#000000" d="M316.3173,-33.9791C307.1828,-43.1136 295.5267,-54.7697 285.2148,-65.0816"/>
 <polygon fill="none" stroke="#000000" points="282.5951,-62.7515 277.9989,-72.2975 287.5449,-67.7013 282.5951,-62.7515"/>
