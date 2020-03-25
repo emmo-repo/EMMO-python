@@ -5,79 +5,79 @@
  -->
 <!-- Title: %3 Pages: 1 -->
 <svg width="572pt" height="116pt"
- viewBox="0.00 0.00 572.19 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 571.84 116.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <title>%3</title>
-<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 568.1949,-112 568.1949,4 -4,4"/>
-<!-- MultipleUnit -->
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-112 567.8437,-112 567.8437,4 -4,4"/>
+<!-- SubMultipleUnit -->
 <g id="node1" class="node">
-<title>MultipleUnit</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_62f0d847_3603_45b4_bfc4_dd4511355ff2" xlink:title="MultipleUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="57.1949" cy="-18" rx="57.3905" ry="18"/>
-<text text-anchor="middle" x="57.1949" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MultipleUnit</text>
+<title>SubMultipleUnit</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_a2f94f33_71fa_443c_a1fb_d1685fc537ec" xlink:title="SubMultipleUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="70.8437" cy="-18" rx="70.6878" ry="18"/>
+<text text-anchor="middle" x="70.8437" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SubMultipleUnit</text>
 </a>
 </g>
 </g>
 <!-- PrefixedUnit -->
-<g id="node3" class="node">
+<g id="node4" class="node">
 <title>PrefixedUnit</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_c6d4a5e0_7e95_44df_a6db_84ee0a8bbc8e" xlink:title="PrefixedUnit">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="196.1949" cy="-90" rx="55.7903" ry="18"/>
-<text text-anchor="middle" x="196.1949" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PrefixedUnit</text>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_c6d4a5e0_7e95_44df_a6db_84ee0a8bbc8e" xlink:title="PrefixedUnit">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="223.8437" cy="-90" rx="55.7903" ry="18"/>
+<text text-anchor="middle" x="223.8437" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">PrefixedUnit</text>
 </a>
 </g>
 </g>
-<!-- MultipleUnit&#45;&gt;PrefixedUnit -->
-<g id="edge1" class="edge">
-<title>MultipleUnit&#45;&gt;PrefixedUnit</title>
-<path fill="none" stroke="#000000" d="M87.0139,-33.4458C107.6266,-44.1229 135.2426,-58.4276 157.5428,-69.9788"/>
-<polygon fill="none" stroke="#000000" points="155.9359,-73.0881 166.4253,-74.5797 159.1556,-66.8724 155.9359,-73.0881"/>
+<!-- SubMultipleUnit&#45;&gt;PrefixedUnit -->
+<g id="edge3" class="edge">
+<title>SubMultipleUnit&#45;&gt;PrefixedUnit</title>
+<path fill="none" stroke="#000000" d="M104.7994,-33.9791C127.8046,-44.8051 158.3363,-59.173 182.7193,-70.6473"/>
+<polygon fill="none" stroke="#000000" points="181.5338,-73.9576 192.0724,-75.0488 184.5145,-67.6239 181.5338,-73.9576"/>
 </g>
 <!-- SIPrefixedUnit -->
 <g id="node2" class="node">
 <title>SIPrefixedUnit</title>
 <g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_d41ce84b_4317_41fb_a5d1_6cd281fca106" xlink:title="SIPrefixedUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="196.1949" cy="-18" rx="63.8893" ry="18"/>
-<text text-anchor="middle" x="196.1949" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIPrefixedUnit</text>
+<ellipse fill="#ffffcc" stroke="#000000" cx="223.8437" cy="-18" rx="63.8893" ry="18"/>
+<text text-anchor="middle" x="223.8437" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIPrefixedUnit</text>
 </a>
 </g>
 </g>
 <!-- SIPrefixedUnit&#45;&gt;PrefixedUnit -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>SIPrefixedUnit&#45;&gt;PrefixedUnit</title>
-<path fill="none" stroke="#000000" d="M196.1949,-36.1686C196.1949,-43.869 196.1949,-53.0257 196.1949,-61.5834"/>
-<polygon fill="none" stroke="#000000" points="192.695,-61.5867 196.1949,-71.5867 199.695,-61.5868 192.695,-61.5867"/>
+<path fill="none" stroke="#000000" d="M223.8437,-36.1686C223.8437,-43.869 223.8437,-53.0257 223.8437,-61.5834"/>
+<polygon fill="none" stroke="#000000" points="220.3438,-61.5867 223.8437,-71.5867 227.3438,-61.5868 220.3438,-61.5867"/>
 </g>
-<!-- SubMultipleUnit -->
-<g id="node4" class="node">
-<title>SubMultipleUnit</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_a2f94f33_71fa_443c_a1fb_d1685fc537ec" xlink:title="SubMultipleUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="349.1949" cy="-18" rx="70.6878" ry="18"/>
-<text text-anchor="middle" x="349.1949" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">SubMultipleUnit</text>
+<!-- MultipleUnit -->
+<g id="node3" class="node">
+<title>MultipleUnit</title>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/metrology#EMMO_62f0d847_3603_45b4_bfc4_dd4511355ff2" xlink:title="MultipleUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="362.8437" cy="-18" rx="57.3905" ry="18"/>
+<text text-anchor="middle" x="362.8437" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">MultipleUnit</text>
 </a>
 </g>
 </g>
-<!-- SubMultipleUnit&#45;&gt;PrefixedUnit -->
+<!-- MultipleUnit&#45;&gt;PrefixedUnit -->
 <g id="edge2" class="edge">
-<title>SubMultipleUnit&#45;&gt;PrefixedUnit</title>
-<path fill="none" stroke="#000000" d="M315.2393,-33.9791C292.234,-44.8051 261.7023,-59.173 237.3193,-70.6473"/>
-<polygon fill="none" stroke="#000000" points="235.5242,-67.6239 227.9663,-75.0488 238.5048,-73.9576 235.5242,-67.6239"/>
+<title>MultipleUnit&#45;&gt;PrefixedUnit</title>
+<path fill="none" stroke="#000000" d="M333.0247,-33.4458C312.412,-44.1229 284.796,-58.4276 262.4958,-69.9788"/>
+<polygon fill="none" stroke="#000000" points="260.8831,-66.8724 253.6134,-74.5797 264.1027,-73.0881 260.8831,-66.8724"/>
 </g>
 <!-- key1 -->
 <g id="node5" class="node">
 <title>key1</title>
-<text text-anchor="start" x="456.1949" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<text text-anchor="start" x="455.8437" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- key2 -->
 <g id="node6" class="node">
 <title>key2</title>
-<text text-anchor="start" x="535.1949" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+<text text-anchor="start" x="534.8437" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
 </g>
 <!-- key1&#45;&gt;key2 -->
 <g id="edge4" class="edge">
 <title>key1:e&#45;&gt;key2:w</title>
-<path fill="none" stroke="#000000" d="M477.1949,-19C498.1949,-19 505.9059,-19 522.753,-19"/>
-<polygon fill="none" stroke="#000000" points="523.195,-22.5001 533.1949,-19 523.1949,-15.5001 523.195,-22.5001"/>
+<path fill="none" stroke="#000000" d="M476.8437,-19C497.8437,-19 505.5547,-19 522.4018,-19"/>
+<polygon fill="none" stroke="#000000" points="522.8437,-22.5001 532.8437,-19 522.8437,-15.5001 522.8437,-22.5001"/>
 </g>
 </g>
 </svg>
