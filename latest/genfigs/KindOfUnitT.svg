@@ -9,716 +9,716 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1390)">
 <title>%3</title>
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1390 570.2595,-1390 570.2595,4 -4,4"/>
-<!-- EquivalentDoseUnit -->
+<!-- FrequencyUnit -->
 <g id="node1" class="node">
-<title>EquivalentDoseUnit</title>
-<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_606db3fb_6f05_483c_87da_673afdd64a17" xlink:title="EquivalentDoseUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-18" rx="82.5854" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">EquivalentDoseUnit</text>
+<title>FrequencyUnit</title>
+<g id="a_node1"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_12c39388_9f81_4908_98a9_9fe5f78ae468" xlink:title="FrequencyUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-18" rx="63.8893" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">FrequencyUnit</text>
 </a>
 </g>
 </g>
 <!-- KindOfUnit -->
-<g id="node17" class="node">
+<g id="node41" class="node">
 <title>KindOfUnit</title>
-<g id="a_node17"><a xlink:href="http://emmo.info/emmo/middle/units#EMMO_ba827fd2_91cc_4085_947a_0f47559b4441" xlink:title="KindOfUnit">
+<g id="a_node41"><a xlink:href="http://emmo.info/emmo/middle/units#EMMO_ba827fd2_91cc_4085_947a_0f47559b4441" xlink:title="KindOfUnit">
 <ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="53.2953" cy="-693" rx="53.0913" ry="18"/>
 <text text-anchor="middle" x="53.2953" y="-689.3" font-family="Times,serif" font-size="14.00" fill="#000000">KindOfUnit</text>
 </a>
 </g>
 </g>
-<!-- EquivalentDoseUnit&#45;&gt;KindOfUnit -->
-<g id="edge9" class="edge">
-<title>EquivalentDoseUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M215.118,-24.47C196.5789,-28.5095 177.5431,-34.9112 161.5905,-45 138.5268,-59.5861 134.7788,-68.6842 124.5905,-94 81.9184,-200.0322 60.183,-560.7184 54.7037,-664.7185"/>
+<!-- FrequencyUnit&#45;&gt;KindOfUnit -->
+<g id="edge8" class="edge">
+<title>FrequencyUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M229.6206,-21.7418C206.8369,-25.3886 181.7514,-32.2497 161.5905,-45 138.5268,-59.5861 134.7788,-68.6842 124.5905,-94 81.9184,-200.0322 60.183,-560.7184 54.7037,-664.7185"/>
 <polygon fill="none" stroke="#000000" points="51.2049,-664.6052 54.1828,-674.7729 58.1956,-664.9674 51.2049,-664.6052"/>
 <text text-anchor="middle" x="134.0905" y="-97.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
-<!-- CataliticActivityUnit -->
-<g id="node2" class="node">
-<title>CataliticActivityUnit</title>
-<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_b5773f1e_2d8d_428b_b8a2_cf463be6f1ae" xlink:title="CataliticActivityUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-1368" rx="85.2851" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-1364.3" font-family="Times,serif" font-size="14.00" fill="#000000">CataliticActivityUnit</text>
-</a>
-</g>
-</g>
-<!-- CataliticActivityUnit&#45;&gt;KindOfUnit -->
-<g id="edge12" class="edge">
-<title>CataliticActivityUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M213.0007,-1361.1815C195.1162,-1357.1172 176.9086,-1350.7918 161.5905,-1341 138.2978,-1326.1106 134.7898,-1316.6948 124.5905,-1291 82.4915,-1184.9413 60.3519,-825.0008 54.741,-721.221"/>
-<polygon fill="none" stroke="#000000" points="58.2337,-720.9879 54.2073,-711.188 51.2435,-721.3598 58.2337,-720.9879"/>
-<text text-anchor="middle" x="134.0905" y="-1329.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- Sievert -->
-<g id="node3" class="node">
-<title>Sievert</title>
-<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_dc232f53_8ed8_4ddd_9f41_cc057985eadb" xlink:title="Sievert">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-18" rx="35.9954" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sievert</text>
-</a>
-</g>
-</g>
-<!-- Sievert&#45;&gt;EquivalentDoseUnit -->
-<g id="edge29" class="edge">
-<title>Sievert&#45;&gt;EquivalentDoseUnit</title>
-<path fill="none" stroke="#000000" d="M486.1518,-18C459.1482,-18 420.8639,-18 385.4364,-18"/>
-<polygon fill="none" stroke="#000000" points="385.0421,-14.5001 375.0421,-18 385.0421,-21.5001 385.0421,-14.5001"/>
-<text text-anchor="middle" x="450.3674" y="-21.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- MassUnit -->
-<g id="node4" class="node">
-<title>MassUnit</title>
-<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_8d9caab6_452d_420a_9d21_11baae773bf9" xlink:title="MassUnit">
-<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-1314" rx="45.4919" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-1310.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassUnit</text>
-</a>
-</g>
-</g>
-<!-- MassUnit&#45;&gt;KindOfUnit -->
-<g id="edge10" class="edge">
-<title>MassUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M246.8205,-1312.688C220.1743,-1310.0426 186.8813,-1303.3353 161.5905,-1287 138.0672,-1271.8063 134.954,-1262.0153 124.5905,-1236 86.5205,-1140.4328 61.8704,-818.465 55.1535,-721.1147"/>
-<polygon fill="none" stroke="#000000" points="58.6455,-720.8762 54.4739,-711.1372 51.6616,-721.3519 58.6455,-720.8762"/>
-<text text-anchor="middle" x="134.0905" y="-1275.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- ElectricChargeUnit -->
-<g id="node5" class="node">
-<title>ElectricChargeUnit</title>
-<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_797ad1c0_0197_4020_8c9a_4f808e5c5d42" xlink:title="ElectricChargeUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-1260" rx="79.0865" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-1256.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricChargeUnit</text>
-</a>
-</g>
-</g>
-<!-- ElectricChargeUnit&#45;&gt;KindOfUnit -->
-<g id="edge13" class="edge">
-<title>ElectricChargeUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M217.0273,-1254.1789C197.8494,-1250.1681 178.0295,-1243.6179 161.5905,-1233 138.0672,-1217.8063 135.1388,-1207.9409 124.5905,-1182 90.0043,-1096.943 63.4119,-812.2581 55.6251,-721.2386"/>
-<polygon fill="none" stroke="#000000" points="59.1002,-720.7945 54.7695,-711.1252 52.1251,-721.3847 59.1002,-720.7945"/>
-<text text-anchor="middle" x="134.0905" y="-1220.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- LuminousFluxUnit -->
-<g id="node6" class="node">
-<title>LuminousFluxUnit</title>
-<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_0aa9cd85_a008_4f6a_b94b_585e54c18799" xlink:title="LuminousFluxUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-1206" rx="78.7863" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-1202.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousFluxUnit</text>
-</a>
-</g>
-</g>
-<!-- LuminousFluxUnit&#45;&gt;KindOfUnit -->
-<g id="edge41" class="edge">
-<title>LuminousFluxUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M217.3677,-1200.2499C198.0841,-1196.2454 178.1268,-1189.6808 161.5905,-1179 138.0672,-1163.8063 135.3676,-1153.8467 124.5905,-1128 93.4836,-1053.3958 65.1689,-805.7262 56.2187,-721.4012"/>
-<polygon fill="none" stroke="#000000" points="59.6814,-720.8616 55.1548,-711.2825 52.7198,-721.5937 59.6814,-720.8616"/>
-<text text-anchor="middle" x="134.0905" y="-1166.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- TimeUnit -->
-<g id="node7" class="node">
-<title>TimeUnit</title>
-<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_d69cb991_73c2_4381_bb92_982d702f624e" xlink:title="TimeUnit">
-<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-1152" rx="45.4919" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-1148.3" font-family="Times,serif" font-size="14.00" fill="#000000">TimeUnit</text>
-</a>
-</g>
-</g>
-<!-- TimeUnit&#45;&gt;KindOfUnit -->
-<g id="edge33" class="edge">
-<title>TimeUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M246.8205,-1150.688C220.1743,-1148.0426 186.8813,-1141.3353 161.5905,-1125 138.0672,-1109.8063 135.6581,-1099.7237 124.5905,-1074 71.2905,-950.1183 57.7488,-786.7053 54.3809,-721.573"/>
-<polygon fill="none" stroke="#000000" points="57.8628,-721.1054 53.8928,-711.2825 50.8706,-721.4371 57.8628,-721.1054"/>
-<text text-anchor="middle" x="134.0905" y="-1112.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- ElectricalInductanceUnit -->
-<g id="node8" class="node">
-<title>ElectricalInductanceUnit</title>
-<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_244d0ad2_7392_41f3_af1f_c7f1a7ae8832" xlink:title="ElectricalInductanceUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-1098" rx="98.5829" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-1094.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricalInductanceUnit</text>
-</a>
-</g>
-</g>
-<!-- ElectricalInductanceUnit&#45;&gt;KindOfUnit -->
-<g id="edge35" class="edge">
-<title>ElectricalInductanceUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M205.0652,-1089.3467C189.785,-1085.2805 174.625,-1079.4189 161.5905,-1071 138.0672,-1055.8063 136.0386,-1045.5566 124.5905,-1020 78.0628,-916.1322 60.9965,-779.7724 55.5465,-721.4509"/>
-<polygon fill="none" stroke="#000000" points="59.005,-720.8272 54.6328,-711.1766 52.0325,-721.4474 59.005,-720.8272"/>
-<text text-anchor="middle" x="134.0905" y="-1058.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- LuminousIntensityUnit -->
-<g id="node9" class="node">
-<title>LuminousIntensityUnit</title>
-<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_b120c538_6320_470c_b9bd_c8d088694973" xlink:title="LuminousIntensityUnit">
-<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-1044" rx="92.8835" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-1040.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensityUnit</text>
-</a>
-</g>
-</g>
-<!-- LuminousIntensityUnit&#45;&gt;KindOfUnit -->
-<g id="edge4" class="edge">
-<title>LuminousIntensityUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M208.1451,-1036.1419C191.831,-1032.0563 175.5004,-1025.9844 161.5905,-1017 138.0672,-1001.8063 136.5573,-991.3178 124.5905,-966 84.7229,-881.6531 64.7149,-771.7092 57.0828,-720.9381"/>
-<polygon fill="none" stroke="#000000" points="60.5449,-720.4235 55.6393,-711.0328 53.618,-721.433 60.5449,-720.4235"/>
-<text text-anchor="middle" x="134.0905" y="-1004.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- MagneticFluxDensityUnit -->
-<g id="node10" class="node">
-<title>MagneticFluxDensityUnit</title>
-<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_fd2aec9a_9d61_4a06_82d0_1c98b588ce4b" xlink:title="MagneticFluxDensityUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-990" rx="103.1819" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-986.3" font-family="Times,serif" font-size="14.00" fill="#000000">MagneticFluxDensityUnit</text>
-</a>
-</g>
-</g>
-<!-- MagneticFluxDensityUnit&#45;&gt;KindOfUnit -->
-<g id="edge37" class="edge">
-<title>MagneticFluxDensityUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M203.0135,-980.7896C188.4317,-976.7505 174.0414,-971.042 161.5905,-963 138.0672,-947.8063 137.3024,-936.9521 124.5905,-912 91.5437,-847.1322 69.4407,-763.7588 59.4306,-721.0142"/>
-<polygon fill="none" stroke="#000000" points="62.7942,-720.0226 57.1469,-711.0583 55.9713,-721.5877 62.7942,-720.0226"/>
-<text text-anchor="middle" x="134.0905" y="-950.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- Farad -->
-<g id="node11" class="node">
-<title>Farad</title>
-<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a9201b2f_e6de_442a_b3a6_d291.0.0-alphaa582" xlink:title="Farad">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-342" rx="30.5947" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#000000">Farad</text>
-</a>
-</g>
-</g>
-<!-- ElectricalCapacitanceUnit -->
-<g id="node34" class="node">
-<title>ElectricalCapacitanceUnit</title>
-<g id="a_node34"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_588bee30_05aa_4029_9f13_97fe20188030" xlink:title="ElectricalCapacitanceUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-342" rx="102.8821" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricalCapacitanceUnit</text>
-</a>
-</g>
-</g>
-<!-- Farad&#45;&gt;ElectricalCapacitanceUnit -->
-<g id="edge21" class="edge">
-<title>Farad&#45;&gt;ElectricalCapacitanceUnit</title>
-<path fill="none" stroke="#000000" d="M491.0669,-342C468.6778,-342 436.9441,-342 405.3873,-342"/>
-<polygon fill="none" stroke="#000000" points="405.1599,-338.5001 395.1598,-342 405.1598,-345.5001 405.1599,-338.5001"/>
-<text text-anchor="middle" x="450.3674" y="-345.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- SIBaseUnit -->
-<g id="node12" class="node">
-<title>SIBaseUnit</title>
-<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_3a185e6c_9e19_4776_b583_19c978156aa0" xlink:title="SIBaseUnit">
-<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="292.229" cy="-936" rx="51.1914" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-932.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIBaseUnit</text>
-</a>
-</g>
-</g>
-<!-- SIBaseUnit&#45;&gt;KindOfUnit -->
-<g id="edge36" class="edge">
-<title>SIBaseUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M240.878,-934.0408C215.3511,-931.0109 185.0331,-924.1415 161.5905,-909 95.0872,-866.0455 67.7815,-769.0319 58.0228,-721.0104"/>
-<polygon fill="none" stroke="#000000" points="61.4236,-720.1604 56.1004,-711 54.5492,-721.4807 61.4236,-720.1604"/>
-<text text-anchor="middle" x="134.0905" y="-896.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- Siemens -->
-<g id="node13" class="node">
-<title>Siemens</title>
-<g id="a_node13"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_f2523820_04a6_44ab_bb67_8237dda2b0c2" xlink:title="Siemens">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-234" rx="40.8928" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Siemens</text>
-</a>
-</g>
-</g>
-<!-- ElectricConductanceUnit -->
-<g id="node37" class="node">
-<title>ElectricConductanceUnit</title>
-<g id="a_node37"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_636db399_fc4c_4b21_b7a4_e068083eb42d" xlink:title="ElectricConductanceUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-234" rx="99.3824" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricConductanceUnit</text>
-</a>
-</g>
-</g>
-<!-- Siemens&#45;&gt;ElectricConductanceUnit -->
-<g id="edge23" class="edge">
-<title>Siemens&#45;&gt;ElectricConductanceUnit</title>
-<path fill="none" stroke="#000000" d="M480.9736,-234C458.7794,-234 430.2139,-234 402.0567,-234"/>
-<polygon fill="none" stroke="#000000" points="401.714,-230.5001 391.714,-234 401.714,-237.5001 401.714,-230.5001"/>
-<text text-anchor="middle" x="450.3674" y="-237.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- ForceUnit -->
-<g id="node14" class="node">
-<title>ForceUnit</title>
-<g id="a_node14"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_65f9c4d6_67ee_4f36_88bf_093a17ab5644" xlink:title="ForceUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-882" rx="46.2923" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">ForceUnit</text>
-</a>
-</g>
-</g>
-<!-- ForceUnit&#45;&gt;KindOfUnit -->
-<g id="edge2" class="edge">
-<title>ForceUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M246.0095,-880.4163C219.5597,-877.6476 186.7427,-870.9069 161.5905,-855 111.0189,-823.0171 78.6331,-757.8982 63.444,-720.6977"/>
-<polygon fill="none" stroke="#000000" points="66.5419,-719.0132 59.6151,-710.9964 60.0307,-721.5831 66.5419,-719.0132"/>
-<text text-anchor="middle" x="134.0905" y="-842.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- EnergyUnit -->
-<g id="node15" class="node">
-<title>EnergyUnit</title>
-<g id="a_node15"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_aa06d425_d3f0_4011_a848_f93fc9d5672f" xlink:title="EnergyUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-828" rx="51.9908" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-824.3" font-family="Times,serif" font-size="14.00" fill="#000000">EnergyUnit</text>
-</a>
-</g>
-</g>
-<!-- EnergyUnit&#45;&gt;KindOfUnit -->
-<g id="edge39" class="edge">
-<title>EnergyUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M241.1967,-824.348C216.0427,-820.8751 185.9585,-814.1206 161.5905,-801 124.2021,-780.8688 91.2648,-743.743 71.8081,-718.7115"/>
-<polygon fill="none" stroke="#000000" points="74.5776,-716.5712 65.7396,-710.7283 69.0049,-720.8074 74.5776,-716.5712"/>
-<text text-anchor="middle" x="134.0905" y="-790.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- ElectricalResistanceUnit -->
-<g id="node16" class="node">
-<title>ElectricalResistanceUnit</title>
-<g id="a_node16"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_7f559d7e_ebb0_47dc_951d_d55a50b942aa" xlink:title="ElectricalResistanceUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-774" rx="97.4827" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricalResistanceUnit</text>
-</a>
-</g>
-</g>
-<!-- ElectricalResistanceUnit&#45;&gt;KindOfUnit -->
-<g id="edge42" class="edge">
-<title>ElectricalResistanceUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M218.4289,-762.2157C199.6323,-758.2742 179.6465,-753.2489 161.5905,-747 136.454,-738.3006 109.6921,-724.9979 89.061,-713.7729"/>
-<polygon fill="none" stroke="#000000" points="90.4861,-710.5615 80.0411,-708.7857 87.0989,-716.6875 90.4861,-710.5615"/>
-<text text-anchor="middle" x="134.0905" y="-742.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- Pascal -->
-<g id="node18" class="node">
-<title>Pascal</title>
-<g id="a_node18"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a80dc6f5_b1aa_41a7_a3a8_cd5040da2162" xlink:title="Pascal">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-180" rx="33.2948" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#000000">Pascal</text>
-</a>
-</g>
-</g>
-<!-- PressureUnit -->
-<g id="node39" class="node">
-<title>PressureUnit</title>
-<g id="a_node39"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_247f53b1_afec_4373_acd8_ba071b355dfd" xlink:title="PressureUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-180" rx="55.7903" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#000000">PressureUnit</text>
-</a>
-</g>
-</g>
-<!-- Pascal&#45;&gt;PressureUnit -->
-<g id="edge19" class="edge">
-<title>Pascal&#45;&gt;PressureUnit</title>
-<path fill="none" stroke="#000000" d="M488.6435,-180C454.6419,-180 401.0289,-180 358.4006,-180"/>
-<polygon fill="none" stroke="#000000" points="358.3759,-176.5001 348.3758,-180 358.3758,-183.5001 358.3759,-176.5001"/>
-<text text-anchor="middle" x="450.3674" y="-183.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- Watt -->
-<g id="node19" class="node">
-<title>Watt</title>
-<g id="a_node19"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_080052a1_f295_44be_a60f_1326ce13f1ba" xlink:title="Watt">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-126" rx="28.6953" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#000000">Watt</text>
-</a>
-</g>
-</g>
-<!-- PowerUnit -->
-<g id="node41" class="node">
-<title>PowerUnit</title>
-<g id="a_node41"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_80527818_8929_47df_b59c_0c56e5259cef" xlink:title="PowerUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-126" rx="48.9926" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#000000">PowerUnit</text>
-</a>
-</g>
-</g>
-<!-- Watt&#45;&gt;PowerUnit -->
-<g id="edge17" class="edge">
-<title>Watt&#45;&gt;PowerUnit</title>
-<path fill="none" stroke="#000000" d="M493.4194,-126C458.0675,-126 397.0455,-126 351.4512,-126"/>
-<polygon fill="none" stroke="#000000" points="351.3888,-122.5001 341.3888,-126 351.3888,-129.5001 351.3888,-122.5001"/>
-<text text-anchor="middle" x="450.3674" y="-129.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- IlluminanceUnit -->
-<g id="node20" class="node">
-<title>IlluminanceUnit</title>
-<g id="a_node20"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_bca0c4de_62cf_4664_911b_00e49acba254" xlink:title="IlluminanceUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-720" rx="68.7879" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-716.3" font-family="Times,serif" font-size="14.00" fill="#000000">IlluminanceUnit</text>
-</a>
-</g>
-</g>
-<!-- IlluminanceUnit&#45;&gt;KindOfUnit -->
-<g id="edge1" class="edge">
-<title>IlluminanceUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M228.8264,-712.8354C193.342,-708.8256 149.3233,-703.8514 114.2439,-699.8873"/>
-<polygon fill="none" stroke="#000000" points="114.4635,-696.3899 104.1337,-698.7448 113.6774,-703.3457 114.4635,-696.3899"/>
-<text text-anchor="middle" x="134.0905" y="-705.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- ThermodynamicTemperatureUnit -->
-<g id="node21" class="node">
-<title>ThermodynamicTemperatureUnit</title>
-<g id="a_node21"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_f460af7c_9134_4b2f_8450_d54918a08f34" xlink:title="ThermodynamicTemperatureUnit">
-<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-666" rx="130.777" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">ThermodynamicTemperatureUnit</text>
-</a>
-</g>
-</g>
-<!-- ThermodynamicTemperatureUnit&#45;&gt;KindOfUnit -->
-<g id="edge24" class="edge">
-<title>ThermodynamicTemperatureUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M181.6661,-675.6364C162.61,-677.5591 143.0127,-679.7017 124.5905,-682 120.3962,-682.5233 116.0686,-683.0998 111.7158,-683.7064"/>
-<polygon fill="none" stroke="#000000" points="110.9647,-680.2783 101.5644,-685.1655 111.9606,-687.2071 110.9647,-680.2783"/>
-<text text-anchor="middle" x="134.0905" y="-685.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- FrequencyUnit -->
-<g id="node22" class="node">
-<title>FrequencyUnit</title>
-<g id="a_node22"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_12c39388_9f81_4908_98a9_9fe5f78ae468" xlink:title="FrequencyUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-612" rx="63.8893" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-608.3" font-family="Times,serif" font-size="14.00" fill="#000000">FrequencyUnit</text>
-</a>
-</g>
-</g>
-<!-- FrequencyUnit&#45;&gt;KindOfUnit -->
-<g id="edge25" class="edge">
-<title>FrequencyUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M235.7482,-620.3764C212.421,-624.6798 185.3368,-630.7818 161.5905,-639 136.454,-647.6994 109.6921,-661.0021 89.061,-672.2271"/>
-<polygon fill="none" stroke="#000000" points="87.0989,-669.3125 80.0411,-677.2143 90.4861,-675.4385 87.0989,-669.3125"/>
-<text text-anchor="middle" x="134.0905" y="-657.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
 <!-- ElectricPotentialUnit -->
-<g id="node23" class="node">
+<g id="node2" class="node">
 <title>ElectricPotentialUnit</title>
-<g id="a_node23"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ef52f94e_e50d_4149_8d95_0e2960bf85a3" xlink:title="ElectricPotentialUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-558" rx="85.2851" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-554.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricPotentialUnit</text>
+<g id="a_node2"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_ef52f94e_e50d_4149_8d95_0e2960bf85a3" xlink:title="ElectricPotentialUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-1368" rx="85.2851" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-1364.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricPotentialUnit</text>
 </a>
 </g>
 </g>
 <!-- ElectricPotentialUnit&#45;&gt;KindOfUnit -->
-<g id="edge32" class="edge">
+<g id="edge13" class="edge">
 <title>ElectricPotentialUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M216.0472,-566.0597C197.4877,-570.0644 178.2097,-576.0517 161.5905,-585 124.2021,-605.1312 91.2648,-642.257 71.8081,-667.2885"/>
-<polygon fill="none" stroke="#000000" points="69.0049,-665.1926 65.7396,-675.2717 74.5776,-669.4288 69.0049,-665.1926"/>
-<text text-anchor="middle" x="134.0905" y="-611.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M213.0007,-1361.1815C195.1162,-1357.1172 176.9086,-1350.7918 161.5905,-1341 138.2978,-1326.1106 134.7898,-1316.6948 124.5905,-1291 82.4915,-1184.9413 60.3519,-825.0008 54.741,-721.221"/>
+<polygon fill="none" stroke="#000000" points="58.2337,-720.9879 54.2073,-711.188 51.2435,-721.3598 58.2337,-720.9879"/>
+<text text-anchor="middle" x="134.0905" y="-1329.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- LengthUnit -->
-<g id="node24" class="node">
+<g id="node3" class="node">
 <title>LengthUnit</title>
-<g id="a_node24"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_0fa49646_0fe0_4253_999c_bb834019844f" xlink:title="LengthUnit">
-<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-504" rx="51.1914" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#000000">LengthUnit</text>
+<g id="a_node3"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_0fa49646_0fe0_4253_999c_bb834019844f" xlink:title="LengthUnit">
+<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-1314" rx="51.1914" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-1310.3" font-family="Times,serif" font-size="14.00" fill="#000000">LengthUnit</text>
 </a>
 </g>
 </g>
 <!-- LengthUnit&#45;&gt;KindOfUnit -->
-<g id="edge3" class="edge">
+<g id="edge24" class="edge">
 <title>LengthUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M241.0609,-506.247C215.5815,-509.3515 185.2507,-516.2008 161.5905,-531 110.8606,-562.7311 78.5352,-627.9461 63.3986,-665.2301"/>
-<polygon fill="none" stroke="#000000" points="59.9776,-664.3668 59.5841,-674.9544 66.4942,-666.9231 59.9776,-664.3668"/>
-<text text-anchor="middle" x="134.0905" y="-564.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M240.878,-1312.0408C215.3511,-1309.0109 185.0331,-1302.1415 161.5905,-1287 138.0672,-1271.8063 134.954,-1262.0153 124.5905,-1236 86.5205,-1140.4328 61.8704,-818.465 55.1535,-721.1147"/>
+<polygon fill="none" stroke="#000000" points="58.6455,-720.8762 54.4739,-711.1372 51.6616,-721.3519 58.6455,-720.8762"/>
+<text text-anchor="middle" x="134.0905" y="-1275.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Katal -->
-<g id="node25" class="node">
+<g id="node4" class="node">
 <title>Katal</title>
-<g id="a_node25"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_33b67e69_3645_4c73_b100_5ea6759221b4" xlink:title="Katal">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-1368" rx="29.795" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-1364.3" font-family="Times,serif" font-size="14.00" fill="#000000">Katal</text>
+<g id="a_node4"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_33b67e69_3645_4c73_b100_5ea6759221b4" xlink:title="Katal">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-774" rx="29.795" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">Katal</text>
+</a>
+</g>
+</g>
+<!-- CataliticActivityUnit -->
+<g id="node26" class="node">
+<title>CataliticActivityUnit</title>
+<g id="a_node26"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_b5773f1e_2d8d_428b_b8a2_cf463be6f1ae" xlink:title="CataliticActivityUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-774" rx="85.2851" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">CataliticActivityUnit</text>
 </a>
 </g>
 </g>
 <!-- Katal&#45;&gt;CataliticActivityUnit -->
-<g id="edge8" class="edge">
+<g id="edge33" class="edge">
 <title>Katal&#45;&gt;CataliticActivityUnit</title>
-<path fill="none" stroke="#000000" d="M492.0166,-1368C465.4902,-1368 425.3324,-1368 387.9605,-1368"/>
-<polygon fill="none" stroke="#000000" points="387.5072,-1364.5001 377.5072,-1368 387.5071,-1371.5001 387.5072,-1364.5001"/>
-<text text-anchor="middle" x="450.3674" y="-1371.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M492.0166,-774C465.4902,-774 425.3324,-774 387.9605,-774"/>
+<polygon fill="none" stroke="#000000" points="387.5072,-770.5001 377.5072,-774 387.5071,-777.5001 387.5072,-770.5001"/>
+<text text-anchor="middle" x="450.3674" y="-777.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- AmountOfSubstanceUnit -->
-<g id="node26" class="node">
+<g id="node5" class="node">
 <title>AmountOfSubstanceUnit</title>
-<g id="a_node26"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_32fb2db4_94f4_49b8_a374_ee5aa28a113e" xlink:title="AmountOfSubstanceUnit">
-<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-450" rx="100.9827" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#000000">AmountOfSubstanceUnit</text>
+<g id="a_node5"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_32fb2db4_94f4_49b8_a374_ee5aa28a113e" xlink:title="AmountOfSubstanceUnit">
+<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-1260" rx="100.9827" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-1256.3" font-family="Times,serif" font-size="14.00" fill="#000000">AmountOfSubstanceUnit</text>
 </a>
 </g>
 </g>
 <!-- AmountOfSubstanceUnit&#45;&gt;KindOfUnit -->
-<g id="edge5" class="edge">
+<g id="edge43" class="edge">
 <title>AmountOfSubstanceUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M204.4456,-458.9369C189.3909,-462.9851 174.4695,-468.7674 161.5905,-477 94.8852,-519.6401 67.6753,-616.8029 57.981,-664.9245"/>
-<polygon fill="none" stroke="#000000" points="54.5031,-664.4786 56.0725,-674.9565 61.3798,-665.7868 54.5031,-664.4786"/>
-<text text-anchor="middle" x="134.0905" y="-509.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M204.3811,-1251.1634C189.333,-1247.105 174.4304,-1241.2933 161.5905,-1233 138.0672,-1217.8063 135.1388,-1207.9409 124.5905,-1182 90.0043,-1096.943 63.4119,-812.2581 55.6251,-721.2386"/>
+<polygon fill="none" stroke="#000000" points="59.1002,-720.7945 54.7695,-711.1252 52.1251,-721.3847 59.1002,-720.7945"/>
+<text text-anchor="middle" x="134.0905" y="-1220.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Coulomb -->
-<g id="node27" class="node">
+<g id="node6" class="node">
 <title>Coulomb</title>
-<g id="a_node27"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_696ed548_9477_45ea_993c_6a8f5271914a" xlink:title="Coulomb">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-1260" rx="44.393" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-1256.3" font-family="Times,serif" font-size="14.00" fill="#000000">Coulomb</text>
+<g id="a_node6"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_696ed548_9477_45ea_993c_6a8f5271914a" xlink:title="Coulomb">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-666" rx="44.393" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">Coulomb</text>
+</a>
+</g>
+</g>
+<!-- ElectricChargeUnit -->
+<g id="node29" class="node">
+<title>ElectricChargeUnit</title>
+<g id="a_node29"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_797ad1c0_0197_4020_8c9a_4f808e5c5d42" xlink:title="ElectricChargeUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-666" rx="79.0865" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricChargeUnit</text>
 </a>
 </g>
 </g>
 <!-- Coulomb&#45;&gt;ElectricChargeUnit -->
-<g id="edge14" class="edge">
+<g id="edge9" class="edge">
 <title>Coulomb&#45;&gt;ElectricChargeUnit</title>
-<path fill="none" stroke="#000000" d="M477.749,-1260C450.5597,-1260 414.7611,-1260 381.8693,-1260"/>
-<polygon fill="none" stroke="#000000" points="381.7676,-1256.5001 371.7675,-1260 381.7675,-1263.5001 381.7676,-1256.5001"/>
-<text text-anchor="middle" x="450.3674" y="-1263.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M477.749,-666C450.5597,-666 414.7611,-666 381.8693,-666"/>
+<polygon fill="none" stroke="#000000" points="381.7676,-662.5001 371.7675,-666 381.7675,-669.5001 381.7676,-662.5001"/>
+<text text-anchor="middle" x="450.3674" y="-669.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Lumen -->
-<g id="node28" class="node">
+<g id="node7" class="node">
 <title>Lumen</title>
-<g id="a_node28"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_d7b7fd1e_645a_42cb_8f40_85f0d034d3ae" xlink:title="Lumen">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-1206" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-1202.3" font-family="Times,serif" font-size="14.00" fill="#000000">Lumen</text>
+<g id="a_node7"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_d7b7fd1e_645a_42cb_8f40_85f0d034d3ae" xlink:title="Lumen">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-612" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-608.3" font-family="Times,serif" font-size="14.00" fill="#000000">Lumen</text>
+</a>
+</g>
+</g>
+<!-- LuminousFluxUnit -->
+<g id="node30" class="node">
+<title>LuminousFluxUnit</title>
+<g id="a_node30"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_0aa9cd85_a008_4f6a_b94b_585e54c18799" xlink:title="LuminousFluxUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-612" rx="78.7863" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-608.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousFluxUnit</text>
 </a>
 </g>
 </g>
 <!-- Lumen&#45;&gt;LuminousFluxUnit -->
-<g id="edge15" class="edge">
+<g id="edge38" class="edge">
 <title>Lumen&#45;&gt;LuminousFluxUnit</title>
-<path fill="none" stroke="#000000" d="M485.6455,-1206C457.6464,-1206 417.7382,-1206 381.4375,-1206"/>
-<polygon fill="none" stroke="#000000" points="381.3074,-1202.5001 371.3074,-1206 381.3073,-1209.5001 381.3074,-1202.5001"/>
-<text text-anchor="middle" x="450.3674" y="-1209.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M485.6455,-612C457.6464,-612 417.7382,-612 381.4375,-612"/>
+<polygon fill="none" stroke="#000000" points="381.3074,-608.5001 371.3074,-612 381.3073,-615.5001 381.3074,-608.5001"/>
+<text text-anchor="middle" x="450.3674" y="-615.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Henry -->
-<g id="node29" class="node">
+<g id="node8" class="node">
 <title>Henry</title>
-<g id="a_node29"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_fab003c8_f7a6_4346_9988_7161325ed7a3" xlink:title="Henry">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-1098" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-1094.3" font-family="Times,serif" font-size="14.00" fill="#000000">Henry</text>
+<g id="a_node8"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_fab003c8_f7a6_4346_9988_7161325ed7a3" xlink:title="Henry">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-504" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#000000">Henry</text>
+</a>
+</g>
+</g>
+<!-- ElectricalInductanceUnit -->
+<g id="node32" class="node">
+<title>ElectricalInductanceUnit</title>
+<g id="a_node32"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_244d0ad2_7392_41f3_af1f_c7f1a7ae8832" xlink:title="ElectricalInductanceUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-504" rx="98.5829" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricalInductanceUnit</text>
 </a>
 </g>
 </g>
 <!-- Henry&#45;&gt;ElectricalInductanceUnit -->
-<g id="edge16" class="edge">
+<g id="edge30" class="edge">
 <title>Henry&#45;&gt;ElectricalInductanceUnit</title>
-<path fill="none" stroke="#000000" d="M489.1338,-1098C465.9493,-1098 433.4749,-1098 401.5744,-1098"/>
-<polygon fill="none" stroke="#000000" points="401.2498,-1094.5001 391.2497,-1098 401.2497,-1101.5001 401.2498,-1094.5001"/>
-<text text-anchor="middle" x="450.3674" y="-1101.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M489.1338,-504C465.9493,-504 433.4749,-504 401.5744,-504"/>
+<polygon fill="none" stroke="#000000" points="401.2498,-500.5001 391.2497,-504 401.2497,-507.5001 401.2498,-500.5001"/>
+<text text-anchor="middle" x="450.3674" y="-507.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Tesla -->
-<g id="node30" class="node">
+<g id="node9" class="node">
 <title>Tesla</title>
-<g id="a_node30"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_acb50123_87a2_4753_b36c_f87114ad4de2" xlink:title="Tesla">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-990" rx="29.795" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-986.3" font-family="Times,serif" font-size="14.00" fill="#000000">Tesla</text>
+<g id="a_node9"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_acb50123_87a2_4753_b36c_f87114ad4de2" xlink:title="Tesla">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-396" rx="29.795" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-392.3" font-family="Times,serif" font-size="14.00" fill="#000000">Tesla</text>
+</a>
+</g>
+</g>
+<!-- MagneticFluxDensityUnit -->
+<g id="node34" class="node">
+<title>MagneticFluxDensityUnit</title>
+<g id="a_node34"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_fd2aec9a_9d61_4a06_82d0_1c98b588ce4b" xlink:title="MagneticFluxDensityUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-396" rx="103.1819" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-392.3" font-family="Times,serif" font-size="14.00" fill="#000000">MagneticFluxDensityUnit</text>
 </a>
 </g>
 </g>
 <!-- Tesla&#45;&gt;MagneticFluxDensityUnit -->
-<g id="edge27" class="edge">
+<g id="edge21" class="edge">
 <title>Tesla&#45;&gt;MagneticFluxDensityUnit</title>
-<path fill="none" stroke="#000000" d="M492.0166,-990C469.728,-990 437.8156,-990 406.0183,-990"/>
-<polygon fill="none" stroke="#000000" points="405.711,-986.5001 395.7109,-990 405.7109,-993.5001 405.711,-986.5001"/>
-<text text-anchor="middle" x="450.3674" y="-993.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M492.0166,-396C469.728,-396 437.8156,-396 406.0183,-396"/>
+<polygon fill="none" stroke="#000000" points="405.711,-392.5001 395.7109,-396 405.7109,-399.5001 405.711,-392.5001"/>
+<text text-anchor="middle" x="450.3674" y="-399.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- ElectricCurrentUnit -->
-<g id="node31" class="node">
+<g id="node10" class="node">
 <title>ElectricCurrentUnit</title>
-<g id="a_node31"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_24e3e31f_f233_4685_a19c_6f3ce0a3c477" xlink:title="ElectricCurrentUnit">
-<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-396" rx="80.6858" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-392.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricCurrentUnit</text>
+<g id="a_node10"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_24e3e31f_f233_4685_a19c_6f3ce0a3c477" xlink:title="ElectricCurrentUnit">
+<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-1206" rx="80.6858" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-1202.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricCurrentUnit</text>
 </a>
 </g>
 </g>
 <!-- ElectricCurrentUnit&#45;&gt;KindOfUnit -->
-<g id="edge11" class="edge">
+<g id="edge14" class="edge">
 <title>ElectricCurrentUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M216.0727,-402.1417C197.2131,-406.169 177.7867,-412.6469 161.5905,-423 138.2978,-437.8894 137.2393,-448.4184 124.5905,-473 91.1436,-538.0007 69.2096,-621.8238 59.3305,-664.8171"/>
-<polygon fill="none" stroke="#000000" points="55.8578,-664.3073 57.0789,-674.8315 62.6873,-665.8429 55.8578,-664.3073"/>
-<text text-anchor="middle" x="134.0905" y="-476.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M216.0054,-1199.9629C197.1468,-1195.9342 177.7377,-1189.4294 161.5905,-1179 138.0672,-1163.8063 135.3676,-1153.8467 124.5905,-1128 93.4836,-1053.3958 65.1689,-805.7262 56.2187,-721.4012"/>
+<polygon fill="none" stroke="#000000" points="59.6814,-720.8616 55.1548,-711.2825 52.7198,-721.5937 59.6814,-720.8616"/>
+<text text-anchor="middle" x="134.0905" y="-1166.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Newton -->
-<g id="node32" class="node">
+<g id="node11" class="node">
 <title>Newton</title>
-<g id="a_node32"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a979c531_f9fa_4a6e_93c1.0.0-alpha960241ca6" xlink:title="Newton">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-882" rx="38.1938" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">Newton</text>
+<g id="a_node11"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a979c531_f9fa_4a6e_93c1.0.0-alpha960241ca6" xlink:title="Newton">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-288" rx="38.1938" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#000000">Newton</text>
+</a>
+</g>
+</g>
+<!-- ForceUnit -->
+<g id="node38" class="node">
+<title>ForceUnit</title>
+<g id="a_node38"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_65f9c4d6_67ee_4f36_88bf_093a17ab5644" xlink:title="ForceUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-288" rx="46.2923" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#000000">ForceUnit</text>
 </a>
 </g>
 </g>
 <!-- Newton&#45;&gt;ForceUnit -->
-<g id="edge43" class="edge">
+<g id="edge34" class="edge">
 <title>Newton&#45;&gt;ForceUnit</title>
-<path fill="none" stroke="#000000" d="M483.5943,-882C446.761,-882 390.7511,-882 348.8291,-882"/>
-<polygon fill="none" stroke="#000000" points="348.7654,-878.5001 338.7653,-882 348.7653,-885.5001 348.7654,-878.5001"/>
-<text text-anchor="middle" x="450.3674" y="-885.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M483.5943,-288C446.761,-288 390.7511,-288 348.8291,-288"/>
+<polygon fill="none" stroke="#000000" points="348.7654,-284.5001 338.7653,-288 348.7653,-291.5001 348.7654,-284.5001"/>
+<text text-anchor="middle" x="450.3674" y="-291.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Joule -->
-<g id="node33" class="node">
+<g id="node12" class="node">
 <title>Joule</title>
-<g id="a_node33"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_8a70dea4_d6ab_4260_b931_a3e990982416" xlink:title="Joule">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-828" rx="29.4969" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-824.3" font-family="Times,serif" font-size="14.00" fill="#000000">Joule</text>
+<g id="a_node12"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_8a70dea4_d6ab_4260_b931_a3e990982416" xlink:title="Joule">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-234" rx="29.4969" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Joule</text>
+</a>
+</g>
+</g>
+<!-- EnergyUnit -->
+<g id="node39" class="node">
+<title>EnergyUnit</title>
+<g id="a_node39"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_aa06d425_d3f0_4011_a848_f93fc9d5672f" xlink:title="EnergyUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-234" rx="51.9908" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">EnergyUnit</text>
 </a>
 </g>
 </g>
 <!-- Joule&#45;&gt;EnergyUnit -->
-<g id="edge7" class="edge">
+<g id="edge41" class="edge">
 <title>Joule&#45;&gt;EnergyUnit</title>
-<path fill="none" stroke="#000000" d="M492.4871,-828C457.8439,-828 399.4954,-828 354.6911,-828"/>
-<polygon fill="none" stroke="#000000" points="354.4853,-824.5001 344.4852,-828 354.4852,-831.5001 354.4853,-824.5001"/>
-<text text-anchor="middle" x="450.3674" y="-831.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M492.4871,-234C457.8439,-234 399.4954,-234 354.6911,-234"/>
+<polygon fill="none" stroke="#000000" points="354.4853,-230.5001 344.4852,-234 354.4852,-237.5001 354.4853,-230.5001"/>
+<text text-anchor="middle" x="450.3674" y="-237.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- ElectricalCapacitanceUnit -->
+<g id="node13" class="node">
+<title>ElectricalCapacitanceUnit</title>
+<g id="a_node13"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_588bee30_05aa_4029_9f13_97fe20188030" xlink:title="ElectricalCapacitanceUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-1152" rx="102.8821" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-1148.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricalCapacitanceUnit</text>
+</a>
+</g>
 </g>
 <!-- ElectricalCapacitanceUnit&#45;&gt;KindOfUnit -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>ElectricalCapacitanceUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M203.4193,-351.2156C188.7137,-355.2492 174.1767,-360.9545 161.5905,-369 138.2978,-383.8894 136.5109,-394.057 124.5905,-419 84.2248,-503.4644 64.4599,-613.9045 56.9848,-664.9219"/>
-<polygon fill="none" stroke="#000000" points="53.5121,-664.4834 55.5733,-674.8758 60.4427,-665.4663 53.5121,-664.4834"/>
-<text text-anchor="middle" x="134.0905" y="-422.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M203.3553,-1142.8839C188.6566,-1138.8395 174.1386,-1133.1048 161.5905,-1125 138.0672,-1109.8063 135.6581,-1099.7237 124.5905,-1074 71.2905,-950.1183 57.7488,-786.7053 54.3809,-721.573"/>
+<polygon fill="none" stroke="#000000" points="57.8628,-721.1054 53.8928,-711.2825 50.8706,-721.4371 57.8628,-721.1054"/>
+<text text-anchor="middle" x="134.0905" y="-1112.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Ohm -->
-<g id="node35" class="node">
+<g id="node14" class="node">
 <title>Ohm</title>
-<g id="a_node35"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_59c10c5c_47bd_4348_ba39_38836607dfa1" xlink:title="Ohm">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-774" rx="28.6953" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-770.3" font-family="Times,serif" font-size="14.00" fill="#000000">Ohm</text>
+<g id="a_node14"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_59c10c5c_47bd_4348_ba39_38836607dfa1" xlink:title="Ohm">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-180" rx="28.6953" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#000000">Ohm</text>
+</a>
+</g>
+</g>
+<!-- ElectricalResistanceUnit -->
+<g id="node40" class="node">
+<title>ElectricalResistanceUnit</title>
+<g id="a_node40"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_7f559d7e_ebb0_47dc_951d_d55a50b942aa" xlink:title="ElectricalResistanceUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-180" rx="97.4827" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricalResistanceUnit</text>
 </a>
 </g>
 </g>
 <!-- Ohm&#45;&gt;ElectricalResistanceUnit -->
-<g id="edge22" class="edge">
+<g id="edge12" class="edge">
 <title>Ohm&#45;&gt;ElectricalResistanceUnit</title>
-<path fill="none" stroke="#000000" d="M493.4194,-774C469.7077,-774 434.4475,-774 400.04,-774"/>
-<polygon fill="none" stroke="#000000" points="399.8876,-770.5001 389.8876,-774 399.8875,-777.5001 399.8876,-770.5001"/>
-<text text-anchor="middle" x="450.3674" y="-777.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M493.4194,-180C469.7077,-180 434.4475,-180 400.04,-180"/>
+<polygon fill="none" stroke="#000000" points="399.8876,-176.5001 389.8876,-180 399.8875,-183.5001 399.8876,-176.5001"/>
+<text text-anchor="middle" x="450.3674" y="-183.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- AbsorbedDoseUnit -->
-<g id="node36" class="node">
+<g id="node15" class="node">
 <title>AbsorbedDoseUnit</title>
-<g id="a_node36"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_882966a9_1757_4384_b223_0f690d7906c8" xlink:title="AbsorbedDoseUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-288" rx="78.7863" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#000000">AbsorbedDoseUnit</text>
+<g id="a_node15"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_882966a9_1757_4384_b223_0f690d7906c8" xlink:title="AbsorbedDoseUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-1098" rx="78.7863" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-1094.3" font-family="Times,serif" font-size="14.00" fill="#000000">AbsorbedDoseUnit</text>
 </a>
 </g>
 </g>
 <!-- AbsorbedDoseUnit&#45;&gt;KindOfUnit -->
-<g id="edge34" class="edge">
+<g id="edge10" class="edge">
 <title>AbsorbedDoseUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M217.4349,-293.8548C198.1512,-297.859 178.177,-304.3974 161.5905,-315 138.2978,-329.8894 136.0031,-339.8206 124.5905,-365 77.4687,-468.9646 60.7174,-605.8585 55.4482,-664.4255"/>
-<polygon fill="none" stroke="#000000" points="51.9308,-664.482 54.5675,-674.7435 58.9054,-665.0774 51.9308,-664.482"/>
-<text text-anchor="middle" x="134.0905" y="-368.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M217.3677,-1092.2499C198.0841,-1088.2454 178.1268,-1081.6808 161.5905,-1071 138.0672,-1055.8063 136.0386,-1045.5566 124.5905,-1020 78.0628,-916.1322 60.9965,-779.7724 55.5465,-721.4509"/>
+<polygon fill="none" stroke="#000000" points="59.005,-720.8272 54.6328,-711.1766 52.0325,-721.4474 59.005,-720.8272"/>
+<text text-anchor="middle" x="134.0905" y="-1058.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- ElectricConductanceUnit -->
+<g id="node16" class="node">
+<title>ElectricConductanceUnit</title>
+<g id="a_node16"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_636db399_fc4c_4b21_b7a4_e068083eb42d" xlink:title="ElectricConductanceUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-1044" rx="99.3824" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-1040.3" font-family="Times,serif" font-size="14.00" fill="#000000">ElectricConductanceUnit</text>
+</a>
+</g>
 </g>
 <!-- ElectricConductanceUnit&#45;&gt;KindOfUnit -->
-<g id="edge18" class="edge">
+<g id="edge27" class="edge">
 <title>ElectricConductanceUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M205.13,-242.7541C189.8435,-246.8105 174.6646,-252.6427 161.5905,-261 138.2978,-275.8894 135.6302,-285.6549 124.5905,-311 70.599,-434.955 57.4485,-598.9394 54.2831,-664.3164"/>
-<polygon fill="none" stroke="#000000" points="50.7716,-664.5015 53.828,-674.6459 57.7648,-664.8097 50.7716,-664.5015"/>
-<text text-anchor="middle" x="134.0905" y="-314.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M204.7231,-1035.2553C189.5589,-1031.1929 174.5277,-1025.3561 161.5905,-1017 138.0672,-1001.8063 136.5573,-991.3178 124.5905,-966 84.7229,-881.6531 64.7149,-771.7092 57.0828,-720.9381"/>
+<polygon fill="none" stroke="#000000" points="60.5449,-720.4235 55.6393,-711.0328 53.618,-721.433 60.5449,-720.4235"/>
+<text text-anchor="middle" x="134.0905" y="-1004.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Lux -->
-<g id="node38" class="node">
+<g id="node17" class="node">
 <title>Lux</title>
-<g id="a_node38"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_da1dd4a7_c611_4ad4_bef6_7646f28aa598" xlink:title="Lux">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-720" rx="27" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-716.3" font-family="Times,serif" font-size="14.00" fill="#000000">Lux</text>
+<g id="a_node17"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_da1dd4a7_c611_4ad4_bef6_7646f28aa598" xlink:title="Lux">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-126" rx="27" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#000000">Lux</text>
+</a>
+</g>
+</g>
+<!-- IlluminanceUnit -->
+<g id="node44" class="node">
+<title>IlluminanceUnit</title>
+<g id="a_node44"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_bca0c4de_62cf_4664_911b_00e49acba254" xlink:title="IlluminanceUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-126" rx="68.7879" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#000000">IlluminanceUnit</text>
 </a>
 </g>
 </g>
 <!-- Lux&#45;&gt;IlluminanceUnit -->
-<g id="edge40" class="edge">
+<g id="edge35" class="edge">
 <title>Lux&#45;&gt;IlluminanceUnit</title>
-<path fill="none" stroke="#000000" d="M494.7959,-720C464.5232,-720 414.271,-720 371.3939,-720"/>
-<polygon fill="none" stroke="#000000" points="371.238,-716.5001 361.238,-720 371.238,-723.5001 371.238,-716.5001"/>
-<text text-anchor="middle" x="450.3674" y="-723.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M494.7959,-126C464.5232,-126 414.271,-126 371.3939,-126"/>
+<polygon fill="none" stroke="#000000" points="371.238,-122.5001 361.238,-126 371.238,-129.5001 371.238,-122.5001"/>
+<text text-anchor="middle" x="450.3674" y="-129.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- PowerUnit -->
+<g id="node18" class="node">
+<title>PowerUnit</title>
+<g id="a_node18"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_80527818_8929_47df_b59c_0c56e5259cef" xlink:title="PowerUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-990" rx="48.9926" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-986.3" font-family="Times,serif" font-size="14.00" fill="#000000">PowerUnit</text>
+</a>
+</g>
+</g>
+<!-- PowerUnit&#45;&gt;KindOfUnit -->
+<g id="edge16" class="edge">
+<title>PowerUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M243.4039,-988.33C217.3715,-985.4578 185.8113,-978.6442 161.5905,-963 138.0672,-947.8063 137.3024,-936.9521 124.5905,-912 91.5437,-847.1322 69.4407,-763.7588 59.4306,-721.0142"/>
+<polygon fill="none" stroke="#000000" points="62.7942,-720.0226 57.1469,-711.0583 55.9713,-721.5877 62.7942,-720.0226"/>
+<text text-anchor="middle" x="134.0905" y="-950.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- PressureUnit -->
+<g id="node19" class="node">
+<title>PressureUnit</title>
+<g id="a_node19"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_247f53b1_afec_4373_acd8_ba071b355dfd" xlink:title="PressureUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-936" rx="55.7903" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-932.3" font-family="Times,serif" font-size="14.00" fill="#000000">PressureUnit</text>
+</a>
+</g>
 </g>
 <!-- PressureUnit&#45;&gt;KindOfUnit -->
-<g id="edge28" class="edge">
+<g id="edge31" class="edge">
 <title>PressureUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M236.7693,-182.5805C212.175,-185.8706 183.8359,-192.7801 161.5905,-207 138.2978,-221.8894 135.3453,-231.5327 124.5905,-257 93.075,-331.629 65.0261,-579.9633 56.1813,-664.52"/>
-<polygon fill="none" stroke="#000000" points="52.6793,-664.3592 55.1302,-674.6667 59.642,-665.0805 52.6793,-664.3592"/>
-<text text-anchor="middle" x="134.0905" y="-260.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M236.7071,-933.5163C212.1003,-930.2457 183.7686,-923.3248 161.5905,-909 95.0872,-866.0455 67.7815,-769.0319 58.0228,-721.0104"/>
+<polygon fill="none" stroke="#000000" points="61.4236,-720.1604 56.1004,-711 54.5492,-721.4807 61.4236,-720.1604"/>
+<text text-anchor="middle" x="134.0905" y="-896.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Hertz -->
-<g id="node40" class="node">
+<g id="node20" class="node">
 <title>Hertz</title>
-<g id="a_node40"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e75f580e_52bf_4dd5_af70_df409cec08fd" xlink:title="Hertz">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-612" rx="30.5947" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-608.3" font-family="Times,serif" font-size="14.00" fill="#000000">Hertz</text>
+<g id="a_node20"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e75f580e_52bf_4dd5_af70_df409cec08fd" xlink:title="Hertz">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-18" rx="30.5947" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Hertz</text>
 </a>
 </g>
 </g>
 <!-- Hertz&#45;&gt;FrequencyUnit -->
-<g id="edge26" class="edge">
+<g id="edge29" class="edge">
 <title>Hertz&#45;&gt;FrequencyUnit</title>
-<path fill="none" stroke="#000000" d="M491.0669,-612C459.2589,-612 408.5899,-612 366.3629,-612"/>
-<polygon fill="none" stroke="#000000" points="366.1052,-608.5001 356.1052,-612 366.1051,-615.5001 366.1052,-608.5001"/>
-<text text-anchor="middle" x="450.3674" y="-615.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
-</g>
-<!-- PowerUnit&#45;&gt;KindOfUnit -->
-<g id="edge44" class="edge">
-<title>PowerUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M243.4621,-127.7607C217.4471,-130.6598 185.8848,-137.4703 161.5905,-153 138.2978,-167.8894 135.1208,-177.4391 124.5905,-203 89.5455,-288.0679 63.2615,-573.4445 55.5882,-664.6905"/>
-<polygon fill="none" stroke="#000000" points="52.0859,-664.5736 54.7453,-674.8292 59.0618,-665.1536 52.0859,-664.5736"/>
-<text text-anchor="middle" x="134.0905" y="-206.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M491.0669,-18C459.2589,-18 408.5899,-18 366.3629,-18"/>
+<polygon fill="none" stroke="#000000" points="366.1052,-14.5001 356.1052,-18 366.1051,-21.5001 366.1052,-14.5001"/>
+<text text-anchor="middle" x="450.3674" y="-21.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Weber -->
-<g id="node42" class="node">
+<g id="node21" class="node">
 <title>Weber</title>
-<g id="a_node42"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_d7f11b34_a121_4519_87c0_aa754f1c4737" xlink:title="Weber">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-72" rx="34.394" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#000000">Weber</text>
+<g id="a_node21"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_d7f11b34_a121_4519_87c0_aa754f1c4737" xlink:title="Weber">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-882" rx="34.394" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">Weber</text>
 </a>
 </g>
 </g>
 <!-- MagneticFluxUnit -->
-<g id="node45" class="node">
+<g id="node24" class="node">
 <title>MagneticFluxUnit</title>
-<g id="a_node45"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_e06e0563_8014_42a1_be32_f2717a62b15f" xlink:title="MagneticFluxUnit">
-<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-72" rx="76.0865" ry="18"/>
-<text text-anchor="middle" x="292.229" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#000000">MagneticFluxUnit</text>
+<g id="a_node24"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_e06e0563_8014_42a1_be32_f2717a62b15f" xlink:title="MagneticFluxUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-882" rx="76.0865" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">MagneticFluxUnit</text>
 </a>
 </g>
 </g>
 <!-- Weber&#45;&gt;MagneticFluxUnit -->
-<g id="edge31" class="edge">
+<g id="edge11" class="edge">
 <title>Weber&#45;&gt;MagneticFluxUnit</title>
-<path fill="none" stroke="#000000" d="M487.1565,-72C458.4602,-72 416.5495,-72 378.9365,-72"/>
-<polygon fill="none" stroke="#000000" points="378.4563,-68.5001 368.4562,-72 378.4562,-75.5001 378.4563,-68.5001"/>
-<text text-anchor="middle" x="450.3674" y="-75.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M487.1565,-882C458.4602,-882 416.5495,-882 378.9365,-882"/>
+<polygon fill="none" stroke="#000000" points="378.4563,-878.5001 368.4562,-882 378.4562,-885.5001 378.4563,-878.5001"/>
+<text text-anchor="middle" x="450.3674" y="-885.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Volt -->
-<g id="node43" class="node">
+<g id="node22" class="node">
 <title>Volt</title>
-<g id="a_node43"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e2207e91_02b0_4a8a_b13e_61d2a2a839f1" xlink:title="Volt">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-558" rx="27" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-554.3" font-family="Times,serif" font-size="14.00" fill="#000000">Volt</text>
+<g id="a_node22"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_e2207e91_02b0_4a8a_b13e_61d2a2a839f1" xlink:title="Volt">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-1368" rx="27" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-1364.3" font-family="Times,serif" font-size="14.00" fill="#000000">Volt</text>
 </a>
 </g>
 </g>
 <!-- Volt&#45;&gt;ElectricPotentialUnit -->
-<g id="edge30" class="edge">
+<g id="edge42" class="edge">
 <title>Volt&#45;&gt;ElectricPotentialUnit</title>
-<path fill="none" stroke="#000000" d="M494.7959,-558C468.3261,-558 426.5814,-558 387.8479,-558"/>
-<polygon fill="none" stroke="#000000" points="387.5493,-554.5001 377.5493,-558 387.5492,-561.5001 387.5493,-554.5001"/>
-<text text-anchor="middle" x="450.3674" y="-561.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M494.7959,-1368C468.3261,-1368 426.5814,-1368 387.8479,-1368"/>
+<polygon fill="none" stroke="#000000" points="387.5493,-1364.5001 377.5493,-1368 387.5492,-1371.5001 387.5493,-1364.5001"/>
+<text text-anchor="middle" x="450.3674" y="-1371.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- Gray -->
-<g id="node44" class="node">
+<g id="node23" class="node">
 <title>Gray</title>
-<g id="a_node44"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_00199e76_69dc_45b6_a9c6_98cc90cdc0f5" xlink:title="Gray">
-<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-288" rx="28.6953" ry="18"/>
-<text text-anchor="middle" x="522.0634" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#000000">Gray</text>
+<g id="a_node23"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_00199e76_69dc_45b6_a9c6_98cc90cdc0f5" xlink:title="Gray">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-1098" rx="28.6953" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-1094.3" font-family="Times,serif" font-size="14.00" fill="#000000">Gray</text>
 </a>
 </g>
 </g>
 <!-- Gray&#45;&gt;AbsorbedDoseUnit -->
-<g id="edge38" class="edge">
+<g id="edge25" class="edge">
 <title>Gray&#45;&gt;AbsorbedDoseUnit</title>
-<path fill="none" stroke="#000000" d="M493.4194,-288C465.2979,-288 420.9329,-288 381.0113,-288"/>
-<polygon fill="none" stroke="#000000" points="380.9702,-284.5001 370.9701,-288 380.9701,-291.5001 380.9702,-284.5001"/>
-<text text-anchor="middle" x="450.3674" y="-291.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+<path fill="none" stroke="#000000" d="M493.4194,-1098C465.2979,-1098 420.9329,-1098 381.0113,-1098"/>
+<polygon fill="none" stroke="#000000" points="380.9702,-1094.5001 370.9701,-1098 380.9701,-1101.5001 380.9702,-1094.5001"/>
+<text text-anchor="middle" x="450.3674" y="-1101.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
 <!-- MagneticFluxUnit&#45;&gt;KindOfUnit -->
-<g id="edge20" class="edge">
+<g id="edge1" class="edge">
 <title>MagneticFluxUnit&#45;&gt;KindOfUnit</title>
-<path fill="none" stroke="#000000" d="M219.474,-77.4402C199.5654,-81.4025 178.7624,-88.0232 161.5905,-99 138.2978,-113.8894 134.9394,-123.3651 124.5905,-149 86.0114,-244.5637 61.7129,-567.2483 55.1169,-664.8207"/>
+<path fill="none" stroke="#000000" d="M219.5424,-876.4522C199.6349,-872.4881 178.8154,-865.8935 161.5905,-855 111.0189,-823.0171 78.6331,-757.8982 63.444,-720.6977"/>
+<polygon fill="none" stroke="#000000" points="66.5419,-719.0132 59.6151,-710.9964 60.0307,-721.5831 66.5419,-719.0132"/>
+<text text-anchor="middle" x="134.0905" y="-842.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- EquivalentDoseUnit -->
+<g id="node25" class="node">
+<title>EquivalentDoseUnit</title>
+<g id="a_node25"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_606db3fb_6f05_483c_87da_673afdd64a17" xlink:title="EquivalentDoseUnit">
+<ellipse fill="#ffffcc" stroke="#000000" cx="292.229" cy="-828" rx="82.5854" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-824.3" font-family="Times,serif" font-size="14.00" fill="#000000">EquivalentDoseUnit</text>
+</a>
+</g>
+</g>
+<!-- EquivalentDoseUnit&#45;&gt;KindOfUnit -->
+<g id="edge36" class="edge">
+<title>EquivalentDoseUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M217.4122,-820.2315C198.4354,-816.2277 178.6175,-810.1679 161.5905,-801 124.2021,-780.8688 91.2648,-743.743 71.8081,-718.7115"/>
+<polygon fill="none" stroke="#000000" points="74.5776,-716.5712 65.7396,-710.7283 69.0049,-720.8074 74.5776,-716.5712"/>
+<text text-anchor="middle" x="134.0905" y="-790.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- CataliticActivityUnit&#45;&gt;KindOfUnit -->
+<g id="edge15" class="edge">
+<title>CataliticActivityUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M223.5234,-763.2639C203.282,-759.1778 181.2879,-753.817 161.5905,-747 136.454,-738.3006 109.6921,-724.9979 89.061,-713.7729"/>
+<polygon fill="none" stroke="#000000" points="90.4861,-710.5615 80.0411,-708.7857 87.0989,-716.6875 90.4861,-710.5615"/>
+<text text-anchor="middle" x="134.0905" y="-742.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- Sievert -->
+<g id="node27" class="node">
+<title>Sievert</title>
+<g id="a_node27"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_dc232f53_8ed8_4ddd_9f41_cc057985eadb" xlink:title="Sievert">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-828" rx="35.9954" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-824.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sievert</text>
+</a>
+</g>
+</g>
+<!-- Sievert&#45;&gt;EquivalentDoseUnit -->
+<g id="edge32" class="edge">
+<title>Sievert&#45;&gt;EquivalentDoseUnit</title>
+<path fill="none" stroke="#000000" d="M486.1518,-828C459.1482,-828 420.8639,-828 385.4364,-828"/>
+<polygon fill="none" stroke="#000000" points="385.0421,-824.5001 375.0421,-828 385.0421,-831.5001 385.0421,-824.5001"/>
+<text text-anchor="middle" x="450.3674" y="-831.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- MassUnit -->
+<g id="node28" class="node">
+<title>MassUnit</title>
+<g id="a_node28"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_8d9caab6_452d_420a_9d21_11baae773bf9" xlink:title="MassUnit">
+<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-720" rx="45.4919" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-716.3" font-family="Times,serif" font-size="14.00" fill="#000000">MassUnit</text>
+</a>
+</g>
+</g>
+<!-- MassUnit&#45;&gt;KindOfUnit -->
+<g id="edge39" class="edge">
+<title>MassUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M248.4048,-715.0478C210.6932,-710.7863 155.8984,-704.5944 113.9718,-699.8566"/>
+<polygon fill="none" stroke="#000000" points="114.21,-696.3613 103.8802,-698.7162 113.4239,-703.317 114.21,-696.3613"/>
+<text text-anchor="middle" x="134.0905" y="-705.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- ElectricChargeUnit&#45;&gt;KindOfUnit -->
+<g id="edge4" class="edge">
+<title>ElectricChargeUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M218.72,-672.8399C189.4075,-675.7278 155.3751,-679.2815 124.5905,-683 120.6547,-683.4754 116.5996,-683.9865 112.5154,-684.5172"/>
+<polygon fill="none" stroke="#000000" points="111.8059,-681.0806 102.3541,-685.8674 112.728,-688.0196 111.8059,-681.0806"/>
+<text text-anchor="middle" x="134.0905" y="-686.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- LuminousFluxUnit&#45;&gt;KindOfUnit -->
+<g id="edge6" class="edge">
+<title>LuminousFluxUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M226.88,-622.0669C205.7329,-626.231 182.3822,-631.8043 161.5905,-639 136.454,-647.6994 109.6921,-661.0021 89.061,-672.2271"/>
+<polygon fill="none" stroke="#000000" points="87.0989,-669.3125 80.0411,-677.2143 90.4861,-675.4385 87.0989,-669.3125"/>
+<text text-anchor="middle" x="134.0905" y="-657.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- TimeUnit -->
+<g id="node31" class="node">
+<title>TimeUnit</title>
+<g id="a_node31"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_d69cb991_73c2_4381_bb92_982d702f624e" xlink:title="TimeUnit">
+<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-558" rx="45.4919" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-554.3" font-family="Times,serif" font-size="14.00" fill="#000000">TimeUnit</text>
+</a>
+</g>
+</g>
+<!-- TimeUnit&#45;&gt;KindOfUnit -->
+<g id="edge19" class="edge">
+<title>TimeUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M247.097,-560.8844C220.8621,-564.0912 187.8957,-570.8364 161.5905,-585 124.2021,-605.1312 91.2648,-642.257 71.8081,-667.2885"/>
+<polygon fill="none" stroke="#000000" points="69.0049,-665.1926 65.7396,-675.2717 74.5776,-669.4288 69.0049,-665.1926"/>
+<text text-anchor="middle" x="134.0905" y="-611.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- ElectricalInductanceUnit&#45;&gt;KindOfUnit -->
+<g id="edge2" class="edge">
+<title>ElectricalInductanceUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M205.9482,-512.7851C190.4184,-516.8288 174.9423,-522.6486 161.5905,-531 110.8606,-562.7311 78.5352,-627.9461 63.3986,-665.2301"/>
+<polygon fill="none" stroke="#000000" points="59.9776,-664.3668 59.5841,-674.9544 66.4942,-666.9231 59.9776,-664.3668"/>
+<text text-anchor="middle" x="134.0905" y="-564.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- LuminousIntensityUnit -->
+<g id="node33" class="node">
+<title>LuminousIntensityUnit</title>
+<g id="a_node33"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_b120c538_6320_470c_b9bd_c8d088694973" xlink:title="LuminousIntensityUnit">
+<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-450" rx="92.8835" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#000000">LuminousIntensityUnit</text>
+</a>
+</g>
+</g>
+<!-- LuminousIntensityUnit&#45;&gt;KindOfUnit -->
+<g id="edge44" class="edge">
+<title>LuminousIntensityUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M208.5533,-457.8753C192.1207,-461.9541 175.6403,-468.019 161.5905,-477 94.8852,-519.6401 67.6753,-616.8029 57.981,-664.9245"/>
+<polygon fill="none" stroke="#000000" points="54.5031,-664.4786 56.0725,-674.9565 61.3798,-665.7868 54.5031,-664.4786"/>
+<text text-anchor="middle" x="134.0905" y="-509.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- MagneticFluxDensityUnit&#45;&gt;KindOfUnit -->
+<g id="edge23" class="edge">
+<title>MagneticFluxDensityUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M203.4193,-405.2156C188.7137,-409.2492 174.1767,-414.9545 161.5905,-423 138.2978,-437.8894 137.2393,-448.4184 124.5905,-473 91.1436,-538.0007 69.2096,-621.8238 59.3305,-664.8171"/>
+<polygon fill="none" stroke="#000000" points="55.8578,-664.3073 57.0789,-674.8315 62.6873,-665.8429 55.8578,-664.3073"/>
+<text text-anchor="middle" x="134.0905" y="-476.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- Farad -->
+<g id="node35" class="node">
+<title>Farad</title>
+<g id="a_node35"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a9201b2f_e6de_442a_b3a6_d291.0.0-alphaa582" xlink:title="Farad">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-1152" rx="30.5947" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-1148.3" font-family="Times,serif" font-size="14.00" fill="#000000">Farad</text>
+</a>
+</g>
+</g>
+<!-- Farad&#45;&gt;ElectricalCapacitanceUnit -->
+<g id="edge3" class="edge">
+<title>Farad&#45;&gt;ElectricalCapacitanceUnit</title>
+<path fill="none" stroke="#000000" d="M491.0669,-1152C468.6778,-1152 436.9441,-1152 405.3873,-1152"/>
+<polygon fill="none" stroke="#000000" points="405.1599,-1148.5001 395.1598,-1152 405.1598,-1155.5001 405.1599,-1148.5001"/>
+<text text-anchor="middle" x="450.3674" y="-1155.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- SIBaseUnit -->
+<g id="node36" class="node">
+<title>SIBaseUnit</title>
+<g id="a_node36"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_3a185e6c_9e19_4776_b583_19c978156aa0" xlink:title="SIBaseUnit">
+<ellipse fill="#ffffcc" stroke="#000000" stroke-width="2" cx="292.229" cy="-342" rx="51.1914" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#000000">SIBaseUnit</text>
+</a>
+</g>
+</g>
+<!-- SIBaseUnit&#45;&gt;KindOfUnit -->
+<g id="edge37" class="edge">
+<title>SIBaseUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M240.9379,-344.0524C215.4265,-347.1064 185.1043,-353.9693 161.5905,-369 138.2978,-383.8894 136.5109,-394.057 124.5905,-419 84.2248,-503.4644 64.4599,-613.9045 56.9848,-664.9219"/>
+<polygon fill="none" stroke="#000000" points="53.5121,-664.4834 55.5733,-674.8758 60.4427,-665.4663 53.5121,-664.4834"/>
+<text text-anchor="middle" x="134.0905" y="-422.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- Siemens -->
+<g id="node37" class="node">
+<title>Siemens</title>
+<g id="a_node37"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_f2523820_04a6_44ab_bb67_8237dda2b0c2" xlink:title="Siemens">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-1044" rx="40.8928" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-1040.3" font-family="Times,serif" font-size="14.00" fill="#000000">Siemens</text>
+</a>
+</g>
+</g>
+<!-- Siemens&#45;&gt;ElectricConductanceUnit -->
+<g id="edge28" class="edge">
+<title>Siemens&#45;&gt;ElectricConductanceUnit</title>
+<path fill="none" stroke="#000000" d="M480.9736,-1044C458.7794,-1044 430.2139,-1044 402.0567,-1044"/>
+<polygon fill="none" stroke="#000000" points="401.714,-1040.5001 391.714,-1044 401.714,-1047.5001 401.714,-1040.5001"/>
+<text text-anchor="middle" x="450.3674" y="-1047.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- ForceUnit&#45;&gt;KindOfUnit -->
+<g id="edge5" class="edge">
+<title>ForceUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M245.952,-289.4932C219.4827,-292.2312 186.6654,-298.9714 161.5905,-315 138.2978,-329.8894 136.0031,-339.8206 124.5905,-365 77.4687,-468.9646 60.7174,-605.8585 55.4482,-664.4255"/>
+<polygon fill="none" stroke="#000000" points="51.9308,-664.482 54.5675,-674.7435 58.9054,-665.0774 51.9308,-664.482"/>
+<text text-anchor="middle" x="134.0905" y="-368.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- EnergyUnit&#45;&gt;KindOfUnit -->
+<g id="edge20" class="edge">
+<title>EnergyUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M240.3018,-236.1292C214.9237,-239.2209 184.9092,-246.094 161.5905,-261 138.2978,-275.8894 135.6302,-285.6549 124.5905,-311 70.599,-434.955 57.4485,-598.9394 54.2831,-664.3164"/>
+<polygon fill="none" stroke="#000000" points="50.7716,-664.5015 53.828,-674.6459 57.7648,-664.8097 50.7716,-664.5015"/>
+<text text-anchor="middle" x="134.0905" y="-314.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- ElectricalResistanceUnit&#45;&gt;KindOfUnit -->
+<g id="edge17" class="edge">
+<title>ElectricalResistanceUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M206.1568,-188.4843C190.5242,-192.5506 174.9573,-198.4556 161.5905,-207 138.2978,-221.8894 135.3453,-231.5327 124.5905,-257 93.075,-331.629 65.0261,-579.9633 56.1813,-664.52"/>
+<polygon fill="none" stroke="#000000" points="52.6793,-664.3592 55.1302,-674.6667 59.642,-665.0805 52.6793,-664.3592"/>
+<text text-anchor="middle" x="134.0905" y="-260.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- Pascal -->
+<g id="node42" class="node">
+<title>Pascal</title>
+<g id="a_node42"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_a80dc6f5_b1aa_41a7_a3a8_cd5040da2162" xlink:title="Pascal">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-936" rx="33.2948" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-932.3" font-family="Times,serif" font-size="14.00" fill="#000000">Pascal</text>
+</a>
+</g>
+</g>
+<!-- Pascal&#45;&gt;PressureUnit -->
+<g id="edge26" class="edge">
+<title>Pascal&#45;&gt;PressureUnit</title>
+<path fill="none" stroke="#000000" d="M488.6435,-936C454.6419,-936 401.0289,-936 358.4006,-936"/>
+<polygon fill="none" stroke="#000000" points="358.3759,-932.5001 348.3758,-936 358.3758,-939.5001 358.3759,-932.5001"/>
+<text text-anchor="middle" x="450.3674" y="-939.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- Watt -->
+<g id="node43" class="node">
+<title>Watt</title>
+<g id="a_node43"><a xlink:href="http://emmo.info/emmo/middle/siunits#EMMO_080052a1_f295_44be_a60f_1326ce13f1ba" xlink:title="Watt">
+<ellipse fill="#ffffcc" stroke="#000000" cx="522.0634" cy="-990" rx="28.6953" ry="18"/>
+<text text-anchor="middle" x="522.0634" y="-986.3" font-family="Times,serif" font-size="14.00" fill="#000000">Watt</text>
+</a>
+</g>
+</g>
+<!-- Watt&#45;&gt;PowerUnit -->
+<g id="edge22" class="edge">
+<title>Watt&#45;&gt;PowerUnit</title>
+<path fill="none" stroke="#000000" d="M493.4194,-990C458.0675,-990 397.0455,-990 351.4512,-990"/>
+<polygon fill="none" stroke="#000000" points="351.3888,-986.5001 341.3888,-990 351.3888,-993.5001 351.3888,-986.5001"/>
+<text text-anchor="middle" x="450.3674" y="-993.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- IlluminanceUnit&#45;&gt;KindOfUnit -->
+<g id="edge40" class="edge">
+<title>IlluminanceUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M225.2139,-130.3649C203.618,-134.1642 180.4211,-140.963 161.5905,-153 138.2978,-167.8894 135.1208,-177.4391 124.5905,-203 89.5455,-288.0679 63.2615,-573.4445 55.5882,-664.6905"/>
+<polygon fill="none" stroke="#000000" points="52.0859,-664.5736 54.7453,-674.8292 59.0618,-665.1536 52.0859,-664.5736"/>
+<text text-anchor="middle" x="134.0905" y="-206.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
+</g>
+<!-- ThermodynamicTemperatureUnit -->
+<g id="node45" class="node">
+<title>ThermodynamicTemperatureUnit</title>
+<g id="a_node45"><a xlink:href="http://emmo.info/emmo/middle/isq#EMMO_f460af7c_9134_4b2f_8450_d54918a08f34" xlink:title="ThermodynamicTemperatureUnit">
+<ellipse fill="#ffc880" stroke="#000000" cx="292.229" cy="-72" rx="130.777" ry="18"/>
+<text text-anchor="middle" x="292.229" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#000000">ThermodynamicTemperatureUnit</text>
+</a>
+</g>
+</g>
+<!-- ThermodynamicTemperatureUnit&#45;&gt;KindOfUnit -->
+<g id="edge18" class="edge">
+<title>ThermodynamicTemperatureUnit&#45;&gt;KindOfUnit</title>
+<path fill="none" stroke="#000000" d="M194.2241,-83.9742C182.7139,-87.74 171.5424,-92.6385 161.5905,-99 138.2978,-113.8894 134.9394,-123.3651 124.5905,-149 86.0114,-244.5637 61.7129,-567.2483 55.1169,-664.8207"/>
 <polygon fill="none" stroke="#000000" points="51.6233,-664.6102 54.45,-674.821 58.6078,-665.0761 51.6233,-664.6102"/>
 <text text-anchor="middle" x="134.0905" y="-152.8" font-family="Times,serif" font-size="14.00" fill="#000000">isA</text>
 </g>
