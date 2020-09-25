@@ -19,7 +19,7 @@
 </g>
 </g>
 <!-- Elementary&#45;&gt;Elementary -->
-<g id="edge1" class="edge">
+<g id="edge2" class="edge">
 <title>Elementary&#45;&gt;Elementary</title>
 <path fill="none" stroke="#ff00ff" d="M125.7503,-97.1731C138.7241,-97.5512 148.6384,-100.1602 148.6384,-105 148.6384,-108.4786 143.5167,-110.8048 135.8184,-111.9785"/>
 <polygon fill="#ff00ff" stroke="#ff00ff" points="135.4211,-108.4995 125.7503,-112.8269 136.0089,-115.4748 135.4211,-108.4995"/>
@@ -35,7 +35,7 @@
 </g>
 </g>
 <!-- ElementaryParticle&#45;&gt;Elementary -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>ElementaryParticle&#45;&gt;Elementary</title>
 <path fill="none" stroke="#000000" d="M78.643,-36.0265C78.643,-47.8082 78.643,-63.4393 78.643,-76.8419"/>
 <polygon fill="none" stroke="#000000" points="75.1431,-76.9966 78.643,-86.9966 82.1431,-76.9967 75.1431,-76.9966"/>
