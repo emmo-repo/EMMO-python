@@ -128,12 +128,12 @@ def read_catalog(path, catalog_file='catalog-v001.xml', recursive=False,
     absolute paths.
 
     The `catalog_file` argument spesifies the catalog file name and is
-    used if `path` is used when `recursive` is true and if `path` is a
+    used if `path` is used when `recursive` is true or when `path` is a
     directory.
 
-    If `recursive` is true, catalog files in sub-folders are read.
+    If `recursive` is true, catalog files in sub-folders are also read.
 
-    If `return_paths` is true, a list of directory paths with source
+    If `return_paths` is true, a set of directory paths to source
     files is returned in addition to the default dict.
     """
     iris = {}
@@ -178,6 +178,12 @@ def read_catalog(path, catalog_file='catalog-v001.xml', recursive=False,
         return iris, dirs
     else:
         return iris
+
+
+def read_base_iri_from_catalog(path):
+    """Read catalog file from `path` and return base_iri inferred from it."""
+    uris = read_catalog(path)
+    return uris.keys()[0]
 
 
 def infer_version(iri, version_iri):

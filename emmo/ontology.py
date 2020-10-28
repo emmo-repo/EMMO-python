@@ -18,7 +18,8 @@ from collections import defaultdict
 
 import owlready2
 
-from .utils import asstring, read_catalog, infer_version
+from .utils import (asstring, read_catalog, infer_version,
+                    read_base_iri_from_catalog)
 from .ontograph import OntoGraph  # FIXME: depricate...
 
 
@@ -159,15 +160,16 @@ class Ontology(owlready2.Ontology, OntoGraph):
         pass
 
     def load(self, only_local=False, filename=None, reload=None,
-             reload_if_newer=False, catalog_file='catalog-v001.xml',
-             **kwargs):
+             reload_if_newer=False, use_catalog=False,
+             catalog_file='catalog-v001.xml', **kwargs):
         """Load the ontology.
 
         Parameters
         ----------
         only_local : bool
             Whether to only read local files.  This requires that you
-            have appended the path to the ontology to owlready2.onto_path.
+            have appended the path to the ontology to owlready2.onto_path
+            or that `use_catalog` is true.
         filename : str
             Path to file to load the ontology from.  Defaults to `base_iri`
             provided to get_ontology().
@@ -176,10 +178,17 @@ class Ontology(owlready2.Ontology, OntoGraph):
         reload_if_newer : bool
             Whether to reload the ontology if the source has changed since
             last time it was loaded.
+        use_catalog : bool
+            Whether to read the catalog file.  If `use_catalog` is true and:
+              - `only_local` is true, the paths to imported ontologies
+                are extracted from the catalog file.
+              - `only_local` is false, the base_iri provided to get_ontology()
+                is ignored and is instead read from the catalog file.
+            Defaults to false.
         catalog_file : str
             Name of Protègè catalog file in the same folder as the
-            ontology.  This option is used together with --local and
-            defaults to "catalog-v001.xml".
+            ontology.  This option is used together with `only_local`
+            and defaults to "catalog-v001.xml".
         kwargs
             Additional keyword arguments are passed on to
             owlready2.Ontology.load().
@@ -187,13 +196,17 @@ class Ontology(owlready2.Ontology, OntoGraph):
         # Append paths from catalog file to onto_path
         dirpath = os.path.normpath(
             os.path.dirname(filename or self.base_iri.rstrip('/#')))
-        if only_local and os.path.exists(os.path.join(dirpath, catalog_file)):
-            iris, dirs = read_catalog(
-                dirpath, recursive=True, return_paths=True,
-                catalog_file=catalog_file)
-            for d in sorted(dirs, reverse=True):
-                if d not in owlready2.onto_path:
-                    owlready2.onto_path.append(d)
+        if use_catalog:
+            if only_local:
+                iris, dirs = read_catalog(
+                    dirpath, recursive=True, return_paths=True,
+                    catalog_file=catalog_file)
+                for d in sorted(dirs, reverse=True):
+                    if d not in owlready2.onto_path:
+                        owlready2.onto_path.append(d)
+            else:
+                self.base_iri = read_base_iri_from_catalog(catalog_file)
+                print('*** base_iri:', base_iri)
 
         fileobj = open(filename, 'rb') if filename else None
         try:
