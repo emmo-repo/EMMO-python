@@ -167,7 +167,7 @@ class Ontology(owlready2.Ontology, OntoGraph):
         pass
 
     def load(self, only_local=False, filename=None, format=None,
-             reload=None, reload_if_newer=False, url_from_catalog=False,
+             reload=None, reload_if_newer=False, url_from_catalog=True,
              catalog_file='catalog-v001.xml', tmpdir=None,
              **kwargs):
         """Load the ontology.
@@ -204,6 +204,40 @@ class Ontology(owlready2.Ontology, OntoGraph):
             'n3': 'ntriples',
             'ttl': 'turtle',
         }
+        web_protocols = ('http://', 'https://', )
+
+        # Read catalog file
+        iris = {}
+        dirpath = os.path.normpath(
+            os.path.dirname(filename or self.base_iri.rstrip('/#')))
+        if url_from_catalog and os.path.exists(os.path.join(
+                dirpath, catalog_file)):
+            iris, dirs = read_catalog(
+                dirpath, recursive=True, return_paths=True,
+                catalog_file=catalog_file)
+
+            # Append paths from catalog file to onto_path
+            for d in sorted(dirs, reverse=True):
+                if d not in owlready2.onto_path:
+                    owlready2.onto_path.append(d)
+
+        # Map base iri from catalog file
+        base_iri = iris.get(self.base_iri, self.base_iri)
+        fmt = format if format else guess_format(
+            self.base_iri.rstrip('/#'), fmap=fmap)
+
+
+
+        # If filename is not given, infer it from base_iri (if possible)
+        if not filename:
+            web_protocols = ('http://', 'https://', )
+            fmt = format if format else guess_format(
+                self.base_iri.rstrip('/#'), fmap=fmap)
+            if not self.base_iri.startswith(web_protocols):
+                filename = self.base_iri.rstrip('#/')
+                if filename.startswith('file://'):
+                    filename = filename[7:]
+
 
         # If filename is not given, infer it from base_iri (if possible)
         if not filename:
@@ -256,6 +290,7 @@ class Ontology(owlready2.Ontology, OntoGraph):
                                      **kwargs)
 
         # Append paths from catalog file to onto_path
+        iris = {}
         dirpath = os.path.normpath(
             os.path.dirname(filename or self.base_iri.rstrip('/#')))
         if only_local and os.path.exists(os.path.join(dirpath, catalog_file)):
@@ -266,12 +301,17 @@ class Ontology(owlready2.Ontology, OntoGraph):
                 if d not in owlready2.onto_path:
                     owlready2.onto_path.append(d)
 
-        fileobj = open(filename, 'rb') if filename else None
+        fileobj = open(iris.get(filename, filename), 'rb') if filename else None
+
+        print()
+        print('*** base_iri:', self.base_iri)
+        print('*** fileobj:', fileobj)
 
         try:
             super().load(only_local=only_local, fileobj=fileobj, reload=reload,
                          reload_if_newer=reload_if_newer, **kwargs)
         except owlready2.OwlReadyOntologyParsingError:
+            print('---')
             if url_from_catalog:
                 print('no url from catalog')
                 # Use catalog file to update IRIs of imported ontologies
@@ -288,6 +328,8 @@ class Ontology(owlready2.Ontology, OntoGraph):
                                                  owlready2.owl_imports,
                                                  self._abbreviate(iris[iri]))
                 self.loaded = False
+                if fileobj and fileobj.closed:
+                    fileobj = open(iris.get(filename, filename), 'rb')
                 super().load(only_local=only_local, fileobj=fileobj,
                              reload=reload, reload_if_newer=reload_if_newer,
                              **kwargs)
