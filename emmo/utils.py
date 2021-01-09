@@ -188,10 +188,9 @@ def read_catalog(path, catalog_file='catalog-v001.xml', recursive=False,
 
 def convert_imported(input, output, input_format=None, output_format='xml',
                      url_from_catalog=False, catalog_file='catalog-v001.xml'):
-    """Convert imported ontologies.
+    """Convert `input` and all its imported ontologies.
 
-    Store the output in a directory structure matching the source
-    files.  This require catalog file(s) to be present.
+    Store the output in a directory structure matching the source files.
 
     Args:
         input: input ontology file name
