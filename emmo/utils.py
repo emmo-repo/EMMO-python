@@ -187,7 +187,8 @@ def read_catalog(path, catalog_file='catalog-v001.xml', recursive=False,
 
 
 def convert_imported(input, output, input_format=None, output_format='xml',
-                     url_from_catalog=False, catalog_file='catalog-v001.xml'):
+                     url_from_catalog=False, catalog_file='catalog-v001.xml',
+                     urlmaps=None):
     """Convert `input` and all its imported ontologies.
 
     Store the output in a directory structure matching the source files.
@@ -206,6 +207,8 @@ def convert_imported(input, output, input_format=None, output_format='xml',
     outroot = os.path.dirname(os.path.abspath(output))
     outext = os.path.splitext(output)[1]
 
+    # Get mappings from catalog and urlmaps
+    d = {}
     if url_from_catalog:
         d, dirs = read_catalog(inroot, catalog_file=catalog_file,
                                recursive=True, return_paths=True)
@@ -223,8 +226,8 @@ def convert_imported(input, output, input_format=None, output_format='xml',
                 s = s.replace(os.path.basename(path), os.path.basename(newpath))
             with open(os.path.join(outdir, catalog_file), mode='wt') as f:
                 f.write(s)
-    else:
-        d = {}
+    if urlmaps:
+        d.update(urlmaps)
 
     outpaths = set()
 
@@ -253,20 +256,26 @@ def convert_imported(input, output, input_format=None, output_format='xml',
     recur(g, outext)
 
 
-def squash_imported(input, output, input_format=None, output_format='xml',
-                    catalog_file='catalog-v001.xml'):
+def squash_imported(input, output, inroot='.',
+                    input_format=None, output_format='xml',
+                    url_from_catalog=False, catalog_file='catalog-v001.xml',
+                    urlmaps=None):
     """Convert imported ontologies and squash them into a single file.
 
-    If a catalog file exists in the same directory as the input file it will
-    be used to load possible imported ontologies.
+    If `url_from_catalog` is true and `catalog_file` exists in directory
+    `inroot` (if given) or the same directory as the input file, it
+    will be used to load possible imported ontologies.
 
     The the squash rdflib graph is returned.
+
     """
-    inroot = os.path.dirname(os.path.abspath(input))
-    if catalog_file and os.path.exists(os.path.join(inroot, catalog_file)):
+    if not inroot and not input.startswith(('http://', 'https://')):
+        inroot = os.path.dirname(os.path.abspath(input))
+    d = {}
+    if url_from_catalog and os.path.exists(os.path.join(inroot, catalog_file)):
         d = read_catalog(inroot, catalog_file=catalog_file, recursive=True)
-    else:
-        d = {}
+    if urlmaps:
+        d.update(urlmaps)
 
     imported = set()
 
@@ -283,8 +292,20 @@ def squash_imported(input, output, input_format=None, output_format='xml',
                 for t in g2.triples((None, None, None)):
                     graph.add(t)
 
+    input = input.rstrip('/#')
+    print('=== squash_imported(%s):' % input)
+    print('*** input_format:', input_format)
+    print('*** url_from_catalog:', url_from_catalog)
+    print('*** inroot:', inroot)
+    print('*** catalog_file:', catalog_file)
+    print('*** urlmaps:', urlmaps)
+    print('*** d:')
+    for k, v in d.items():
+        print('  %s\n  --> %s' % (k, v))
+    print('*** input: %s -> %s' % (input, d.get(input, input)))
+
     graph = Graph()
-    graph.parse(input, format=input_format)
+    graph.parse(d.get(input, input), format=input_format)
     recur(graph)
     if output:
         graph.serialize(destination=output, format=output_format)

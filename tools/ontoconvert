@@ -66,7 +66,8 @@ def main():
                          output_format=output_format)
     elif args.inferred:
         g = squash_imported(args.input, None,
-                            input_format=input_format)
+                            input_format=input_format,
+                            url_from_Catalog=True)
         fg = FaCTPPGraph(g)
         if args.base_iri:
             fg.base_iri = args.base_iri
@@ -75,7 +76,8 @@ def main():
     elif args.squash:
         squash_imported(args.input, args.output,
                         input_format=input_format,
-                        output_format=output_format)
+                        output_format=output_format,
+                        url_from_catalog=True)
     else:
         g = Graph()
         g.parse(args.input, format=input_format)
